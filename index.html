@@ -1,9 +1,76 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Scoop Packages</title>
-    </head>
-    <body>
-        <p>Test</p>
-    </body>
+<html lang="en" class="no-js">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Scoop Packages</title>
+</head>
+
+<body>
+  <script src="static/scripts/modernizr.min.js"></script>
+  <script src="static/scripts/list.min.js"></script>
+  <script src="static/scripts/eltag.min.js"></script>
+
+  <script>
+    const { renderElement, div, input, button, table, thead, tbody, tr, th, td, a } = ElTag;
+
+    const getPackageEntries = (pkgs) => {
+      let packages = [];
+      Object.keys(pkgs).forEach(key => {
+        pkgs[key]['packages'].forEach(entry => {
+          packages.push(tr([
+            td({ class: 'pkgName' }, [a({ href: entry['website'] }, entry['pkg'])]),
+            td({ class: 'pkgVersion' }, entry['version']),
+            td({ class: 'pkgBucket' }, key),
+            td({ class: 'pkgDescription' }, entry['description'])
+          ]));
+        });
+      });
+      return packages;
+    }
+
+    fetch('pkglist.json')
+      .then(res => res.json())
+      .then(pkgs => {
+        const view = div({ id: 'packages' }, [
+          input({ class: 'search', placeholder: 'Search' }),
+          table({ id: 'pkg-table' }, [
+            thead([
+              tr([
+                th([
+                  button({ id: 'sort-pkg', class: 'sort' }, 'Package'),
+                ]),
+                th([
+                  button({ id: 'sort-version', class: 'sort' }, 'Version'),
+                ]),
+                th([
+                  button({ id: 'sort-bucket', class: 'sort' }, 'Bucket'),
+                ]),
+                th('Description')
+              ])
+            ]),
+            tbody({ class: 'list' }, getPackageEntries(pkgs))
+          ])
+        ]);
+        
+        renderElement(document.body, view);
+
+        document.getElementById('sort-pkg').setAttribute('data-sort', 'pkgName');
+        document.getElementById('sort-version').setAttribute('data-sort', 'pkgVersion');
+        document.getElementById('sort-bucket').setAttribute('data-sort', 'pkgBucket');
+        
+        const dataList = new List('packages', {
+          valueNames: ['pkgName', 'pkgVersion', 'pkgBucket', 'pkgDescription'],
+        });
+
+        dataList.sort('pkgName', { order: "asc" });
+      })
+      .catch(err => document.write(err));
+  </script>
+
+  <link rel="stylesheet" type="text/css" href="static/styles/scoop.css" />
+</body>
+
 </html>
