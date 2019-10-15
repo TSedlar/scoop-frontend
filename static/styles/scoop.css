@@ -45,14 +45,22 @@ button, input {
   max-width: calc(100% - 20px);
 }
 
-table {  
-  color: #333; /* Lighten up font color */
-  font-family: Helvetica, Arial, sans-serif; /* Nicer font */
+table {
+  color: #2e2e2e;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
 }
 
-td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
+table, th, td {
+  border: 1px solid #cccccc;
+}
 
 th, th button {  
+  color: #2e2e2e;
   background: #F3F3F3; /* Light grey background */
   font-weight: bold; /* Make sure they're bold */
   font-size: 14px;
@@ -63,69 +71,77 @@ th button {
   text-decoration: underline;
 }
 
-td {  
-  background: #FAFAFA; /* Lighter grey background */
-  text-align: center; /* Center our text */
-}
-
 tr:nth-child(odd) {
-  background: #ccc;
+  background: rgb(226, 226, 226);
 }
 
-/*
-	Max width before this PARTICULAR table gets nasty. This query will take effect for any screen smaller than 760px and also iPads specifically.
-	*/
-	@media
-	  only screen 
-    and (max-width: 760px), (min-device-width: 768px) 
-    and (max-device-width: 1024px)  {
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
 
-		/* Force table to not be like tables anymore */
-		table, thead, tbody, th, td, tr {
-			display: block;
-		}
+table tr {
+  background-color: #F3F3F3;
+  padding: .35em;
+}
 
-		/* Hide table headers (but not display: none;, for accessibility) */
-		thead tr {
-			position: absolute;
-			top: -9999px;
-			left: -9999px;
-		}
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+}
 
-    tr {
-      margin: 0 0 1rem 0;
-    }
-      
-    tr:nth-child(odd) {
-      background: #ccc;
-    }
-    
-		td {
-			/* Behave  like a "row" */
-			border: none;
-			border-bottom: 1px solid #eee;
-			position: relative;
-      padding-left: 50%;
-      vertical-align: middle;
-		}
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
 
-		td:before {
-			/* Now like a table header */
-			position: absolute;
-			/* Top/left values mimic padding */
-			top: 0;
-			left: 6px;
-			width: 45%;
-			padding-right: 10px;
-			white-space: nowrap;
-		}
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+  }
 
-		/*
-		Label the data
-    You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
-		*/
-		td:nth-of-type(1):before { content: "Package"; }
-		td:nth-of-type(2):before { content: "Version"; }
-		td:nth-of-type(3):before { content: "Bucket"; }
-		td:nth-of-type(4):before { content: "Description"; }
-	}
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+}

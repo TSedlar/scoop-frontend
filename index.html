@@ -20,11 +20,18 @@
       let packages = [];
       Object.keys(pkgs).forEach(key => {
         pkgs[key]['packages'].forEach(entry => {
+          const nameElement = td({ class: 'pkgName' }, [a({ href: entry['website'] }, entry['pkg'])]);
+          const versionElement = td({ class: 'pkgVersion' }, entry['version']);
+          const bucketElement = td({ class: 'pkgBucket' }, key);
+          const descriptionElement = td({ class: 'pkgDescription' }, entry['description']);
+
+          nameElement.setAttribute('data-label', 'Package');
+          versionElement.setAttribute('data-label', 'Version');
+          bucketElement.setAttribute('data-label', 'Bucket');
+          descriptionElement.setAttribute('data-label', 'Description');
+
           packages.push(tr([
-            td({ class: 'pkgName' }, [a({ href: entry['website'] }, entry['pkg'])]),
-            td({ class: 'pkgVersion' }, entry['version']),
-            td({ class: 'pkgBucket' }, key),
-            td({ class: 'pkgDescription' }, entry['description'])
+            nameElement, versionElement, bucketElement, descriptionElement
           ]));
         });
       });
