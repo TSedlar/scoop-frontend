@@ -1,3 +1,11 @@
+schedules:
+- cron: "0 0 * * *"
+  displayName: Every night at midnight
+  branches:
+    include:
+    - master
+  always: "true"
+
 resources:
   containers:
   - container: groovy-git
