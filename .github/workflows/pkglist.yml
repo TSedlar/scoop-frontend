@@ -5,16 +5,7 @@ on:
     - cron: 0 0 * * *
       
 jobs:
-  prepare:
-    runs-on: ubuntu-latest
-    if: "! contains(github.event.head_commit.message, '[skip ci]')"
-    steps:
-      - run: echo "${{ github.event.head_commit.message }}"
-        
   build_pkglist:
-    
-    needs: prepare
-
     container:
       image: alxsoft/groovy-git:2.5.2-jdk8
       options: --user 0:0
@@ -25,6 +16,10 @@ jobs:
     - uses: actions/checkout@master
       with:
         ref: ${{ github.ref }}
+    - name: Skip CI
+      uses: veggiemonk/skip-commit@master
+      env:
+        COMMIT_FILTER: skip ci
     - name: Deploy pkglist
       run: |
         REPO=$(echo ${{ github.repository }} | sed "s:.*/::")
