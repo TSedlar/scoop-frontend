@@ -1,0 +1,47 @@
+name: CI
+
+on: [push]
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    if: "! contains(github.event.head_commit.message, '[skip ci]')"
+    steps:
+      - run: echo "${{ github.event.head_commit.message }}"
+        
+  build_pkglist:
+    
+    needs: prepare
+
+    container:
+      image: alxsoft/groovy-git:2.5.2-jdk8
+      options: --user 0:0
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@master
+      with:
+        ref: ${{ github.ref }}
+    - name: Deploy pkglist
+      run: |
+        REPO=$(echo ${{ github.repository }} | sed "s:.*/::")
+        BRANCH=$(echo ${{ github.ref }} | sed "s:.*/::")
+        
+        git remote rm origin
+        git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.actor }}/${REPO}.git"
+        git config user.name ${{ github.actor }}
+        git config user.email noreply@${{ github.actor }}.noreply.github.com
+        
+        cd ci
+        
+        git clone https://github.com/ScoopInstaller/Main.git
+        git clone https://github.com/lukesampson/scoop-extras.git
+        git clone https://github.com/ScoopInstaller/Versions.git
+        
+        groovy JsonMerge.groovy
+        
+        cd ../
+        
+        git add .
+        git diff-index --quiet HEAD || git commit -am "Updated package listing [skip ci]" && git push origin HEAD:${BRANCH}
