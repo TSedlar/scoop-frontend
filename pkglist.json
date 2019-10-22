@@ -512,7 +512,7 @@
                 "website": "https://hub.github.com/"
             },
             {
-                "version": "20191019-31aafda",
+                "version": "20191021-a174e5f",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -770,7 +770,7 @@
                 "website": "https://github.com/datalust/seqcli"
             },
             {
-                "version": "10.16.3",
+                "version": "12.13.0",
                 "pkg": "nodejs-lts",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. (Long Term Support)",
                 "website": "https://nodejs.org"
@@ -804,6 +804,12 @@
                 "pkg": "dosbox",
                 "description": "DOSBox emulates an Intel x86 PC, complete with sound, graphics, mouse, joystick, modem, etc.",
                 "website": "https://www.dosbox.com/"
+            },
+            {
+                "version": "5.2.2",
+                "pkg": "dependency-check",
+                "description": "Software composition analysis utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
+                "website": "https://www.owasp.org/index.php/OWASP_Dependency_Check"
             },
             {
                 "version": "1.16.2",
@@ -872,7 +878,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/m4.htm"
             },
             {
-                "version": "2.0.893",
+                "version": "2.0.894",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -944,7 +950,7 @@
                 "website": "https://www.torproject.org"
             },
             {
-                "version": "0.9.42",
+                "version": "0.9.43",
                 "pkg": "i2p-portable",
                 "description": "An anonymizing network.",
                 "website": "https://geti2p.net"
@@ -1160,6 +1166,12 @@
                 "website": "http://www.omnisharp.net"
             },
             {
+                "version": "0.0.21",
+                "pkg": "jcli",
+                "description": "Multiple Jenkins servers manager.",
+                "website": "https://jenkins-zh.github.io/jcli-docs/"
+            },
+            {
                 "version": "2.5.20",
                 "pkg": "winflexbison",
                 "description": "A Windows port of Flex (the fast lexical analyser) and GNU Bison (parser generator).",
@@ -1316,7 +1328,7 @@
                 "website": "http://lilypond.org"
             },
             {
-                "version": "1.0.0",
+                "version": "1.1.0",
                 "pkg": "bazel",
                 "description": "A fast, scalable, multi-language and extensible build system",
                 "website": "https://bazel.build"
@@ -1556,7 +1568,7 @@
                 "website": "https://github.com/mozilla/mozjpeg"
             },
             {
-                "version": "0.1.7",
+                "version": "0.1.8",
                 "pkg": "pyflow",
                 "description": "A modern Python installation and dependency manager.",
                 "website": "https://github.com/David-OConnor/pyflow"
@@ -1712,7 +1724,7 @@
                 "website": "https://www.nano-editor.org/"
             },
             {
-                "version": "4.0.11",
+                "version": "5.0.1",
                 "pkg": "hygen",
                 "description": "The scalable code generator that saves you time",
                 "website": "https://www.hygen.io/"
@@ -1730,7 +1742,7 @@
                 "website": "https://www.rarlab.com/"
             },
             {
-                "version": "0.58.3",
+                "version": "0.59.0",
                 "pkg": "hugo",
                 "description": "Speedy and flexible static site generator (without Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -1754,7 +1766,7 @@
                 "website": "https://wyam.io"
             },
             {
-                "version": "0.109.0",
+                "version": "0.110.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code.",
                 "website": "https://flowtype.org/"
@@ -1814,7 +1826,7 @@
                 "website": "https://racket-lang.org"
             },
             {
-                "version": "2.24-19.10.19",
+                "version": "2.24-19.10.21",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -1886,6 +1898,12 @@
                 "website": "https://scons.org/"
             },
             {
+                "version": "1.1.1",
+                "pkg": "halo",
+                "description": "A modern personal independent blog system.",
+                "website": "https://halo.run"
+            },
+            {
                 "version": "1.19",
                 "pkg": "mailsend",
                 "description": "A program to send mail via SMTP from command line.",
@@ -1932,6 +1950,12 @@
                 "pkg": "nomad",
                 "description": "Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.",
                 "website": "https://www.nomadproject.io"
+            },
+            {
+                "version": "0.2.4a4",
+                "pkg": "butterflow",
+                "description": "Video manipulation tool.",
+                "website": "https://github.com/dthpham/butterflow"
             },
             {
                 "version": "0.1.3",
@@ -2108,7 +2132,7 @@
                 "website": "https://beyondgrep.com/"
             },
             {
-                "version": "0.58.3",
+                "version": "0.59.0",
                 "pkg": "hugo-extended",
                 "description": "Speedy and flexible static site generator. (with Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -2498,7 +2522,7 @@
                 "website": "https://eternallybored.org/misc/wget/"
             },
             {
-                "version": "0.120.1",
+                "version": "0.120.2",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -2756,7 +2780,7 @@
                 "website": "https://github.com/sharkdp/fd"
             },
             {
-                "version": "0.17.6",
+                "version": "0.18.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
@@ -2912,7 +2936,7 @@
                 "website": "https://algernon.roboticoverlords.org"
             },
             {
-                "version": "2019.10.16",
+                "version": "2019.10.22",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://rg3.github.io/youtube-dl/"
@@ -2972,7 +2996,7 @@
                 "website": "https://www.llvm.org/"
             },
             {
-                "version": "8.1.2197",
+                "version": "8.1.2198",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3062,7 +3086,7 @@
                 "website": "https://pypy.org"
             },
             {
-                "version": "12.3.0",
+                "version": "12.4.0",
                 "pkg": "gitlab-runner",
                 "description": "Run your jobs and send the results back to GitLab",
                 "website": "https://docs.gitlab.com/runner/"
@@ -3084,6 +3108,12 @@
                 "pkg": "shortcut",
                 "description": "Allows you to create, modify or query shortcuts from the command-line.",
                 "website": "http://www.optimumx.com"
+            },
+            {
+                "version": "1.0.6",
+                "pkg": "gauge",
+                "description": "Test automation tool.",
+                "website": "https://gauge.org"
             },
             {
                 "version": "1.49.5",
@@ -3152,7 +3182,7 @@
                 "website": "https://concourse-ci.org/fly.html"
             },
             {
-                "version": "0.9.42",
+                "version": "0.9.43",
                 "pkg": "i2p",
                 "description": "An anonymizing network.",
                 "website": "https://geti2p.net"
@@ -3308,7 +3338,7 @@
                 "website": "https://www.autoitscript.com/site/autoit/"
             },
             {
-                "version": "2019.09.03.01",
+                "version": "2019.10.17.01",
                 "pkg": "buck",
                 "description": "A high-performance build tool.",
                 "website": "https://buck.build/"
@@ -3374,7 +3404,7 @@
                 "website": "http://sox.sourceforge.net/"
             },
             {
-                "version": "2.0.3",
+                "version": "3.2.3",
                 "pkg": "kustomize",
                 "description": "Customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.",
                 "website": "https://github.com/kubernetes-sigs/kustomize"
@@ -3518,7 +3548,7 @@
                 "website": "https://github.com/isacikgoz/tldr"
             },
             {
-                "version": "12.12.0",
+                "version": "12.13.0",
                 "pkg": "nodejs",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
                 "website": "https://nodejs.org"
@@ -3909,7 +3939,7 @@
                 "website": "https://github.com/fabiospampinato/noty"
             },
             {
-                "version": "3.4.4",
+                "version": "3.4.6",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -3937,6 +3967,12 @@
                 "pkg": "smartty",
                 "description": "SmarTTY is a free multi-tabbed SSH client that supports X11, copying files and directories with SCP on-the-fly and editing files in-place.",
                 "website": "http://smartty.sysprogs.com/"
+            },
+            {
+                "version": "0.1.9",
+                "pkg": "xjoy",
+                "description": "Gamepad driver for Nintendo Switch Joy-Cons that merges them into one controller.",
+                "website": "https://github.com/sam0x17/XJoy"
             },
             {
                 "version": "1.75",
@@ -4275,7 +4311,7 @@
                 "website": "https://www.povray.org/"
             },
             {
-                "version": "1.7.17",
+                "version": "1.7.18",
                 "pkg": "ds4windows",
                 "description": "Portable program that allows you to get the best experience while using a DualShock 4 on your PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -4297,6 +4333,12 @@
                 "pkg": "megui",
                 "description": "MPEG-4 encoding/muxing solution.",
                 "website": "https://sourceforge.net/projects/megui/"
+            },
+            {
+                "version": "1.5.9",
+                "pkg": "photoflare",
+                "description": "Quick, simple but powerful image editor. (Community Edition)",
+                "website": "https://photoflare.io/"
             },
             {
                 "version": "4.5.0",
@@ -4587,7 +4629,7 @@
                 "website": "https://www.snipaste.com/"
             },
             {
-                "version": "1.8.0",
+                "version": "1.9.0",
                 "pkg": "simplenote",
                 "description": "Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.",
                 "website": "https://simplenote.com"
@@ -4611,7 +4653,7 @@
                 "website": "http://gitahead.scitools.com/"
             },
             {
-                "version": "4.4.0",
+                "version": "4.4.1",
                 "pkg": "lunacy",
                 "description": "Free Graphic Design Software.",
                 "website": "https://icons8.com/lunacy"
@@ -4845,7 +4887,7 @@
                 "website": "https://www.freecadweb.org/"
             },
             {
-                "version": "1.2.0",
+                "version": "1.2.1",
                 "pkg": "lmms",
                 "description": "Cross-platform music production software.",
                 "website": "https://lmms.io/"
@@ -5011,6 +5053,12 @@
                 "pkg": "visual-arm-emulator",
                 "description": "A highly visual ARM emulator.",
                 "website": "https://salmanarif.bitbucket.io/visual/index.html"
+            },
+            {
+                "version": "1.7.6.0-alpha",
+                "pkg": "axiom",
+                "description": "GUI for FFmpeg.",
+                "website": "https://axiomui.github.io/"
             },
             {
                 "version": "5.3.5",
@@ -5205,10 +5253,10 @@
                 "website": "https://www.sql-workbench.eu/"
             },
             {
-                "version": "4.2.3",
+                "version": "4.3.0",
                 "pkg": "mattermost",
-                "description": "Native desktop application for Mattermost.",
-                "website": "https://mattermost.com/"
+                "description": "Team communication client.",
+                "website": "https://mattermost.com"
             },
             {
                 "version": "4.31",
@@ -5297,7 +5345,7 @@
             {
                 "version": "1.15.1",
                 "pkg": "coretemp",
-                "description": "A compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.",
+                "description": "Monitor processor temperature and other vital information.",
                 "website": "https://www.alcpu.com/CoreTemp/"
             },
             {
@@ -5805,6 +5853,12 @@
                 "website": "http://multicommander.com/"
             },
             {
+                "version": "4.3.1",
+                "pkg": "treesize-free",
+                "description": "Quickly capture directory sizes and memory guzzlers.",
+                "website": "https://www.jam-software.com/treesize_free"
+            },
+            {
                 "version": "1.4.8",
                 "pkg": "cmdow",
                 "description": "Win32 console application for manipulating program windows.",
@@ -5883,6 +5937,12 @@
                 "website": "https://sourceforge.net/projects/win32diskimager/"
             },
             {
+                "version": "1.0.10.1008",
+                "pkg": "tumblthree",
+                "description": "A Tumblr Backup Application.",
+                "website": "https://github.com/TumblThreeApp/TumblThree"
+            },
+            {
                 "version": "0.6.3.2",
                 "pkg": "bitmessage",
                 "description": "A P2P communications protocol used to send encrypted messages to another person or to many subscribers.",
@@ -5895,7 +5955,7 @@
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "5.7.1",
+                "version": "5.8",
                 "pkg": "7tt",
                 "description": "Allows you to configure various aspects of the Windows taskbar.",
                 "website": "https://rammichael.com/7-taskbar-tweaker"
@@ -5929,6 +5989,12 @@
                 "pkg": "freac",
                 "description": "A free audio converter and CD ripper with support for various popular formats and encoders.",
                 "website": "https://www.freac.org"
+            },
+            {
+                "version": "0.93.1",
+                "pkg": "xnviewmp",
+                "description": "Photo viewer, image resizer & batch converter.",
+                "website": "https://www.xnview.com/en/xnviewmp/"
             },
             {
                 "version": "2.16.0",
@@ -6045,6 +6111,12 @@
                 "website": "https://www.heidisql.com/"
             },
             {
+                "version": "0.97.2",
+                "pkg": "dia",
+                "description": "Drawing software",
+                "website": "http://dia-installer.de"
+            },
+            {
                 "version": "2.0.2",
                 "pkg": "aria-ng-gui",
                 "description": "An Aria2 GUI for Windows & Linux & MacOS.",
@@ -6073,6 +6145,12 @@
                 "pkg": "sagemath-installer",
                 "description": "Free open-source mathematics software system.",
                 "website": "https://www.sagemath.org/"
+            },
+            {
+                "version": "4.3.3.11845",
+                "pkg": "streamdeck",
+                "description": "Stream Deck lets you take control of your content and focus on what's important: your audience.",
+                "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
             },
             {
                 "version": "5.15.5",
@@ -6117,6 +6195,12 @@
                 "website": "https://cheatengine.org/index.php"
             },
             {
+                "version": "3.2.5",
+                "pkg": "tagspaces",
+                "description": "An offline document manager with tagging support.",
+                "website": "https://www.tagspaces.org"
+            },
+            {
                 "version": "19.10.12",
                 "pkg": "conemu",
                 "description": "Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.",
@@ -6135,7 +6219,7 @@
                 "website": "https://wri.tt/"
             },
             {
-                "version": "2.41",
+                "version": "2.45",
                 "pkg": "v2rayn",
                 "description": "GUI client based on v2ray core",
                 "website": "https://github.com/2dust/v2rayN"
@@ -6143,8 +6227,8 @@
             {
                 "version": "4.5.1",
                 "pkg": "archi",
-                "description": "Free, open source, cross-platform tool and editor to create ArchiMate models.",
-                "website": "https://www.archimatetool.com/"
+                "description": "ArchiMate model editor.",
+                "website": "https://www.archimatetool.com"
             },
             {
                 "version": "5.19.815.2595",
@@ -6261,13 +6345,13 @@
                 "website": "https://720kb.github.io/ndm/"
             },
             {
-                "version": "2.6.0-dev.8.0",
+                "version": "2.6.0-dev.8.1",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
             },
             {
-                "version": "2019-10-20",
+                "version": "2019-10-21",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -6309,7 +6393,7 @@
                 "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
             {
-                "version": "6.2.2",
+                "version": "6.2.3",
                 "pkg": "dbeaver",
                 "description": "Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.",
                 "website": "https://dbeaver.io/"
@@ -6401,7 +6485,7 @@
             {
                 "version": "1.8.0",
                 "pkg": "ghostwriter",
-                "description": "A distraction-free Markdown editor for Windows and Linux.",
+                "description": "Distraction-free Markdown editor.",
                 "website": "https://wereturtle.github.io/ghostwriter/"
             },
             {
@@ -7143,7 +7227,7 @@
                 "website": "https://www.waterfox.net"
             },
             {
-                "version": "2.28.0",
+                "version": "2.29.0",
                 "pkg": "i2pd",
                 "description": "End-to-End encrypted and anonymous Internet",
                 "website": "https://i2pd.website"
@@ -7191,7 +7275,7 @@
                 "website": "https://client.pritunl.com"
             },
             {
-                "version": "5.40.0",
+                "version": "6.3",
                 "pkg": "linqpad",
                 "description": "The .NET programmer\u2019s playground.",
                 "website": "https://www.linqpad.net"
@@ -8111,7 +8195,7 @@
             {
                 "version": "1.0",
                 "pkg": "wumgr",
-                "description": "WuMgr (Update Manager for Windows) is a tool to manage updates of Microsoft products on the Windows operating system.",
+                "description": "Manage updates of Microsoft products on the Windows operating system.",
                 "website": "https://github.com/DavidXanatos/wumgr"
             },
             {
@@ -8415,6 +8499,12 @@
                 "website": "https://kid3.sourceforge.io"
             },
             {
+                "version": "2.2.1",
+                "pkg": "crow-translate",
+                "description": "A simple and lightweight translator that allows to translate and speak text.",
+                "website": "https://crow-translate.github.io"
+            },
+            {
                 "version": "1.3b",
                 "pkg": "win-portacle",
                 "description": "A Multi-platform Portable CLE (Common Lisp Environment), made up of Emacs, SBCL, QuickLisp, Git and more",
@@ -8613,6 +8703,12 @@
                 "website": "https://github.com/java-decompiler/jd-gui"
             },
             {
+                "version": "2.7",
+                "pkg": "dual-monitor-tools",
+                "description": "Set of utilities for managing multiple monitor setups.",
+                "website": "http://dualmonitortool.sourceforge.net/"
+            },
+            {
                 "version": "0.8.8",
                 "pkg": "beaker",
                 "description": "An experimental peer-to-peer Web browser",
@@ -8631,6 +8727,12 @@
                 "website": "https://prnt.sc"
             },
             {
+                "version": "3.6.2",
+                "pkg": "winauth",
+                "description": "Authenticator for a wide variety of websites and services.",
+                "website": "https://winauth.github.io/winauth/"
+            },
+            {
                 "version": "1.2.2.0",
                 "pkg": "keepass-plugin-yafd",
                 "description": "Yet Another Favicon Downloader (YAFD for short) is a plugin for KeePass 2.x that allows you to quickly download favicons for your password entries.",
@@ -8647,6 +8749,12 @@
                 "pkg": "strawberry",
                 "description": "A music player and music collection organizer.",
                 "website": "https://www.strawbs.org/"
+            },
+            {
+                "version": "5.7",
+                "pkg": "rawtherapee",
+                "description": "Raw image processor.",
+                "website": "https://rawtherapee.com"
             },
             {
                 "version": "1.0.0.0",
@@ -8721,7 +8829,7 @@
                 "website": "https://tortoisesvn.net/TortoiseMerge.html"
             },
             {
-                "version": "1.3.3",
+                "version": "1.1.17",
                 "pkg": "istio",
                 "description": "An open platform-independent service mesh that provides traffic management, policy enforcement, and telemetry collection.",
                 "website": "https://istio.io"
@@ -8979,7 +9087,7 @@
                 "website": "https://ant.apache.org/ivy/index.html"
             },
             {
-                "version": "0.9.5",
+                "version": "0.9.6",
                 "pkg": "ipfs-desktop",
                 "description": "A desktop client for IPFS.",
                 "website": "https://github.com/ipfs-shipyard/ipfs-desktop"
@@ -9298,7 +9406,7 @@
                 "website": "https://github.com/tesseract-ocr/tessdata_fast"
             },
             {
-                "version": "12.12.0",
+                "version": "12.13.0",
                 "pkg": "nodejs12",
                 "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
                 "website": "https://nodejs.org"
@@ -9550,7 +9658,7 @@
                 "website": "https://atom.io/"
             },
             {
-                "version": "1.49.5-236-g2e505430",
+                "version": "1.49.5-244-g18c029e0",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -9622,7 +9730,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "78.0.3904.11",
+                "version": "78.0.3904.70",
                 "pkg": "chromedriver-beta",
                 "description": "An open source tool for automated testing of webapps across many browsers",
                 "website": "https://chromedriver.chromium.org/"
