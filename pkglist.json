@@ -410,7 +410,7 @@
                 "website": "https://github.com/mozilla/sccache"
             },
             {
-                "version": "1.16.266",
+                "version": "1.16.268",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -518,7 +518,7 @@
                 "website": "https://hub.github.com/"
             },
             {
-                "version": "20191026-1054752",
+                "version": "20191028-68f623d",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -884,7 +884,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/m4.htm"
             },
             {
-                "version": "2.0.916",
+                "version": "2.0.918",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -1052,7 +1052,7 @@
                 "website": "http://cscope.sourceforge.net/"
             },
             {
-                "version": "0.89.0",
+                "version": "0.90.0",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1154,7 +1154,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "0.21.0",
+                "version": "0.22.0",
                 "pkg": "deno",
                 "description": "A secure TypeScript runtime on V8",
                 "website": "https://github.com/denoland/deno"
@@ -1394,7 +1394,7 @@
                 "website": "https://drone.io/"
             },
             {
-                "version": "8.10.0",
+                "version": "8.10.1",
                 "pkg": "coq",
                 "description": "A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
                 "website": "https://coq.inria.fr/"
@@ -1452,6 +1452,12 @@
                 "pkg": "mls-software-openssh",
                 "description": "A Windows installer package of Openssh for Windows that is actively maintained and current.",
                 "website": "https://www.mls-software.com/opensshd.html"
+            },
+            {
+                "version": "0.50.1",
+                "pkg": "dotnet-script",
+                "description": "Run C# scripts from the .NET CLI.",
+                "website": "https://github.com/filipw/dotnet-script"
             },
             {
                 "version": "2.4.4",
@@ -1652,13 +1658,13 @@
                 "website": "http://www.zstd.net/"
             },
             {
-                "version": "1.7.4",
+                "version": "1.8.1",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
             },
             {
-                "version": "4.21.1",
+                "version": "4.21.3",
                 "pkg": "v2ray",
                 "description": "A platform for building proxies to bypass network restrictions.",
                 "website": "https://www.v2ray.com/"
@@ -1838,7 +1844,7 @@
                 "website": "https://racket-lang.org"
             },
             {
-                "version": "2.24-19.10.26",
+                "version": "2.24-19.10.28",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -1976,7 +1982,7 @@
                 "website": "https://github.com/nektos/act/"
             },
             {
-                "version": "5.0.1",
+                "version": "5.1.1",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -2114,7 +2120,7 @@
                 "website": "https://github.com/sharkdp/bat"
             },
             {
-                "version": "1.9.2",
+                "version": "1.9.3",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development.",
                 "website": "https://github.com/txn2/kubefwd"
@@ -2444,7 +2450,7 @@
                 "website": "https://www.ghostscript.com"
             },
             {
-                "version": "2.0.2",
+                "version": "2.0.4",
                 "pkg": "traefik",
                 "description": "HTTP reverse proxy and load balancer",
                 "website": "https://traefik.io/"
@@ -2630,7 +2636,7 @@
                 "website": "https://ccl.clozure.com/"
             },
             {
-                "version": "2.0.28",
+                "version": "2.0.29",
                 "pkg": "dnscrypt-proxy",
                 "description": "A flexible DNS proxy, with support for encrypted DNS protocols",
                 "website": "https://dnscrypt.info"
@@ -2712,6 +2718,12 @@
                 "pkg": "iconv",
                 "description": "Convert characters from one code set to another.",
                 "website": "http://www.mingw.org/"
+            },
+            {
+                "version": "0.1.1",
+                "pkg": "kubectxwin",
+                "description": "Kubernetes cluster switcher.",
+                "website": "https://github.com/thomasliddledba/kubectxwin"
             },
             {
                 "version": "1.0.6",
@@ -2828,7 +2840,7 @@
                 "website": "https://github.com/github/smimesign"
             },
             {
-                "version": "1.33.0",
+                "version": "1.33.1",
                 "pkg": "doctl",
                 "description": "A command line tool for DigitalOcean services",
                 "website": "https://github.com/digitalocean/doctl"
@@ -2918,7 +2930,7 @@
                 "website": "https://upx.github.io/"
             },
             {
-                "version": "7.0.9-0",
+                "version": "7.0.9-1",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2948,7 +2960,7 @@
                 "website": "https://algernon.roboticoverlords.org"
             },
             {
-                "version": "2019.10.22",
+                "version": "2019.10.29",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://rg3.github.io/youtube-dl/"
@@ -3008,7 +3020,7 @@
                 "website": "https://www.llvm.org/"
             },
             {
-                "version": "8.1.2229",
+                "version": "8.1.2231",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3098,7 +3110,7 @@
                 "website": "https://pypy.org"
             },
             {
-                "version": "12.4.0",
+                "version": "12.4.1",
                 "pkg": "gitlab-runner",
                 "description": "Run your jobs and send the results back to GitLab",
                 "website": "https://docs.gitlab.com/runner/"
@@ -3302,7 +3314,7 @@
                 "website": "https://espanso.org"
             },
             {
-                "version": "0.5.90",
+                "version": "0.5.91",
                 "pkg": "fnproject",
                 "description": "A container-native serverless platform that can be run anywhere (any cloud or on-premise).",
                 "website": "https://fnproject.io/"
@@ -3458,7 +3470,7 @@
                 "website": "https://docker.com"
             },
             {
-                "version": "1.18.0.1944-f2cae8d6b",
+                "version": "1.18.1.1973-0f4abfbcc",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -4245,7 +4257,7 @@
                 "website": "https://mega.nz/"
             },
             {
-                "version": "2.7.1",
+                "version": "2.8.4",
                 "pkg": "vswhere",
                 "description": "Locate Visual Studio 2017 and newer installations.",
                 "website": "https://github.com/Microsoft/vswhere"
@@ -4401,7 +4413,7 @@
                 "website": "https://github.com/XhmikosR/notepad2-mod"
             },
             {
-                "version": "3.0.18",
+                "version": "3.0.19",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -5139,7 +5151,7 @@
                 "website": "https://www.ppsspp.org"
             },
             {
-                "version": "3.4.8.0",
+                "version": "3.4.8.3",
                 "pkg": "xmedia-recode",
                 "description": "An All-In-One video converter and audio converter tool.",
                 "website": "https://www.xmedia-recode.de/en/"
@@ -5889,7 +5901,7 @@
                 "website": "http://multicommander.com/"
             },
             {
-                "version": "4.3.1",
+                "version": "4.4",
                 "pkg": "treesize-free",
                 "description": "Quickly capture directory sizes and memory guzzlers.",
                 "website": "https://www.jam-software.com/treesize_free"
@@ -6405,7 +6417,7 @@
                 "website": "https://www.dartlang.org/"
             },
             {
-                "version": "2019-10-27",
+                "version": "2019-10-28",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7311,7 +7323,7 @@
                 "website": "https://torrent-file-editor.github.io"
             },
             {
-                "version": "1.23.1",
+                "version": "1.23.2",
                 "pkg": "nirlauncher",
                 "description": "Over 200 freeware utilities from nirsoft.net.",
                 "website": "https://launcher.nirsoft.net"
@@ -7323,7 +7335,7 @@
                 "website": "https://fbide.freebasic.net"
             },
             {
-                "version": "3.3.3",
+                "version": "3.3.4",
                 "pkg": "sourcetree",
                 "description": "Simple, powerful and beautiful Git GUI.",
                 "website": "https://www.sourcetreeapp.com/"
@@ -8769,7 +8781,7 @@
                 "website": "https://www.rainmeter.net"
             },
             {
-                "version": "4.1.1",
+                "version": "4.1.2",
                 "pkg": "slack",
                 "description": "Collaboration software.",
                 "website": "https://slack.com/downloads/windows"
@@ -9490,7 +9502,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "5.1.0-beta1-194",
+                "version": "5.1.1",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -9544,7 +9556,7 @@
                 "website": "http://www.scala-sbt.org/"
             },
             {
-                "version": "2.9.1705.4",
+                "version": "2.9.1705.27",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
@@ -9736,7 +9748,7 @@
                 "website": "https://atom.io/"
             },
             {
-                "version": "1.50.0-003-g1868c77e",
+                "version": "1.50.0-008-ge81eca40",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
