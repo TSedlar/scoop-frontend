@@ -170,10 +170,16 @@
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads"
             },
             {
-                "version": "20191029-d3dee67",
+                "version": "20191031-7c872df",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
+            },
+            {
+                "version": "1.0",
+                "pkg": "upm",
+                "description": "Universal package manager for Python, Node.js, Ruby and Emacs Lisp.",
+                "website": "https://github.com/replit/upm"
             },
             {
                 "version": "0.8.1",
@@ -428,7 +434,7 @@
                 "website": "https://www.vagrantup.com/"
             },
             {
-                "version": "2.0.30",
+                "version": "2.0.31",
                 "pkg": "dnscrypt-proxy",
                 "description": "A flexible DNS proxy, with support for encrypted DNS protocols",
                 "website": "https://dnscrypt.info"
@@ -440,7 +446,7 @@
                 "website": "https://github.com/dgiagio/warp"
             },
             {
-                "version": "0.10.0",
+                "version": "0.10.1",
                 "pkg": "nomad",
                 "description": "Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.",
                 "website": "https://www.nomadproject.io"
@@ -686,7 +692,7 @@
                 "website": "https://wiki.qt.io/Jom"
             },
             {
-                "version": "1.16.270",
+                "version": "1.16.271",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -848,7 +854,7 @@
                 "website": "https://sigrok.org/"
             },
             {
-                "version": "0.120.3",
+                "version": "0.120.4",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -1718,7 +1724,7 @@
                 "website": "http://www.html-tidy.org/"
             },
             {
-                "version": "5.5.4",
+                "version": "5.7.0",
                 "pkg": "concourse-fly",
                 "description": "Concourse CI/CD manager and controller.",
                 "website": "https://concourse-ci.org/fly.html"
@@ -1844,7 +1850,7 @@
                 "website": "http://ansicon.adoxa.vze.com/"
             },
             {
-                "version": "1.30.0",
+                "version": "1.30.1",
                 "pkg": "jfrog",
                 "description": "Command Line Interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -1856,7 +1862,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "0.7.0",
+                "version": "0.8.0",
                 "pkg": "eksctl",
                 "description": "A simple CLI tool for creating clusters on EKS - Amazon\u2019s new managed Kubernetes service for EC2.",
                 "website": "https://eksctl.io/"
@@ -2312,6 +2318,12 @@
                 "website": "http://sox.sourceforge.net/"
             },
             {
+                "version": "0.3.3",
+                "pkg": "ntop",
+                "description": "htop-like system-monitor with Vi-emulation for Windows",
+                "website": "https://github.com/Nuke928/NTop"
+            },
+            {
                 "version": "4.1.0",
                 "pkg": "qemu",
                 "description": "A generic and open source machine emulator and virtualizer.",
@@ -2396,7 +2408,7 @@
                 "website": "http://www.nongnu.org/gsl-shell/"
             },
             {
-                "version": "0.12.12",
+                "version": "0.12.13",
                 "pkg": "terraform",
                 "description": "Create and manage infrastructure as code using simple declarative configuration files.",
                 "website": "https://www.terraform.io"
@@ -2468,7 +2480,7 @@
                 "website": "https://github.com/riverar/mach2"
             },
             {
-                "version": "0.59.0",
+                "version": "0.59.1",
                 "pkg": "hugo-extended",
                 "description": "Speedy and flexible static site generator. (with Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -2744,7 +2756,7 @@
                 "website": "http://djvu.sourceforge.net"
             },
             {
-                "version": "1.5.1",
+                "version": "1.5.2",
                 "pkg": "minikube",
                 "description": "Runs a single-node Kubernetes cluster inside a Virtual Machine to try out Kubernetes.",
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
@@ -2942,7 +2954,7 @@
                 "website": "https://github.com/kodybrown/rktools2k3"
             },
             {
-                "version": "0.59.0",
+                "version": "0.59.1",
                 "pkg": "hugo",
                 "description": "Speedy and flexible static site generator (without Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -3182,7 +3194,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2234",
+                "version": "8.1.2237",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3440,7 +3452,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "2.0.929",
+                "version": "2.0.933",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -3548,7 +3560,7 @@
                 "website": "http://ammonite.io"
             },
             {
-                "version": "0.147",
+                "version": "0.148",
                 "pkg": "cfr",
                 "description": "Java decompiler",
                 "website": "https://www.benf.org/other/cfr"
@@ -3633,7 +3645,7 @@
                 "website": "https://www.freac.org"
             },
             {
-                "version": "1.2.8",
+                "version": "1.3.4",
                 "pkg": "istio",
                 "description": "An open platform-independent service mesh that provides traffic management, policy enforcement, and telemetry collection.",
                 "website": "https://istio.io"
@@ -3765,7 +3777,7 @@
                 "website": "https://mh-nexus.de/en/hxd/"
             },
             {
-                "version": "6.2.0.557",
+                "version": "6.2.0.539",
                 "pkg": "enpass",
                 "description": "A cross-platform password management app to securely store passwords and other credentials in a virtual vault locked with a master password.",
                 "website": "https://www.enpass.io"
@@ -3813,7 +3825,7 @@
                 "website": "https://www.sublimetext.com/3"
             },
             {
-                "version": "70.0",
+                "version": "70.0.1",
                 "pkg": "firefox",
                 "description": "Popular open source web browser.",
                 "website": "https://www.mozilla.org/firefox/"
@@ -4143,7 +4155,7 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "80.0.3953.0",
+                "version": "80.0.3955.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -4155,7 +4167,7 @@
                 "website": "https://status.im/"
             },
             {
-                "version": "0.98.0",
+                "version": "0.98.3",
                 "pkg": "devhub",
                 "description": "TweetDeck for GitHub.",
                 "website": "https://devhubapp.com/"
@@ -4299,7 +4311,7 @@
                 "website": "http://dahlbyk.github.io/posh-git/"
             },
             {
-                "version": "6.0.2",
+                "version": "7.0.0",
                 "pkg": "crystaldiskmark",
                 "description": "CrystalDiskMark is a disk benchmark software.",
                 "website": "https://osdn.net/projects/crystaldiskmark/"
@@ -4359,7 +4371,7 @@
                 "website": "https://veusz.github.io"
             },
             {
-                "version": "78.0.3904.70",
+                "version": "78.0.3904.85",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
@@ -4485,7 +4497,7 @@
                 "website": "https://www.sql-workbench.eu/"
             },
             {
-                "version": "1.41.0",
+                "version": "1.41.1",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -4917,13 +4929,13 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "3.29",
+                "version": "3.30",
                 "pkg": "wiztree",
                 "description": "A hard drive disk space analyser that finds the files and folders using the most space.",
                 "website": "https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive"
             },
             {
-                "version": "5.71",
+                "version": "6.01.6",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5229,7 +5241,7 @@
                 "website": "https://pcem-emulator.co.uk/"
             },
             {
-                "version": "2.8.1664.44",
+                "version": "2.9.1705.31",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -5343,7 +5355,7 @@
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "7.4.1",
+                "version": "7.4.2",
                 "pkg": "elasticsearch",
                 "description": "Open Source, Distributed, RESTful Search Engine.",
                 "website": "https://www.elastic.co/products/elasticsearch"
@@ -5475,7 +5487,7 @@
                 "website": "http://rbtray.sourceforge.net/"
             },
             {
-                "version": "11.1",
+                "version": "11.2",
                 "pkg": "netbeans",
                 "description": "Quickly and easily develop desktop, mobile, and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.",
                 "website": "https://netbeans.org"
@@ -5547,7 +5559,7 @@
                 "website": "https://www.cpuid.com/softwares/cpu-z.html"
             },
             {
-                "version": "6.3.2.2",
+                "version": "6.3.3.2",
                 "pkg": "libreoffice-fresh",
                 "description": "Powerful office suite.",
                 "website": "https://libreoffice.org/"
@@ -5583,7 +5595,7 @@
                 "website": "https://streamlabs.com/streamlabs-obs"
             },
             {
-                "version": "5.0.76",
+                "version": "5.0.77",
                 "pkg": "zotero",
                 "description": "Open-source reference management software to manage bibliographic data and related research materials.",
                 "website": "https://www.zotero.org/"
@@ -5889,7 +5901,7 @@
                 "website": "https://github.com/lostindark/DriverStoreExplorer"
             },
             {
-                "version": "7.4.1",
+                "version": "7.4.2",
                 "pkg": "kibana",
                 "description": "An open source analytics and visualization platform designed to work with Elasticsearch.",
                 "website": "https://www.elastic.co/products/kibana"
@@ -5937,7 +5949,7 @@
                 "website": "https://github.com/DevTechProfile/CapFrameX"
             },
             {
-                "version": "2019.09.12",
+                "version": "2019.10.31",
                 "pkg": "basilisk",
                 "description": "A XUL-based web-browser demonstrating the Unified XUL Platform (UXP). This browser is a close twin to pre-Servo Firefox in how it operates.",
                 "website": "https://www.basilisk-browser.org"
@@ -5955,7 +5967,7 @@
                 "website": "http://xmlsoft.org/"
             },
             {
-                "version": "0.35.2",
+                "version": "0.36.2",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -6939,7 +6951,7 @@
                 "website": "https://www.skype.com/"
             },
             {
-                "version": "2.7.2-7.3",
+                "version": "2.8.0-7.3",
                 "pkg": "php-nts-xdebug",
                 "description": "An extension for PHP to assist with debugging and development. (Non-Thread Safe)",
                 "website": "https://xdebug.org/"
@@ -6975,7 +6987,7 @@
                 "website": "https://www.scintilla.org/SciTE.html"
             },
             {
-                "version": "193.4778.7",
+                "version": "193.4932.9",
                 "pkg": "idea-eap",
                 "description": "Early Access Program for IntelliJ IDEA Community Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -7011,7 +7023,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "2019-10-30",
+                "version": "2019-10-31",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7047,7 +7059,7 @@
                 "website": "https://forums.peerblock.com/"
             },
             {
-                "version": "4.1.9",
+                "version": "4.1.9.1",
                 "pkg": "qbittorrent",
                 "description": "Free and reliable P2P Bittorent client.",
                 "website": "https://www.qbittorrent.org/"
@@ -7383,7 +7395,7 @@
                 "website": "https://tools.stefankueng.com/grepWin.html"
             },
             {
-                "version": "4.1.9",
+                "version": "4.1.9.1",
                 "pkg": "qbittorrent-portable",
                 "description": "Free and reliable P2P Bittorent client.",
                 "website": "https://www.qbittorrent.org/"
@@ -7521,13 +7533,13 @@
                 "website": "http://www.freeclipboardviewer.com/"
             },
             {
-                "version": "3.16.0-rc2",
+                "version": "3.16.0-rc3",
                 "pkg": "cmake-rc",
                 "description": "An open-source, cross-platform family of tools designed to build, test and package software.",
                 "website": "https://cmake.org/"
             },
             {
-                "version": "3.2.3.7635",
+                "version": "3.3.0.8737",
                 "pkg": "musescore",
                 "description": "Music notation editor with easy to use WYSIWYG interface. Cross-platform and available in many languages.",
                 "website": "https://musescore.org/"
@@ -7671,7 +7683,7 @@
                 "website": "https://github.com/Davlind/PSColor"
             },
             {
-                "version": "2.10.12-3",
+                "version": "2.10.14",
                 "pkg": "gimp",
                 "description": "GNU Image Manipulation Program",
                 "website": "https://www.gimp.org/"
@@ -7779,7 +7791,7 @@
                 "website": "https://workspaceutilities.sourceforge.io/"
             },
             {
-                "version": "1.7.20538",
+                "version": "1.7.20977",
                 "pkg": "potplayer",
                 "description": "Highly customizable media player",
                 "website": "https://potplayer.daum.net"
@@ -8241,7 +8253,7 @@
                 "website": "https://obsproject.com/"
             },
             {
-                "version": "3.10.3138",
+                "version": "3.11.3259",
                 "pkg": "wire",
                 "description": "Secure messaging, file sharing, voice calls and video conferences.",
                 "website": "https://wire.com/"
@@ -8481,7 +8493,7 @@
                 "website": "https://developer.android.com/studio/"
             },
             {
-                "version": "5.5.6",
+                "version": "5.6.4",
                 "pkg": "lantern-client",
                 "description": "Lantern is an HTTP/HTTPS proxy, comprised of a desktop/mobile application and a server ecosystem.",
                 "website": "https://github.com/getlantern/lantern"
@@ -8565,7 +8577,7 @@
                 "website": "https://processing.org/"
             },
             {
-                "version": "2.7.2-7.3",
+                "version": "2.8.0-7.3",
                 "pkg": "php-xdebug",
                 "description": "An extension for PHP to assist with debugging and development. (Thread Safe)",
                 "website": "https://xdebug.org/"
@@ -8643,7 +8655,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "1.12.2.28653",
+                "version": "1.13.0.28678",
                 "pkg": "tortoisesvn",
                 "description": "An Apache\u2122 Subversion (SVN)\u00ae client, implemented as a Windows shell extension.",
                 "website": "https://tortoisesvn.net"
@@ -8697,7 +8709,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "193.4778.7",
+                "version": "193.4932.9",
                 "pkg": "idea-ultimate-eap",
                 "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -9267,7 +9279,7 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "2019-10-23_12-30",
+                "version": "2019-10-31_15-42",
                 "pkg": "x64dbg",
                 "description": "An open-source x64/x32 debugger for windows.",
                 "website": "https://x64dbg.com/"
@@ -9460,7 +9472,7 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "2.7.2-7.2",
+                "version": "2.8.0-7.2",
                 "pkg": "php72-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -9730,7 +9742,7 @@
                 "website": "https://github.com/GitTools/GitVersion"
             },
             {
-                "version": "2.7.2-7.1",
+                "version": "2.8.0-7.1",
                 "pkg": "php71-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -9898,7 +9910,7 @@
                 "website": "http://www.graphicsmagick.org/"
             },
             {
-                "version": "2.7.2-7.3",
+                "version": "2.8.0-7.3",
                 "pkg": "php73-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
