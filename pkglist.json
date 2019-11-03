@@ -92,7 +92,7 @@
                 "website": "https://pcre.org/"
             },
             {
-                "version": "2.088.1",
+                "version": "2.089.0",
                 "pkg": "dmd",
                 "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax",
                 "website": "https://dlang.org/"
@@ -170,7 +170,7 @@
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads"
             },
             {
-                "version": "20191031-b414cff",
+                "version": "20191101-53c21c2",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -278,12 +278,6 @@
                 "website": "https://github.com/google/guetzli"
             },
             {
-                "version": "2.1.5",
-                "pkg": "nikto",
-                "description": "An open source web server scanner which performs comprehensive tests against web servers for multiple items.",
-                "website": "https://projects.giacomodrago.com/nikto-win/"
-            },
-            {
                 "version": "7.3.11",
                 "pkg": "php",
                 "description": "A popular general-purpose scripting language that is especially suited to web development. (thread safe)",
@@ -326,7 +320,7 @@
                 "website": "https://fnproject.io/"
             },
             {
-                "version": "1.7.8",
+                "version": "1.7.9",
                 "pkg": "influxdb",
                 "description": "Scalable datastore for metrics, events, and real-time analytics.",
                 "website": "https://www.influxdata.com/"
@@ -920,6 +914,12 @@
                 "website": "https://docs.gitlab.com/runner/"
             },
             {
+                "version": "0.8",
+                "pkg": "awsSts",
+                "description": "Create temporary login session for AWS CLI",
+                "website": "https://github.com/NearlyUnique/awsSts"
+            },
+            {
                 "version": "2.897",
                 "pkg": "cygwin",
                 "description": "A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows",
@@ -1124,7 +1124,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.9.2",
+                "version": "1.0.0",
                 "pkg": "jd-cmd",
                 "description": "Command line Java Decompiler.",
                 "website": "https://github.com/kwart/jd-cmd/"
@@ -1248,6 +1248,12 @@
                 "pkg": "wkhtmltopdf",
                 "description": "Render HTML into PDF",
                 "website": "https://wkhtmltopdf.org/"
+            },
+            {
+                "version": "4.2.4",
+                "pkg": "ravendb",
+                "description": "NoSQL database built on .NET Core.",
+                "website": "https://ravendb.net"
             },
             {
                 "version": "1.89",
@@ -1526,7 +1532,7 @@
                 "website": "https://github.com/kubernetes-sigs/kustomize"
             },
             {
-                "version": "0.66.1",
+                "version": "0.66.3",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1580,7 +1586,7 @@
                 "website": "https://www.nushell.sh"
             },
             {
-                "version": "2.2.3",
+                "version": "2.2.4",
                 "pkg": "centrifugo",
                 "description": "Language-agnostic real-time messaging server. Centrifugo supports at moment: Websocket and SockJS",
                 "website": "https://centrifugal.github.io/centrifugo"
@@ -1784,7 +1790,7 @@
                 "website": "https://github.com/Genymobile/scrcpy"
             },
             {
-                "version": "0.3.2",
+                "version": "0.3.3",
                 "pkg": "espanso",
                 "description": "Text expander.",
                 "website": "https://espanso.org"
@@ -1800,6 +1806,12 @@
                 "pkg": "openresty",
                 "description": "Dynamic web platform based on NGINX and LuaJIT.",
                 "website": "https://openresty.org"
+            },
+            {
+                "version": "1.12",
+                "pkg": "redshift",
+                "description": "Adjusts the color temperature of screen according to surroundings.",
+                "website": "http://jonls.dk/redshift"
             },
             {
                 "version": "2.5.8",
@@ -2102,7 +2114,7 @@
                 "website": "https://github.com/github/smimesign"
             },
             {
-                "version": "0.90.2",
+                "version": "0.90.5",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -2546,7 +2558,7 @@
                 "website": "https://github.com/mikf/gallery-dl"
             },
             {
-                "version": "2.7.1812",
+                "version": "2.7.1846",
                 "pkg": "azure-functions-core-tools",
                 "description": "Microsoft Azure Functions Core Tools",
                 "website": "https://github.com/Azure/azure-functions-core-tools"
@@ -2726,7 +2738,7 @@
                 "website": "https://www.vaultproject.io"
             },
             {
-                "version": "0.29.0",
+                "version": "0.29.1",
                 "pkg": "frp",
                 "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
                 "website": "https://github.com/fatedier/frp"
@@ -2738,7 +2750,7 @@
                 "website": "http://www.andre-simon.de/doku/highlight/en/highlight.php"
             },
             {
-                "version": "1.50.0",
+                "version": "1.50.1",
                 "pkg": "rclone",
                 "description": "Sync files and directories to and from mulitple cloud / FTP / HTTP hosters.",
                 "website": "https://rclone.org"
@@ -2876,7 +2888,7 @@
                 "website": "https://premake.github.io/"
             },
             {
-                "version": "1.10.3",
+                "version": "1.11.1",
                 "pkg": "watchexec",
                 "description": "Execute commands in response to file modifications",
                 "website": "https://github.com/mattgreen/watchexec"
@@ -3068,6 +3080,12 @@
                 "website": "http://cscope.sourceforge.net/"
             },
             {
+                "version": "2.51.2",
+                "pkg": "unison",
+                "description": "A file-synchronization tool.",
+                "website": "https://www.cis.upenn.edu/~bcpierce/unison"
+            },
+            {
                 "version": "1.14-3",
                 "pkg": "iconv",
                 "description": "Convert characters from one code set to another.",
@@ -3194,7 +3212,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2238",
+                "version": "8.1.2244",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3452,7 +3470,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "2.0.937",
+                "version": "2.0.941",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -3673,6 +3691,12 @@
                 "pkg": "lili",
                 "description": "LiLi creates portable, bootable and virtualized USB stick running Linux.",
                 "website": "https://www.linuxliveusb.com"
+            },
+            {
+                "version": "11.0.61030",
+                "pkg": "vcredist2012-portable",
+                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2012.",
+                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
             {
                 "version": "2.25",
@@ -4089,7 +4113,7 @@
                 "website": "https://ffqueue.bruchhaus.dk/"
             },
             {
-                "version": "5.0.1",
+                "version": "5.0.2",
                 "pkg": "ilspy",
                 "description": "The open-source .NET assembly browser and decompiler.",
                 "website": "http://ilspy.net/"
@@ -4155,7 +4179,7 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "80.0.3955.0",
+                "version": "80.0.3957.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -4167,7 +4191,7 @@
                 "website": "https://status.im/"
             },
             {
-                "version": "0.98.3",
+                "version": "0.98.4",
                 "pkg": "devhub",
                 "description": "TweetDeck for GitHub.",
                 "website": "https://devhubapp.com/"
@@ -4221,7 +4245,7 @@
                 "website": "https://github.com/vidarkongsli/posh1337"
             },
             {
-                "version": "2.0.311",
+                "version": "2.0.325",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theming engine for Powershell running in ConEmu.",
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh"
@@ -4299,7 +4323,7 @@
                 "website": "https://benrhughes.github.io/todotxt.net/"
             },
             {
-                "version": "0.42.1",
+                "version": "0.42.2",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -4449,7 +4473,7 @@
                 "website": "https://taskfile.org"
             },
             {
-                "version": "20191027",
+                "version": "20191102",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io/"
@@ -4489,6 +4513,12 @@
                 "pkg": "beaker",
                 "description": "An experimental peer-to-peer Web browser",
                 "website": "https://beakerbrowser.com/"
+            },
+            {
+                "version": "12.0.40660",
+                "pkg": "vcredist2013-portable",
+                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2013.",
+                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
             {
                 "version": "125",
@@ -4869,7 +4899,7 @@
                 "website": "https://streamlink.github.io/streamlink-twitch-gui/"
             },
             {
-                "version": "1.6.3",
+                "version": "1.6.4",
                 "pkg": "jd-gui",
                 "description": "A standalone Java Decompiler GUI.",
                 "website": "https://github.com/java-decompiler/jd-gui"
@@ -4935,7 +4965,7 @@
                 "website": "https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive"
             },
             {
-                "version": "6.01.6",
+                "version": "6.02",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5079,7 +5109,7 @@
                 "website": "http://jdownloader.org/"
             },
             {
-                "version": "1.9.5",
+                "version": "1.9.7",
                 "pkg": "winfbe",
                 "description": "FreeBASIC Editor for Windows",
                 "website": "https://github.com/PaulSquires/WinFBE"
@@ -5445,6 +5475,12 @@
                 "website": "http://www.iographica.com/"
             },
             {
+                "version": "14.16.27027.1",
+                "pkg": "vcredist2017-portable",
+                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2017.",
+                "website": "https://www.visualstudio.com/downloads/"
+            },
+            {
                 "version": "12.1.0.3",
                 "pkg": "babelmap",
                 "description": "A free character map application to browse through the entire Unicode character repertoire.",
@@ -5551,6 +5587,12 @@
                 "pkg": "sdl2",
                 "description": "Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.",
                 "website": "https://www.libsdl.org"
+            },
+            {
+                "version": "1.64",
+                "pkg": "caffeine",
+                "description": "Prevent PC from locking or sleep",
+                "website": "https://www.zhornsoftware.co.uk/caffeine/index.htm"
             },
             {
                 "version": "1.90",
@@ -5691,7 +5733,7 @@
                 "website": "https://patheditor2.codeplex.com/"
             },
             {
-                "version": "1.7.20",
+                "version": "1.7.21",
                 "pkg": "ds4windows",
                 "description": "Portable program that allows you to get the best experience while using a DualShock 4 on your PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -6009,7 +6051,7 @@
                 "website": "http://lpb.canb.auug.org.au/adfa/src/jkrypto/index.html"
             },
             {
-                "version": "5.3.5",
+                "version": "5.4.1-2",
                 "pkg": "onlyoffice-desktopeditors",
                 "description": "Office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit documents.",
                 "website": "https://www.onlyoffice.com/apps.aspx"
@@ -6081,7 +6123,7 @@
                 "website": "https://vifm.info/"
             },
             {
-                "version": "1.8.0",
+                "version": "1.8.1",
                 "pkg": "retroarch",
                 "description": "Frontend for emulators, game engines and media players.",
                 "website": "https://www.retroarch.com/"
@@ -6849,7 +6891,7 @@
                 "website": "https://www.cacher.io/"
             },
             {
-                "version": "79.0.3945.16",
+                "version": "80.0.3955.4",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -7023,7 +7065,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "2019-10-31",
+                "version": "2019-11-02",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7329,6 +7371,12 @@
                 "website": "https://www.xmedia-recode.de/en/"
             },
             {
+                "version": "14.0.24215",
+                "pkg": "vcredist2015-portable",
+                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2015.",
+                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
+            },
+            {
                 "version": "1.1.7",
                 "pkg": "quickviewer",
                 "description": "An image/comic viewer.",
@@ -7597,6 +7645,12 @@
                 "pkg": "fsviewer",
                 "description": "Fast, stable, user-friendly image browser, converter and editor",
                 "website": "https://www.faststone.org/FSViewerDetail.htm"
+            },
+            {
+                "version": "14.22.27821.0",
+                "pkg": "vcredist2019-portable",
+                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2019.",
+                "website": "https://www.visualstudio.com/downloads/"
             },
             {
                 "version": "20190801",
@@ -7965,7 +8019,7 @@
                 "website": "https://www.2brightsparks.com/syncback/sbpro.html"
             },
             {
-                "version": "1.9.5",
+                "version": "1.9.6",
                 "pkg": "snaketail",
                 "description": "A Windows tail utility for monitoring growing text log files.",
                 "website": "http://snakenest.com/snaketail/"
@@ -8403,7 +8457,7 @@
                 "website": "https://www.listary.com"
             },
             {
-                "version": "0.42.1",
+                "version": "0.42.2",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -8463,7 +8517,7 @@
                 "website": "https://quiterss.org/en"
             },
             {
-                "version": "36.1",
+                "version": "36.2",
                 "pkg": "liteide",
                 "description": "Simple, open source, cross-platform Go IDE.",
                 "website": "http://liteide.org"
@@ -8523,7 +8577,7 @@
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "3.4.8",
+                "version": "3.4.9",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -9279,7 +9333,7 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "2019-10-31_15-42",
+                "version": "2019-11-02_03-11",
                 "pkg": "x64dbg",
                 "description": "An open-source x64/x32 debugger for windows.",
                 "website": "https://x64dbg.com/"
@@ -9736,7 +9790,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "5.1.2-beta1-2",
+                "version": "5.1.2-beta1-4",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
