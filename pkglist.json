@@ -608,7 +608,7 @@
                 "website": "https://direnv.net"
             },
             {
-                "version": "11.74",
+                "version": "11.75",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://sno.phy.queensu.ca/~phil/exiftool/index.html"
@@ -686,7 +686,7 @@
                 "website": "https://wiki.qt.io/Jom"
             },
             {
-                "version": "1.16.272",
+                "version": "1.16.273",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -722,7 +722,7 @@
                 "website": "https://www.nongnu.org/lzip/lzip.html"
             },
             {
-                "version": "0.4.2",
+                "version": "0.5.1",
                 "pkg": "tunnel",
                 "description": "Expose local servers to the internet securely.",
                 "website": "https://github.com/labstack/tunnel-client"
@@ -878,7 +878,7 @@
                 "website": "https://wp-cli.org"
             },
             {
-                "version": "2.23.0.windows.1",
+                "version": "2.24.0.windows.1",
                 "pkg": "mingit-busybox",
                 "description": "Minimal Git for Windows (MinGit) is a reduced sized package designed to support application integration (like integrated development environments, graph visualizers, etc.) where full console support (colorization, pagniation, etc.) is not needed.(BusyBox-backed MinGit, experimental, smaller version of MinGit)",
                 "website": "https://git-for-windows.github.io/"
@@ -914,7 +914,7 @@
                 "website": "https://docs.gitlab.com/runner/"
             },
             {
-                "version": "0.8",
+                "version": "0.9",
                 "pkg": "awsSts",
                 "description": "Create temporary login session for AWS CLI",
                 "website": "https://github.com/NearlyUnique/awsSts"
@@ -1076,7 +1076,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "2.23.0.windows.1",
+                "version": "2.24.0.windows.1",
                 "pkg": "git",
                 "description": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
                 "website": "https://git-for-windows.github.io/"
@@ -1100,7 +1100,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "1.4.4",
+                "version": "1.4.5",
                 "pkg": "packer",
                 "description": "Automates the creation of any type of virtual machine image.",
                 "website": "https://www.packer.io"
@@ -1130,7 +1130,7 @@
                 "website": "https://github.com/kwart/jd-cmd/"
             },
             {
-                "version": "2.0.75",
+                "version": "2.0.76",
                 "pkg": "azure-cli",
                 "description": "Microsoft Azure CLI 2.0",
                 "website": "https://aka.ms/cli"
@@ -1424,6 +1424,12 @@
                 "website": "https://www.scala-sbt.org/"
             },
             {
+                "version": "1.5.19",
+                "pkg": "memcached",
+                "description": "Distributed memory object caching system.",
+                "website": "https://memcached.org/"
+            },
+            {
                 "version": "2.4",
                 "pkg": "svtplay-dl",
                 "description": "svtplay-dl cli program for downloading media",
@@ -1532,7 +1538,7 @@
                 "website": "https://github.com/kubernetes-sigs/kustomize"
             },
             {
-                "version": "0.66.3",
+                "version": "0.66.5",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -2264,7 +2270,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.19.3",
+                "version": "1.20.0",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager.",
                 "website": "https://conan.io/"
@@ -2396,7 +2402,7 @@
                 "website": "https://github.com/txn2/kubefwd"
             },
             {
-                "version": "2019.10.29",
+                "version": "2019.11.05",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://rg3.github.io/youtube-dl/"
@@ -2480,7 +2486,7 @@
                 "website": "https://git-tfs.com"
             },
             {
-                "version": "0.12.6",
+                "version": "0.12.7",
                 "pkg": "ghq",
                 "description": "Remote repository management made easy.",
                 "website": "https://github.com/motemen/ghq"
@@ -2684,7 +2690,7 @@
                 "website": "http://www.mingw.org/wiki/MSYS"
             },
             {
-                "version": "2.23.0.windows.1",
+                "version": "2.24.0.windows.1",
                 "pkg": "mingit",
                 "description": "Minimal Git for Windows (MinGit) is a reduced sized package designed to support application integration (like integrated development environments, graph visualizers, etc.) where full console support (colorization, pagniation, etc.) is not needed.",
                 "website": "https://git-for-windows.github.io/"
@@ -2852,7 +2858,7 @@
                 "website": "https://www.blat.net"
             },
             {
-                "version": "3.1.2",
+                "version": "3.2.0",
                 "pkg": "ack",
                 "description": "A tool like grep, optimized for programmers",
                 "website": "https://beyondgrep.com/"
@@ -3002,7 +3008,7 @@
                 "website": "https://github.com/marp-team/marp-cli"
             },
             {
-                "version": "2.23.0.windows.1",
+                "version": "2.24.0.windows.1",
                 "pkg": "git-with-openssh",
                 "description": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (w/ built-in OpenSSH)",
                 "website": "https://git-for-windows.github.io/"
@@ -3212,7 +3218,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2251",
+                "version": "8.1.2256",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3332,7 +3338,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "4.0.0",
+                "version": "4.0.1",
                 "pkg": "haxe",
                 "description": "High-level, cross-platform, multi-paradigm programming language and compiler.",
                 "website": "https://haxe.org/"
@@ -3416,7 +3422,7 @@
                 "website": "https://sourceforge.net/projects/inadyn-mt/files/inadyn-mt/"
             },
             {
-                "version": "2.8.0.30290",
+                "version": "3.0.0.30818",
                 "pkg": "azure-ps",
                 "description": "PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.",
                 "website": "https://aka.ms/azpsdocs"
@@ -3470,7 +3476,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "2.0.945",
+                "version": "2.0.948",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -3831,7 +3837,7 @@
                 "website": "https://klatexformula.sourceforge.io"
             },
             {
-                "version": "2.16.0",
+                "version": "2.16.1",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron.",
                 "website": "https://rocket.chat/"
@@ -4179,7 +4185,7 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "80.0.3958.0",
+                "version": "80.0.3959.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -4221,7 +4227,7 @@
                 "website": "http://www.pcfreetime.com/formatfactory/index.php"
             },
             {
-                "version": "1.12.2",
+                "version": "1.13.0",
                 "pkg": "azuredatastudio",
                 "description": "Data management tool that enables work with SQL Server, Azure SQL DB and SQL DW.",
                 "website": "https://docs.microsoft.com/en-us/sql/azure-data-studio"
@@ -4233,7 +4239,7 @@
                 "website": "https://www.pci-z.com/"
             },
             {
-                "version": "1.5.0",
+                "version": "1.5.1",
                 "pkg": "riot",
                 "description": "A decentralised, encrypted chat & collaboration powered by matrix.org. It has group chat, integrations, voip & video calling, bridge networks, end to end encryption, file transfer. Lots of rooms already exist in Matrix, linked to existing networks (Slack, IRC, Gitter etc) or independent.",
                 "website": "https://riot.im/"
@@ -4857,7 +4863,7 @@
                 "website": "https://www.xdlab.ru/en/"
             },
             {
-                "version": "2.2.2",
+                "version": "2.2.3",
                 "pkg": "crow-translate",
                 "description": "A simple and lightweight translator that allows to translate and speak text.",
                 "website": "https://crow-translate.github.io"
@@ -4881,7 +4887,7 @@
                 "website": "https://github.com/notable/notable"
             },
             {
-                "version": "5.0.0",
+                "version": "5.1.0",
                 "pkg": "omegat",
                 "description": "The free translation memory tool.",
                 "website": "https://omegat.org/"
@@ -4995,7 +5001,7 @@
                 "website": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer"
             },
             {
-                "version": "7.2.19",
+                "version": "7.2.20",
                 "pkg": "todolist",
                 "description": "This free (for life) Windows desktop application offers an effective and flexible way to stay on top of your daily tasks.",
                 "website": "https://abstractspoon.weebly.com/"
@@ -5175,7 +5181,7 @@
                 "website": "https://developer.valvesoftware.com/wiki/SteamCMD"
             },
             {
-                "version": "1.23.2",
+                "version": "1.23.3",
                 "pkg": "nirlauncher",
                 "description": "Over 200 freeware utilities from nirsoft.net.",
                 "website": "https://launcher.nirsoft.net"
@@ -5271,7 +5277,7 @@
                 "website": "https://pcem-emulator.co.uk/"
             },
             {
-                "version": "2.9.1705.34",
+                "version": "2.9.1705.38",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -7071,7 +7077,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "2019-11-03",
+                "version": "2019-11-04",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7401,7 +7407,7 @@
                 "website": "https://www.qutebrowser.org/"
             },
             {
-                "version": "1.76",
+                "version": "1.77",
                 "pkg": "tinytask",
                 "description": "A minimalist Windows automation app used for recording and repeating actions.",
                 "website": "https://www.tinytask.net/"
@@ -8229,7 +8235,7 @@
                 "website": "https://sigrok.org/wiki/PulseView"
             },
             {
-                "version": "1.5.6.705",
+                "version": "1.5.7.706",
                 "pkg": "snappy-driver-installer-origin",
                 "description": "Device drivers installer and updater.",
                 "website": "https://www.snappy-driver-installer.org"
@@ -8547,7 +8553,7 @@
                 "website": "https://plot.ly/free-sql-client-download"
             },
             {
-                "version": "3.5.1.0",
+                "version": "3.5.2.0",
                 "pkg": "android-studio",
                 "description": "The official IDE for Android development, which includes everything you need to build Android apps.",
                 "website": "https://developer.android.com/studio/"
@@ -8583,7 +8589,7 @@
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "3.4.9",
+                "version": "3.5.0",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -9159,13 +9165,13 @@
                 "website": "https://cmusphinx.github.io/"
             },
             {
-                "version": "38.0.0",
+                "version": "39.0.0",
                 "pkg": "mkvtoolnix",
                 "description": "A set of tools to create, alter and inspect Matroska files.",
                 "website": "https://mkvtoolnix.download/"
             },
             {
-                "version": "1.1.7",
+                "version": "1.2.0",
                 "pkg": "rambox-pro",
                 "description": "Tool for organizing web apps into one application with rich features.",
                 "website": "https://rambox.pro/"
@@ -9339,7 +9345,7 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "2019-11-02_03-11",
+                "version": "2019-11-05_00-47",
                 "pkg": "x64dbg",
                 "description": "An open-source x64/x32 debugger for windows.",
                 "website": "https://x64dbg.com/"
@@ -9460,7 +9466,7 @@
                 "website": "https://premake.github.io/"
             },
             {
-                "version": "3.1.100-preview1-014459",
+                "version": "3.1.100-preview2-014569",
                 "pkg": "dotnet-sdk-preview",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
