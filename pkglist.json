@@ -170,7 +170,7 @@
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads"
             },
             {
-                "version": "20191105-c54268c",
+                "version": "20191106-fc7b6d5",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -686,7 +686,7 @@
                 "website": "https://wiki.qt.io/Jom"
             },
             {
-                "version": "1.16.275",
+                "version": "1.16.277",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -722,7 +722,7 @@
                 "website": "https://www.nongnu.org/lzip/lzip.html"
             },
             {
-                "version": "0.5.1",
+                "version": "0.5.2",
                 "pkg": "tunnel",
                 "description": "Expose local servers to the internet securely.",
                 "website": "https://github.com/labstack/tunnel-client"
@@ -1496,7 +1496,7 @@
                 "website": "https://bitwarden.com/"
             },
             {
-                "version": "0.10.1",
+                "version": "0.9.5",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -1820,6 +1820,12 @@
                 "website": "http://jonls.dk/redshift"
             },
             {
+                "version": "1.6.5",
+                "pkg": "coredns",
+                "description": "A DNS server/forwarder, that chains plugins.",
+                "website": "https://coredns.io/"
+            },
+            {
                 "version": "2.5.8",
                 "pkg": "groovy",
                 "description": "A powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.",
@@ -1868,7 +1874,7 @@
                 "website": "http://ansicon.adoxa.vze.com/"
             },
             {
-                "version": "1.30.2",
+                "version": "1.30.3",
                 "pkg": "jfrog",
                 "description": "Command Line Interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -1910,7 +1916,7 @@
                 "website": "https://nunit.org/"
             },
             {
-                "version": "1.38.0",
+                "version": "1.39.0",
                 "pkg": "rust",
                 "description": "A language empowering everyone to build reliable and efficient software. (GNU toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -2120,7 +2126,7 @@
                 "website": "https://github.com/github/smimesign"
             },
             {
-                "version": "0.90.7",
+                "version": "0.90.8",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -2396,7 +2402,7 @@
                 "website": "https://cmake.org/"
             },
             {
-                "version": "1.9.3",
+                "version": "1.9.4",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development.",
                 "website": "https://github.com/txn2/kubefwd"
@@ -2414,7 +2420,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "0.7.1",
+                "version": "0.8.0",
                 "pkg": "1password-cli",
                 "description": "The 1Password command-line tool makes your 1Password account accessible entirely from the command line.",
                 "website": "https://support.1password.com/command-line/"
@@ -2450,7 +2456,7 @@
                 "website": "https://github.com/ericchiang/pup"
             },
             {
-                "version": "5.1.1",
+                "version": "5.1.2",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -2738,7 +2744,7 @@
                 "website": "https://github.com/UB-Mannheim/tesseract/wiki"
             },
             {
-                "version": "1.2.3",
+                "version": "1.2.4",
                 "pkg": "vault",
                 "description": "Secure, store, and tightly control access to tokens, passwords, certificates, API keys, and other secrets in modern computing.",
                 "website": "https://www.vaultproject.io"
@@ -3002,7 +3008,7 @@
                 "website": "https://developers.yubico.com/yubico-piv-tool/"
             },
             {
-                "version": "0.16.0",
+                "version": "0.16.1",
                 "pkg": "marp",
                 "description": "A CLI interface for Marp and Marpit based converters",
                 "website": "https://github.com/marp-team/marp-cli"
@@ -3050,7 +3056,7 @@
                 "website": "https://aria2.github.io/"
             },
             {
-                "version": "4.0.6",
+                "version": "4.1.4",
                 "pkg": "geoipupdate",
                 "description": "GeoIP Update program to perform automatic updates of GeoIP2 and GeoIP Legacy binary databases.",
                 "website": "https://dev.maxmind.com/geoip/geoipupdate/"
@@ -3218,7 +3224,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2260",
+                "version": "8.1.2269",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3284,7 +3290,7 @@
                 "website": "https://editorconfig.org/"
             },
             {
-                "version": "7.34.2",
+                "version": "7.35.0",
                 "pkg": "heroku-cli",
                 "description": "An essential part of using Heroku, which can perform nearly any Heroku-related task right from your terminal.",
                 "website": "https://devcenter.heroku.com/articles/heroku-cli"
@@ -3296,7 +3302,7 @@
                 "website": "https://ngrok.com/"
             },
             {
-                "version": "1.38.0",
+                "version": "1.39.0",
                 "pkg": "rust-msvc",
                 "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -3476,7 +3482,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "2.0.958",
+                "version": "2.0.966",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -3651,7 +3657,7 @@
                 "website": "http://neatdownloadmanager.com/index.php"
             },
             {
-                "version": "68.2.1",
+                "version": "68.2.2",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net/"
@@ -3837,7 +3843,7 @@
                 "website": "https://klatexformula.sourceforge.io"
             },
             {
-                "version": "2.16.1",
+                "version": "2.16.2",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron.",
                 "website": "https://rocket.chat/"
@@ -4125,13 +4131,13 @@
                 "website": "http://ilspy.net/"
             },
             {
-                "version": "78.0.3904.87",
+                "version": "78.0.3904.97",
                 "pkg": "googlechrome",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/"
             },
             {
-                "version": "68.2.1",
+                "version": "68.2.2",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net/"
@@ -4263,7 +4269,7 @@
                 "website": "https://getharmony.xyz/"
             },
             {
-                "version": "7.10.0",
+                "version": "7.11.0",
                 "pkg": "postman",
                 "description": "Complete API development environment.",
                 "website": "https://www.getpostman.com/"
@@ -4275,7 +4281,7 @@
                 "website": "https://wri.tt/"
             },
             {
-                "version": "3.0.7",
+                "version": "3.0.8",
                 "pkg": "simplewall",
                 "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
                 "website": "https://www.henrypp.org/product/simplewall"
@@ -4299,7 +4305,7 @@
                 "website": "https://www.foxitsoftware.com/"
             },
             {
-                "version": "1.39.2",
+                "version": "1.40.0",
                 "pkg": "vscode-portable",
                 "description": "Visual Studio Code is a lightweight but powerful source code editor (Portable Edition).",
                 "website": "https://code.visualstudio.com/"
@@ -4557,7 +4563,7 @@
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
             },
             {
-                "version": "1.89.0.2",
+                "version": "1.89.2.0",
                 "pkg": "cudatext",
                 "description": "Cross-platform text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -4881,7 +4887,7 @@
                 "website": "http://carnackeys.com/"
             },
             {
-                "version": "1.7.3",
+                "version": "1.8.0",
                 "pkg": "notable",
                 "description": "The markdown-based note-taking app that doesn't suck.",
                 "website": "https://github.com/notable/notable"
@@ -4929,7 +4935,7 @@
                 "website": "https://www.irfanview.com/"
             },
             {
-                "version": "2.2.2",
+                "version": "2.2.3",
                 "pkg": "github",
                 "description": "Extend your GitHub workflow beyond your browser.",
                 "website": "https://desktop.github.com/"
@@ -4971,7 +4977,7 @@
                 "website": "https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive"
             },
             {
-                "version": "6.06",
+                "version": "6.06.1",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5943,7 +5949,7 @@
                 "website": "http://utilfr42.free.fr/util/Clavier.php"
             },
             {
-                "version": "0.10.54",
+                "version": "0.10.58",
                 "pkg": "driverstoreexplorer",
                 "description": "A GUI tool to manage Windows driver store",
                 "website": "https://github.com/lostindark/DriverStoreExplorer"
@@ -6297,7 +6303,7 @@
                 "website": "https://persepolisdm.github.io"
             },
             {
-                "version": "9.3.7239",
+                "version": "9.3.7250",
                 "pkg": "convert.net",
                 "description": "An integrated, powerful, multi-purpose conversion and developer tool.",
                 "website": "https://fishcodelib.com/Convert.htm"
@@ -6369,7 +6375,7 @@
                 "website": "https://simplenote.com"
             },
             {
-                "version": "2.2.0",
+                "version": "2.2.1",
                 "pkg": "springboot",
                 "description": "Create stand-alone, production-grade Spring based Applications that you can \"just run\".",
                 "website": "https://projects.spring.io/spring-boot/"
@@ -6843,7 +6849,7 @@
                 "website": "https://www.wagnardsoft.com/"
             },
             {
-                "version": "3.73",
+                "version": "3.76",
                 "pkg": "ldplayer",
                 "description": "An Android emulator optimized for mobile gaming with lower resource consumption",
                 "website": "https://www.ldplayer.net/"
@@ -7041,7 +7047,7 @@
                 "website": "https://www.scintilla.org/SciTE.html"
             },
             {
-                "version": "193.4932.9",
+                "version": "193.5096.12",
                 "pkg": "idea-eap",
                 "description": "Early Access Program for IntelliJ IDEA Community Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -7413,7 +7419,7 @@
                 "website": "https://www.tinytask.net"
             },
             {
-                "version": "0.70.122",
+                "version": "0.70.123",
                 "pkg": "brave",
                 "description": "Secure, Fast & Private Web Browser with Adblocker",
                 "website": "https://brave.com"
@@ -7737,7 +7743,7 @@
                 "website": "https://github.com/shadowsocks/shadowsocks-windows"
             },
             {
-                "version": "29.2.7247.1",
+                "version": "29.2.7248.6",
                 "pkg": "database.net",
                 "description": "Database .NET is an innovative, powerful and intuitive multiple database management tool.",
                 "website": "https://fishcodelib.com/Database.htm"
@@ -7917,7 +7923,7 @@
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "1.57.1",
+                "version": "1.58.1",
                 "pkg": "station",
                 "description": "A free desktop application that unifies all your work tools in one neat & productive interface.",
                 "website": "https://getstation.com/"
@@ -8589,7 +8595,7 @@
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "3.5.1",
+                "version": "3.5.2",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -8775,7 +8781,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "193.4932.9",
+                "version": "193.5096.12",
                 "pkg": "idea-ultimate-eap",
                 "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -8931,7 +8937,7 @@
                 "website": "https://linkerd.io/"
             },
             {
-                "version": "0.41.0",
+                "version": "1.0.0",
                 "pkg": "skaffold",
                 "description": "A command line tool that facilitates continuous development for Kubernetes applications.",
                 "website": "https://github.com/GoogleCloudPlatform/skaffold"
@@ -9015,7 +9021,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "1.39.2",
+                "version": "1.40.0",
                 "pkg": "vscode",
                 "description": "Visual Studio Code is a lightweight but powerful source code editor.",
                 "website": "https://code.visualstudio.com/"
@@ -9261,9 +9267,9 @@
                 "website": "https://www.bulkrenameutility.co.uk"
             },
             {
-                "version": "0.72.0.1",
+                "version": "0.73.1.1",
                 "pkg": "kitty",
-                "description": "A telnet / SSH client, which is a fork from version 0.72 of PuTTY.",
+                "description": "A telnet / SSH client, which is a fork from version 0.73 of PuTTY.",
                 "website": "http://kitty.9bis.net"
             },
             {
@@ -9802,7 +9808,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "5.1.2-beta1-8",
+                "version": "5.1.2",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -9922,7 +9928,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "1.11.0-git-20190608",
+                "version": "1.11.0-git-20191107",
                 "pkg": "megatools-beta",
                 "description": "Command line client for Mega.nz",
                 "website": "https://megatools.megous.com/"
