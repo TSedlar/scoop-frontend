@@ -128,7 +128,7 @@
                 "website": "https://unbound.net/"
             },
             {
-                "version": "10.4.8",
+                "version": "10.4.10",
                 "pkg": "mariadb",
                 "description": "Community developed fork of MySQL server.",
                 "website": "https://mariadb.org"
@@ -170,7 +170,7 @@
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads"
             },
             {
-                "version": "20191106-fc7b6d5",
+                "version": "20191108-e700038",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -464,7 +464,7 @@
                 "website": "https://sampler.dev"
             },
             {
-                "version": "5.6.4",
+                "version": "6.0",
                 "pkg": "gradle-bin",
                 "description": "An open-source build automation tool focused on flexibility and performance. (Binaries only without documentation)",
                 "website": "https://gradle.org"
@@ -494,7 +494,7 @@
                 "website": "https://iperf.fr/"
             },
             {
-                "version": "0.2018.07.25",
+                "version": "0.2013.08.10",
                 "pkg": "ln",
                 "description": "An approximation of the Unix ln command.",
                 "website": "https://github.com/lukesampson/psutils"
@@ -686,7 +686,7 @@
                 "website": "https://wiki.qt.io/Jom"
             },
             {
-                "version": "1.16.277",
+                "version": "1.16.278",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -764,7 +764,7 @@
                 "website": "https://nunit.org/"
             },
             {
-                "version": "1.14.0",
+                "version": "1.14.1",
                 "pkg": "kops",
                 "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.",
                 "website": "https://github.com/kubernetes/kops/"
@@ -858,6 +858,12 @@
                 "pkg": "poppler",
                 "description": "PDF rendering library",
                 "website": "http://blog.alivate.com.au/poppler-windows/"
+            },
+            {
+                "version": "3.5.0.4",
+                "pkg": "rtools",
+                "description": "Tools for building packages for R under Microsoft Windows, or for building R itself.",
+                "website": "https://cloud.r-project.org/bin/windows/Rtools"
             },
             {
                 "version": "2.9.1",
@@ -1160,7 +1166,7 @@
                 "website": "https://github.com/timvisee/ffsend"
             },
             {
-                "version": "0.9.5",
+                "version": "0.9.6",
                 "pkg": "annie",
                 "description": "A fast, simple and clean video downloader built with Go.",
                 "website": "https://github.com/iawia002/annie"
@@ -1496,7 +1502,7 @@
                 "website": "https://bitwarden.com/"
             },
             {
-                "version": "0.9.5",
+                "version": "0.10.3",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -1538,7 +1544,7 @@
                 "website": "https://github.com/kubernetes-sigs/kustomize"
             },
             {
-                "version": "0.66.9",
+                "version": "0.66.10",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1568,7 +1574,7 @@
                 "website": "https://github.com/pemistahl/grex"
             },
             {
-                "version": "0.18.0",
+                "version": "0.19.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
@@ -1586,7 +1592,7 @@
                 "website": "https://github.com/zquestz/s"
             },
             {
-                "version": "0.4.0",
+                "version": "0.5.0",
                 "pkg": "nu",
                 "description": "A modern shell written in Rust.",
                 "website": "https://www.nushell.sh"
@@ -1700,6 +1706,12 @@
                 "website": "https://www.rethinkdb.com/"
             },
             {
+                "version": "0.1.0",
+                "pkg": "codeowners-validator",
+                "description": "The GitHub Codeowners file validator",
+                "website": "https://github.com/mszostok/codeowners-validator"
+            },
+            {
                 "version": "1.3.2",
                 "pkg": "flac",
                 "description": "Free Lossless Audio Codec - command line tools",
@@ -1736,7 +1748,7 @@
                 "website": "http://www.html-tidy.org/"
             },
             {
-                "version": "5.7.0",
+                "version": "5.5.5",
                 "pkg": "concourse-fly",
                 "description": "Concourse CI/CD manager and controller.",
                 "website": "https://concourse-ci.org/fly.html"
@@ -1796,7 +1808,7 @@
                 "website": "https://github.com/Genymobile/scrcpy"
             },
             {
-                "version": "0.3.3",
+                "version": "0.3.4",
                 "pkg": "espanso",
                 "description": "Text expander.",
                 "website": "https://espanso.org"
@@ -1830,6 +1842,12 @@
                 "pkg": "groovy",
                 "description": "A powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.",
                 "website": "http://www.groovy-lang.org/"
+            },
+            {
+                "version": "1.0.0",
+                "pkg": "speedtest-cli",
+                "description": "Internet connection speed and performance tester.",
+                "website": "https://www.speedtest.net/apps/cli"
             },
             {
                 "version": "10.1.1",
@@ -2366,7 +2384,7 @@
                 "website": "https://github.com/svenstaro/genact/"
             },
             {
-                "version": "7.20191024",
+                "version": "7.20191106",
                 "pkg": "git-annex",
                 "description": "Manage files with git, without comitting them.",
                 "website": "https://git-annex.branchable.com/"
@@ -2402,7 +2420,7 @@
                 "website": "https://cmake.org/"
             },
             {
-                "version": "1.9.4",
+                "version": "1.9.6",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development.",
                 "website": "https://github.com/txn2/kubefwd"
@@ -2564,7 +2582,7 @@
                 "website": "https://www.openshift.org"
             },
             {
-                "version": "1.10.6",
+                "version": "1.11.1",
                 "pkg": "gallery-dl",
                 "description": "Command-line program to download image-galleries and -collections from several image hosting sites.",
                 "website": "https://github.com/mikf/gallery-dl"
@@ -3038,7 +3056,7 @@
                 "website": "https://github.com/thomasliddledba/kubectxwin"
             },
             {
-                "version": "0.4.2",
+                "version": "0.4.3",
                 "pkg": "neovim",
                 "description": "Vim-fork focused on extensibility and usability",
                 "website": "https://neovim.io/"
@@ -3056,7 +3074,7 @@
                 "website": "https://aria2.github.io/"
             },
             {
-                "version": "4.1.4",
+                "version": "4.1.5",
                 "pkg": "geoipupdate",
                 "description": "GeoIP Update program to perform automatic updates of GeoIP2 and GeoIP Legacy binary databases.",
                 "website": "https://dev.maxmind.com/geoip/geoipupdate/"
@@ -3212,6 +3230,12 @@
                 "website": "https://www.fossil-scm.org/"
             },
             {
+                "version": "1.2.0",
+                "pkg": "PowerSession",
+                "description": "Powershell session recorder.",
+                "website": "https://github.com/ibigbug/PowerSession"
+            },
+            {
                 "version": "5.97.3",
                 "pkg": "coreutils",
                 "description": "A collection of GNU utilities such as bash, make, gawk and grep",
@@ -3224,7 +3248,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2269",
+                "version": "8.1.2272",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3392,7 +3416,7 @@
                 "website": "http://lilypond.org"
             },
             {
-                "version": "5.6.4",
+                "version": "6.0",
                 "pkg": "gradle",
                 "description": "An open-source build automation tool focused on flexibility and performance. (Source code and documentation boundled)",
                 "website": "https://gradle.org"
@@ -3482,7 +3506,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "2.0.966",
+                "version": "2.0.971",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -3941,7 +3965,7 @@
             {
                 "version": "1.6.4.1",
                 "pkg": "lightbulb",
-                "description": "A program that reduces eyestrain produced by staring at a computer screen when working late hours",
+                "description": "Continuously adjusts gamma, transitioning the display color temperature from cold blue to warm yellow.",
                 "website": "https://github.com/Tyrrrz/LightBulb"
             },
             {
@@ -3951,7 +3975,7 @@
                 "website": "https://cryptomator.org"
             },
             {
-                "version": "1.39.2",
+                "version": "1.40.0",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -4191,7 +4215,7 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "80.0.3961.0",
+                "version": "80.0.3962.2",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -4335,7 +4359,7 @@
                 "website": "https://benrhughes.github.io/todotxt.net/"
             },
             {
-                "version": "0.42.2",
+                "version": "0.42.3",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -4407,7 +4431,7 @@
                 "website": "https://veusz.github.io"
             },
             {
-                "version": "79.0.3945.16",
+                "version": "79.0.3945.29",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
@@ -4695,7 +4719,7 @@
                 "website": "https://www.kcsoftwares.com/?dumo"
             },
             {
-                "version": "71.0b7",
+                "version": "71.0b8",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5013,7 +5037,7 @@
                 "website": "https://abstractspoon.weebly.com/"
             },
             {
-                "version": "1.39.2",
+                "version": "1.40.0",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -5103,7 +5127,7 @@
                 "website": "https://www.blender.org/"
             },
             {
-                "version": "3.2.5",
+                "version": "3.3.0",
                 "pkg": "tagspaces",
                 "description": "An offline document manager with tagging support.",
                 "website": "https://www.tagspaces.org"
@@ -5121,7 +5145,7 @@
                 "website": "http://jdownloader.org/"
             },
             {
-                "version": "1.9.7",
+                "version": "1.9.8",
                 "pkg": "winfbe",
                 "description": "FreeBASIC Editor for Windows",
                 "website": "https://github.com/PaulSquires/WinFBE"
@@ -5283,7 +5307,7 @@
                 "website": "https://pcem-emulator.co.uk/"
             },
             {
-                "version": "2.9.1705.38",
+                "version": "2.9.1705.41",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -5769,7 +5793,7 @@
                 "website": "http://www.skytopia.com/software/sunsetscreen/"
             },
             {
-                "version": "2.6.1",
+                "version": "2.6.2",
                 "pkg": "ydl-ui",
                 "description": "A UI for the command-line video downloader youtube-dl",
                 "website": "https://github.com/Maxstupo/ydl-ui"
@@ -5817,7 +5841,7 @@
                 "website": "https://www.xyplorer.com/free.php"
             },
             {
-                "version": "6.1.05",
+                "version": "6.1.06",
                 "pkg": "praat",
                 "description": "A free cross-platform software for the scientific analysis of speech in phonetics",
                 "website": "http://www.fon.hum.uva.nl/praat/"
@@ -5865,9 +5889,9 @@
                 "website": "https://chef.io"
             },
             {
-                "version": "2.4.0",
+                "version": "2.6.2",
                 "pkg": "losslesscut",
-                "description": "Save space by quickly and losslessly trimming video and audio files.",
+                "description": "Lossless trimming tool for video and audio files.",
                 "website": "https://github.com/mifi/lossless-cut"
             },
             {
@@ -6759,7 +6783,7 @@
                 "website": "https://www.lazarus-ide.org"
             },
             {
-                "version": "72.0a1",
+                "version": "72.0a1.20191108095936",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7083,7 +7107,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "2019-11-06",
+                "version": "2019-11-08",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7515,7 +7539,7 @@
                 "website": "https://www.autoitscript.com/site/autoit-script-editor/"
             },
             {
-                "version": "4.2.0",
+                "version": "4.3.0",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager.",
                 "website": "https://calibre-ebook.com/"
@@ -7587,7 +7611,7 @@
                 "website": "http://processhacker.sourceforge.net/"
             },
             {
-                "version": "4.2.0",
+                "version": "4.3.0",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager.",
                 "website": "https://calibre-ebook.com/"
@@ -7635,7 +7659,7 @@
                 "website": "https://wiki.analog.com/university/tools/m2k/scopy"
             },
             {
-                "version": "71.0b7",
+                "version": "71.0b8",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
@@ -8475,7 +8499,7 @@
                 "website": "https://www.listary.com"
             },
             {
-                "version": "0.42.2",
+                "version": "0.42.3",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -8655,7 +8679,7 @@
                 "website": "https://xdebug.org/"
             },
             {
-                "version": "7.0.0.49",
+                "version": "7.0.0.57",
                 "pkg": "zmc",
                 "description": "A build of JDK Mission Control, an open source Java runtime profiling and monitoring utility.",
                 "website": "https://www.azul.com/products/zulu-mission-control"
@@ -9093,7 +9117,7 @@
                 "website": "https://www.naps2.com/"
             },
             {
-                "version": "1.5.62",
+                "version": "1.5.63",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -9243,7 +9267,7 @@
                 "website": "https://www.palemoon.org/"
             },
             {
-                "version": "19.0.0.10",
+                "version": "19.0.0.11",
                 "pkg": "openliberty",
                 "description": "Server runtime available to JavaTM developers",
                 "website": "https://openliberty.io/"
@@ -9652,7 +9676,7 @@
                 "website": "https://www.archimatetool.com/"
             },
             {
-                "version": "10.3.18",
+                "version": "10.3.20",
                 "pkg": "mariadb103",
                 "description": "Community developed fork of MySQL server.",
                 "website": "https://mariadb.org"
