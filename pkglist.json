@@ -68,7 +68,7 @@
                 "website": "https://github.com/ddollar/forego"
             },
             {
-                "version": "1.12.4",
+                "version": "1.12.5",
                 "pkg": "telegraf",
                 "description": "The plugin-driven server agent for collecting & reporting metrics.",
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
@@ -170,7 +170,7 @@
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/#downloads"
             },
             {
-                "version": "20191110-3a84081",
+                "version": "20191111-20c5f4d",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -608,7 +608,7 @@
                 "website": "https://direnv.net"
             },
             {
-                "version": "11.75",
+                "version": "11.76",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://sno.phy.queensu.ca/~phil/exiftool/index.html"
@@ -686,7 +686,7 @@
                 "website": "https://wiki.qt.io/Jom"
             },
             {
-                "version": "1.16.279",
+                "version": "1.16.280",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -848,7 +848,7 @@
                 "website": "https://sigrok.org/"
             },
             {
-                "version": "0.120.8",
+                "version": "0.121.0",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -878,10 +878,16 @@
                 "website": "http://www.seleniumhq.org/"
             },
             {
-                "version": "2.3.0",
+                "version": "2.4.0",
                 "pkg": "wp-cli",
                 "description": "WP-CLI is the command-line interface for WordPress. You can update plugins, configure multisite installs and much more, without using a web browser.",
                 "website": "https://wp-cli.org"
+            },
+            {
+                "version": "0.3.5",
+                "pkg": "mdbook",
+                "description": "Create a book from markdown files.",
+                "website": "https://github.com/rust-lang/mdBook"
             },
             {
                 "version": "2.24.0.windows.2",
@@ -1148,7 +1154,7 @@
                 "website": "https://github.com/susam/uncap"
             },
             {
-                "version": "5.2.3",
+                "version": "5.2.4",
                 "pkg": "dependency-check",
                 "description": "Software composition analysis utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
                 "website": "https://www.owasp.org/index.php/OWASP_Dependency_Check"
@@ -1334,7 +1340,7 @@
                 "website": "https://rustup.rs"
             },
             {
-                "version": "2.0.0-RC5",
+                "version": "2.0.0-RC5-1",
                 "pkg": "coursier",
                 "description": "Pure Scala Artifact Fetching",
                 "website": "https://github.com/coursier/coursier"
@@ -1430,7 +1436,7 @@
                 "website": "https://www.scala-sbt.org/"
             },
             {
-                "version": "1.5.19",
+                "version": "1.5.20",
                 "pkg": "memcached",
                 "description": "Distributed memory object caching system.",
                 "website": "https://memcached.org/"
@@ -1634,7 +1640,7 @@
                 "website": "https://sysprogs.com/legacy/tools/srvman/"
             },
             {
-                "version": "0.4.5",
+                "version": "0.5.0",
                 "pkg": "just",
                 "description": "A command runner written in rust",
                 "website": "https://github.com/casey/just"
@@ -1760,7 +1766,7 @@
                 "website": "http://scholdoc.scholarlymarkdown.com/"
             },
             {
-                "version": "19.1.5",
+                "version": "19.2.0",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -1892,7 +1898,7 @@
                 "website": "http://ansicon.adoxa.vze.com/"
             },
             {
-                "version": "1.30.3",
+                "version": "1.30.4",
                 "pkg": "jfrog",
                 "description": "Command Line Interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -2012,7 +2018,7 @@
                 "website": "https://www.khronos.org/opengles/sdk/tools/Reference-Compiler/"
             },
             {
-                "version": "2.16.0",
+                "version": "2.16.1",
                 "pkg": "helm",
                 "description": "The package manager for Kubernetes.",
                 "website": "https://helm.sh/"
@@ -2574,6 +2580,12 @@
                 "pkg": "wixtoolset",
                 "description": "Set of tools for windows installer creation.",
                 "website": "http://wixtoolset.org/"
+            },
+            {
+                "version": "0.7.5",
+                "pkg": "lazydocker",
+                "description": "Terminal UI for both docker and docker-compose",
+                "website": "https://github.com/jesseduffield/lazydocker"
             },
             {
                 "version": "3.11.0",
@@ -3230,7 +3242,7 @@
                 "website": "https://www.fossil-scm.org/"
             },
             {
-                "version": "1.2.0",
+                "version": "1.2.1",
                 "pkg": "PowerSession",
                 "description": "Powershell session recorder.",
                 "website": "https://github.com/ibigbug/PowerSession"
@@ -3248,7 +3260,7 @@
                 "website": "https://dev.mysql.com/downloads/workbench/"
             },
             {
-                "version": "8.1.2292",
+                "version": "8.1.2297",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -3296,7 +3308,7 @@
                 "website": "https://github.com/ScoopInstaller/Shim/"
             },
             {
-                "version": "0.111.3",
+                "version": "0.112.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code.",
                 "website": "https://flowtype.org/"
@@ -4059,7 +4071,7 @@
                 "website": "http://www.dhcpserver.de"
             },
             {
-                "version": "8.3.1",
+                "version": "8.3.2",
                 "pkg": "crystaldiskinfo",
                 "description": "CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.",
                 "website": "https://osdn.net/projects/crystaldiskinfo/"
@@ -4479,7 +4491,7 @@
                 "website": "http://kdiff3.sourceforge.net/"
             },
             {
-                "version": "1.16.6016",
+                "version": "1.16.6067",
                 "pkg": "jetbrains-toolbox",
                 "description": "Toolbox App. A control panel for all JetBrains tools.",
                 "website": "https://www.jetbrains.com/toolbox/"
@@ -4512,7 +4524,7 @@
                 "version": "20191110",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
-                "website": "https://mpv.io/"
+                "website": "https://mpv.io"
             },
             {
                 "version": "2.6.2.1870",
@@ -4581,13 +4593,13 @@
                 "website": "https://tamlok.github.io/vnote/"
             },
             {
-                "version": "8.22",
+                "version": "8.23",
                 "pkg": "windows-iso-downloader",
                 "description": "Easy and comfortable way to download genuine Windows 7, Windows 8.1 and Windows 10 disk images (ISO) directly from Microsoft's servers, as well as Office.",
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
             },
             {
-                "version": "1.89.2.0",
+                "version": "1.89.4.0",
                 "pkg": "cudatext",
                 "description": "Cross-platform text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -4719,7 +4731,7 @@
                 "website": "https://www.kcsoftwares.com/?dumo"
             },
             {
-                "version": "71.0b8",
+                "version": "71.0b9",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5409,7 +5421,7 @@
                 "website": "https://www.autohotkey.com/"
             },
             {
-                "version": "14.0.164",
+                "version": "14.0.167",
                 "pkg": "phraseexpress",
                 "description": "Autotext and Text Autocompletion in any application.",
                 "website": "https://www.phraseexpress.com/"
@@ -5775,7 +5787,7 @@
                 "website": "https://ryochan7.github.io/ds4windows-site/"
             },
             {
-                "version": "1.0.173",
+                "version": "1.0.174",
                 "pkg": "joplin",
                 "description": "A note taking and to-do application with synchronization capabilities.",
                 "website": "https://joplin.cozic.net/"
@@ -6021,7 +6033,7 @@
                 "website": "https://www.sordum.org/files/easy-service-optimizer/"
             },
             {
-                "version": "3.0.19",
+                "version": "3.0.20",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -6369,7 +6381,7 @@
                 "website": "https://poedit.net"
             },
             {
-                "version": "0.10.4",
+                "version": "0.10.5",
                 "pkg": "lazygit",
                 "description": "A simple terminal UI for git commands",
                 "website": "https://github.com/jesseduffield/lazygit"
@@ -6381,7 +6393,7 @@
                 "website": "https://hshrzd.wordpress.com/vidi-visual-disassembler/"
             },
             {
-                "version": "4.3.3.11845",
+                "version": "4.4.0.12173",
                 "pkg": "streamdeck",
                 "description": "Stream Deck lets you take control of your content and focus on what's important: your audience.",
                 "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
@@ -6741,7 +6753,7 @@
                 "website": "http://dualmonitortool.sourceforge.net/"
             },
             {
-                "version": "6.3.2",
+                "version": "6.3.3",
                 "pkg": "libreoffice-stable",
                 "description": "Powerful office suite.",
                 "website": "https://libreoffice.org/"
@@ -6783,7 +6795,7 @@
                 "website": "https://www.lazarus-ide.org"
             },
             {
-                "version": "72.0a1.20191111100226",
+                "version": "72.0a1.20191112094307",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7107,7 +7119,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "2019-11-11",
+                "version": "2019-11-12",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -7599,7 +7611,7 @@
                 "website": "https://axiomui.github.io/"
             },
             {
-                "version": "270.0.0",
+                "version": "271.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -7659,7 +7671,7 @@
                 "website": "https://wiki.analog.com/university/tools/m2k/scopy"
             },
             {
-                "version": "71.0b8",
+                "version": "71.0b9",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
@@ -7947,7 +7959,7 @@
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "1.58.1",
+                "version": "1.58.2",
                 "pkg": "station",
                 "description": "A free desktop application that unifies all your work tools in one neat & productive interface.",
                 "website": "https://getstation.com/"
@@ -8439,10 +8451,10 @@
                 "website": "http://maxima.sourceforge.net"
             },
             {
-                "version": "2018-10-02",
+                "version": "0.30.0",
                 "pkg": "mpv",
-                "description": "Video player based on MPlayer/mplayer2 (builds by lachs0r)",
-                "website": "https://mpv.io/"
+                "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
+                "website": "https://mpv.io"
             },
             {
                 "version": "32.0.0.270",
@@ -9198,7 +9210,7 @@
                 "version": "40.0.0",
                 "pkg": "mkvtoolnix",
                 "description": "A set of tools to create, alter and inspect Matroska files.",
-                "website": "https://mkvtoolnix.download/"
+                "website": "https://mkvtoolnix.download"
             },
             {
                 "version": "1.2.0",
@@ -10024,7 +10036,7 @@
                 "website": "https://rclone.org"
             },
             {
-                "version": "2019-11-11-0907-master-2a16008",
+                "version": "2019-11-12-0832-master-70cfe6b",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
