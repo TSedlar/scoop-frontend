@@ -41,6 +41,7 @@ for (bucket in bucketList) {
             ))
         }
     }
+    buckets[bucket.name].packages.sort { a, b -> a.pkg.compareTo(b.pkg) }
 }
 
 def targetFile = new File('../pkglist.json')
