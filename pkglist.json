@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.16.289",
+                "version": "1.16.290",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -218,7 +218,7 @@
                 "website": "https://aka.ms/cli"
             },
             {
-                "version": "2.7.1846",
+                "version": "2.7.1948",
                 "pkg": "azure-functions-core-tools",
                 "description": "Microsoft Azure Functions Core Tools",
                 "website": "https://github.com/Azure/azure-functions-core-tools"
@@ -962,7 +962,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20191120-7ead0da",
+                "version": "20191122-27c6c92",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1016,7 +1016,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "1.15.0",
+                "version": "1.16.0",
                 "pkg": "fluxctl",
                 "description": "Manage Flux from the Command Line.",
                 "website": "https://github.com/fluxcd/flux"
@@ -1700,7 +1700,7 @@
                 "website": "https://jfrog.com/getcli/"
             },
             {
-                "version": "3.03",
+                "version": "3.04",
                 "pkg": "jhead",
                 "description": "JPEG Exif header manipulation tool",
                 "website": "http://www.sentex.net/~mwandel/jhead/"
@@ -1742,10 +1742,16 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1005",
+                "version": "2.0.1007",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
+            },
+            {
+                "version": "0.25.1",
+                "pkg": "k6",
+                "description": "Load and performance regression testing tool for cloud native backend infrastructure",
+                "website": "https://k6.io"
             },
             {
                 "version": "0.9.3",
@@ -1797,6 +1803,12 @@
             },
             {
                 "version": "1.16.3",
+                "pkg": "kubeadm",
+                "description": "Kubernetes node provisioning tool",
+                "website": "https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/"
+            },
+            {
+                "version": "1.16.3",
                 "pkg": "kubectl",
                 "description": "Control the Kubernetes cluster manager.",
                 "website": "https://kubernetes.io/docs/user-guide/kubectl-overview/"
@@ -1808,10 +1820,16 @@
                 "website": "https://github.com/thomasliddledba/kubectxwin"
             },
             {
-                "version": "1.9.7",
+                "version": "1.11.0",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development.",
                 "website": "https://github.com/txn2/kubefwd"
+            },
+            {
+                "version": "1.16.3",
+                "pkg": "kubelet",
+                "description": "Kubernetes node agent",
+                "website": "https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/"
             },
             {
                 "version": "0.14.0",
@@ -2462,13 +2480,13 @@
                 "website": "https://www.packer.io"
             },
             {
-                "version": "2.7.3",
+                "version": "2.8",
                 "pkg": "pandoc",
                 "description": "Universal markup converter.",
                 "website": "https://pandoc.org/"
             },
             {
-                "version": "0.3.4.1a",
+                "version": "0.3.4.2",
                 "pkg": "pandoc-crossref",
                 "description": "Pandoc filter for cross-references.",
                 "website": "https://hackage.haskell.org/package/pandoc-crossref"
@@ -2558,7 +2576,7 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.18.2.2041-3d469cb32",
+                "version": "1.18.2.2058-e67a4e892",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -2846,7 +2864,7 @@
                 "website": "https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt"
             },
             {
-                "version": "0.9.5",
+                "version": "0.9.6",
                 "pkg": "restic",
                 "description": "Fast, secure and simple backup program.",
                 "website": "https://restic.net/"
@@ -3302,6 +3320,12 @@
                 "website": "https://github.com/tesseract-ocr/tessdata_fast"
             },
             {
+                "version": "0.13.1",
+                "pkg": "tflint",
+                "description": "A Terraform linter focused on possible errors, best practices, etc.",
+                "website": "https://github.com/terraform-linters/tflint"
+            },
+            {
                 "version": "0.13.0",
                 "pkg": "thrift",
                 "description": "A software framework, for scalable cross-language services development.",
@@ -3464,7 +3488,13 @@
                 "website": "https://www.cjmweb.net/vbindiff/"
             },
             {
-                "version": "8.1.2333",
+                "version": "1.2.0",
+                "pkg": "velero",
+                "description": "Safely backup, restore and perform disaster recovery, migrate Kubernetes cluster resources and persistent volumes.",
+                "website": "https://velero.io"
+            },
+            {
+                "version": "8.1.2337",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -4197,13 +4227,13 @@
                 "website": "https://www.zhornsoftware.co.uk/caffeine/index.htm"
             },
             {
-                "version": "4.3.0",
+                "version": "4.4.0",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager.",
                 "website": "https://calibre-ebook.com/"
             },
             {
-                "version": "4.3.0",
+                "version": "4.4.0",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager.",
                 "website": "https://calibre-ebook.com/"
@@ -5163,13 +5193,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "71.0b11",
+                "version": "71.0b12",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "71.0b11",
+                "version": "71.0b12",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5181,7 +5211,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "72.0a1.20191120234543",
+                "version": "72.0a1.20191122091512",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5265,7 +5295,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.41.1",
+                "version": "1.42.0",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -5361,7 +5391,7 @@
                 "website": "https://www.faststone.org/FSViewerDetail.htm"
             },
             {
-                "version": "3.1.0",
+                "version": "3.1.2",
                 "pkg": "fun",
                 "description": "Complete set of commands to define, develop, test serverless applications, and deploy them to the Alibaba Cloud.",
                 "website": "https://alibabacloud.com/help/doc-detail/64204.html?lang=en"
@@ -5529,7 +5559,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "80.0.3972.0",
+                "version": "80.0.3974.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -5889,7 +5919,7 @@
                 "website": "https://www.willuhn.de/products/jameica/"
             },
             {
-                "version": "201911151602",
+                "version": "201911221324",
                 "pkg": "jami",
                 "description": "A free and universal communication platform which preserves the user's privacy and freedoms.",
                 "website": "https://jami.net/"
@@ -6513,7 +6543,7 @@
                 "website": "https://github.com/Yamazaki93/MetroGit"
             },
             {
-                "version": "3.19.21",
+                "version": "3.19.22",
                 "pkg": "microsip",
                 "description": "Open source portable SIP softphone for Windows based on PJSIP stack",
                 "website": "https://www.microsip.org"
@@ -7119,7 +7149,7 @@
                 "website": "https://www.perforce.com/"
             },
             {
-                "version": "4.2.5",
+                "version": "4.2.6",
                 "pkg": "paint.net",
                 "description": "Image and photo editing software.",
                 "website": "https://www.getpaint.net/"
@@ -7563,7 +7593,7 @@
                 "website": "https://quodlibet.readthedocs.io"
             },
             {
-                "version": "1.8.1",
+                "version": "1.8.2",
                 "pkg": "qutebrowser",
                 "description": "A keyboard-focused browser with a minimal GUI.",
                 "website": "https://www.qutebrowser.org/"
@@ -8049,7 +8079,7 @@
                 "website": "http://www.soundnodeapp.com/"
             },
             {
-                "version": "3.3.4",
+                "version": "3.3.6",
                 "pkg": "sourcetree",
                 "description": "Simple, powerful and beautiful Git GUI.",
                 "website": "https://www.sourcetreeapp.com/"
@@ -8205,7 +8235,7 @@
                 "website": "https://github.com/RevoLand/Steam-Library-Manager"
             },
             {
-                "version": "1574101279",
+                "version": "1574388901",
                 "pkg": "steamcmd",
                 "description": "A command-line version of the Steam client",
                 "website": "https://developer.valvesoftware.com/wiki/SteamCMD"
@@ -8253,7 +8283,7 @@
                 "website": "https://streamlabs.com/streamlabs-obs"
             },
             {
-                "version": "1.2.0",
+                "version": "1.3.0",
                 "pkg": "streamlink",
                 "description": "A command-line utility that pipes video streams from various services into a video player.",
                 "website": "https://streamlink.github.io/"
@@ -8283,7 +8313,7 @@
                 "website": "https://spring.io/tools/sts"
             },
             {
-                "version": "5.55",
+                "version": "5.56",
                 "pkg": "stunnel",
                 "description": "A multiplatform GNU/GPL-licensed proxy encrypting arbitrary TCP connections with SSL/TLS",
                 "website": "https://www.stunnel.org"
@@ -8649,7 +8679,7 @@
                 "website": "http://www.tribler.org"
             },
             {
-                "version": "0.37.3",
+                "version": "0.37.4",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -8727,7 +8757,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2019-11-20",
+                "version": "2019-11-22",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -9772,7 +9802,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2019-11-21-1147-master-336e1e5",
+                "version": "2019-11-22-1448-master-49fedc4",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
