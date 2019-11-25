@@ -74,7 +74,7 @@
                 "website": "https://github.com/allure-framework/allure2"
             },
             {
-                "version": "1.8.1",
+                "version": "1.8.2",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
@@ -416,7 +416,7 @@
                 "website": "https://www.benf.org/other/cfr"
             },
             {
-                "version": "0.6.9",
+                "version": "0.7.0",
                 "pkg": "chroma",
                 "description": "A general purpose syntax highlighter in pure Go",
                 "website": "https://github.com/alecthomas/chroma"
@@ -476,13 +476,13 @@
                 "website": "https://cmake.org/"
             },
             {
-                "version": "1.3.12",
+                "version": "1.3.13",
                 "pkg": "cmder",
                 "description": "Portable console emulator for Windows. (Mini version)",
                 "website": "https://cmder.net"
             },
             {
-                "version": "1.3.12",
+                "version": "1.3.13",
                 "pkg": "cmder-full",
                 "description": "Portable console emulator for Windows. (Full version)",
                 "website": "https://cmder.net"
@@ -662,7 +662,7 @@
                 "website": "https://ddev.readthedocs.io/en/latest/"
             },
             {
-                "version": "4.2.5",
+                "version": "5.0.5",
                 "pkg": "deepstream",
                 "description": "Realtime, fast and secure data-sync server for mobile, web & iot.",
                 "website": "https://deepstream.io"
@@ -962,7 +962,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20191122-89aa134",
+                "version": "20191123-d65aaf8",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1174,8 +1174,8 @@
             {
                 "version": "2.24.0.windows.2",
                 "pkg": "git",
-                "description": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.",
-                "website": "https://git-for-windows.github.io/"
+                "description": "Distributed version control system.",
+                "website": "https://gitforwindows.org"
             },
             {
                 "version": "7.20191107",
@@ -1246,8 +1246,8 @@
             {
                 "version": "2.24.0.windows.2",
                 "pkg": "git-with-openssh",
-                "description": "A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. (w/ built-in OpenSSH)",
-                "website": "https://git-for-windows.github.io/"
+                "description": "Distributed version control system.",
+                "website": "https://gitforwindows.org"
             },
             {
                 "version": "1.10.0",
@@ -1364,7 +1364,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.123.2",
+                "version": "0.123.3",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -1748,7 +1748,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1010",
+                "version": "2.0.1011",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2486,10 +2486,16 @@
                 "website": "https://www.packer.io"
             },
             {
+                "version": "5.236.6",
+                "pkg": "paket",
+                "description": "Dependency manager for .NET with support for NuGet and Git repositories",
+                "website": "https://fsprojects.github.io/Paket/"
+            },
+            {
                 "version": "2.8",
                 "pkg": "pandoc",
-                "description": "Universal markup converter.",
-                "website": "https://pandoc.org/"
+                "description": "Universal markup converter",
+                "website": "https://pandoc.org"
             },
             {
                 "version": "0.3.5.0",
@@ -2738,7 +2744,7 @@
                 "website": "https://github.com/genotrance/px"
             },
             {
-                "version": "0.1.9",
+                "version": "0.2.1",
                 "pkg": "pyflow",
                 "description": "A modern Python installation and dependency manager.",
                 "website": "https://github.com/David-OConnor/pyflow"
@@ -3380,13 +3386,13 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-19.11.19",
+                "version": "2.24-19.11.25",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
             },
             {
-                "version": "0.5.13",
+                "version": "0.5.14",
                 "pkg": "tunnel",
                 "description": "Expose local servers to the internet securely.",
                 "website": "https://github.com/labstack/tunnel-client"
@@ -3500,7 +3506,7 @@
                 "website": "https://velero.io"
             },
             {
-                "version": "8.1.2338",
+                "version": "8.1.2340",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "http://www.vim.org"
@@ -4011,13 +4017,13 @@
                 "website": "http://www.project-aurora.com"
             },
             {
-                "version": "1.1.31.01",
+                "version": "1.1.32.00",
                 "pkg": "autohotkey",
                 "description": "The ultimate automation scripting language for Windows.",
                 "website": "https://www.autohotkey.com/"
             },
             {
-                "version": "1.1.31.01",
+                "version": "1.1.32.00",
                 "pkg": "autohotkey-installer",
                 "description": "The ultimate automation scripting language for Windows.",
                 "website": "https://www.autohotkey.com/"
@@ -4545,7 +4551,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.90.0.3",
+                "version": "1.90.0.4",
                 "pkg": "cudatext",
                 "description": "Cross-platform text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -4851,7 +4857,7 @@
                 "website": "http://www.dropitproject.com/"
             },
             {
-                "version": "1.7.22",
+                "version": "1.7.23",
                 "pkg": "ds4windows",
                 "description": "Portable program that allows you to get the best experience while using a DualShock 4 on your PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -5229,7 +5235,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "72.0a1.20191123094742",
+                "version": "72.0a1.20191124094313",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5313,7 +5319,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.42.2",
+                "version": "1.42.3",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -5577,7 +5583,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "80.0.3975.0",
+                "version": "80.0.3976.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6423,7 +6429,7 @@
                 "website": "https://love2d.org/"
             },
             {
-                "version": "4.6.1",
+                "version": "4.7.0",
                 "pkg": "lunacy",
                 "description": "Free Graphic Design Software.",
                 "website": "https://icons8.com/lunacy"
@@ -6699,7 +6705,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20191117",
+                "version": "20191124",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -6885,7 +6891,7 @@
                 "website": "https://nimbletext.com/SET/About"
             },
             {
-                "version": "2.9.1.36018",
+                "version": "2.9.1.15799",
                 "pkg": "nimbletext",
                 "description": "Text manipulation and code generation tool.",
                 "website": "https://nimbletext.com/"
@@ -8787,7 +8793,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2019-11-22",
+                "version": "2019-11-24",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10114,7 +10120,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.50.2-059-g1db31d71",
+                "version": "1.50.2-060-ga7d65bd5",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
