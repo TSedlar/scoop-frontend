@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.16.302",
+                "version": "1.16.303",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -848,7 +848,7 @@
                 "website": "https://duplicacy.com/"
             },
             {
-                "version": "0.75.1",
+                "version": "0.77.3",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -974,7 +974,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20191211-13f2b6d",
+                "version": "20191212-f58bda6",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1028,7 +1028,7 @@
                 "website": "https://google.github.io/flatbuffers/index.html"
             },
             {
-                "version": "0.113.0",
+                "version": "0.114.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code.",
                 "website": "https://flowtype.org/"
@@ -1874,7 +1874,7 @@
                 "website": "https://github.com/kubernetes-sigs/kustomize"
             },
             {
-                "version": "0.17.0",
+                "version": "0.17.1",
                 "pkg": "lab",
                 "description": "An extension to command-line git that helps with everyday GitLab tasks.",
                 "website": "https://zaquestion.github.io/lab"
@@ -2132,7 +2132,7 @@
                 "website": "https://minio.io/"
             },
             {
-                "version": "1.34.1",
+                "version": "1.34.2",
                 "pkg": "minishift",
                 "description": "Minishift is a tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. You can try out OpenShift or develop with it, day-to-day, on your local host.",
                 "website": "https://www.openshift.org/minishift"
@@ -3044,7 +3044,7 @@
                 "website": "http://www.sbcl.org/"
             },
             {
-                "version": "1.3.4",
+                "version": "1.3.5",
                 "pkg": "sbt",
                 "description": "A build tool for Scala, Java, and more.",
                 "website": "https://www.scala-sbt.org/"
@@ -3260,7 +3260,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "0.29.0",
+                "version": "0.30.1",
                 "pkg": "starship",
                 "description": "The minimal, blazing fast, and extremely customizable prompt for any shell!",
                 "website": "https://starship.rs"
@@ -3326,7 +3326,7 @@
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
             },
             {
-                "version": "4.1.6",
+                "version": "4.1.7",
                 "pkg": "teleport",
                 "description": "Privileged access management for cloud-native infrastructure.",
                 "website": "https://gravitational.com/teleport/"
@@ -3738,6 +3738,12 @@
                 "pkg": "yasm",
                 "description": "Modular assembler based on NASM",
                 "website": "http://yasm.tortall.net/"
+            },
+            {
+                "version": "1.11",
+                "pkg": "yori",
+                "description": "CMD replacement shell that supports backquotes, job control, improves tab completion, file matching, aliases, command history, and more.",
+                "website": "http://www.malsmith.net/yori/"
             },
             {
                 "version": "2019.11.28",
@@ -4239,7 +4245,7 @@
                 "website": "http://brackets.io/"
             },
             {
-                "version": "1.1.20",
+                "version": "1.1.21",
                 "pkg": "brave",
                 "description": "Secure, Fast & Private Web Browser with Adblocker",
                 "website": "https://brave.com"
@@ -4857,7 +4863,7 @@
                 "website": "https://github.com/0xd4d/dnSpy"
             },
             {
-                "version": "6.21",
+                "version": "6.22",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5133,7 +5139,7 @@
                 "website": "https://github.com/GChristensen/enso-portable"
             },
             {
-                "version": "1.5.69",
+                "version": "1.5.70",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -5271,13 +5277,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "72.0b5",
+                "version": "72.0b6",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "72.0b5",
+                "version": "72.0b6",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5289,7 +5295,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191212095326",
+                "version": "73.0a1.20191213094653",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5379,7 +5385,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.42.4",
+                "version": "1.42.6",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -5649,7 +5655,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.3992.0",
+                "version": "81.0.3993.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6039,7 +6045,7 @@
                 "website": "https://jasperapp.io/"
             },
             {
-                "version": "6.10.0",
+                "version": "6.11.0",
                 "pkg": "jaspersoft-studio",
                 "description": "The Eclipse-based report development tool for JasperReports and JasperReports Server",
                 "website": "https://community.jaspersoft.com/project/jaspersoft-studio"
@@ -6717,13 +6723,13 @@
                 "website": "https://mobaxterm.mobatek.net/"
             },
             {
-                "version": "1.6.0",
+                "version": "1.7.0",
                 "pkg": "mockoon",
                 "description": "Easiest and quickest way to run mock APIs locally.",
                 "website": "https://mockoon.com/"
             },
             {
-                "version": "0.15.0.1",
+                "version": "0.15.0.2",
                 "pkg": "monero",
                 "description": "The secure, private, untraceable cryptocurrency",
                 "website": "https://getmonero.org"
@@ -6837,7 +6843,7 @@
                 "website": "https://www.msi.com/page/afterburner"
             },
             {
-                "version": "4.1.1.0",
+                "version": "4.1.2.0",
                 "pkg": "msikombustor",
                 "description": "A standalone benchmark/stability test tool based on software from the maker of Furmark.",
                 "website": "https://geeks3d.com/furmark/kombustor/downloads/"
@@ -7575,7 +7581,7 @@
                 "website": "https://processing.org/"
             },
             {
-                "version": "3.11.1",
+                "version": "3.11.2",
                 "pkg": "protobuf",
                 "description": "Protocol compiler used to compile .proto files.",
                 "website": "https://github.com/google/protobuf"
@@ -8121,7 +8127,7 @@
                 "website": "https://github.com/GoogleCloudPlatform/skaffold"
             },
             {
-                "version": "8.54.0.91",
+                "version": "8.55.0.135",
                 "pkg": "skype",
                 "description": "Communication tool for free calls and chat.",
                 "website": "https://www.skype.com/"
@@ -8175,7 +8181,7 @@
                 "website": "http://snakenest.com/snaketail/"
             },
             {
-                "version": "1.5.7.706",
+                "version": "1.5.8.707",
                 "pkg": "snappy-driver-installer-origin",
                 "description": "Device drivers installer and updater.",
                 "website": "https://www.snappy-driver-installer.org"
@@ -8403,7 +8409,7 @@
                 "website": "https://www.strawbs.org/"
             },
             {
-                "version": "4.4.1.12187",
+                "version": "4.4.2.12189",
                 "pkg": "streamdeck",
                 "description": "Stream Deck lets you take control of your content and focus on what's important: your audience.",
                 "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
@@ -9165,13 +9171,13 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.40.2",
+                "version": "1.41.0",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
-                "version": "1.40.2",
+                "version": "1.41.0",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -9255,7 +9261,7 @@
                 "website": "https://wexond.net/"
             },
             {
-                "version": "0.3.9308",
+                "version": "0.3.9309",
                 "pkg": "whatsapp",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
@@ -9339,7 +9345,7 @@
                 "website": "https://github.com/crazy-max/WindowsSpyBlocker"
             },
             {
-                "version": "2.0.0",
+                "version": "2.0.1",
                 "pkg": "winfbe",
                 "description": "FreeBASIC Editor for Windows",
                 "website": "https://github.com/PaulSquires/WinFBE"
@@ -9952,7 +9958,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2019-12-06-0829-master-eb66794",
+                "version": "2019-12-13-1205-master-43c7d2a",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
