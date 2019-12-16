@@ -938,7 +938,7 @@
                 "website": "https://exiftool.org"
             },
             {
-                "version": "0.11.0",
+                "version": "0.11.2",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -974,7 +974,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20191214-24424a6",
+                "version": "20191215-9fe0790",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1682,7 +1682,7 @@
                 "website": "https://github.com/sharkdp/insect"
             },
             {
-                "version": "5.5.5",
+                "version": "5.5.6",
                 "pkg": "invoke-build",
                 "description": "Build Automation in PowerShell.",
                 "website": "https://github.com/nightroman/Invoke-Build"
@@ -3428,7 +3428,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-19.12.12",
+                "version": "2.24-19.12.15",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3548,10 +3548,16 @@
                 "website": "https://velero.io"
             },
             {
-                "version": "8.2.0008",
+                "version": "8.2",
                 "pkg": "vim",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
-                "website": "http://www.vim.org"
+                "website": "https://www.vim.org"
+            },
+            {
+                "version": "8.2.0012",
+                "pkg": "vim-nightly",
+                "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
+                "website": "https://www.vim.org"
             },
             {
                 "version": "0.2018.07.25",
@@ -3572,7 +3578,7 @@
                 "website": "https://github.com/mattgreen/watchexec"
             },
             {
-                "version": "2.6.10",
+                "version": "2.6.11",
                 "pkg": "webhook",
                 "description": "A lightweight incoming webhook server to run shell commands.",
                 "website": "https://github.com/adnanh/webhook"
@@ -4413,7 +4419,7 @@
                 "website": "https://www.chromium.org"
             },
             {
-                "version": "80.0.3978.0.0-r718590",
+                "version": "81.0.3998.0-r724962",
                 "pkg": "chromium-dev-nosync",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -5205,7 +5211,7 @@
                 "website": "https://plot.ly/free-sql-client-download"
             },
             {
-                "version": "1.3.4.0",
+                "version": "1.3.5.0",
                 "pkg": "falconx",
                 "description": "Center Windows taskbar icons with a variety of animations and options.",
                 "website": "https://chrisandriessen.nl/web/FalconX.html"
@@ -5295,7 +5301,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191214094139",
+                "version": "73.0a1.20191215094838",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5655,7 +5661,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.3996.0",
+                "version": "81.0.3997.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6801,7 +6807,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20191208",
+                "version": "20191215",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -6861,7 +6867,7 @@
                 "website": "http://multicommander.com/"
             },
             {
-                "version": "1.1.0",
+                "version": "1.1.1",
                 "pkg": "multrin",
                 "description": "Organize multiple apps in tabs!",
                 "website": "https://github.com/sentialx/multrin"
@@ -7185,7 +7191,7 @@
                 "website": "https://github.com/TadasBaltrusaitis/OpenFace"
             },
             {
-                "version": "2.4.0",
+                "version": "2.5.0",
                 "pkg": "openhab",
                 "description": "A vendor and technology agnostic open source automation software for your home",
                 "website": "https://www.openhab.org/"
@@ -7359,7 +7365,7 @@
                 "website": "https://github.com/torakiki/pdfsam"
             },
             {
-                "version": "0.3.9.7",
+                "version": "0.4.0",
                 "pkg": "pe-bear",
                 "description": "A freeware reversing tool for PE files.",
                 "website": "https://hshrzd.wordpress.com/pe-bear/"
@@ -7489,6 +7495,12 @@
                 "pkg": "poedit",
                 "description": "Gettext translations editor.",
                 "website": "https://poedit.net"
+            },
+            {
+                "version": "3.2.3",
+                "pkg": "pomotodo",
+                "description": "A time management app based on Pomodoro Technique and GTD theory.",
+                "website": "https://pomotodo.com"
             },
             {
                 "version": "6.4.10",
@@ -7783,6 +7795,12 @@
                 "pkg": "rbtray",
                 "description": "Background program making any application minimizable to the system tray by right-clicking its Minimize button",
                 "website": "http://rbtray.sourceforge.net/"
+            },
+            {
+                "version": "2.7.1406.0",
+                "pkg": "rdcman",
+                "description": "Multiple remote desktop connections manager",
+                "website": "https://www.microsoft.com/en-us/download/details.aspx?id=44989"
             },
             {
                 "version": "6.01",
@@ -8127,7 +8145,7 @@
                 "website": "https://github.com/GoogleCloudPlatform/skaffold"
             },
             {
-                "version": "8.55.0.135",
+                "version": "8.55.0.141",
                 "pkg": "skype",
                 "description": "Communication tool for free calls and chat.",
                 "website": "https://www.skype.com/"
@@ -9395,7 +9413,7 @@
             {
                 "version": "5.80",
                 "pkg": "winrar",
-                "description": "Powerful archive manager.",
+                "description": "Powerful archive manager",
                 "website": "https://rarlab.com/"
             },
             {
@@ -9405,7 +9423,7 @@
                 "website": "https://winscp.net"
             },
             {
-                "version": "2.9.0",
+                "version": "2.9.1",
                 "pkg": "winsshterm",
                 "description": "A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv",
                 "website": "https://winsshterm.blogspot.com/"
@@ -9607,6 +9625,12 @@
                 "pkg": "yacreader",
                 "description": "A comic reader and manager.",
                 "website": "https://www.yacreader.com"
+            },
+            {
+                "version": "1.2.0",
+                "pkg": "yapa",
+                "description": "A minimalistic desktop timer app for Pomodoro Technique users",
+                "website": "https://lukaszbanasiak.github.io/YAPA/"
             },
             {
                 "version": "3.9.8.3",
