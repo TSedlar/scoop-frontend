@@ -62,7 +62,7 @@
                 "website": "https://algernon.roboticoverlords.org"
             },
             {
-                "version": "3.0.30",
+                "version": "3.0.31",
                 "pkg": "aliyun",
                 "description": "Manage and use Alibaba Cloud resources.",
                 "website": "https://github.com/aliyun/aliyun-cli"
@@ -152,7 +152,7 @@
                 "website": "https://github.com/vitiral/artifact"
             },
             {
-                "version": "2.1.0",
+                "version": "2.2.0",
                 "pkg": "asciidoctorj",
                 "description": "Asciidoctor integration & API for Java and other JVM languages",
                 "website": "https://asciidoctor.org/docs/asciidoctorj"
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.16.304",
+                "version": "1.16.305",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -198,6 +198,12 @@
                 "pkg": "aws-vault",
                 "description": "A vault for securely storing and accessing AWS credentials in development environments",
                 "website": "https://github.com/99designs/aws-vault"
+            },
+            {
+                "version": "0.0.8",
+                "pkg": "awsQueue",
+                "description": "Simple queue lister for AWS SQS",
+                "website": "https://github.com/NearlyUnique/awsqueue"
             },
             {
                 "version": "0.9.1",
@@ -224,7 +230,7 @@
                 "website": "https://github.com/Azure/azure-functions-core-tools"
             },
             {
-                "version": "3.1.0.30977",
+                "version": "3.2.0.31196",
                 "pkg": "azure-ps",
                 "description": "PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.",
                 "website": "https://aka.ms/azpsdocs"
@@ -494,7 +500,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "19.2.1",
+                "version": "19.2.2",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -746,6 +752,12 @@
                 "website": "https://dlang.org/"
             },
             {
+                "version": "1.6.7",
+                "pkg": "dmg2img",
+                "description": "Converts DMG image file to IMG.",
+                "website": "http://vu1tur.eu.org/tools/"
+            },
+            {
                 "version": "2.0.35",
                 "pkg": "dnscrypt-proxy",
                 "description": "A flexible DNS proxy, with support for encrypted DNS protocols",
@@ -932,13 +944,13 @@
                 "website": "http://exercism.io/"
             },
             {
-                "version": "11.79",
+                "version": "11.80",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://exiftool.org"
             },
             {
-                "version": "0.11.2",
+                "version": "0.11.3",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -1094,7 +1106,7 @@
                 "website": "https://github.com/fatedier/frp"
             },
             {
-                "version": "0.19.0",
+                "version": "0.20.0",
                 "pkg": "fzf",
                 "description": "A general-purpose command-line fuzzy finder.",
                 "website": "https://github.com/junegunn/fzf"
@@ -1166,7 +1178,7 @@
                 "website": "https://www.ghostscript.com"
             },
             {
-                "version": "0.14.0",
+                "version": "0.14.1",
                 "pkg": "ghq",
                 "description": "Remote repository management made easy.",
                 "website": "https://github.com/motemen/ghq"
@@ -1526,7 +1538,7 @@
                 "website": "https://www.haskell.org"
             },
             {
-                "version": "4.0.3",
+                "version": "4.0.5",
                 "pkg": "haxe",
                 "description": "High-level, cross-platform, multi-paradigm programming language and compiler.",
                 "website": "https://haxe.org/"
@@ -1538,13 +1550,13 @@
                 "website": "https://haxe.org/"
             },
             {
-                "version": "3.0.1",
+                "version": "3.0.2",
                 "pkg": "helm",
                 "description": "The package manager for Kubernetes",
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.96.0",
+                "version": "0.97.0",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1646,7 +1658,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.9-8",
+                "version": "7.0.9-9",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1772,7 +1784,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1082",
+                "version": "2.0.1083",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2330,13 +2342,13 @@
                 "website": "https://github.com/nodejs/node-chakracore"
             },
             {
-                "version": "13.3.0",
+                "version": "13.4.0",
                 "pkg": "nodejs",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
                 "website": "https://nodejs.org"
             },
             {
-                "version": "12.13.1",
+                "version": "12.14.0",
                 "pkg": "nodejs-lts",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications. (Long Term Support)",
                 "website": "https://nodejs.org"
@@ -2594,13 +2606,13 @@
                 "website": "http://phantomjs.org/"
             },
             {
-                "version": "7.4.0",
+                "version": "7.4.1",
                 "pkg": "php",
                 "description": "A popular general-purpose scripting language that is especially suited to web development. (thread safe)",
                 "website": "https://windows.php.net/"
             },
             {
-                "version": "7.4.0",
+                "version": "7.4.1",
                 "pkg": "php-nts",
                 "description": "A popular general-purpose scripting language that is especially suited to web development. (non-thread safe)",
                 "website": "https://windows.php.net/"
@@ -2612,7 +2624,7 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.18.2.2058-e67a4e892",
+                "version": "1.18.3.2156-349e9837e",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -3068,7 +3080,7 @@
                 "website": "http://scholdoc.scholarlymarkdown.com/"
             },
             {
-                "version": "3.1.1",
+                "version": "3.1.2",
                 "pkg": "scons",
                 "description": "A software construction tool",
                 "website": "https://scons.org/"
@@ -3194,7 +3206,7 @@
                 "website": "https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/"
             },
             {
-                "version": "8.0",
+                "version": "8.1.0.31237",
                 "pkg": "sonarqube",
                 "description": "Platform for continuous inspection of code quality and security using static analysis for 20+ programming languages.",
                 "website": "https://www.sonarqube.org"
@@ -3428,7 +3440,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-19.12.15",
+                "version": "2.24-19.12.17",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3494,7 +3506,7 @@
                 "website": "http://www.info-zip.org/"
             },
             {
-                "version": "1.5.0",
+                "version": "1.5.1",
                 "pkg": "up",
                 "description": "Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.",
                 "website": "https://github.com/apex/up"
@@ -4445,8 +4457,8 @@
             {
                 "version": "3.17.4-1",
                 "pkg": "claws-mail",
-                "description": "An email client (and news reader), based on GTK+.",
-                "website": "https://www.claws-mail.org/"
+                "description": "An email client and news reader",
+                "website": "https://www.claws-mail.org"
             },
             {
                 "version": "1.3.1",
@@ -4917,7 +4929,7 @@
                 "website": "http://www.dropitproject.com/"
             },
             {
-                "version": "1.7.24",
+                "version": "1.7.25",
                 "pkg": "ds4windows",
                 "description": "Portable program that allows you to get the best experience while using a DualShock 4 on your PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -5301,7 +5313,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191216095052",
+                "version": "73.0a1.20191217161753",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5529,7 +5541,7 @@
                 "website": "https://developer.arm.com/open-source/gnu-toolchain/gnu-rm"
             },
             {
-                "version": "273.0.0",
+                "version": "274.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -5655,13 +5667,13 @@
                 "website": "https://www.google.com/chrome/"
             },
             {
-                "version": "79.0.3945.79",
+                "version": "79.0.3945.88",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.3998.0",
+                "version": "81.0.3999.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -5673,13 +5685,13 @@
                 "website": "https://www.google.com/chrome/dev"
             },
             {
-                "version": "3.1.10",
+                "version": "3.1.11",
                 "pkg": "gpg4win",
                 "description": "GNU Privacy Guard for Windows is encryption software for files and emails.",
                 "website": "https://www.gpg4win.org"
             },
             {
-                "version": "3.1.10",
+                "version": "3.1.11",
                 "pkg": "gpg4win-portable",
                 "description": "GNU Privacy Guard for Windows is encryption software for files and emails.",
                 "website": "https://www.gpg4win.org"
@@ -5829,6 +5841,12 @@
                 "website": "http://www.abelhadigital.com/hostsman"
             },
             {
+                "version": "1.10.0",
+                "pkg": "hourglass",
+                "description": "The simple countdown timer for Windows",
+                "website": "https://chris.dziemborowicz.com/apps/hourglass/"
+            },
+            {
                 "version": "1.0.2.9",
                 "pkg": "http-downloader",
                 "description": "A download manager for the HTTP(S) and FTP(S) protocols.",
@@ -5973,7 +5991,7 @@
                 "website": "http://www.jrsoftware.org/isinfo.php"
             },
             {
-                "version": "7.0.5",
+                "version": "7.0.6",
                 "pkg": "insomnia",
                 "description": "HTTP and GraphQL client.",
                 "website": "https://insomnia.rest"
@@ -6423,7 +6441,7 @@
                 "website": "https://www.linuxliveusb.com"
             },
             {
-                "version": "2.6.0",
+                "version": "2.6.1",
                 "pkg": "linkerd",
                 "description": "An ultralight service mesh for Kubernetes.",
                 "website": "https://linkerd.io/"
@@ -6969,7 +6987,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "3.6.2",
+                "version": "3.6.3",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -7353,7 +7371,7 @@
                 "website": "https://www.pci-z.com/"
             },
             {
-                "version": "8.0.334.0",
+                "version": "8.0.335.0",
                 "pkg": "pdf-xchange-editor",
                 "description": "A small, fast, and feature-rich PDF viewer/editor.",
                 "website": "https://www.tracker-software.com/product/pdf-xchange-editor"
@@ -7773,7 +7791,7 @@
                 "website": "https://rambox.pro/"
             },
             {
-                "version": "1.2.1",
+                "version": "1.2.2",
                 "pkg": "rambox-pro",
                 "description": "Tool for organizing web apps into one application with rich features.",
                 "website": "https://rambox.pro/"
@@ -7803,7 +7821,7 @@
                 "website": "https://www.microsoft.com/en-us/download/details.aspx?id=44989"
             },
             {
-                "version": "6.01",
+                "version": "6.02",
                 "pkg": "reaper",
                 "description": "Digital Audio Workstation",
                 "website": "https://www.reaper.fm"
@@ -7851,7 +7869,7 @@
                 "website": "https://www.renpy.org/"
             },
             {
-                "version": "4.5.0",
+                "version": "4.5.1",
                 "pkg": "reshade",
                 "description": "A generic post-processing injector for games and video software.",
                 "website": "https://reshade.me/"
@@ -7929,7 +7947,7 @@
                 "website": "https://github.com/vivainio/RoughGrep/"
             },
             {
-                "version": "1.2.5019",
+                "version": "1.2.5033",
                 "pkg": "rstudio",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -8121,7 +8139,7 @@
                 "website": "https://sigil-ebook.com/"
             },
             {
-                "version": "1.29.0",
+                "version": "1.29.1",
                 "pkg": "signal",
                 "description": "A cross-platform encrypted messaging service.",
                 "website": "https://signal.org/"
@@ -8217,7 +8235,7 @@
                 "website": "https://www.soapui.org/"
             },
             {
-                "version": "0.5.14",
+                "version": "0.6.0",
                 "pkg": "solidity",
                 "description": "An object-oriented, high-level language for implementing smart contracts.",
                 "website": "https://solidity.readthedocs.io"
@@ -8367,13 +8385,13 @@
                 "website": "https://github.com/rupor-github/ssh-agent-wsl/"
             },
             {
-                "version": "3.0.23",
+                "version": "3.0.24",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
             },
             {
-                "version": "1.61.0",
+                "version": "1.63.1",
                 "pkg": "station",
                 "description": "A free desktop application that unifies all your work tools in one neat & productive interface.",
                 "website": "https://getstation.com/"
@@ -8619,7 +8637,7 @@
                 "website": "https://www.teamspeak.com/"
             },
             {
-                "version": "15.0.8397",
+                "version": "15.1.3937",
                 "pkg": "teamviewer",
                 "description": "TeamViewer is proprietary computer software for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers.",
                 "website": "https://www.teamviewer.com"
@@ -8715,7 +8733,7 @@
                 "website": "https://tightvnc.com"
             },
             {
-                "version": "0.1.6",
+                "version": "0.1.7",
                 "pkg": "timeseriesadmin",
                 "description": "Administration panel and querying interface for InfluxDB databases.",
                 "website": "https://timeseriesadmin.github.io/"
@@ -8739,7 +8757,7 @@
                 "website": "https://www.tinytask.net"
             },
             {
-                "version": "2.64",
+                "version": "2.65",
                 "pkg": "tixati",
                 "description": "BitTorrent client with advanced features",
                 "website": "https://tixati.com"
@@ -8919,7 +8937,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2019-12-14",
+                "version": "2019-12-17",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -9567,7 +9585,7 @@
                 "website": "https://github.com/sam0x17/XJoy"
             },
             {
-                "version": "3.4.8.6",
+                "version": "3.4.8.7",
                 "pkg": "xmedia-recode",
                 "description": "An All-In-One video converter and audio converter tool.",
                 "website": "https://www.xmedia-recode.de/en/"
@@ -9982,7 +10000,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2019-12-16-1818-master-bef2338",
+                "version": "2019-12-17-1421-master-f67d375",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -10018,7 +10036,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "10.17.0",
+                "version": "10.18.0",
                 "pkg": "nodejs10",
                 "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
                 "website": "https://nodejs.org"
@@ -10030,7 +10048,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "12.13.1",
+                "version": "12.14.0",
                 "pkg": "nodejs12",
                 "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
                 "website": "https://nodejs.org"
@@ -10060,7 +10078,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "8.16.2",
+                "version": "8.17.0",
                 "pkg": "nodejs8",
                 "description": "A JavaScript runtime built on Chrome's V8 JavaScript engine.",
                 "website": "https://nodejs.org"
@@ -10174,7 +10192,7 @@
                 "website": "https://xdebug.org/"
             },
             {
-                "version": "7.2.25",
+                "version": "7.2.26",
                 "pkg": "php72",
                 "description": null,
                 "website": "https://windows.php.net/"
@@ -10186,7 +10204,7 @@
                 "website": "https://xdebug.org/"
             },
             {
-                "version": "7.3.12",
+                "version": "7.3.13",
                 "pkg": "php73",
                 "description": null,
                 "website": "https://windows.php.net/"
@@ -10198,7 +10216,7 @@
                 "website": "https://xdebug.org/"
             },
             {
-                "version": "7.4.0",
+                "version": "7.4.1",
                 "pkg": "php74",
                 "description": null,
                 "website": "https://windows.php.net/"
@@ -10378,7 +10396,7 @@
                 "website": "https://tomcat.apache.org/"
             },
             {
-                "version": "7.0.96",
+                "version": "7.0.99",
                 "pkg": "tomcat7",
                 "description": null,
                 "website": "https://tomcat.apache.org/"
@@ -10396,7 +10414,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "2.10.1745.3",
+                "version": "2.10.1745.7",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
