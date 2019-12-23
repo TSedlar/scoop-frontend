@@ -188,10 +188,10 @@
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "2019-08-22",
+                "version": "0.4.0",
                 "pkg": "aws-iam-authenticator",
                 "description": "A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster",
-                "website": "https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html"
+                "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
                 "version": "5.0.0",
@@ -1118,7 +1118,7 @@
                 "website": "https://github.com/junegunn/fzf"
             },
             {
-                "version": "1.12.0",
+                "version": "1.12.1",
                 "pkg": "gallery-dl",
                 "description": "Command-line program to download image-galleries and -collections from several image hosting sites.",
                 "website": "https://github.com/mikf/gallery-dl"
@@ -1304,7 +1304,7 @@
                 "website": "https://github.com/hasura/gitkube"
             },
             {
-                "version": "12.5.0",
+                "version": "12.6.0",
                 "pkg": "gitlab-runner",
                 "description": "Run your jobs and send the results back to GitLab",
                 "website": "https://docs.gitlab.com/runner/"
@@ -1316,7 +1316,7 @@
                 "website": "https://github.com/muesli/gitomatic"
             },
             {
-                "version": "5.1.2",
+                "version": "5.1.3",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -1664,7 +1664,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.9-9",
+                "version": "7.0.9-10",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1794,6 +1794,12 @@
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
+            },
+            {
+                "version": "0.3.0",
+                "pkg": "k2tf",
+                "description": "Converts Kubernetes API Objects (in YAML format) into HashiCorp's Terraform configuration language.",
+                "website": "https://github.com/sl1pm4t/k2tf"
             },
             {
                 "version": "0.26.0",
@@ -2528,7 +2534,7 @@
                 "website": "https://www.packer.io"
             },
             {
-                "version": "5.241.2",
+                "version": "5.241.5",
                 "pkg": "paket",
                 "description": "Dependency manager for .NET with support for NuGet and Git repositories",
                 "website": "https://fsprojects.github.io/Paket/"
@@ -3446,7 +3452,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-19.12.20",
+                "version": "2.24-19.12.22",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3572,7 +3578,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0025",
+                "version": "8.2.0033",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3951,7 +3957,7 @@
                 "website": "https://github.com/AntiMicro/antimicro"
             },
             {
-                "version": "4.6",
+                "version": "4.7",
                 "pkg": "anyburn",
                 "description": "Free Solutions for CD / DVD / Blu-ray burning and imaging.",
                 "website": "http://www.anyburn.com/"
@@ -4707,7 +4713,7 @@
                 "website": "https://fishcodelib.com/Database.htm"
             },
             {
-                "version": "6.3.0",
+                "version": "6.3.1",
                 "pkg": "dbeaver",
                 "description": "Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.",
                 "website": "https://dbeaver.io/"
@@ -5325,7 +5331,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191221094532",
+                "version": "73.0a1.20191222094212",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5685,7 +5691,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.4003.0",
+                "version": "81.0.4004.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -5745,7 +5751,7 @@
                 "website": "https://tools.stefankueng.com/grepWin.html"
             },
             {
-                "version": "2019c",
+                "version": "2019d",
                 "pkg": "gretl",
                 "description": "Gnu Regression, Econometrics and Time-series Library",
                 "website": "http://gretl.sourceforge.net"
@@ -6843,7 +6849,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20191215",
+                "version": "20191222",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -7263,7 +7269,7 @@
                 "website": "https://www.openscad.org/"
             },
             {
-                "version": "2019.11.20",
+                "version": "2019.12.21",
                 "pkg": "openscad-dev",
                 "description": "The Programmers Solid 3D CAD Modeller",
                 "website": "https://www.openscad.org/"
@@ -9117,7 +9123,7 @@
                 "website": "https://vcxsrv.sourceforge.io/"
             },
             {
-                "version": "0.14.0",
+                "version": "0.22.0",
                 "pkg": "veonim",
                 "description": "Simple modal IDE built on neovim.",
                 "website": "https://github.com/veonim/veonim"
@@ -10138,13 +10144,13 @@
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "1.0.2t",
+                "version": "1.0.2u",
                 "pkg": "openssl10",
                 "description": "TLS/SSL toolkit (1.0.x branch)",
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "1.0.2t",
+                "version": "1.0.2u",
                 "pkg": "openssl10-light",
                 "description": "TLS/SSL toolkit (Light, 1.0.x branch)",
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
