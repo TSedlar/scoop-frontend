@@ -74,7 +74,7 @@
                 "website": "https://github.com/allure-framework/allure2"
             },
             {
-                "version": "1.9.2",
+                "version": "1.9.3",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.16.308",
+                "version": "1.16.309",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -596,7 +596,7 @@
                 "website": "http://cppcheck.sourceforge.net/"
             },
             {
-                "version": "6.4.7",
+                "version": "6.4.8",
                 "pkg": "croc",
                 "description": "Easily and securely send things from one computer to another.",
                 "website": "https://schollz.com/software/croc6"
@@ -986,7 +986,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20191219-99f505d",
+                "version": "20191223-5b42d33",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1490,6 +1490,12 @@
                 "website": "http://www.nongnu.org/gsl-shell/"
             },
             {
+                "version": "0.4.1",
+                "pkg": "gsudo",
+                "description": "A Sudo for Windows",
+                "website": "https://github.com/gerardog/gsudo"
+            },
+            {
                 "version": "1.0.1",
                 "pkg": "guetzli",
                 "description": "Perceptual JPEG encoder",
@@ -1604,13 +1610,13 @@
                 "website": "https://hub.github.com/"
             },
             {
-                "version": "0.61.0",
+                "version": "0.62.0",
                 "pkg": "hugo",
                 "description": "Speedy and flexible static site generator (without Sass/SCSS support)",
                 "website": "https://gohugo.io"
             },
             {
-                "version": "0.61.0",
+                "version": "0.62.0",
                 "pkg": "hugo-extended",
                 "description": "Speedy and flexible static site generator. (with Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -1742,7 +1748,7 @@
                 "website": "https://github.com/jbruchon/jdupes"
             },
             {
-                "version": "1.32.3",
+                "version": "1.32.4",
                 "pkg": "jfrog",
                 "description": "Command Line Interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -1832,7 +1838,7 @@
                 "website": "https://www.influxdata.com/time-series-platform/kapacitor/"
             },
             {
-                "version": "1.19.0",
+                "version": "1.20.0",
                 "pkg": "kompose",
                 "description": "Kompose is a conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).",
                 "website": "http://kompose.io"
@@ -1892,7 +1898,7 @@
                 "website": "https://github.com/garethr/kubeval"
             },
             {
-                "version": "3.2.3",
+                "version": "3.5.3",
                 "pkg": "kustomize",
                 "description": "Customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.",
                 "website": "https://github.com/kubernetes-sigs/kustomize"
@@ -2390,7 +2396,7 @@
                 "website": "https://github.com/Nuke928/NTop"
             },
             {
-                "version": "0.5.0",
+                "version": "0.7.0",
                 "pkg": "nu",
                 "description": "A modern shell written in Rust.",
                 "website": "https://www.nushell.sh"
@@ -2540,7 +2546,7 @@
                 "website": "https://fsprojects.github.io/Paket/"
             },
             {
-                "version": "2.9",
+                "version": "2.9.1",
                 "pkg": "pandoc",
                 "description": "Universal markup converter",
                 "website": "https://pandoc.org"
@@ -2576,7 +2582,7 @@
                 "website": "https://jwilk.net/software/pdf2djvu"
             },
             {
-                "version": "2.0.17",
+                "version": "2.0.18",
                 "pkg": "pdfbox",
                 "description": "Java tool for working with PDF documents.",
                 "website": "https://pdfbox.apache.org"
@@ -2594,7 +2600,7 @@
                 "website": "https://hshrzd.wordpress.com/pe-sieve/"
             },
             {
-                "version": "0.5.3",
+                "version": "0.5.4",
                 "pkg": "peco",
                 "description": "Simplistic interactive filtering tool",
                 "website": "https://github.com/peco/peco/"
@@ -2708,7 +2714,7 @@
                 "website": "https://github.com/ldez/prm/"
             },
             {
-                "version": "2.14.0",
+                "version": "2.15.0",
                 "pkg": "prometheus",
                 "description": "Power your metrics and alerting with a leading open-source monitoring solution.",
                 "website": "https://prometheus.io/"
@@ -3578,7 +3584,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0033",
+                "version": "8.2.0035",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4653,7 +4659,7 @@
                 "website": "http://cue.tools/wiki/Main_Page"
             },
             {
-                "version": "4.4.0",
+                "version": "4.4.1",
                 "pkg": "cura",
                 "description": "Model editing tools for 3D printing",
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
@@ -5289,7 +5295,7 @@
                 "website": "https://www.filebot.net/"
             },
             {
-                "version": "3.46.2",
+                "version": "3.46.3",
                 "pkg": "filezilla",
                 "description": "Fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",
                 "website": "https://filezilla-project.org/"
@@ -5313,13 +5319,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "72.0b9",
+                "version": "72.0b10",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "72.0b9",
+                "version": "72.0b10",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5331,7 +5337,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191222094212",
+                "version": "73.0a1.20191222215627",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5409,7 +5415,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "2019-08-04",
+                "version": "2019-12-23",
                 "pkg": "foobar2000-encoders",
                 "description": "This pack includes every natively supported free encoder binary for use with the Converter foobar2000 component.",
                 "website": "https://www.foobar2000.org/encoderpack"
@@ -5571,7 +5577,7 @@
                 "website": "https://www.geany.org/"
             },
             {
-                "version": "5.0.4",
+                "version": "5.1.0",
                 "pkg": "geekbench",
                 "description": "CPU/GPU benchmark software",
                 "website": "https://www.geekbench.com/"
@@ -5691,7 +5697,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.4004.0",
+                "version": "81.0.4005.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6273,7 +6279,7 @@
                 "website": "http://kicad-pcb.org/"
             },
             {
-                "version": "3.8.0",
+                "version": "3.8.1",
                 "pkg": "kid3",
                 "description": "Efficient ID3v1 and ID3v2 tag editor",
                 "website": "https://kid3.sourceforge.io"
@@ -6615,7 +6621,7 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "1.20.6",
+                "version": "1.20.6.5",
                 "pkg": "markdown-monster",
                 "description": "Markdown editing and weblog publishing tool.",
                 "website": "https://markdownmonster.west-wind.com"
@@ -7665,7 +7671,7 @@
                 "website": "https://s3.amazonaws.com/psiphon/web/60l3-nnss-6gsn/index.html"
             },
             {
-                "version": "5.0.1",
+                "version": "5.0.2",
                 "pkg": "pspad",
                 "description": "A text editor for developers.",
                 "website": "http://www.pspad.com"
@@ -8427,7 +8433,7 @@
                 "website": "https://standardnotes.org/"
             },
             {
-                "version": "1.63.1",
+                "version": "1.63.2",
                 "pkg": "station",
                 "description": "A free desktop application that unifies all your work tools in one neat & productive interface.",
                 "website": "https://getstation.com/"
@@ -8757,13 +8763,13 @@
                 "website": "https://thonny.org"
             },
             {
-                "version": "68.3.0",
+                "version": "68.3.1",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "68.3.0",
+                "version": "68.3.1",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -9195,7 +9201,7 @@
                 "website": "https://www.visualstudio.com"
             },
             {
-                "version": "2.10.1745.21",
+                "version": "2.10.1745.23",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -9934,7 +9940,7 @@
                 "website": "https://gitea.io/"
             },
             {
-                "version": "5.1.3-beta1-9",
+                "version": "5.1.4-beta1-4",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -10042,7 +10048,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2019-12-21-1913-master-92b1e79",
+                "version": "2019-12-23-0732-master-ef1482a",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
