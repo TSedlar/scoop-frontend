@@ -74,7 +74,7 @@
                 "website": "https://github.com/allure-framework/allure2"
             },
             {
-                "version": "1.9.3",
+                "version": "1.9.5",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
@@ -194,7 +194,7 @@
                 "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
-                "version": "5.0.0",
+                "version": "5.0.1",
                 "pkg": "aws-vault",
                 "description": "A vault for securely storing and accessing AWS credentials in development environments",
                 "website": "https://github.com/99designs/aws-vault"
@@ -234,6 +234,12 @@
                 "pkg": "azure-ps",
                 "description": "PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.",
                 "website": "https://aka.ms/azpsdocs"
+            },
+            {
+                "version": "20130305",
+                "pkg": "b2sum",
+                "description": "Tool to create BLAKE2 hashes of files or streams",
+                "website": "https://blake2.net"
             },
             {
                 "version": "0.12.1",
@@ -860,7 +866,7 @@
                 "website": "https://duplicacy.com/"
             },
             {
-                "version": "0.77.3",
+                "version": "0.78.0",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1184,7 +1190,7 @@
                 "website": "https://www.ghostscript.com"
             },
             {
-                "version": "0.16.0",
+                "version": "0.17.1",
                 "pkg": "ghq",
                 "description": "Remote repository management made easy.",
                 "website": "https://github.com/motemen/ghq"
@@ -1448,7 +1454,7 @@
                 "website": "https://grails.org/"
             },
             {
-                "version": "1.3.33",
+                "version": "1.3.34",
                 "pkg": "graphicsmagick",
                 "description": "Robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 89 major formats. (24/32 bit pixel support)",
                 "website": "http://www.graphicsmagick.org/"
@@ -1466,7 +1472,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/grep.htm"
             },
             {
-                "version": "0.2.0",
+                "version": "0.3.0",
                 "pkg": "grex",
                 "description": "A regular expression generator",
                 "website": "https://github.com/pemistahl/grex"
@@ -1490,7 +1496,7 @@
                 "website": "http://www.nongnu.org/gsl-shell/"
             },
             {
-                "version": "0.4.1",
+                "version": "0.4.2",
                 "pkg": "gsudo",
                 "description": "A Sudo for Windows",
                 "website": "https://github.com/gerardog/gsudo"
@@ -1724,6 +1730,12 @@
                 "website": "http://bleyer.org/icarus/"
             },
             {
+                "version": "0.11.2",
+                "pkg": "jabba",
+                "description": "Java Version Manager",
+                "website": "https://github.com/shyiko/jabba"
+            },
+            {
                 "version": "nightly",
                 "pkg": "jar2app",
                 "description": "Convert any Java jar to a Mac OS X .App bundle.",
@@ -1796,7 +1808,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1093",
+                "version": "2.0.1094",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2150,13 +2162,13 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2019-12-19T22-52-26Z",
+                "version": "2019-12-24T23-04-45Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://minio.io/"
             },
             {
-                "version": "2019-12-17T23-26-28Z",
+                "version": "2019-12-24T23-41-36Z",
                 "pkg": "minio-client",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (client)",
                 "website": "https://minio.io/"
@@ -2312,7 +2324,7 @@
                 "website": "https://eternallybored.org/misc/netcat/"
             },
             {
-                "version": "1.17.6",
+                "version": "1.17.7",
                 "pkg": "nginx",
                 "description": "An HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server.",
                 "website": "https://nginx.org"
@@ -2552,7 +2564,7 @@
                 "website": "https://pandoc.org"
             },
             {
-                "version": "0.3.6.1",
+                "version": "0.3.6.1a",
                 "pkg": "pandoc-crossref",
                 "description": "Pandoc filter for cross-references.",
                 "website": "https://hackage.haskell.org/package/pandoc-crossref"
@@ -2804,13 +2816,13 @@
                 "website": "https://github.com/David-OConnor/pyflow"
             },
             {
-                "version": "7.2.0",
+                "version": "7.3.0",
                 "pkg": "pypy2",
                 "description": "A fast, compliant alternative implementation of the Python language.",
                 "website": "https://pypy.org"
             },
             {
-                "version": "7.2.0",
+                "version": "7.3.0",
                 "pkg": "pypy3",
                 "description": "A fast, compliant alternative implementation of the Python language.",
                 "website": "https://pypy.org"
@@ -2950,7 +2962,7 @@
             {
                 "version": "0.9.3",
                 "pkg": "rga",
-                "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+                "description": "ripgrep-all: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
                 "website": "https://github.com/phiresky/ripgrep-all"
             },
             {
@@ -3584,7 +3596,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0035",
+                "version": "8.2.0037",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3782,7 +3794,7 @@
                 "website": "http://www.malsmith.net/yori/"
             },
             {
-                "version": "2019.11.28",
+                "version": "2019.12.25",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://ytdl-org.github.io/youtube-dl/"
@@ -3897,7 +3909,7 @@
                 "website": "https://album-art.sourceforge.net"
             },
             {
-                "version": "2.4.0",
+                "version": "2.4.2",
                 "pkg": "altair",
                 "description": "Beautiful feature-rich GraphQL Client.",
                 "website": "https://altair.sirmuel.design/"
@@ -4047,7 +4059,7 @@
                 "website": "https://www.arduino.cc/"
             },
             {
-                "version": "2.1.2",
+                "version": "3.0.0",
                 "pkg": "aria-ng-gui",
                 "description": "An Aria2 GUI for Windows & Linux & MacOS.",
                 "website": "https://aria-ng.xmader.com/"
@@ -4713,7 +4725,7 @@
                 "website": "https://www.dartlang.org/"
             },
             {
-                "version": "29.5.7289.1",
+                "version": "29.6.7297.1",
                 "pkg": "database.net",
                 "description": "Database .NET is an innovative, powerful and intuitive multiple database management tool.",
                 "website": "https://fishcodelib.com/Database.htm"
@@ -5337,7 +5349,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "73.0a1.20191222215627",
+                "version": "73.0a1.20191224041100",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5577,6 +5589,12 @@
                 "website": "https://www.geany.org/"
             },
             {
+                "version": "3.20.1",
+                "pkg": "gedit",
+                "description": "A powerful general purpose text editor",
+                "website": "https://wiki.gnome.org/Apps/Gedit"
+            },
+            {
                 "version": "5.1.0",
                 "pkg": "geekbench",
                 "description": "CPU/GPU benchmark software",
@@ -5697,7 +5715,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "81.0.4005.0",
+                "version": "81.0.4006.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6363,7 +6381,7 @@
                 "website": "https://getlantern.org"
             },
             {
-                "version": "2.9.66",
+                "version": "2.10.79",
                 "pkg": "launchy",
                 "description": "A smart search launcher for installed programs or files.",
                 "website": "https://openningia.github.io/Launchy"
@@ -6621,7 +6639,7 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "1.20.6.5",
+                "version": "1.20.6.8",
                 "pkg": "markdown-monster",
                 "description": "Markdown editing and weblog publishing tool.",
                 "website": "https://markdownmonster.west-wind.com"
@@ -7017,7 +7035,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "3.6.9",
+                "version": "3.7.0",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -7033,6 +7051,12 @@
                 "pkg": "nexusfont",
                 "description": "Font manager",
                 "website": "http://www.xiles.net/"
+            },
+            {
+                "version": "31",
+                "pkg": "ngspice",
+                "description": "SPICE simulator for electric and electronic circuits",
+                "website": "http://ngspice.sourceforge.net"
             },
             {
                 "version": "2.2.0.41590",
@@ -8891,7 +8915,7 @@
             {
                 "version": "4.4.1",
                 "pkg": "treesize-free",
-                "description": "Quickly capture directory sizes and memory guzzlers.",
+                "description": "Capture directory sizes and memory guzzlers.",
                 "website": "https://www.jam-software.com/treesize_free"
             },
             {
@@ -8907,7 +8931,7 @@
                 "website": "http://www.tribler.org"
             },
             {
-                "version": "0.38.2",
+                "version": "0.38.3",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -9027,7 +9051,7 @@
                 "website": "https://www.uwamp.com/en/"
             },
             {
-                "version": "3.2",
+                "version": "3.3",
                 "pkg": "v2rayn",
                 "description": "GUI client based on v2ray core",
                 "website": "https://github.com/2dust/v2rayN"
@@ -9159,7 +9183,7 @@
                 "website": "https://github.com/ozmartian/vidcutter"
             },
             {
-                "version": "0.2.5.4",
+                "version": "0.2.5.5",
                 "pkg": "vidi",
                 "description": "A tool for static analysis of PE files, based on bearparser & capstone",
                 "website": "https://hshrzd.wordpress.com/vidi-visual-disassembler/"
@@ -9489,7 +9513,7 @@
                 "website": "https://winscp.net"
             },
             {
-                "version": "2.9.1",
+                "version": "2.9.2",
                 "pkg": "winsshterm",
                 "description": "A tabbed SSH solution for Windows, combining PuTTY/KiTTY, WinSCP and VcXsrv",
                 "website": "https://winsshterm.blogspot.com/"
@@ -9958,7 +9982,7 @@
                 "website": "https://gradle.org"
             },
             {
-                "version": "1.3.33",
+                "version": "1.3.34",
                 "pkg": "graphicsmagick-q16",
                 "description": "Robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 89 major formats. (48/64 bit pixel support for high-resolution color)",
                 "website": "http://www.graphicsmagick.org/"
@@ -10048,7 +10072,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2019-12-23-0732-master-ef1482a",
+                "version": "2019-12-24-1639-master-f732351",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
