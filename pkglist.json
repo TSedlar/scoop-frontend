@@ -20,7 +20,7 @@
                 "website": "https://github.com/ibigbug/PowerSession"
             },
             {
-                "version": "3.3.0",
+                "version": "3.3.1",
                 "pkg": "ack",
                 "description": "A tool like grep, optimized for programmers",
                 "website": "https://beyondgrep.com/"
@@ -74,7 +74,7 @@
                 "website": "https://github.com/allure-framework/allure2"
             },
             {
-                "version": "2.0.3",
+                "version": "2.0.4",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.17.1",
+                "version": "1.17.2",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -458,6 +458,12 @@
                 "website": "https://github.com/tpanj/cht.exe"
             },
             {
+                "version": "1.4.0.0",
+                "pkg": "chuck",
+                "description": "Strongly-timed, Concurrent, and On-the-fly Music Programming Language.",
+                "website": "http://chuck.stanford.edu"
+            },
+            {
                 "version": "0.1.5879",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
@@ -530,13 +536,13 @@
                 "website": "https://github.com/Microsoft/Terminal/tree/master/src/tools/ColorTool"
             },
             {
-                "version": "1.9.1",
+                "version": "1.9.2",
                 "pkg": "composer",
                 "description": "Dependency Manager for PHP",
                 "website": "https://getcomposer.org/"
             },
             {
-                "version": "1.21.0",
+                "version": "1.21.1",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager.",
                 "website": "https://conan.io/"
@@ -842,7 +848,7 @@
                 "website": "https://github.com/filipw/dotnet-script"
             },
             {
-                "version": "3.1.100",
+                "version": "3.1.101",
                 "pkg": "dotnet-sdk",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
@@ -872,7 +878,7 @@
                 "website": "https://duplicacy.com/"
             },
             {
-                "version": "0.80.0",
+                "version": "0.81.3",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1490,7 +1496,7 @@
                 "website": "https://github.com/pemistahl/grex"
             },
             {
-                "version": "2.5.8",
+                "version": "2.5.9",
                 "pkg": "groovy",
                 "description": "A powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at improving developer productivity thanks to a concise, familiar and easy to learn syntax.",
                 "website": "http://www.groovy-lang.org/"
@@ -1844,7 +1850,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1120",
+                "version": "2.0.1123",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -1910,13 +1916,13 @@
                 "website": "https://kotlinlang.org/"
             },
             {
-                "version": "1.17.0",
+                "version": "1.17.1",
                 "pkg": "kubeadm",
                 "description": "Kubernetes node provisioning tool",
                 "website": "https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm/"
             },
             {
-                "version": "1.17.0",
+                "version": "1.17.1",
                 "pkg": "kubectl",
                 "description": "Control the Kubernetes cluster manager.",
                 "website": "https://kubernetes.io/docs/user-guide/kubectl-overview/"
@@ -1934,7 +1940,7 @@
                 "website": "https://github.com/txn2/kubefwd"
             },
             {
-                "version": "1.17.0",
+                "version": "1.17.1",
                 "pkg": "kubelet",
                 "description": "Kubernetes node agent",
                 "website": "https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/"
@@ -2168,13 +2174,13 @@
                 "website": "https://micro-editor.github.io/"
             },
             {
-                "version": "1.2.8",
+                "version": "1.2.9",
                 "pkg": "micronaut",
                 "description": "Micronaut - A modern, JVM-based (Java, Groovy, Kotlin), full-stack framework for building modular and testable microservice and serverless applications",
                 "website": "https://micronaut.io"
             },
             {
-                "version": "0.5.8",
+                "version": "0.5.9",
                 "pkg": "mill",
                 "description": "Build tool aiming for Java and Scala.",
                 "website": "http://www.lihaoyi.com/mill/"
@@ -2204,7 +2210,7 @@
                 "website": "https://minio.io/"
             },
             {
-                "version": "2020-01-03T20-33-14Z",
+                "version": "2020-01-13T22-49-03Z",
                 "pkg": "minio-client",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (client)",
                 "website": "https://minio.io/"
@@ -2828,10 +2834,16 @@
                 "website": "https://github.com/ericchiang/pup"
             },
             {
-                "version": "6.11.1",
+                "version": "6.4.5",
                 "pkg": "puppet",
                 "description": "An open-core software configuration management tool.",
                 "website": "https://puppetlabs.com"
+            },
+            {
+                "version": "1.45.0",
+                "pkg": "puppet-bolt",
+                "description": "Orchestration and agentless IT automation",
+                "website": "https://puppet.com/open-source/bolt"
             },
             {
                 "version": "0.13.5",
@@ -3092,7 +3104,7 @@
                 "website": "https://github.com/desbma/sacad"
             },
             {
-                "version": "2.20.0",
+                "version": "2.21.0",
                 "pkg": "saml2aws",
                 "description": "Login and retrieve Amazon Web Services / AWS temporary credentials using a SAML IDP.",
                 "website": "https://github.com/Versent/saml2aws"
@@ -3428,7 +3440,7 @@
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.21.10",
+                "version": "0.21.11",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -3506,7 +3518,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.01.12",
+                "version": "2.24-20.01.14",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3632,7 +3644,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0116",
+                "version": "8.2.0119",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3824,7 +3836,7 @@
                 "website": "http://www.malsmith.net/yori/"
             },
             {
-                "version": "2020.01.01",
+                "version": "2020.01.15",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://ytdl-org.github.io/youtube-dl/"
@@ -4011,7 +4023,7 @@
                 "website": "https://developer.android.com/studio/"
             },
             {
-                "version": "2.1.17",
+                "version": "2.1.18",
                 "pkg": "anki",
                 "description": "Powerful, intelligent flash cards.",
                 "website": "https://apps.ankiweb.net/"
@@ -4131,7 +4143,7 @@
                 "website": "http://astrogrep.sourceforge.net/"
             },
             {
-                "version": "1.42.0",
+                "version": "1.43.0",
                 "pkg": "atom",
                 "description": "The hackable text editor.",
                 "website": "https://atom.io/"
@@ -4743,7 +4755,7 @@
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.8.0-dev.0.0",
+                "version": "2.8.0-dev.2.0",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -4977,7 +4989,7 @@
                 "website": "https://www.softwareok.com/?Download=DontSleep"
             },
             {
-                "version": "1.5.14",
+                "version": "2.0.1",
                 "pkg": "dopamine",
                 "description": "Audio player which tries to make organizing and listening to music as simple and pretty as possible.",
                 "website": "https://www.digimezzo.com/software/dopamine/"
@@ -5247,7 +5259,7 @@
                 "website": "https://github.com/GChristensen/enso-portable"
             },
             {
-                "version": "1.5.70",
+                "version": "1.5.71",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -5283,7 +5295,7 @@
                 "website": "https://www.voidtools.com"
             },
             {
-                "version": "4.0.0",
+                "version": "4.0.2",
                 "pkg": "exaile",
                 "description": "A music player with a simple interface and powerful music management capabilities.",
                 "website": "https://www.exaile.org/"
@@ -5403,7 +5415,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "74.0a1.20200113204142",
+                "version": "74.0a1.20200114094410",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5421,13 +5433,13 @@
                 "website": "https://www.prime-expert.com/flashboot/"
             },
             {
-                "version": "32.0.0.303",
+                "version": "32.0.0.314",
                 "pkg": "flashplayer-sa",
                 "description": "Standalone version of Adobe Flash Player",
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "32.0.0.303",
+                "version": "32.0.0.314",
                 "pkg": "flashplayer-sa-debug",
                 "description": "Standalone version of Adobe Flash Player for debugging",
                 "website": "https://get.adobe.com/flashplayer/"
@@ -5637,7 +5649,7 @@
                 "website": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm"
             },
             {
-                "version": "275.0.0",
+                "version": "276.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -7005,7 +7017,7 @@
                 "website": "https://codewith.mu"
             },
             {
-                "version": "9.5.0.2570",
+                "version": "9.5.3.2578",
                 "pkg": "multicommander",
                 "description": "A multi-tabbed file manager and is an alternative to the standard Windows Explorer",
                 "website": "http://multicommander.com/"
@@ -7113,7 +7125,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "3.7.6",
+                "version": "3.7.7",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -8349,7 +8361,7 @@
                 "website": "https://slic3r.org/"
             },
             {
-                "version": "19.1.5",
+                "version": "19.1.6",
                 "pkg": "smartgit",
                 "description": "A graphical Git client with support for SVN and Pull Requests for GitHub and Bitbucket.",
                 "website": "https://www.syntevo.com/smartgit/"
@@ -8607,7 +8619,7 @@
                 "website": "https://crawl.develz.org/"
             },
             {
-                "version": "1.11.2",
+                "version": "1.12.0",
                 "pkg": "storageexplorer",
                 "description": "Easily manage the contents of Azure storage account.",
                 "website": "https://azure.microsoft.com/en-us/features/storage-explorer/"
@@ -8625,7 +8637,7 @@
                 "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
             },
             {
-                "version": "1.0.2.60",
+                "version": "1.0.2.61",
                 "pkg": "streamlabs-chatbot",
                 "description": "Open Broadcaster Software for Gamers",
                 "website": "https://streamlabs.com/chatbot"
@@ -8727,7 +8739,7 @@
                 "website": "https://www.swi-prolog.org/"
             },
             {
-                "version": "3.5.3",
+                "version": "3.5.4",
                 "pkg": "switchhosts",
                 "description": "App for hosts management & switching.",
                 "website": "https://oldj.github.io/SwitchHosts/"
@@ -8937,7 +8949,7 @@
                 "website": "https://github.com/tinode/chat"
             },
             {
-                "version": "3.1.1",
+                "version": "3.1.2",
                 "pkg": "tinymediamanager",
                 "description": "tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center (formerly known as XBMC), MediaPortal and Plex media server",
                 "website": "https://www.tinymediamanager.org/"
@@ -9105,7 +9117,7 @@
                 "website": "https://ugetdm.com/"
             },
             {
-                "version": "1.52",
+                "version": "1.53",
                 "pkg": "uiforetw",
                 "description": "User interface for recording and managing ETW traces",
                 "website": "https://github.com/google/UIforETW"
@@ -9567,7 +9579,7 @@
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
             },
             {
-                "version": "0.7.3451.0",
+                "version": "0.8.10091.0",
                 "pkg": "windows-terminal",
                 "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
                 "website": "https://github.com/microsoft/terminal"
@@ -9579,7 +9591,7 @@
                 "website": "https://github.com/crazy-max/WindowsSpyBlocker"
             },
             {
-                "version": "2.0.2",
+                "version": "2.0.3",
                 "pkg": "winfbe",
                 "description": "FreeBASIC Editor for Windows",
                 "website": "https://github.com/PaulSquires/WinFBE"
@@ -9994,19 +10006,19 @@
                 "website": "https://www.archimatetool.com/"
             },
             {
-                "version": "1.43.0-beta0",
+                "version": "1.44.0-beta0",
                 "pkg": "atom-beta",
                 "description": "The hackable text editor (beta edition).",
                 "website": "https://atom.io/"
             },
             {
-                "version": "1.43.0-beta0",
+                "version": "1.44.0-beta0",
                 "pkg": "atom-beta-portable",
                 "description": "The hackable text editor (portable beta edition).",
                 "website": "https://atom.io/"
             },
             {
-                "version": "1.42.0",
+                "version": "1.43.0",
                 "pkg": "atom-portable",
                 "description": "The hackable text editor (portable edition).",
                 "website": "https://atom.io/"
@@ -10204,19 +10216,19 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-01-11-1012-master-3997e1f",
+                "version": "2020-01-14-1934-master-385f33e",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
             },
             {
-                "version": "5.6.46",
+                "version": "5.6.47",
                 "pkg": "mysql56",
                 "description": null,
                 "website": "https://dev.mysql.com/downloads/mysql/"
             },
             {
-                "version": "5.7.28",
+                "version": "5.7.29",
                 "pkg": "mysql57",
                 "description": null,
                 "website": "https://dev.mysql.com/downloads/mysql/"
@@ -10498,7 +10510,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.50.2-131-g58064bdd",
+                "version": "1.50.2-134-g63128834",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -10528,7 +10540,7 @@
                 "website": "http://www.scala-sbt.org/"
             },
             {
-                "version": "4.3.1-beta1",
+                "version": "4.3.2-beta2",
                 "pkg": "slack-beta",
                 "description": "A collaboration hub for work.",
                 "website": "https://slack.com"
@@ -10618,7 +10630,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "2.11.1784.3",
+                "version": "2.11.1789.3",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
