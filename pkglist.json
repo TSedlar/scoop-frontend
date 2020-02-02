@@ -392,7 +392,7 @@
                 "website": "https://caddyserver.com"
             },
             {
-                "version": "0.36.0",
+                "version": "0.37.0",
                 "pkg": "cake",
                 "description": "Cake (C# Make) is a cross-platform build automation system with a C# DSL",
                 "website": "https://cakebuild.net/"
@@ -650,7 +650,7 @@
                 "website": "https://curl.haxx.se/"
             },
             {
-                "version": "1.10.0",
+                "version": "1.10.1",
                 "pkg": "cutter",
                 "description": "A Qt and C++ GUI for radare2 reverse engineering framework",
                 "website": "https://github.com/radareorg/cutter"
@@ -1850,7 +1850,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1173",
+                "version": "2.0.1176",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -1898,7 +1898,7 @@
                 "website": "http://kompose.io"
             },
             {
-                "version": "1.15.0",
+                "version": "1.15.1",
                 "pkg": "kops",
                 "description": "Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management.",
                 "website": "https://github.com/kubernetes/kops/"
@@ -2207,13 +2207,13 @@
                 "version": "2020-01-25T02-50-51Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
-                "website": "https://minio.io/"
+                "website": "https://min.io/"
             },
             {
                 "version": "2020-01-25T03-02-19Z",
                 "pkg": "minio-client",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (client)",
-                "website": "https://minio.io/"
+                "website": "https://min.io/"
             },
             {
                 "version": "1.34.2",
@@ -2900,7 +2900,7 @@
                 "website": "https://sites.google.com/site/qaacpage/"
             },
             {
-                "version": "4.1.0",
+                "version": "4.2.0",
                 "pkg": "qemu",
                 "description": "A generic and open source machine emulator and virtualizer.",
                 "website": "https://qemu.weilnetz.de/"
@@ -2960,7 +2960,7 @@
                 "website": "https://github.com/electron/rcedit"
             },
             {
-                "version": "1.50.2",
+                "version": "1.51.0",
                 "pkg": "rclone",
                 "description": "Sync files and directories to and from mulitple cloud / FTP / HTTP hosters.",
                 "website": "https://rclone.org"
@@ -3110,7 +3110,7 @@
                 "website": "https://github.com/desbma/sacad"
             },
             {
-                "version": "2.22.0",
+                "version": "2.22.1",
                 "pkg": "saml2aws",
                 "description": "Login and retrieve Amazon Web Services / AWS temporary credentials using a SAML IDP.",
                 "website": "https://github.com/Versent/saml2aws"
@@ -3524,7 +3524,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.01.28",
+                "version": "2.24-20.02.01",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3650,7 +3650,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0190",
+                "version": "8.2.0194",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4293,6 +4293,18 @@
                 "website": "https://sites.google.com/site/ultimasites/bencode-editor"
             },
             {
+                "version": "3.4.0",
+                "pkg": "betaflight-blackbox-explorer",
+                "description": "Interactive log viewer for flight logs recorded with blackbox",
+                "website": "https://betaflight.com"
+            },
+            {
+                "version": "10.6.0",
+                "pkg": "betaflight-configurator",
+                "description": "A configuration tool for the Betaflight flight control system",
+                "website": "https://betaflight.com"
+            },
+            {
                 "version": "4.3.3.24545",
                 "pkg": "beyondcompare",
                 "description": "Beyond Compare is a multi-platform utility that combines directory compare and file compare functions in one package. Use it to manage source code, keep directories in sync, compare program output, etc.",
@@ -4683,9 +4695,15 @@
                 "website": "https://fishcodelib.com/Convert.htm"
             },
             {
+                "version": "4.0.0",
+                "pkg": "coppeliasim",
+                "description": "Create, compose, simulate any robot.",
+                "website": "http://www.coppeliarobotics.com"
+            },
+            {
                 "version": "3.9.3",
                 "pkg": "copyq",
-                "description": "Clipboard manager.",
+                "description": "Clipboard manager",
                 "website": "https://hluk.github.io/CopyQ/"
             },
             {
@@ -5013,7 +5031,7 @@
                 "website": "https://www.digimezzo.com/software/dopamine/"
             },
             {
-                "version": "0.82.25",
+                "version": "0.82.26",
                 "pkg": "dosbox-x",
                 "description": "Fork of DOSBox, an Intel x86-based PC emulator, complete with sound, graphics, mouse, joystick, modem, etc.",
                 "website": "http://dosbox-x.com"
@@ -5025,7 +5043,7 @@
                 "website": "https://www.jetbrains.com/decompiler/"
             },
             {
-                "version": "0.9.7",
+                "version": "0.9.8",
                 "pkg": "doublecmd",
                 "description": "Cross platform open source file manager with two panels side by side inspired by Total Commander.",
                 "website": "https://doublecmd.sourceforge.io/"
@@ -5349,6 +5367,12 @@
                 "website": "http://extraterm.org/"
             },
             {
+                "version": "3.1.0.171",
+                "pkg": "fadetop",
+                "description": "Simple and fun break reminder",
+                "website": "https://www.fadetop.com"
+            },
+            {
                 "version": "4.1.0",
                 "pkg": "falcon-sql-client",
                 "description": "A free and open-source SQL client with inline data visualization.",
@@ -5445,7 +5469,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "74.0a1.20200131013147",
+                "version": "74.0a1.20200201092806",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5496,7 +5520,7 @@
                 "version": "1.14",
                 "pkg": "fmedia",
                 "description": "A fast media player/recorder/converter",
-                "website": "http://fmedia.firmdev.com/"
+                "website": "https://stsaz.github.io/fmedia/"
             },
             {
                 "version": "1.8.1",
@@ -6383,8 +6407,8 @@
             {
                 "version": "2.5.3",
                 "pkg": "keepassxc",
-                "description": "KeePass Cross-Platform Community Edition.",
-                "website": "https://keepassxc.org/"
+                "description": "Community fork of KeePass",
+                "website": "https://keepassxc.org"
             },
             {
                 "version": "1.12.3",
@@ -6783,6 +6807,12 @@
                 "website": "https://marktext.app/"
             },
             {
+                "version": "0.8",
+                "pkg": "material-maker",
+                "description": "Extensible procedural material generator",
+                "website": "https://rodzilla.itch.io/material-maker"
+            },
+            {
                 "version": "1.78",
                 "pkg": "materialize",
                 "description": "Image-to-material converter for video game development",
@@ -7179,7 +7209,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "3.8.3",
+                "version": "3.8.5",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -7359,7 +7389,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "2.0.371",
+                "version": "2.0.379",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theming engine for Powershell running in ConEmu.",
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh"
@@ -7467,9 +7497,9 @@
                 "website": "https://www.openshot.org/"
             },
             {
-                "version": "2.3.10",
+                "version": "2.3.11",
                 "pkg": "opentrack",
-                "description": "An application dedicated to tracking user's head movements and relaying the information to games and flight simulation software.",
+                "description": "Tracks user's head movements and relaying the information to games and flight simulation software.",
                 "website": "https://github.com/opentrack/opentrack"
             },
             {
@@ -7653,7 +7683,7 @@
                 "website": "https://photoflare.io"
             },
             {
-                "version": "2.9.1-7.4",
+                "version": "2.9.2-7.4",
                 "pkg": "php-nts-xdebug",
                 "description": "An extension for PHP to assist with debugging and development. (Non-Thread Safe)",
                 "website": "https://xdebug.org/"
@@ -7699,6 +7729,12 @@
                 "pkg": "pipp",
                 "description": "An Application designed for pre-processing planetary images before stacking them with image stacking software such as Registax.",
                 "website": "https://sites.google.com/site/astropipp/home"
+            },
+            {
+                "version": "0.6.1",
+                "pkg": "pixelorama",
+                "description": "2D sprite editor designed for pixel art",
+                "website": "https://www.orama-interactive.com/pixelorama"
             },
             {
                 "version": "4.1",
@@ -7767,7 +7803,7 @@
                 "website": "http://dahlbyk.github.io/posh-git/"
             },
             {
-                "version": "7.16.1",
+                "version": "7.17.0",
                 "pkg": "postman",
                 "description": "Complete API development environment.",
                 "website": "https://www.getpostman.com/"
@@ -8751,6 +8787,12 @@
                 "website": "https://streamlink.github.io/streamlink-twitch-gui/"
             },
             {
+                "version": "0.21.1",
+                "pkg": "stretchly",
+                "description": "Break time reminder",
+                "website": "https://hovancik.net/stretchly/"
+            },
+            {
                 "version": "2.8.6.4",
                 "pkg": "strokesplus-portable",
                 "description": "Mouse gesture recognition utility for Windows which allows you to create powerful mouse gestures that save you time.",
@@ -8973,6 +9015,12 @@
                 "website": "https://github.com/TestCentric/testcentric-gui"
             },
             {
+                "version": "7.1",
+                "pkg": "testdisk",
+                "description": "TestDisk & PhotoRec. Data and digital picture recovery",
+                "website": "https://www.cgsecurity.org/wiki/TestDisk"
+            },
+            {
                 "version": "0.0.1-beta.19",
                 "pkg": "testmace",
                 "description": "A simple but powerful tool for API automation testing.",
@@ -9159,13 +9207,13 @@
                 "website": "http://tremulous.net/"
             },
             {
-                "version": "7.3.2",
+                "version": "7.4.0",
                 "pkg": "tribler",
                 "description": "Privacy enhanced BitTorrent client with P2P content discovery",
                 "website": "http://www.tribler.org"
             },
             {
-                "version": "0.40.1",
+                "version": "0.40.2",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -9999,7 +10047,7 @@
                 "website": "https://github.com/MrS0m30n3/youtube-dl-gui"
             },
             {
-                "version": "0.5.2",
+                "version": "1.1.4",
                 "pkg": "yubikey-manager-qt",
                 "description": "Configuring any YubiKey over all USB interfaces.",
                 "website": "https://developers.yubico.com/yubikey-manager-qt/"
@@ -10618,7 +10666,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.50.2-200-gf80d9855",
+                "version": "1.51.0-007-g3dfa63b8",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
