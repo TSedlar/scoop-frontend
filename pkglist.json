@@ -62,7 +62,7 @@
                 "website": "https://algernon.roboticoverlords.org"
             },
             {
-                "version": "3.0.34",
+                "version": "3.0.35",
                 "pkg": "aliyun",
                 "description": "Manage and use Alibaba Cloud resources.",
                 "website": "https://github.com/aliyun/aliyun-cli"
@@ -470,7 +470,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.6460",
+                "version": "0.1.6494",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -560,7 +560,7 @@
                 "website": "https://github.com/lukesampson/concfg"
             },
             {
-                "version": "5.8.0",
+                "version": "5.5.8",
                 "pkg": "concourse-fly",
                 "description": "Concourse CI/CD manager and controller.",
                 "website": "https://concourse-ci.org/fly.html"
@@ -914,7 +914,7 @@
                 "website": "https://eksctl.io/"
             },
             {
-                "version": "1.10.1",
+                "version": "1.10.2",
                 "pkg": "elixir",
                 "description": "A dynamic and functional programming language designed for building scalable and maintainable applications.",
                 "website": "https://elixir-lang.org/"
@@ -930,6 +930,12 @@
                 "pkg": "emitter",
                 "description": "Real-time communication service for connecting online devices.",
                 "website": "https://emitter.io"
+            },
+            {
+                "version": "0.2.11",
+                "pkg": "emplace",
+                "description": "Synchronizes installed packages on multiple machines.",
+                "website": "https://github.com/tversteeg/emplace"
             },
             {
                 "version": "1.0.0",
@@ -1016,7 +1022,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20200224-bc9b635",
+                "version": "20200225-36451f9",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1610,7 +1616,7 @@
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.100.2",
+                "version": "0.101.0",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1826,7 +1832,7 @@
                 "website": "http://www.sentex.net/~mwandel/jhead/"
             },
             {
-                "version": "1.0.22",
+                "version": "1.0.23",
                 "pkg": "jira",
                 "description": "simple command line client for Atlassian's Jira service written in Go",
                 "website": "https://github.com/Netflix-Skunkworks/go-jira"
@@ -1868,7 +1874,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1202",
+                "version": "2.0.1212",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -1886,7 +1892,7 @@
                 "website": "https://k6.io"
             },
             {
-                "version": "0.16.1",
+                "version": "0.17.0",
                 "pkg": "k9s",
                 "description": "Kubernetes CLI To Manage Your Clusters In Style!",
                 "website": "https://github.com/derailed/k9s"
@@ -2198,7 +2204,7 @@
                 "website": "https://github.com/rasa/metastore"
             },
             {
-                "version": "2.0.1",
+                "version": "2.0.2",
                 "pkg": "micro",
                 "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
                 "website": "https://micro-editor.github.io/"
@@ -2654,7 +2660,7 @@
                 "website": "https://pandoc.org"
             },
             {
-                "version": "0.3.6.1b",
+                "version": "0.3.6.2",
                 "pkg": "pandoc-crossref",
                 "description": "Pandoc filter for cross-references.",
                 "website": "https://hackage.haskell.org/package/pandoc-crossref"
@@ -3296,7 +3302,7 @@
                 "website": "https://github.com/philippgille/serve"
             },
             {
-                "version": "1.64.0",
+                "version": "1.64.1",
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
@@ -3368,7 +3374,7 @@
                 "website": "https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/"
             },
             {
-                "version": "8.1.0.31237",
+                "version": "8.2.0.32929",
                 "pkg": "sonarqube",
                 "description": "Platform for continuous inspection of code quality and security using static analysis for 20+ programming languages.",
                 "website": "https://www.sonarqube.org"
@@ -3482,6 +3488,12 @@
                 "website": "http://www.swig.org"
             },
             {
+                "version": "4.12.9",
+                "pkg": "symfony-cli",
+                "description": "Wrapper for managing and deploying Symfony applications",
+                "website": "https://github.com/symfony/cli"
+            },
+            {
                 "version": "0.4.9",
                 "pkg": "syncany-cli",
                 "description": "An open-source cloud storage and filesharing application. Securely synchronize your files to any kind of storage!",
@@ -3530,13 +3542,13 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "1.2.1",
+                "version": "1.2.2",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.22.4",
+                "version": "0.22.5",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -3614,7 +3626,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.02.24",
+                "version": "2.24-20.02.26",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3764,7 +3776,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0318",
+                "version": "8.2.0324",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4593,7 +4605,7 @@
                 "website": "https://calibre-ebook.com/"
             },
             {
-                "version": "3.6.0",
+                "version": "3.7.0",
                 "pkg": "camunda-modeler",
                 "description": "Made for developers, edit your BPMN process diagrams and DMN decision tables.",
                 "website": "https://camunda.org/download/modeler/"
@@ -4689,7 +4701,7 @@
                 "website": "https://www.henrypp.org/product/chrlauncher"
             },
             {
-                "version": "80.0.3987.116",
+                "version": "80.0.3987.122",
                 "pkg": "chromium",
                 "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -4911,7 +4923,7 @@
                 "website": "http://cue.tools/wiki/Main_Page"
             },
             {
-                "version": "4.4.1",
+                "version": "4.5.0",
                 "pkg": "cura",
                 "description": "Model editing tools for 3D printing",
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
@@ -5109,7 +5121,7 @@
                 "website": "https://www.digikam.org"
             },
             {
-                "version": "0.0.305",
+                "version": "0.0.306",
                 "pkg": "discord",
                 "description": "Free Voice and Text Chat",
                 "website": "https://discordapp.com/"
@@ -5607,13 +5619,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "74.0b7",
+                "version": "74.0b8",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "74.0b7",
+                "version": "74.0b8",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5625,7 +5637,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "75.0a1.20200225094028",
+                "version": "75.0a1.20200226092757",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6003,7 +6015,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "82.0.4069.0",
+                "version": "82.0.4070.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6219,7 +6231,7 @@
                 "website": "https://mh-nexus.de/en/hxd/"
             },
             {
-                "version": "385",
+                "version": "386",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -6705,7 +6717,7 @@
                 "website": "https://lazpaint.github.io/"
             },
             {
-                "version": "0.15.3",
+                "version": "0.15.5",
                 "pkg": "lazygit",
                 "description": "A simple terminal UI for git commands",
                 "website": "https://github.com/jesseduffield/lazygit"
@@ -7521,13 +7533,13 @@
                 "website": "https://github.com/Orbmu2k/nvidiaProfileInspector/"
             },
             {
-                "version": "0.44.2",
+                "version": "0.44.3",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
             },
             {
-                "version": "0.44.2",
+                "version": "0.44.3",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -8889,7 +8901,7 @@
                 "website": "https://standardnotes.org/"
             },
             {
-                "version": "1.64.1",
+                "version": "1.65.0",
                 "pkg": "station",
                 "description": "A free desktop application that unifies all your work tools in one neat & productive interface.",
                 "website": "https://getstation.com/"
@@ -9453,7 +9465,7 @@
                 "website": "https://tweakstyle.com"
             },
             {
-                "version": "0.9.9.84",
+                "version": "0.9.85",
                 "pkg": "typora",
                 "description": "A decent markdown editor finally available on Windows",
                 "website": "https://typora.io"
@@ -9501,7 +9513,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-02-25",
+                "version": "2020-02-26",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -9729,7 +9741,7 @@
                 "website": "https://www.visualstudio.com"
             },
             {
-                "version": "2.11.1811.41",
+                "version": "2.11.1811.44",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -9837,13 +9849,13 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.0.86.1",
+                "version": "10.0.90.1",
                 "pkg": "wavebox10",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.0.86.2",
+                "version": "10.0.90.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -9951,7 +9963,7 @@
                 "website": "https://windirstat.net/"
             },
             {
-                "version": "8.31",
+                "version": "8.32",
                 "pkg": "windows-iso-downloader",
                 "description": "Easy and comfortable way to download genuine Windows 7, Windows 8.1 and Windows 10 disk images (ISO) directly from Microsoft's servers, as well as Office.",
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
@@ -10053,7 +10065,7 @@
                 "website": "https://wire.com/"
             },
             {
-                "version": "3.2.1",
+                "version": "3.2.2",
                 "pkg": "wireshark",
                 "description": "A network protocol analyzer that lets you see what\u2019s happening on your network at a microscopic level.",
                 "website": "https://www.wireshark.org/"
@@ -10341,13 +10353,13 @@
                 "website": "https://www.zettlr.com"
             },
             {
-                "version": "1.4.1",
+                "version": "1.4.2",
                 "pkg": "zlocation",
                 "description": "ZLocation is the new Jump-Location",
                 "website": "https://github.com/vors/ZLocation"
             },
             {
-                "version": "7.1.0.65",
+                "version": "7.1.0.69",
                 "pkg": "zmc",
                 "description": "A build of JDK Mission Control, an open source Java runtime profiling and monitoring utility.",
                 "website": "https://www.azul.com/products/zulu-mission-control"
@@ -10870,7 +10882,7 @@
                 "website": "https://github.com/PowerShell/PowerShell"
             },
             {
-                "version": "3.9.0a3",
+                "version": "3.9.0a4",
                 "pkg": "python-alpha",
                 "description": null,
                 "website": "https://www.python.org/"
