@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.10",
+                "version": "1.18.11",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -704,7 +704,7 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.34.0",
+                "version": "0.35.0",
                 "pkg": "deno",
                 "description": "A secure TypeScript runtime on V8",
                 "website": "https://github.com/denoland/deno"
@@ -932,7 +932,7 @@
                 "website": "https://emitter.io"
             },
             {
-                "version": "0.2.11",
+                "version": "0.2.12",
                 "pkg": "emplace",
                 "description": "Synchronizes installed packages on multiple machines.",
                 "website": "https://github.com/tversteeg/emplace"
@@ -966,6 +966,12 @@
                 "pkg": "etcd",
                 "description": "A distributed, reliable key-value store for the most critical data of a distributed system",
                 "website": "https://etcd.io/"
+            },
+            {
+                "version": "0.8.5",
+                "pkg": "evans",
+                "description": "Evans: more expressive gRPC client",
+                "website": "https://evans.syfm.me/"
             },
             {
                 "version": "4.1.4",
@@ -1730,7 +1736,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.9-26",
+                "version": "7.0.9-27",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1874,7 +1880,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1218",
+                "version": "2.0.1221",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2018,7 +2024,7 @@
                 "website": "https://dlang.org/"
             },
             {
-                "version": "2.9.1",
+                "version": "2.9.2",
                 "pkg": "leiningen",
                 "description": "Simplify Clojure project automation and configuration.",
                 "website": "https://leiningen.org/"
@@ -2972,7 +2978,7 @@
                 "website": "http://qpdf.sourceforge.net/"
             },
             {
-                "version": "3.6.2",
+                "version": "3.6.3",
                 "pkg": "r",
                 "description": "A free software environment for statistical computing and graphics.",
                 "website": "https://www.r-project.org"
@@ -3188,7 +3194,7 @@
                 "website": "https://sampler.dev"
             },
             {
-                "version": "1.26.1",
+                "version": "1.26.2",
                 "pkg": "sass",
                 "description": "The reference implementation of Sass, written in Dart.",
                 "website": "https://github.com/sass/dart-sass"
@@ -3776,7 +3782,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0330",
+                "version": "8.2.0336",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3998,7 +4004,7 @@
                 "website": "https://developers.yubico.com/yubikey-personalization/"
             },
             {
-                "version": "1.7.4",
+                "version": "1.8.4",
                 "pkg": "z.lua",
                 "description": "cd command replacement",
                 "website": "https://github.com/skywind3000/z.lua"
@@ -4899,13 +4905,13 @@
                 "website": "https://cryptomator.org"
             },
             {
-                "version": "8.4.0",
+                "version": "8.4.1",
                 "pkg": "crystaldiskinfo",
                 "description": "CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.",
                 "website": "https://osdn.net/projects/crystaldiskinfo/"
             },
             {
-                "version": "7.0.0g",
+                "version": "7.0.0h",
                 "pkg": "crystaldiskmark",
                 "description": "CrystalDiskMark is a disk benchmark software.",
                 "website": "https://osdn.net/projects/crystaldiskmark/"
@@ -5637,7 +5643,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "75.0a1.20200228161940",
+                "version": "75.0a1.20200229095402",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6015,7 +6021,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "82.0.4072.0",
+                "version": "82.0.4073.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6717,7 +6723,7 @@
                 "website": "https://lazpaint.github.io/"
             },
             {
-                "version": "0.15.6",
+                "version": "0.15.7",
                 "pkg": "lazygit",
                 "description": "A simple terminal UI for git commands",
                 "website": "https://github.com/jesseduffield/lazygit"
@@ -7245,7 +7251,7 @@
                 "website": "https://mremoteng.org/"
             },
             {
-                "version": "2.0.174",
+                "version": "2.1.50",
                 "pkg": "msbuild-structured-log-viewer",
                 "description": "A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.",
                 "website": "https://github.com/KirillOsenkov/MSBuildStructuredLog/"
@@ -7953,7 +7959,7 @@
                 "website": "http://plantuml.com/"
             },
             {
-                "version": "7.1",
+                "version": "7.2",
                 "pkg": "playnite",
                 "description": "An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. Includes game emulation support, providing one unified interface for your games.",
                 "website": "https://playnite.link/"
@@ -8319,7 +8325,7 @@
                 "website": "https://www.ccleaner.com/recuva"
             },
             {
-                "version": "2.17",
+                "version": "2.18",
                 "pkg": "rednotebook",
                 "description": "Graphical diary and journal",
                 "website": "https://rednotebook.sourceforge.io/"
@@ -8457,7 +8463,7 @@
                 "website": "https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html"
             },
             {
-                "version": "3.8",
+                "version": "3.9",
                 "pkg": "rufus",
                 "description": "A utility that helps format and create bootable USB flash drives.",
                 "website": "https://rufus.ie/"
@@ -9471,7 +9477,7 @@
                 "website": "https://typora.io"
             },
             {
-                "version": "8.5.2",
+                "version": "8.5.3",
                 "pkg": "ueli",
                 "description": "A keystroke launcher for Windows and macOS.",
                 "website": "https://ueli.oliverschwendener.ch"
@@ -10233,7 +10239,7 @@
                 "website": "https://github.com/xournalpp/xournalpp"
             },
             {
-                "version": "3.15.9",
+                "version": "3.15.10",
                 "pkg": "xx-net",
                 "description": "An HTTP/HTTPS MITM proxy to circumvent Internet censorship, successor of GoAgent",
                 "website": "https://github.com/XX-net/XX-Net"
