@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.21",
+                "version": "1.18.22",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -584,7 +584,7 @@
                 "website": "https://web.archive.org/web/20080516100455/http://www.meadowy.org/~gotoh/projects/connect"
             },
             {
-                "version": "1.7.1",
+                "version": "1.7.2",
                 "pkg": "consul",
                 "description": "Service Discovery and Configuration",
                 "website": "https://www.consul.io"
@@ -866,7 +866,7 @@
                 "website": "https://github.com/filipw/dotnet-script"
             },
             {
-                "version": "3.1.102",
+                "version": "3.1.200",
                 "pkg": "dotnet-sdk",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
@@ -968,7 +968,7 @@
                 "website": "https://developer.enonic.com/docs/enonic-cli/master"
             },
             {
-                "version": "22.2",
+                "version": "22.3",
                 "pkg": "erlang",
                 "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
                 "website": "https://www.erlang.org"
@@ -1046,7 +1046,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20200312-675bb1f",
+                "version": "20200315-c467328",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1754,7 +1754,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-0",
+                "version": "7.0.10-1",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1898,7 +1898,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1242",
+                "version": "2.0.1243",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2042,7 +2042,7 @@
                 "website": "https://dlang.org/"
             },
             {
-                "version": "2.9.2",
+                "version": "2.9.3",
                 "pkg": "leiningen",
                 "description": "Simplify Clojure project automation and configuration.",
                 "website": "https://leiningen.org/"
@@ -2780,7 +2780,7 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.18.7.2457-77cb9455c",
+                "version": "1.18.8.2527-740d4c206",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -3128,10 +3128,16 @@
                 "website": "https://github.com/merklecounty/rget"
             },
             {
-                "version": "11.0.2",
+                "version": "12.0.0",
                 "pkg": "ripgrep",
                 "description": "Recursively searches directories for a regex pattern.",
                 "website": "https://github.com/BurntSushi/ripgrep"
+            },
+            {
+                "version": "1.0.4",
+                "pkg": "rke",
+                "description": "CNCF-certified Kubernetes distribution that runs entirely within Docker containers",
+                "website": "https://rancher.com/products/rke/"
             },
             {
                 "version": "1.0",
@@ -3494,7 +3500,7 @@
                 "website": "https://github.com/wercker/stern"
             },
             {
-                "version": "3.3.1",
+                "version": "3.3.2",
                 "pkg": "stoplight-prism",
                 "description": "OpenAPI file based API server for mocking, transformations, validations and more",
                 "website": "https://stoplight.io/open-source/prism"
@@ -3818,7 +3824,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0390",
+                "version": "8.2.0397",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3828,6 +3834,12 @@
                 "pkg": "vimtutor",
                 "description": "The vimtutor that comes with Vim for Windows doesn't work with Scoop. This one does.",
                 "website": "https://github.com/lukesampson/psutils"
+            },
+            {
+                "version": "0.7.0",
+                "pkg": "vt-cli",
+                "description": "Tool for interacting with VirusTotal",
+                "website": "https://github.com/VirusTotal/vt-cli"
             },
             {
                 "version": "0.3.0",
@@ -4449,7 +4461,7 @@
                 "website": "http://bakamplayer.u8sand.net/"
             },
             {
-                "version": "7.0",
+                "version": "7.01",
                 "pkg": "bandizip",
                 "description": "Yet another typical ZIP archiver.",
                 "website": "http://www.bandisoft.com/bandizip/"
@@ -4857,7 +4869,7 @@
                 "website": "https://www.guru3d.com/files-details/color-sustainer-download.html"
             },
             {
-                "version": "5.0.0",
+                "version": "5.0.1",
                 "pkg": "commandbox",
                 "description": "A standalone, native tool for Windows, Mac, and Linux that will provide you with a Command Line Interface (CLI) for developer productivity, tool interaction, package management, embedded CFML server, application scaffolding, and some sweet ASCII art",
                 "website": "https://www.ortussolutions.com/products/commandbox"
@@ -4965,7 +4977,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.96.5.1",
+                "version": "1.96.6.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5547,7 +5559,7 @@
                 "website": "http://euler-math-toolbox.de"
             },
             {
-                "version": "1.4.1.965",
+                "version": "1.4.1.969",
                 "pkg": "everything",
                 "description": "Locate files and folders by name instantly.",
                 "website": "https://www.voidtools.com"
@@ -5571,7 +5583,7 @@
                 "website": "http://www.ultrapico.com/Expresso.htm"
             },
             {
-                "version": "0.49.1",
+                "version": "0.49.2",
                 "pkg": "extraterm",
                 "description": "The swiss army chainsaw of terminal emulators.",
                 "website": "http://extraterm.org/"
@@ -5673,13 +5685,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "75.0b3",
+                "version": "75.0b4",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "75.0b3",
+                "version": "75.0b4",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5691,7 +5703,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "76.0a1.20200315093749",
+                "version": "76.0a1.20200316154314",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5763,7 +5775,7 @@
                 "website": "https://fontforge.github.io"
             },
             {
-                "version": "1.5.2",
+                "version": "1.5",
                 "pkg": "foobar2000",
                 "description": "An advanced freeware audio player for the Windows platform.",
                 "website": "https://www.foobar2000.org/"
@@ -5775,7 +5787,7 @@
                 "website": "https://www.foobar2000.org/encoderpack"
             },
             {
-                "version": "1.5.2",
+                "version": "1.5",
                 "pkg": "foobar2000-portable",
                 "description": "An advanced freeware audio player for the Windows platform.",
                 "website": "https://www.foobar2000.org/"
@@ -6069,7 +6081,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "82.0.4085.6",
+                "version": "83.0.4086.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6345,10 +6357,10 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "5.0.2",
+                "version": "5.0.2.5153",
                 "pkg": "ilspy",
-                "description": "The open-source .NET assembly browser and decompiler.",
-                "website": "http://ilspy.net/"
+                "description": ".NET assembly browser and decompiler",
+                "website": "http://ilspy.net"
             },
             {
                 "version": "7.5.1.1",
@@ -6429,7 +6441,7 @@
                 "website": "https://github.com/google/ios-webkit-debug-proxy"
             },
             {
-                "version": "3.0.2.4-beta",
+                "version": "3.0.2.9-beta",
                 "pkg": "ipfilter-updater",
                 "description": "Keeps your Bit Torrent IP Filter up to date",
                 "website": "https://www.sadrobot.co.nz/ipfilter/"
@@ -7139,7 +7151,7 @@
             {
                 "version": "3.19.27",
                 "pkg": "microsip",
-                "description": "Open source portable SIP softphone for Windows based on PJSIP stack",
+                "description": "SIP softphone for Windows based on PJSIP stack",
                 "website": "https://www.microsip.org"
             },
             {
@@ -7617,7 +7629,7 @@
                 "website": "https://github.com/GPUOpen-Tools/OCAT"
             },
             {
-                "version": "3.7.11",
+                "version": "3.7.12",
                 "pkg": "ocenaudio",
                 "description": "Cross-platform, easy to use, fast and functional audio editor.",
                 "website": "https://www.ocenaudio.com/"
@@ -9111,9 +9123,9 @@
                 "website": "http://www.nikse.dk/subtitleedit/"
             },
             {
-                "version": "3.1.2",
+                "version": "3.2",
                 "pkg": "sumatrapdf",
-                "description": "Free PDF, eBook reader.",
+                "description": "PDF and eBook reader",
                 "website": "https://www.sumatrapdfreader.org"
             },
             {
@@ -9417,7 +9429,7 @@
                 "website": "https://benrhughes.github.io/todotxt.net/"
             },
             {
-                "version": "9.0.31",
+                "version": "9.0.33",
                 "pkg": "tomcat",
                 "description": "An open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies.",
                 "website": "https://tomcat.apache.org/"
@@ -10516,7 +10528,7 @@
                 "website": "https://www.microsoft.com/net/"
             },
             {
-                "version": "3.1.100-preview3-014645",
+                "version": "5.0.100-preview.1.20155.7",
                 "pkg": "dotnet-sdk-preview",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
@@ -10996,7 +11008,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-099-gdc069737",
+                "version": "1.51.0-111-g0f20f236",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -11110,7 +11122,7 @@
                 "website": "https://tomcat.apache.org/"
             },
             {
-                "version": "8.5.51",
+                "version": "8.5.53",
                 "pkg": "tomcat8",
                 "description": null,
                 "website": "https://tomcat.apache.org/"
