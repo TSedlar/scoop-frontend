@@ -2,7 +2,7 @@
     "main": {
         "packages": [
             {
-                "version": "0.9.3",
+                "version": "0.9.4",
                 "pkg": "1password-cli",
                 "description": "The 1Password command-line tool makes your 1Password account accessible entirely from the command line.",
                 "website": "https://support.1password.com/command-line/"
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.29",
+                "version": "1.18.30",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -728,7 +728,7 @@
                 "website": "https://github.com/golang/dep"
             },
             {
-                "version": "5.3.1",
+                "version": "5.3.2",
                 "pkg": "dependency-check",
                 "description": "Software composition analysis utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
                 "website": "https://www.owasp.org/index.php/OWASP_Dependency_Check"
@@ -2096,10 +2096,10 @@
                 "website": "https://listmonk.app"
             },
             {
-                "version": "9.0.0",
+                "version": "10.0.0",
                 "pkg": "llvm",
                 "description": "Collection of modular and reusable compiler and toolchain technologies.",
-                "website": "https://www.llvm.org/"
+                "website": "https://www.llvm.org"
             },
             {
                 "version": "0.2018.07.25",
@@ -2492,7 +2492,7 @@
                 "website": "https://github.com/nodejs/node-chakracore"
             },
             {
-                "version": "13.11.0",
+                "version": "13.12.0",
                 "pkg": "nodejs",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
                 "website": "https://nodejs.org"
@@ -3560,7 +3560,7 @@
                 "website": "https://bellard.org/tcc/"
             },
             {
-                "version": "1.13.4",
+                "version": "1.14.0",
                 "pkg": "telegraf",
                 "description": "The plugin-driven server agent for collecting & reporting metrics.",
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
@@ -4245,7 +4245,7 @@
                 "website": "https://github.com/AntiMicro/antimicro"
             },
             {
-                "version": "4.8",
+                "version": "4.9",
                 "pkg": "anyburn",
                 "description": "Free Solutions for CD / DVD / Blu-ray burning and imaging.",
                 "website": "http://www.anyburn.com/"
@@ -4575,10 +4575,10 @@
                 "website": "https://github.com/arsham/blush"
             },
             {
-                "version": "0.15.1",
+                "version": "0.15.2",
                 "pkg": "boostnote",
-                "description": "A markdown editor for developers.",
-                "website": "https://boostnote.io/"
+                "description": "A markdown editor for developers",
+                "website": "https://boostnote.io"
             },
             {
                 "version": "2.7.2",
@@ -5003,7 +5003,7 @@
             {
                 "version": "2.4.4",
                 "pkg": "darktable",
-                "description": "Open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers",
+                "description": "A virtual lighttable and darkroom for photographers",
                 "website": "https://www.darktable.org/"
             },
             {
@@ -5289,9 +5289,9 @@
                 "website": "http://www.dropitproject.com/"
             },
             {
-                "version": "2.0.13",
+                "version": "2.0.14",
                 "pkg": "ds4windows",
-                "description": "Portable program that allows you to get the best experience while using a DualShock 4 on your PC.",
+                "description": "Allows to get the best experience while using a DualShock 4 on PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
             },
             {
@@ -5373,7 +5373,7 @@
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "2019-12",
+                "version": "2020-03",
                 "pkg": "eclipse-cpp",
                 "description": "Eclipse IDE for C and C++ Developers.",
                 "website": "https://www.eclipse.org"
@@ -5391,15 +5391,15 @@
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "2019-12",
+                "version": "2020-03",
                 "pkg": "eclipse-javascript",
-                "description": "Eclipse IDE for JavaScript and Web Developers.",
+                "description": "Eclipse IDE for JavaScript and Web Developers",
                 "website": "https://www.eclipse.org"
             },
             {
-                "version": "2019-12",
+                "version": "2020-03",
                 "pkg": "eclipse-jee",
-                "description": "Eclipse IDE for Java EE Developers.",
+                "description": "Eclipse IDE for Java EE Developers",
                 "website": "https://www.eclipse.org"
             },
             {
@@ -5685,13 +5685,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "75.0b8",
+                "version": "75.0b9",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "75.0b8",
+                "version": "75.0b9",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5703,7 +5703,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "76.0a1.20200325093457",
+                "version": "76.0a1.20200326093308",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5886,7 +5886,7 @@
                 "version": "0.9.3b",
                 "pkg": "fritzing",
                 "description": "Document hardware prototypes and layout PCBs.",
-                "website": "http://fritzing.org/"
+                "website": "https://fritzing.org/home/"
             },
             {
                 "version": "9.3",
@@ -5925,9 +5925,9 @@
                 "website": "https://www.carifred.com/fvie/"
             },
             {
-                "version": "0.9.55",
+                "version": "0.9.58",
                 "pkg": "gammy",
-                "description": "Adaptive screen brightness tool.",
+                "description": "Adaptive screen brightness tool",
                 "website": "https://getgammy.com"
             },
             {
@@ -6087,7 +6087,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "83.0.4094.0",
+                "version": "83.0.4096.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6383,7 +6383,7 @@
             {
                 "version": "1.3.2",
                 "pkg": "inboxer",
-                "description": "Unofficial, free and open-source Google Inbox Desktop App.",
+                "description": "Unofficial Google Inbox Desktop App (Deprecated)",
                 "website": "https://denysdovhan.com/inboxer/"
             },
             {
@@ -6483,7 +6483,7 @@
                 "website": "https://www.wagnardsoft.com/"
             },
             {
-                "version": "1.5.0",
+                "version": "1.5.1",
                 "pkg": "istio",
                 "description": "An open platform-independent service mesh that provides traffic management, policy enforcement, and telemetry collection.",
                 "website": "https://istio.io"
@@ -6735,7 +6735,7 @@
                 "website": "https://github.com/mattstermiller/koffee/"
             },
             {
-                "version": "4.2.8",
+                "version": "4.2.9",
                 "pkg": "krita",
                 "description": "A free digital painting application.",
                 "website": "https://krita.org/"
@@ -6831,7 +6831,7 @@
                 "website": "https://libreoffice.org/"
             },
             {
-                "version": "6.4.1",
+                "version": "6.4.2",
                 "pkg": "libreoffice-stable",
                 "description": "Powerful office suite.",
                 "website": "https://libreoffice.org/"
@@ -6987,7 +6987,7 @@
                 "website": "https://love2d.org/"
             },
             {
-                "version": "5.3.0",
+                "version": "5.3.1",
                 "pkg": "lunacy",
                 "description": "Free Graphic Design Software.",
                 "website": "https://icons8.com/lunacy"
@@ -7581,10 +7581,10 @@
                 "website": "http://nsis.sourceforge.net/"
             },
             {
-                "version": "6.2.1812.31",
+                "version": "8.0",
                 "pkg": "nsudo",
-                "description": "Powerful System Administration Tool.",
-                "website": "https://github.com/M2Team/NSudo/"
+                "description": "Powerful System Administration Tool",
+                "website": "https://github.com/M2Team/NSudo"
             },
             {
                 "version": "13.3.0",
@@ -8745,7 +8745,7 @@
                 "website": "https://sigil-ebook.com/"
             },
             {
-                "version": "1.32.1",
+                "version": "1.32.3",
                 "pkg": "signal",
                 "description": "A cross-platform encrypted messaging service.",
                 "website": "https://signal.org/"
@@ -8925,7 +8925,7 @@
                 "website": "https://cmusphinx.github.io/"
             },
             {
-                "version": "2.2.5",
+                "version": "2.2.6",
                 "pkg": "springboot",
                 "description": "Create stand-alone, production-grade Spring based Applications that you can \"just run\".",
                 "website": "https://projects.spring.io/spring-boot/"
@@ -10762,7 +10762,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-03-24-2143-master-1f0ec33",
+                "version": "2020-03-25-0932-master-dcb744c",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11056,7 +11056,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-129-gd9c8c47e",
+                "version": "1.51.0-134-g6765303d",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -11182,7 +11182,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "2.12.1856.3",
+                "version": "2.12.1862.3",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
