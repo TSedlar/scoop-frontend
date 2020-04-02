@@ -100,7 +100,7 @@
             {
                 "version": "2.4.41",
                 "pkg": "apache",
-                "description": "The Apache HTTP Server (\"httpd\")",
+                "description": "The Apache HTTP Server ('httpd')",
                 "website": "https://www.apachelounge.com"
             },
             {
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.32",
+                "version": "1.18.34",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -218,7 +218,7 @@
                 "website": "https://github.com/axel-download-accelerator/axel"
             },
             {
-                "version": "2.3.0",
+                "version": "2.3.1",
                 "pkg": "azure-cli",
                 "description": "Microsoft Azure CLI 2.0",
                 "website": "https://aka.ms/cli"
@@ -306,6 +306,12 @@
                 "pkg": "bochs",
                 "description": "Open source IA-32 (x86) PC emulator written in C++",
                 "website": "http://bochs.sourceforge.net/"
+            },
+            {
+                "version": "0.2.2",
+                "pkg": "bottom",
+                "description": "Graphical process/system monitor",
+                "website": "https://github.com/ClementTsang/bottom"
             },
             {
                 "version": "1.3",
@@ -512,6 +518,12 @@
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
             },
             {
+                "version": "1.16",
+                "pkg": "cloud-sql-proxy",
+                "description": "Provides secure access to Cloud SQL Second Generation instances without having to add Authorized networks or configure SSL.",
+                "website": "https://cloud.google.com/sql/docs/mysql/sql-proxy"
+            },
+            {
                 "version": "3.17.0",
                 "pkg": "cmake",
                 "description": "Open-source, cross-platform family of tools designed to build, test and package software",
@@ -716,7 +728,7 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.37.1",
+                "version": "0.38.0",
                 "pkg": "deno",
                 "description": "A secure TypeScript runtime on V8",
                 "website": "https://github.com/denoland/deno"
@@ -914,7 +926,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "83.0.471.0",
+                "version": "83.0.472.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1046,7 +1058,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20200330-8d019db",
+                "version": "20200401-afa5e38",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1184,6 +1196,12 @@
                 "website": "https://github.com/mikf/gallery-dl"
             },
             {
+                "version": "0.9.9",
+                "pkg": "gauche",
+                "description": "Scheme Scripting Engine",
+                "website": "https://practical-scheme.net/gauche/"
+            },
+            {
                 "version": "1.0.8",
                 "pkg": "gauge",
                 "description": "Test automation tool.",
@@ -1236,6 +1254,12 @@
                 "pkg": "gettext",
                 "description": "Gettext is an internationalization and localization (i18n) system commonly used for writing multilingual programs on Unix-like computer operating systems.",
                 "website": "https://mlocati.github.io/articles/gettext-iconv-windows.html"
+            },
+            {
+                "version": "0.6.3",
+                "pkg": "gh",
+                "description": "Official GitHub CLI",
+                "website": "https://cli.github.com"
             },
             {
                 "version": "9.52",
@@ -1346,7 +1370,7 @@
                 "website": "https://gitforwindows.org"
             },
             {
-                "version": "1.11.3",
+                "version": "1.11.4",
                 "pkg": "gitea",
                 "description": "A painless self-hosted Git service.",
                 "website": "https://gitea.io/"
@@ -1457,13 +1481,19 @@
                 "version": "0.11.91",
                 "pkg": "gogs",
                 "description": "A painless self-hosted Git service",
-                "website": "https://gogs.io/"
+                "website": "https://gogs.io"
             },
             {
                 "version": "2.4.1",
                 "pkg": "gomake",
                 "description": "Cross platform build tool / task runner.",
                 "website": "https://github.com/brad-jones/gomake/"
+            },
+            {
+                "version": "3.6.0",
+                "pkg": "gomplate",
+                "description": "Template renderer with various datasource support",
+                "website": "https://github.com/hairyhenderson/gomplate"
             },
             {
                 "version": "1.8.6",
@@ -1674,6 +1704,12 @@
                 "pkg": "hollows-hunter",
                 "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",
                 "website": "https://hshrzd.wordpress.com/pe-sieve/"
+            },
+            {
+                "version": "0.5.3",
+                "pkg": "hostctl",
+                "description": "Hosts file manager",
+                "website": "https://github.com/guumaster/hostctl"
             },
             {
                 "version": "2.5",
@@ -2924,7 +2960,7 @@
                 "website": "https://github.com/dalance/ptags"
             },
             {
-                "version": "1.13.1",
+                "version": "1.14.0",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -3042,6 +3078,12 @@
                 "pkg": "rainbow",
                 "description": "Print text in rainbow pattern.",
                 "website": "https://github.com/arsham/rainbow"
+            },
+            {
+                "version": "2020.01-01",
+                "pkg": "rakudo-star",
+                "description": "Raku compiler for the MoarVM and JVM",
+                "website": "https://rakudo.org"
             },
             {
                 "version": "0.12.5",
@@ -3668,7 +3710,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.03.30",
+                "version": "2.24-20.04.01",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -5199,7 +5241,7 @@
                 "website": "https://discordapp.com/"
             },
             {
-                "version": "0.0.51",
+                "version": "0.0.52",
                 "pkg": "discord-ptb",
                 "description": "Free Voice and Text Chat",
                 "website": "https://discordapp.com/"
@@ -5331,7 +5373,7 @@
                 "website": "http://www.eagleget.com/"
             },
             {
-                "version": "3.0.6",
+                "version": "3.0.7",
                 "pkg": "easyrsa",
                 "description": "A CLI utility to build and manage a PKI CA",
                 "website": "https://openvpn.net/easyrsa.html"
@@ -5703,7 +5745,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "76.0a1.20200331093527",
+                "version": "76.0a1.20200401212659",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5739,7 +5781,7 @@
                 "website": "https://flatassembler.net/"
             },
             {
-                "version": "1.12.13-hotfix.8",
+                "version": "1.12.13-hotfix.9",
                 "pkg": "flutter",
                 "description": "Google\u2019s mobile app SDK for crafting high-quality native interfaces on iOS and Android",
                 "website": "https://flutter.dev"
@@ -5907,7 +5949,7 @@
                 "website": "https://www.faststone.org/FSViewerDetail.htm"
             },
             {
-                "version": "3.6.5",
+                "version": "3.6.7",
                 "pkg": "fun",
                 "description": "Complete set of commands to define, develop, test serverless applications, and deploy them to the Alibaba Cloud.",
                 "website": "https://alibabacloud.com/help/doc-detail/64204.html?lang=en"
@@ -5949,7 +5991,7 @@
                 "website": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm"
             },
             {
-                "version": "286.0.0",
+                "version": "287.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -6075,7 +6117,7 @@
                 "website": "https://github.com/google/google-java-format"
             },
             {
-                "version": "80.0.3987.149",
+                "version": "80.0.3987.162",
                 "pkg": "googlechrome",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/"
@@ -6087,7 +6129,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "83.0.4100.0",
+                "version": "83.0.4101.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -7149,7 +7191,7 @@
                 "website": "https://github.com/kiedtl/meow"
             },
             {
-                "version": "2020.03",
+                "version": "2020.04",
                 "pkg": "meshlab",
                 "description": "System for processing and editing 3D triangular meshes.",
                 "website": "http://www.meshlab.net"
@@ -7611,13 +7653,13 @@
                 "website": "https://github.com/Orbmu2k/nvidiaProfileInspector/"
             },
             {
-                "version": "0.44.5",
+                "version": "0.44.6",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
             },
             {
-                "version": "0.44.5",
+                "version": "0.44.6",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -8121,7 +8163,7 @@
                 "website": "https://github.com/jasonmarcher/PowerTab"
             },
             {
-                "version": "0.15.2",
+                "version": "0.16.0",
                 "pkg": "powertoys",
                 "description": "A set of utilities for power users to tune and streamline their Windows experience for greater productivity.",
                 "website": "https://github.com/microsoft/PowerToys"
@@ -8331,7 +8373,7 @@
                 "website": "https://www.qutebrowser.org/"
             },
             {
-                "version": "2.4.0",
+                "version": "2.4.1",
                 "pkg": "qv2ray",
                 "description": "Graphical frontend for v2ray",
                 "website": "https://github.com/Qv2ray/Qv2ray"
@@ -8499,7 +8541,7 @@
                 "website": "https://www.splashsoft.de/ridnacs-disk-space-usage-analyzer/"
             },
             {
-                "version": "1.5.14",
+                "version": "1.5.15",
                 "pkg": "riot",
                 "description": "A decentralised, encrypted chat & collaboration powered by matrix.org. It has group chat, integrations, voip & video calling, bridge networks, end to end encryption, file transfer. Lots of rooms already exist in Matrix, linked to existing networks (Slack, IRC, Gitter etc) or independent.",
                 "website": "https://riot.im/"
@@ -8763,7 +8805,7 @@
                 "website": "https://skaffold.dev"
             },
             {
-                "version": "8.58.0.93",
+                "version": "8.58.0.98",
                 "pkg": "skype",
                 "description": "Communication tool for free calls and chat.",
                 "website": "https://www.skype.com/"
@@ -8991,7 +9033,7 @@
                 "website": "https://github.com/rupor-github/ssh-agent-wsl/"
             },
             {
-                "version": "3.3.3",
+                "version": "3.3.4",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -10011,7 +10053,7 @@
                 "website": "https://wexond.net/"
             },
             {
-                "version": "0.4.2081",
+                "version": "0.4.2088",
                 "pkg": "whatsapp",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
@@ -10155,7 +10197,7 @@
                 "website": "https://www.softwareok.com/?seite=Microsoft/WinScan2PDF"
             },
             {
-                "version": "5.17.2",
+                "version": "5.17.3",
                 "pkg": "winscp",
                 "description": "Copy files between a local computer and remote servers using FTP, FTPS, SCP, SFTP, WebDAV or S3 file transfer protocols.",
                 "website": "https://winscp.net"
@@ -10497,7 +10539,7 @@
                 "website": "https://www.zotero.org/"
             },
             {
-                "version": "4.0.3",
+                "version": "5.0.0",
                 "pkg": "zulip",
                 "description": "Desktop client for Zulip, an open source team chat application.",
                 "website": "https://zulipchat.com/"
