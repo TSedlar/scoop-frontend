@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.34",
+                "version": "1.18.35",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -230,7 +230,7 @@
                 "website": "https://github.com/Azure/azure-functions-core-tools"
             },
             {
-                "version": "3.6.1.32413",
+                "version": "3.7.0.32747",
                 "pkg": "azure-ps",
                 "description": "PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.",
                 "website": "https://aka.ms/azpsdocs"
@@ -296,7 +296,7 @@
                 "website": "https://www.blat.net"
             },
             {
-                "version": "2.0.5",
+                "version": "2.1.0",
                 "pkg": "blink1-tool",
                 "description": "Control the blink(1) USB RGB indicator light",
                 "website": "https://blink1.thingm.com/"
@@ -350,7 +350,7 @@
                 "website": "https://buck.build/"
             },
             {
-                "version": "0.15.5",
+                "version": "0.16.0",
                 "pkg": "buffalo",
                 "description": "A Go web development eco-system, designed to make the life of a Go web developer easier.",
                 "website": "https://gobuffalo.io"
@@ -512,7 +512,7 @@
                 "website": "https://github.com/AlDanial/cloc"
             },
             {
-                "version": "0.1.16",
+                "version": "0.1.17",
                 "pkg": "cloud-nuke",
                 "description": "A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
@@ -584,9 +584,9 @@
                 "website": "https://github.com/lukesampson/concfg"
             },
             {
-                "version": "5.2.8",
+                "version": "6.0.0",
                 "pkg": "concourse-fly",
-                "description": "Concourse CI/CD manager and controller.",
+                "description": "Concourse CI/CD manager and controller",
                 "website": "https://concourse-ci.org/fly.html"
             },
             {
@@ -644,7 +644,7 @@
                 "website": "http://cppcheck.sourceforge.net/"
             },
             {
-                "version": "8.0.4",
+                "version": "8.0.5",
                 "pkg": "croc",
                 "description": "Easily and securely send things from one computer to another.",
                 "website": "https://schollz.com/software/croc6"
@@ -806,7 +806,7 @@
                 "website": "http://vu1tur.eu.org/tools/"
             },
             {
-                "version": "2.0.41",
+                "version": "2.0.42",
                 "pkg": "dnscrypt-proxy",
                 "description": "A flexible DNS proxy, with support for encrypted DNS protocols",
                 "website": "https://dnscrypt.info"
@@ -914,7 +914,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "0.91.1",
+                "version": "0.92.0",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -926,7 +926,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "83.0.472.0",
+                "version": "83.0.473.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -938,10 +938,10 @@
                 "website": "https://editorconfig.org/"
             },
             {
-                "version": "0.15.0",
+                "version": "0.16.0",
                 "pkg": "eksctl",
                 "description": "A simple CLI tool for creating clusters on EKS - Amazon\u2019s new managed Kubernetes service for EC2.",
-                "website": "https://eksctl.io/"
+                "website": "https://eksctl.io"
             },
             {
                 "version": "1.10.2",
@@ -992,7 +992,7 @@
                 "website": "https://espanso.org"
             },
             {
-                "version": "3.4.5",
+                "version": "3.4.7",
                 "pkg": "etcd",
                 "description": "A distributed, reliable key-value store for the most critical data of a distributed system",
                 "website": "https://etcd.io/"
@@ -1070,7 +1070,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "0.2.58",
+                "version": "0.2.59",
                 "pkg": "ffsend",
                 "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
                 "website": "https://github.com/timvisee/ffsend"
@@ -1100,25 +1100,31 @@
                 "website": "http://www.mingw.org/wiki/msys"
             },
             {
+                "version": "3.18",
+                "pkg": "fio",
+                "description": "Flexible I/O Tester",
+                "website": "https://bsdio.com/fio/"
+            },
+            {
                 "version": "1.3.2",
                 "pkg": "flac",
                 "description": "Free Lossless Audio Codec - command line tools",
                 "website": "https://xiph.org/flac/"
             },
             {
-                "version": "1.11.0",
+                "version": "1.12.0",
                 "pkg": "flatc",
-                "description": "An efficient cross-platform serialization library for multiple languages.",
+                "description": "An efficient serialization library for multiple languages",
                 "website": "https://google.github.io/flatbuffers/index.html"
             },
             {
-                "version": "0.121.0",
+                "version": "0.122.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code.",
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "1.18.0",
+                "version": "1.19.0",
                 "pkg": "fluxctl",
                 "description": "Manage Flux from the Command Line.",
                 "website": "https://github.com/fluxcd/flux"
@@ -1130,7 +1136,7 @@
                 "website": "https://flywaydb.org/"
             },
             {
-                "version": "0.5.95",
+                "version": "0.5.96",
                 "pkg": "fnproject",
                 "description": "A container-native serverless platform that can be run anywhere (any cloud or on-premise).",
                 "website": "https://fnproject.io/"
@@ -1190,7 +1196,7 @@
                 "website": "https://github.com/junegunn/fzf"
             },
             {
-                "version": "1.13.2",
+                "version": "1.13.3",
                 "pkg": "gallery-dl",
                 "description": "Command-line program to download image-galleries and -collections from several image hosting sites.",
                 "website": "https://github.com/mikf/gallery-dl"
@@ -1256,7 +1262,7 @@
                 "website": "https://mlocati.github.io/articles/gettext-iconv-windows.html"
             },
             {
-                "version": "0.6.3",
+                "version": "0.6.4",
                 "pkg": "gh",
                 "description": "Official GitHub CLI",
                 "website": "https://cli.github.com"
@@ -1472,9 +1478,9 @@
                 "website": "https://github.com/OJ/gobuster"
             },
             {
-                "version": "0.0.3",
+                "version": "0.0.8",
                 "pkg": "gof",
-                "description": "Fuzzy search tool written in Go.",
+                "description": "Fuzzy search tool written in Go",
                 "website": "https://github.com/mattn/gof"
             },
             {
@@ -1502,7 +1508,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.129.0",
+                "version": "0.131.0",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -1622,7 +1628,7 @@
                 "website": "https://github.com/hadolint/hadolint"
             },
             {
-                "version": "1.3.0",
+                "version": "1.3.1",
                 "pkg": "halo",
                 "description": "A modern personal independent blog system.",
                 "website": "https://halo.run"
@@ -1640,7 +1646,7 @@
                 "website": "https://hashcat.net/hashcat/"
             },
             {
-                "version": "1.10.0",
+                "version": "1.11.0",
                 "pkg": "hashlink",
                 "description": "HashLink is a virtual machine for Haxe",
                 "website": "https://hashlink.haxe.org/"
@@ -1670,7 +1676,7 @@
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.104.0",
+                "version": "0.106.3",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1706,7 +1712,7 @@
                 "website": "https://hshrzd.wordpress.com/pe-sieve/"
             },
             {
-                "version": "0.5.3",
+                "version": "0.5.6",
                 "pkg": "hostctl",
                 "description": "Hosts file manager",
                 "website": "https://github.com/guumaster/hostctl"
@@ -1934,7 +1940,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.0.1249",
+                "version": "2.0.1263",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2108,7 +2114,7 @@
                 "website": "https://developers.google.com/speed/webp/"
             },
             {
-                "version": "2.18.2",
+                "version": "2.20.0-1",
                 "pkg": "lilypond",
                 "description": "A music engraving program devoted to producing the highest-quality sheet music possible.",
                 "website": "http://lilypond.org"
@@ -2126,7 +2132,7 @@
                 "website": "https://www.liquibase.org/"
             },
             {
-                "version": "0.5.0-alpha",
+                "version": "0.5.1-alpha",
                 "pkg": "listmonk",
                 "description": "Self-hosted newsletter and mailing list manager",
                 "website": "https://listmonk.app"
@@ -2234,7 +2240,7 @@
                 "website": "https://mediaarea.net/en/MediaInfo"
             },
             {
-                "version": "1.1.0",
+                "version": "1.2.0",
                 "pkg": "megacmd",
                 "description": "Manage MEGA.nz account and files from command line.",
                 "website": "https://mega.nz/cmd"
@@ -2300,7 +2306,7 @@
                 "website": "https://git-for-windows.github.io/"
             },
             {
-                "version": "1.8.2",
+                "version": "1.9.0",
                 "pkg": "minikube",
                 "description": "Runs a single-node Kubernetes cluster inside a Virtual Machine to try out Kubernetes.",
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
@@ -2564,7 +2570,7 @@
                 "website": "https://github.com/Nuke928/NTop"
             },
             {
-                "version": "0.11.0",
+                "version": "0.12.0",
                 "pkg": "nu",
                 "description": "A modern shell written in Rust.",
                 "website": "https://www.nushell.sh"
@@ -2636,19 +2642,19 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "1.8.1",
+                "version": "1.8.2",
                 "pkg": "okteto",
                 "description": "Development platform for Kubernetes applications",
                 "website": "https://okteto.com"
             },
             {
-                "version": "1.34.14",
+                "version": "1.34.15",
                 "pkg": "omnisharp",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
             },
             {
-                "version": "1.34.14",
+                "version": "1.34.15",
                 "pkg": "omnisharp-http",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
@@ -2666,7 +2672,7 @@
                 "website": "https://www.openshift.org"
             },
             {
-                "version": "7.6p1",
+                "version": "8.2p1-1",
                 "pkg": "openssh",
                 "description": "A suite of secure networking utilities based on the Secure Shell protocol.",
                 "website": "https://www.openssh.com/"
@@ -2714,7 +2720,7 @@
                 "website": "https://www.packer.io"
             },
             {
-                "version": "5.242.2",
+                "version": "5.243.0",
                 "pkg": "paket",
                 "description": "Dependency manager for .NET with support for NuGet and Git repositories",
                 "website": "https://fsprojects.github.io/Paket/"
@@ -2756,7 +2762,7 @@
                 "website": "https://jwilk.net/software/pdf2djvu"
             },
             {
-                "version": "2.0.18",
+                "version": "2.0.19",
                 "pkg": "pdfbox",
                 "description": "Java tool for working with PDF documents.",
                 "website": "https://pdfbox.apache.org"
@@ -2900,7 +2906,7 @@
                 "website": "https://bitbucket.org/mstrobel/procyon/"
             },
             {
-                "version": "2.17.0",
+                "version": "2.17.1",
                 "pkg": "prometheus",
                 "description": "Power your metrics and alerting with a leading open-source monitoring solution.",
                 "website": "https://prometheus.io/"
@@ -2912,7 +2918,7 @@
                 "website": "https://github.com/prometheus/pushgateway"
             },
             {
-                "version": "1.3.0",
+                "version": "1.4.0",
                 "pkg": "promtail",
                 "description": "Multi-tenant log aggregation system",
                 "website": "https://grafana.com/oss/loki/"
@@ -3068,9 +3074,9 @@
                 "website": "https://racket-lang.org"
             },
             {
-                "version": "4.0.0",
+                "version": "4.3.1",
                 "pkg": "radare2",
-                "description": "Portable reversing framework.",
+                "description": "Portable reversing framework",
                 "website": "https://www.radare.org/r/"
             },
             {
@@ -3170,13 +3176,13 @@
                 "website": "https://github.com/merklecounty/rget"
             },
             {
-                "version": "12.0.0",
+                "version": "12.0.1",
                 "pkg": "ripgrep",
                 "description": "Recursively searches directories for a regex pattern.",
                 "website": "https://github.com/BurntSushi/ripgrep"
             },
             {
-                "version": "1.0.5",
+                "version": "1.0.6",
                 "pkg": "rke",
                 "description": "CNCF-certified Kubernetes distribution that runs entirely within Docker containers",
                 "website": "https://rancher.com/products/rke/"
@@ -3290,10 +3296,10 @@
                 "website": "http://www.sbcl.org/"
             },
             {
-                "version": "1.3.8",
+                "version": "1.3.9",
                 "pkg": "sbt",
-                "description": "A build tool for Scala, Java, and more.",
-                "website": "https://www.scala-sbt.org/"
+                "description": "A build tool for Scala, Java, and more",
+                "website": "https://www.scala-sbt.org"
             },
             {
                 "version": "2.13.1",
@@ -3368,7 +3374,7 @@
                 "website": "https://www.glob.com.au/sendmail/"
             },
             {
-                "version": "1.52.0",
+                "version": "1.52.1",
                 "pkg": "sentry-cli",
                 "description": "Connect to the Sentry API and manage projects related data.",
                 "website": "https://docs.sentry.io/cli/"
@@ -3542,7 +3548,7 @@
                 "website": "https://github.com/wercker/stern"
             },
             {
-                "version": "3.3.2",
+                "version": "3.3.3",
                 "pkg": "stoplight-prism",
                 "description": "OpenAPI file based API server for mocking, transformations, validations and more",
                 "website": "https://stoplight.io/open-source/prism"
@@ -3608,7 +3614,7 @@
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
             },
             {
-                "version": "4.2.6",
+                "version": "4.2.8",
                 "pkg": "teleport",
                 "description": "Privileged access management for cloud-native infrastructure.",
                 "website": "https://gravitational.com/teleport/"
@@ -3626,13 +3632,13 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "1.2.5",
+                "version": "1.3.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.23.2",
+                "version": "0.23.4",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -3680,7 +3686,7 @@
                 "website": "https://github.com/isacikgoz/tldr"
             },
             {
-                "version": "4.3.0",
+                "version": "4.3.1",
                 "pkg": "topgrade",
                 "description": "Upgrade everything, keep your system up to date by detecting which tools you use and run their appropriate package managers.",
                 "website": "https://github.com/r-darwish/topgrade"
@@ -3698,7 +3704,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "2.1.9",
+                "version": "2.2.0",
                 "pkg": "traefik",
                 "description": "HTTP reverse proxy and load balancer",
                 "website": "https://traefik.io/"
@@ -3710,7 +3716,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.04.01",
+                "version": "2.24-20.04.02",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "http://mark0.net/soft-trid-e.html"
@@ -3866,7 +3872,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0444",
+                "version": "8.2.0488",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3998,7 +4004,7 @@
                 "website": "http://www.videlibri.de/xidel.html"
             },
             {
-                "version": "2.3.1",
+                "version": "2.3.2",
                 "pkg": "xmake",
                 "description": "A cross-platform build utility based on Lua",
                 "website": "https://xmake.io"
@@ -4641,7 +4647,7 @@
                 "website": "http://brackets.io/"
             },
             {
-                "version": "1.5.115",
+                "version": "1.4.96",
                 "pkg": "brave",
                 "description": "Secure, Fast & Private Web Browser with Adblocker",
                 "website": "https://brave.com"
@@ -5049,7 +5055,7 @@
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.8.0-dev.18.0",
+                "version": "2.8.0-dev.19.0",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5115,7 +5121,7 @@
                 "website": "https://www.wagnardsoft.com/"
             },
             {
-                "version": "2019-09-08",
+                "version": "2020-04-02",
                 "pkg": "deadbeef",
                 "description": "Unofficial port of DeaDBeeF music player.",
                 "website": "https://deadbeef-for-windows.github.io"
@@ -5745,7 +5751,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "76.0a1.20200401212659",
+                "version": "76.0a1.20200402095145",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6135,7 +6141,7 @@
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "83.0.4093.3",
+                "version": "83.0.4100.3",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -6165,7 +6171,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "6.7.1",
+                "version": "6.7.2",
                 "pkg": "grafana",
                 "description": "Open platform for analytics and data monitoring",
                 "website": "https://grafana.com/"
@@ -6345,7 +6351,7 @@
                 "website": "https://mh-nexus.de/en/hxd/"
             },
             {
-                "version": "390",
+                "version": "391",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -6369,7 +6375,7 @@
                 "website": "https://i2pd.website"
             },
             {
-                "version": "0.22.1",
+                "version": "1.0.0",
                 "pkg": "ibmcloud-cli",
                 "description": "The command line client for IBM Cloud",
                 "website": "https://github.com/IBM-Cloud/ibm-cloud-cli-release"
@@ -6843,7 +6849,7 @@
                 "website": "http://ldapadmin.org/"
             },
             {
-                "version": "3.85",
+                "version": "3.88",
                 "pkg": "ldplayer",
                 "description": "An Android emulator optimized for mobile gaming with lower resource consumption",
                 "website": "https://www.ldplayer.net/"
@@ -8295,13 +8301,13 @@
                 "website": "https://qalculate.github.io/"
             },
             {
-                "version": "4.2.2",
+                "version": "4.2.3",
                 "pkg": "qbittorrent",
                 "description": "Free and reliable P2P Bittorent client.",
                 "website": "https://www.qbittorrent.org/"
             },
             {
-                "version": "4.2.2",
+                "version": "4.2.3",
                 "pkg": "qbittorrent-portable",
                 "description": "Free and reliable P2P Bittorent client",
                 "website": "https://www.qbittorrent.org"
@@ -9033,7 +9039,7 @@
                 "website": "https://github.com/rupor-github/ssh-agent-wsl/"
             },
             {
-                "version": "3.3.4",
+                "version": "3.3.5",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -9327,7 +9333,7 @@
                 "website": "http://tcpipmanager.sourceforge.net"
             },
             {
-                "version": "3.5.1",
+                "version": "3.5.2",
                 "pkg": "teamspeak3",
                 "description": "Supplies mission-critical voice communication solutions to some of the world\u2019s finest companies.",
                 "website": "https://www.teamspeak.com/"
@@ -9651,7 +9657,7 @@
                 "website": "https://unetbootin.github.io"
             },
             {
-                "version": "79.0.3945.130-2",
+                "version": "80.0.3987.149-2",
                 "pkg": "ungoogled-chromium",
                 "description": "Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency.",
                 "website": "https://github.com/Eloston/ungoogled-chromium"
@@ -9663,7 +9669,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-03-12",
+                "version": "2020-04-02",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -9897,7 +9903,7 @@
                 "website": "http://www.vanmiddlesworth.org/vitrite/"
             },
             {
-                "version": "2.11.1811.49",
+                "version": "2.11.1811.51",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -10323,7 +10329,7 @@
                 "website": "http://www.wxhexeditor.org/"
             },
             {
-                "version": "2020-02-23_16-38",
+                "version": "2020-04-02_00-35",
                 "pkg": "x64dbg",
                 "description": "An open-source x64/x32 debugger for windows.",
                 "website": "https://x64dbg.com/"
@@ -10401,7 +10407,7 @@
                 "website": "https://github.com/xournalpp/xournalpp"
             },
             {
-                "version": "4.0.2",
+                "version": "4.0.3",
                 "pkg": "xx-net",
                 "description": "An HTTP/HTTPS MITM proxy to circumvent Internet censorship, successor of GoAgent",
                 "website": "https://github.com/XX-net/XX-Net"
