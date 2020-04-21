@@ -2,7 +2,7 @@
     "main": {
         "packages": [
             {
-                "version": "0.9.4",
+                "version": "0.10.0",
                 "pkg": "1password-cli",
                 "description": "The 1Password command-line tool makes your 1Password account accessible entirely from the command line.",
                 "website": "https://support.1password.com/command-line/"
@@ -182,7 +182,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.41",
+                "version": "1.18.42",
                 "pkg": "aws",
                 "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
                 "website": "https://aws.amazon.com/cli/"
@@ -1058,7 +1058,7 @@
                 "website": "https://ffmpeg.zeranoe.com/builds/"
             },
             {
-                "version": "20200417-889ad93",
+                "version": "20200420-cacdac8",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.zeranoe.com/builds/"
@@ -1220,9 +1220,9 @@
                 "website": "https://sourceforge.net/projects/ezwinports/"
             },
             {
-                "version": "8.1.0.0",
+                "version": "9.3.0-1",
                 "pkg": "gcc",
-                "description": "GNU Compiler Collection includes front ends for C, C++, Objective-C, Fortran, Ada, Go, and D, as well as libraries for these languages (libstdc++,...). (MingW port)",
+                "description": "GNU Compiler Collection (Mingw-w64 port from MSYS2 project)",
                 "website": "https://mingw-w64.org"
             },
             {
@@ -1796,7 +1796,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-6",
+                "version": "7.0.10-7",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2360,7 +2360,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "4.2.5",
+                "version": "4.2.6",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -2978,7 +2978,7 @@
                 "website": "https://github.com/dalance/ptags"
             },
             {
-                "version": "1.14.1",
+                "version": "2.0.0",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -2996,7 +2996,7 @@
                 "website": "https://puppetlabs.com"
             },
             {
-                "version": "2.5.0",
+                "version": "2.6.0",
                 "pkg": "puppet-bolt",
                 "description": "Orchestration and agentless IT automation",
                 "website": "https://puppet.com/open-source/bolt"
@@ -3734,7 +3734,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.04.18",
+                "version": "2.24-20.04.20",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -5757,13 +5757,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "76.0b5",
+                "version": "76.0b6",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "76.0b5",
+                "version": "76.0b6",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -5775,7 +5775,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "77.0a1.20200419091145",
+                "version": "77.0a1.20200420153711",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6165,7 +6165,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "84.0.4117.2",
+                "version": "84.0.4120.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -9159,7 +9159,7 @@
                 "website": "https://streamlabs.com/chatbot"
             },
             {
-                "version": "0.21.1",
+                "version": "0.21.2",
                 "pkg": "streamlabs-obs",
                 "description": "Open Broadcaster Software for Gamers",
                 "website": "https://streamlabs.com/streamlabs-obs"
@@ -9525,7 +9525,7 @@
                 "website": "https://github.com/tinode/chat"
             },
             {
-                "version": "3.1.4",
+                "version": "3.1.5",
                 "pkg": "tinymediamanager",
                 "description": "tinyMediaManager is a media management tool written in Java/Swing. It is written to provide metadata for the Kodi Media Center (formerly known as XBMC), MediaPortal and Plex media server",
                 "website": "https://www.tinymediamanager.org/"
@@ -10179,7 +10179,7 @@
                 "website": "https://windirstat.net/"
             },
             {
-                "version": "8.34",
+                "version": "8.35",
                 "pkg": "windows-iso-downloader",
                 "description": "Easy and comfortable way to download genuine Windows 7, Windows 8.1 and Windows 10 disk images (ISO) directly from Microsoft's servers, as well as Office.",
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
@@ -10329,7 +10329,7 @@
                 "website": "http://www.wox.one/"
             },
             {
-                "version": "11.2.0.9255",
+                "version": "11.2.0.9281",
                 "pkg": "wpsoffice",
                 "description": "Complete office suite.",
                 "website": "https://www.wps.com"
@@ -10449,7 +10449,7 @@
                 "website": "https://www.xnview.com/en/xnresize/"
             },
             {
-                "version": "0.96",
+                "version": "0.96.1",
                 "pkg": "xnviewmp",
                 "description": "Photo viewer, image resizer & batch converter.",
                 "website": "https://www.xnview.com/en/xnviewmp/"
@@ -11152,7 +11152,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-170-g9d4b3580",
+                "version": "1.51.0-176-g1f50b709",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -11278,7 +11278,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "3.0.1874.11",
+                "version": "3.0.1874.15",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
