@@ -32,7 +32,7 @@
                 "website": "https://github.com/ebekker/ACMESharp"
             },
             {
-                "version": "0.2.7",
+                "version": "0.2.8",
                 "pkg": "act",
                 "description": "Local Github actions runner.",
                 "website": "https://github.com/nektos/act/"
@@ -74,7 +74,7 @@
                 "website": "https://github.com/allure-framework/allure2"
             },
             {
-                "version": "2.0.4",
+                "version": "2.1.0",
                 "pkg": "ammonite",
                 "description": "Ammonite lets you use the Scala language for scripting purposes: in the REPL, as scripts, as a library, or as a standalone systems shell.",
                 "website": "http://ammonite.io"
@@ -242,7 +242,7 @@
                 "website": "https://blake2.net"
             },
             {
-                "version": "0.14.0",
+                "version": "0.15.0",
                 "pkg": "bat",
                 "description": "A cat(1) clone with syntax highlighting and Git integration",
                 "website": "https://github.com/sharkdp/bat"
@@ -380,7 +380,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/byacc.htm"
             },
             {
-                "version": "0.3",
+                "version": "0.4",
                 "pkg": "byenow",
                 "description": "Utility for folder removal",
                 "website": "https://iobureau.com/byenow/"
@@ -584,7 +584,7 @@
                 "website": "https://github.com/lukesampson/concfg"
             },
             {
-                "version": "6.0.0",
+                "version": "5.5.11",
                 "pkg": "concourse-fly",
                 "description": "Concourse CI/CD manager and controller",
                 "website": "https://concourse-ci.org/fly.html"
@@ -944,7 +944,7 @@
                 "website": "https://eksctl.io"
             },
             {
-                "version": "1.10.2",
+                "version": "1.10.3",
                 "pkg": "elixir",
                 "description": "A dynamic and functional programming language designed for building scalable and maintainable applications.",
                 "website": "https://elixir-lang.org/"
@@ -1022,7 +1022,7 @@
                 "website": "https://exiftool.org"
             },
             {
-                "version": "0.12.2",
+                "version": "0.12.3",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -1796,7 +1796,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-7",
+                "version": "7.0.10-8",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1958,9 +1958,9 @@
                 "website": "https://k6.io"
             },
             {
-                "version": "0.19.2",
+                "version": "0.19.3",
                 "pkg": "k9s",
-                "description": "Kubernetes CLI To Manage Your Clusters In Style!",
+                "description": "Kubernetes Clusters manager",
                 "website": "https://github.com/derailed/k9s"
             },
             {
@@ -2324,7 +2324,7 @@
                 "website": "https://min.io/"
             },
             {
-                "version": "2020-04-19T19-17-53Z",
+                "version": "2020-04-25T00-43-23Z",
                 "pkg": "minio-client",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (client)",
                 "website": "https://min.io/"
@@ -3890,7 +3890,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0628",
+                "version": "8.2.0633",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4803,7 +4803,7 @@
                 "website": "https://chatterino.com"
             },
             {
-                "version": "7.1-2020-04-22T16",
+                "version": "7.1-2020-04-24T23",
                 "pkg": "cheat-engine",
                 "description": "Tool for modifying/debugging single player games and applications.",
                 "website": "https://cheatengine.org/index.php"
@@ -5049,7 +5049,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.97.6.0",
+                "version": "1.98.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5775,7 +5775,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "77.0a1.20200424114754",
+                "version": "77.0a1.20200425094923",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6165,7 +6165,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "84.0.4125.0",
+                "version": "84.0.4126.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6477,7 +6477,7 @@
                 "website": "https://www.inbucket.org/"
             },
             {
-                "version": "0.9.115",
+                "version": "0.9.115a",
                 "pkg": "infoqube",
                 "description": "information management system",
                 "website": "http://www.infoqube.biz/"
@@ -6667,6 +6667,12 @@
                 "pkg": "kakaotalk",
                 "description": "An easy, no-cost messenger that transcends standard chat.",
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
+            },
+            {
+                "version": "19.12.3-858",
+                "pkg": "kate",
+                "description": "Multi-document editor",
+                "website": "https://kate-editor.org"
             },
             {
                 "version": "5.5.2",
@@ -6867,7 +6873,7 @@
                 "website": "https://www.lazarus-ide.org"
             },
             {
-                "version": "7.1.1",
+                "version": "7.1.2",
                 "pkg": "lazpaint",
                 "description": "Graphic editor with many tools and filters",
                 "website": "https://lazpaint.github.io/"
@@ -6911,7 +6917,7 @@
             {
                 "version": "6.4.3.2",
                 "pkg": "libreoffice-fresh",
-                "description": "Powerful office suite.",
+                "description": "Powerful office suite",
                 "website": "https://libreoffice.org/"
             },
             {
@@ -7091,8 +7097,8 @@
             {
                 "version": "0.92.17",
                 "pkg": "madvr",
-                "description": "madVR is a high quality DirectShow video renderer.",
-                "website": "http://madvr.com/"
+                "description": "High quality DirectShow video renderer",
+                "website": "http://madvr.com"
             },
             {
                 "version": "1.7.6",
@@ -7545,7 +7551,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "4.0.9",
+                "version": "4.1.0",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -8055,13 +8061,13 @@
                 "website": "https://photoflare.io"
             },
             {
-                "version": "2.9.4-7.4",
+                "version": "2.9.5-7.4",
                 "pkg": "php-nts-xdebug",
                 "description": "An extension for PHP to assist with debugging and development. (Non-Thread Safe)",
                 "website": "https://xdebug.org/"
             },
             {
-                "version": "2.9.4-7.4",
+                "version": "2.9.5-7.4",
                 "pkg": "php-xdebug",
                 "description": "An extension for PHP to assist with debugging and development. (Thread Safe)",
                 "website": "https://xdebug.org/"
@@ -8337,13 +8343,13 @@
                 "website": "https://qalculate.github.io/"
             },
             {
-                "version": "4.2.4",
+                "version": "4.2.5",
                 "pkg": "qbittorrent",
                 "description": "Free and reliable P2P Bittorent client.",
                 "website": "https://www.qbittorrent.org/"
             },
             {
-                "version": "4.2.4",
+                "version": "4.2.5",
                 "pkg": "qbittorrent-portable",
                 "description": "Free and reliable P2P Bittorent client",
                 "website": "https://www.qbittorrent.org"
@@ -8359,6 +8365,12 @@
                 "pkg": "qnapi",
                 "description": "Multi-engine, subtitle downloader",
                 "website": "https://qnapi.github.io/"
+            },
+            {
+                "version": "4.12.0",
+                "pkg": "qt-creator",
+                "description": "IDE for development with the Qt framework",
+                "website": "https://doc.qt.io/qtcreator/index.html"
             },
             {
                 "version": "1.16.3",
@@ -8385,7 +8397,7 @@
                 "website": "https://pooi.moe/QuickLook/"
             },
             {
-                "version": "5.55",
+                "version": "5.61",
                 "pkg": "quicktextpaste",
                 "description": "Insert pre-defined text in any Windows applications via keyboard shortcut.",
                 "website": "https://www.softwareok.com/?Download=QuickTextPaste"
@@ -8429,8 +8441,8 @@
             {
                 "version": "3.8.3",
                 "pkg": "rabbitmq",
-                "description": "An open-source message-broker software.",
-                "website": "https://www.rabbitmq.com/"
+                "description": "Message-broker",
+                "website": "https://www.rabbitmq.com"
             },
             {
                 "version": "3.8.3",
@@ -9165,7 +9177,7 @@
                 "website": "https://streamlabs.com/streamlabs-obs"
             },
             {
-                "version": "1.4.0",
+                "version": "1.4.1",
                 "pkg": "streamlink",
                 "description": "A command-line utility that pipes video streams from various services into a video player.",
                 "website": "https://streamlink.github.io/"
@@ -9723,7 +9735,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-04-24",
+                "version": "2020-04-25",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -9765,7 +9777,7 @@
                 "website": "https://www.uwamp.com/en/"
             },
             {
-                "version": "3.15.2",
+                "version": "3.18",
                 "pkg": "v2rayn",
                 "description": "GUI client based on v2ray core",
                 "website": "https://github.com/2dust/v2rayN"
@@ -10551,6 +10563,12 @@
                 "website": "https://github.com/vincpa/z"
             },
             {
+                "version": "2.9.0",
+                "pkg": "zaproxy",
+                "description": "Integrated penetration testing tool for finding vulnerabilities in web applications",
+                "website": "https://www.zaproxy.org"
+            },
+            {
                 "version": "0.6.1",
                 "pkg": "zeal",
                 "description": "An offline documentation browser for software developers.",
@@ -10858,7 +10876,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-04-22-1746-master-4703ec3",
+                "version": "2020-04-24-2032-master-e9c3f39",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11098,7 +11116,7 @@
                 "website": "https://premake.github.io/"
             },
             {
-                "version": "5.0.0-alpha14",
+                "version": "5.0.0-alpha15",
                 "pkg": "premake5",
                 "description": null,
                 "website": "https://premake.github.io/"
@@ -11152,7 +11170,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-176-g1f50b709",
+                "version": "1.51.0-230-g8bf6ab2c",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
