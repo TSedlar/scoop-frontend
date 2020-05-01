@@ -218,7 +218,7 @@
                 "website": "https://github.com/axel-download-accelerator/axel"
             },
             {
-                "version": "2.5.0",
+                "version": "2.5.1",
                 "pkg": "azure-cli",
                 "description": "Microsoft Azure CLI 2.0",
                 "website": "https://aka.ms/cli"
@@ -716,7 +716,7 @@
                 "website": "http://www.chrysocome.net/dd"
             },
             {
-                "version": "1.14.0",
+                "version": "1.14.1",
                 "pkg": "ddev",
                 "description": "An open source tool that makes it simple to get local PHP development environments up and running in minutes",
                 "website": "https://ddev.readthedocs.io/en/latest/"
@@ -728,7 +728,7 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.41.0",
+                "version": "0.42.0",
                 "pkg": "deno",
                 "description": "A secure TypeScript runtime on V8",
                 "website": "https://github.com/denoland/deno"
@@ -1130,7 +1130,7 @@
                 "website": "https://github.com/fluxcd/flux"
             },
             {
-                "version": "6.4.0",
+                "version": "6.4.1",
                 "pkg": "flyway",
                 "description": "Database migration tool that favors simplicity and convention over configuration.",
                 "website": "https://flywaydb.org/"
@@ -1940,13 +1940,13 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.1.13",
+                "version": "2.1.14",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
             },
             {
-                "version": "0.4.0",
+                "version": "0.4.1",
                 "pkg": "k2tf",
                 "description": "Converts Kubernetes API Objects (in YAML format) into HashiCorp's Terraform configuration language.",
                 "website": "https://github.com/sl1pm4t/k2tf"
@@ -2990,7 +2990,7 @@
                 "website": "https://github.com/ericchiang/pup"
             },
             {
-                "version": "6.14.0",
+                "version": "6.15.0",
                 "pkg": "puppet",
                 "description": "An open-core software configuration management tool.",
                 "website": "https://puppetlabs.com"
@@ -3368,7 +3368,7 @@
                 "website": "https://github.com/ScoopInstaller/Validator/"
             },
             {
-                "version": "1.12.1",
+                "version": "1.13",
                 "pkg": "scrcpy",
                 "description": "Display and control your Android device",
                 "website": "https://github.com/Genymobile/scrcpy"
@@ -3488,7 +3488,7 @@
                 "website": "https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/"
             },
             {
-                "version": "8.2.0.32929",
+                "version": "8.3.0.34182",
                 "pkg": "sonarqube",
                 "description": "Platform for continuous inspection of code quality and security using static analysis for 20+ programming languages.",
                 "website": "https://www.sonarqube.org"
@@ -3734,7 +3734,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "2.2.0",
+                "version": "2.2.1",
                 "pkg": "traefik",
                 "description": "HTTP reverse proxy and load balancer",
                 "website": "https://traefik.io/"
@@ -3746,7 +3746,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.04.28",
+                "version": "2.24-20.05.01",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -3866,7 +3866,7 @@
                 "website": "https://www.vagrantup.com/"
             },
             {
-                "version": "1.4.0",
+                "version": "1.4.1",
                 "pkg": "vault",
                 "description": "Secure, store, and tightly control access to tokens, passwords, certificates, API keys, and other secrets in modern computing.",
                 "website": "https://www.vaultproject.io"
@@ -4172,7 +4172,7 @@
                 "website": "https://www.getzola.org/"
             },
             {
-                "version": "3.6.0",
+                "version": "3.6.1",
                 "pkg": "zookeeper",
                 "description": "High-performance coordination service for distributed applications",
                 "website": "https://zookeeper.apache.org/"
@@ -4437,6 +4437,12 @@
                 "website": "http://astrogrep.sourceforge.net/"
             },
             {
+                "version": "2.0.0",
+                "pkg": "asuite",
+                "description": "Portable applications launcher",
+                "website": "http://www.salvadorsoftware.com/asuite"
+            },
+            {
                 "version": "1.45.0",
                 "pkg": "atom",
                 "description": "The hackable text editor.",
@@ -4521,7 +4527,7 @@
                 "website": "https://github.com/Azure/azure-iot-explorer"
             },
             {
-                "version": "1.16.1",
+                "version": "1.17.1",
                 "pkg": "azuredatastudio",
                 "description": "Data management tool that enables work with SQL Server, Azure SQL DB and SQL DW.",
                 "website": "https://docs.microsoft.com/en-us/sql/azure-data-studio"
@@ -4793,8 +4799,8 @@
             {
                 "version": "4.5.8.7128",
                 "pkg": "cdburnerxp",
-                "description": "A free application to burn CDs and DVDs, including Blu-Ray and HD-DVDs.",
-                "website": "https://cdburnerxp.se/"
+                "description": "Burns CDs and DVDs, including Blu-Ray and HD-DVDs.",
+                "website": "https://cdburnerxp.se"
             },
             {
                 "version": "1.6.1",
@@ -5043,7 +5049,7 @@
                 "website": "https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU"
             },
             {
-                "version": "1.5.2",
+                "version": "1.5.3",
                 "pkg": "cryptomator",
                 "description": "Multi-platform transparent client-side encryption of files in the cloud",
                 "website": "https://cryptomator.org"
@@ -5061,7 +5067,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.98.1.0",
+                "version": "1.98.2.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5073,7 +5079,7 @@
                 "website": "http://cue.tools/wiki/Main_Page"
             },
             {
-                "version": "4.6.0",
+                "version": "4.6.1",
                 "pkg": "cura",
                 "description": "Model editing tools for 3D printing",
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
@@ -5091,7 +5097,7 @@
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.9.0-4.0.dev",
+                "version": "2.9.0-5.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5355,7 +5361,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "13.0.1",
+                "version": "13.0.3",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -5613,7 +5619,7 @@
                 "website": "https://github.com/GChristensen/enso-portable"
             },
             {
-                "version": "1.5.82",
+                "version": "1.5.83",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -5787,7 +5793,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "77.0a1.20200429095105",
+                "version": "77.0a1.20200430155041",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5835,7 +5841,7 @@
                 "website": "https://justgetflux.com"
             },
             {
-                "version": "1.16",
+                "version": "1.17",
                 "pkg": "fmedia",
                 "description": "A fast media player/recorder/converter",
                 "website": "https://stsaz.github.io/fmedia/"
@@ -5907,7 +5913,7 @@
                 "website": "https://www.foxitsoftware.com/"
             },
             {
-                "version": "5.4.1",
+                "version": "5.5.0",
                 "pkg": "franz",
                 "description": "Messaging app for services like WhatsApp, Slack, Messenger and many more.",
                 "website": "https://meetfranz.com"
@@ -6171,13 +6177,13 @@
                 "website": "https://www.google.com/chrome/"
             },
             {
-                "version": "83.0.4103.24",
+                "version": "83.0.4103.34",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "84.0.4130.1",
+                "version": "84.0.4131.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6327,7 +6333,7 @@
                 "website": "https://github.com/Xonlystar/hexo-blog-client"
             },
             {
-                "version": "1.3.3",
+                "version": "1.3.4",
                 "pkg": "hexo-client",
                 "description": "Cross-platform hexo client.",
                 "website": "https://github.com/gaoyoubo/hexo-client"
@@ -6399,7 +6405,7 @@
                 "website": "https://mh-nexus.de/en/hxd/"
             },
             {
-                "version": "394",
+                "version": "395",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -6435,7 +6441,7 @@
                 "website": "https://www.hex-rays.com/products/ida/index.shtml"
             },
             {
-                "version": "2020.1",
+                "version": "2020.1.1",
                 "pkg": "idea",
                 "description": "IntelliJ IDEA Community Edition for JVM and Android development.",
                 "website": "https://www.jetbrains.com/idea/"
@@ -6447,7 +6453,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "2020.1",
+                "version": "2020.1.1",
                 "pkg": "idea-ultimate",
                 "description": "IntelliJ IDEA Ultimate Edition for web and enterprise development.",
                 "website": "https://www.jetbrains.com/idea/"
@@ -6549,7 +6555,7 @@
                 "website": "https://www.sadrobot.co.nz/ipfilter/"
             },
             {
-                "version": "0.10.4",
+                "version": "0.11.2",
                 "pkg": "ipfs-desktop",
                 "description": "A desktop client for IPFS.",
                 "website": "https://github.com/ipfs-shipyard/ipfs-desktop"
@@ -6681,7 +6687,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.0-864",
+                "version": "20.04.0-865",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -6903,7 +6909,7 @@
                 "website": "http://ldapadmin.org/"
             },
             {
-                "version": "3.90",
+                "version": "3.92",
                 "pkg": "ldplayer",
                 "description": "An Android emulator optimized for mobile gaming with lower resource consumption",
                 "website": "https://www.ldplayer.net/"
@@ -7017,7 +7023,7 @@
                 "website": "https://www.listary.com"
             },
             {
-                "version": "2.7.1",
+                "version": "2.7.2",
                 "pkg": "listen1desktop",
                 "description": "One for all free music in China",
                 "website": "http://listen1.github.io/listen1/"
@@ -7089,7 +7095,7 @@
                 "website": "https://love2d.org/"
             },
             {
-                "version": "5.4.0",
+                "version": "5.5.0",
                 "pkg": "lunacy",
                 "description": "Free Graphic Design Software.",
                 "website": "https://icons8.com/lunacy"
@@ -7143,7 +7149,7 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "1.22.1",
+                "version": "1.22.2",
                 "pkg": "markdown-monster",
                 "description": "Markdown editing and weblog publishing tool.",
                 "website": "https://markdownmonster.west-wind.com"
@@ -7941,13 +7947,13 @@
                 "website": "https://github.com/lptstr/painter"
             },
             {
-                "version": "28.9.1",
+                "version": "28.9.2",
                 "pkg": "palemoon",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
             },
             {
-                "version": "28.9.1",
+                "version": "28.9.2",
                 "pkg": "palemoon-portable",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
@@ -8223,7 +8229,7 @@
                 "website": "https://github.com/jasonmarcher/PowerTab"
             },
             {
-                "version": "0.16.1",
+                "version": "0.17.0",
                 "pkg": "powertoys",
                 "description": "A set of utilities for power users to tune and streamline their Windows experience for greater productivity.",
                 "website": "https://github.com/microsoft/PowerToys"
@@ -8751,7 +8757,7 @@
                 "website": "https://www.thewindowsclub.com/screenoff-turn-off-windows-laptop-screen"
             },
             {
-                "version": "2.23.1",
+                "version": "2.23.2",
                 "pkg": "screentogif",
                 "description": "Screen, webcam and sketchboard recorder with an integrated editor.",
                 "website": "https://www.screentogif.com/"
@@ -9039,7 +9045,7 @@
                 "website": "https://projects.spring.io/spring-boot/"
             },
             {
-                "version": "1.5",
+                "version": "1.6",
                 "pkg": "spytify",
                 "description": "Records Spotify while it plays without ads.",
                 "website": "https://github.com/jwallet/spy-spotify"
@@ -9069,9 +9075,9 @@
                 "website": "https://sqlitestudio.pl/index.rvt"
             },
             {
-                "version": "13.1.5",
+                "version": "13.1.6",
                 "pkg": "sqlyog-community",
-                "description": "GUI tool for MySQL database.",
+                "description": "GUI for MySQL database",
                 "website": "https://www.webyog.com/product/sqlyog"
             },
             {
@@ -10089,13 +10095,13 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.0.142.1",
+                "version": "10.0.148.1",
                 "pkg": "wavebox10",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.0.142.2",
+                "version": "10.0.148.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -10113,7 +10119,7 @@
                 "website": "https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release"
             },
             {
-                "version": "2020.1",
+                "version": "2020.1.1",
                 "pkg": "webstorm",
                 "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
                 "website": "https://www.jetbrains.com/webstorm/"
@@ -10137,7 +10143,7 @@
                 "website": "https://wexond.net/"
             },
             {
-                "version": "0.4.2088",
+                "version": "2.2017.6",
                 "pkg": "whatsapp",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
@@ -10407,7 +10413,7 @@
                 "website": "http://www.wxhexeditor.org/"
             },
             {
-                "version": "2020-04-28_00-45",
+                "version": "2020-04-29_23-40",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
@@ -10419,7 +10425,7 @@
                 "website": "https://github.com/NiyaShy/XB1ControllerBatteryIndicator"
             },
             {
-                "version": "2.2.1",
+                "version": "2.3.0",
                 "pkg": "xca",
                 "description": "X - Certificate and Key management",
                 "website": "https://www.hohnstaedt.de/xca/"
@@ -10587,7 +10593,7 @@
                 "website": "https://zealdocs.org/"
             },
             {
-                "version": "0.9.0",
+                "version": "0.9.1",
                 "pkg": "zeebe-modeler",
                 "description": "Desktop Application for modeling Zeebe Workflows with BPMN",
                 "website": "https://github.com/zeebe-io/zeebe-modeler"
@@ -10617,7 +10623,7 @@
                 "website": "https://github.com/vors/ZLocation"
             },
             {
-                "version": "7.1.0.69",
+                "version": "7.1.1.77",
                 "pkg": "zmc",
                 "description": "A build of JDK Mission Control, an open source Java runtime profiling and monitoring utility.",
                 "website": "https://www.azul.com/products/zulu-mission-control"
@@ -10629,7 +10635,7 @@
                 "website": "https://www.zotero.org/"
             },
             {
-                "version": "5.0.0",
+                "version": "5.1.0",
                 "pkg": "zulip",
                 "description": "Desktop client for Zulip, an open source team chat application.",
                 "website": "https://zulipchat.com/"
@@ -10888,7 +10894,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-04-28-2106-master-0a49685",
+                "version": "2020-04-29-1525-master-6601f4e",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11146,7 +11152,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "3.7.7rc1",
+                "version": "3.8.3rc1",
                 "pkg": "python-beta",
                 "description": null,
                 "website": "https://www.python.org/"
