@@ -56,6 +56,12 @@
                 "website": "http://ahoycli.com"
             },
             {
+                "version": "0.50.0",
+                "pkg": "aks-engine",
+                "description": "Self-managed Kubernetes cluster provisioning on Azure",
+                "website": "https://github.com/Azure/aks-engine"
+            },
+            {
                 "version": "1.12.6",
                 "pkg": "algernon",
                 "description": "Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support.",
@@ -308,7 +314,7 @@
                 "website": "http://bochs.sourceforge.net/"
             },
             {
-                "version": "0.3.0",
+                "version": "0.4.0",
                 "pkg": "bottom",
                 "description": "Graphical process/system monitor",
                 "website": "https://github.com/ClementTsang/bottom"
@@ -464,7 +470,7 @@
                 "website": "https://github.com/alecthomas/chroma"
             },
             {
-                "version": "81.0.4044.69",
+                "version": "81.0.4044.138",
                 "pkg": "chromedriver",
                 "description": "An open source tool for automated testing of webapps across many browsers",
                 "website": "https://chromedriver.chromium.org/"
@@ -596,7 +602,7 @@
                 "website": "https://web.archive.org/web/20080516100455/http://www.meadowy.org/~gotoh/projects/connect"
             },
             {
-                "version": "1.7.2",
+                "version": "1.7.3",
                 "pkg": "consul",
                 "description": "Service Discovery and Configuration",
                 "website": "https://www.consul.io"
@@ -926,7 +932,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "84.0.505.0",
+                "version": "84.0.506.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1136,7 +1142,7 @@
                 "website": "https://flywaydb.org/"
             },
             {
-                "version": "0.5.96",
+                "version": "0.5.97",
                 "pkg": "fnproject",
                 "description": "A container-native serverless platform that can be run anywhere (any cloud or on-premise).",
                 "website": "https://fnproject.io/"
@@ -1406,7 +1412,7 @@
                 "website": "https://github.com/muesli/gitomatic"
             },
             {
-                "version": "5.2.4",
+                "version": "5.3.1",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -1502,7 +1508,7 @@
                 "website": "https://github.com/hairyhenderson/gomplate"
             },
             {
-                "version": "1.8.6",
+                "version": "1.9.0",
                 "pkg": "gopass",
                 "description": "The slightly more awesome standard unix password manager for teams",
                 "website": "https://www.gopass.pw/"
@@ -1538,13 +1544,13 @@
                 "website": "https://www.gnupg.org/"
             },
             {
-                "version": "6.3",
+                "version": "6.4",
                 "pkg": "gradle",
                 "description": "An open-source build automation tool focused on flexibility and performance. (Source code and documentation boundled)",
                 "website": "https://gradle.org"
             },
             {
-                "version": "6.3",
+                "version": "6.4",
                 "pkg": "gradle-bin",
                 "description": "An open-source build automation tool focused on flexibility and performance. (Binaries only without documentation)",
                 "website": "https://gradle.org"
@@ -2324,7 +2330,7 @@
                 "website": "https://min.io/"
             },
             {
-                "version": "2020-04-25T00-43-23Z",
+                "version": "2020-05-05T06-03-47Z",
                 "pkg": "minio-client",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (client)",
                 "website": "https://min.io/"
@@ -2540,7 +2546,7 @@
                 "website": "https://github.com/nodejs/node-chakracore"
             },
             {
-                "version": "14.1.0",
+                "version": "14.2.0",
                 "pkg": "nodejs",
                 "description": "As an asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications.",
                 "website": "https://nodejs.org"
@@ -2654,13 +2660,13 @@
                 "website": "https://okteto.com"
             },
             {
-                "version": "1.35.0",
+                "version": "1.35.1",
                 "pkg": "omnisharp",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
             },
             {
-                "version": "1.35.0",
+                "version": "1.35.1",
                 "pkg": "omnisharp-http",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
@@ -2726,7 +2732,7 @@
                 "website": "https://www.packer.io"
             },
             {
-                "version": "5.244.2",
+                "version": "5.245.0",
                 "pkg": "paket",
                 "description": "Dependency manager for .NET with support for NuGet and Git repositories",
                 "website": "https://fsprojects.github.io/Paket/"
@@ -3062,6 +3068,12 @@
                 "website": "http://qpdf.sourceforge.net/"
             },
             {
+                "version": "0.6.1",
+                "pkg": "qrcp",
+                "description": "Transfers files over wifi from computer to mobile device by scanning a QR code without leaving the terminal.",
+                "website": "https://claudiodangelis.com/qrcp/"
+            },
+            {
                 "version": "4.0.0",
                 "pkg": "r",
                 "description": "A free software environment for statistical computing and graphics.",
@@ -3135,6 +3147,12 @@
             },
             {
                 "version": "2.0.0",
+                "pkg": "rdiff-backup",
+                "description": "Reverse differential backup tool, over a network or locally",
+                "website": "https://rdiff-backup.net"
+            },
+            {
+                "version": "2.0.0",
                 "pkg": "recycle-bin",
                 "description": "Move files and folders to the Windows recycle bin within command line.",
                 "website": "https://github.com/sindresorhus/recycle-bin"
@@ -3200,7 +3218,7 @@
                 "website": "https://github.com/BurntSushi/ripgrep"
             },
             {
-                "version": "0.2.10",
+                "version": "1.0.7",
                 "pkg": "rke",
                 "description": "CNCF-certified Kubernetes distribution that runs entirely within Docker containers",
                 "website": "https://rancher.com/products/rke/"
@@ -3290,7 +3308,7 @@
                 "website": "https://github.com/desbma/sacad"
             },
             {
-                "version": "2.26.0",
+                "version": "2.26.1",
                 "pkg": "saml2aws",
                 "description": "Login and retrieve Amazon Web Services / AWS temporary credentials using a SAML IDP.",
                 "website": "https://github.com/Versent/saml2aws"
@@ -3434,7 +3452,7 @@
                 "website": "https://shellcheck.net/"
             },
             {
-                "version": "3.1.0",
+                "version": "3.1.1",
                 "pkg": "shfmt",
                 "description": "A shell parser, formatter and interpreter. Supports POSIX Shell, Bash and mksh.",
                 "website": "https://github.com/mvdan/sh"
@@ -3548,7 +3566,7 @@
                 "website": "https://github.com/rbsec/sslscan"
             },
             {
-                "version": "2.1.3",
+                "version": "2.3.1",
                 "pkg": "stack",
                 "description": "The Haskell Tool Stack",
                 "website": "https://www.haskellstack.org"
@@ -3614,7 +3632,7 @@
                 "website": "https://www.syncany.org/"
             },
             {
-                "version": "1.4.2",
+                "version": "1.5.0",
                 "pkg": "syncthing",
                 "description": "Open Source Continuous File Synchronization.",
                 "website": "https://syncthing.net/"
@@ -3848,7 +3866,7 @@
                 "website": "https://github.com/xo/usql"
             },
             {
-                "version": "0.0.3",
+                "version": "0.0.1",
                 "pkg": "uutils-coreutils",
                 "description": "Rust implementation of GNU coreutils (binaries compiled with MSVC)",
                 "website": "https://github.com/uutils/coreutils"
@@ -3902,7 +3920,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0694",
+                "version": "8.2.0695",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4793,7 +4811,7 @@
             {
                 "version": "5.66.7716",
                 "pkg": "ccleaner",
-                "description": "Number-one tool for cleaning your PC.",
+                "description": "Number-one tool for cleaning PC",
                 "website": "https://www.ccleaner.com/ccleaner"
             },
             {
@@ -5055,7 +5073,7 @@
                 "website": "https://cryptomator.org"
             },
             {
-                "version": "8.5.0",
+                "version": "8.5.1",
                 "pkg": "crystaldiskinfo",
                 "description": "CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.",
                 "website": "https://osdn.net/projects/crystaldiskinfo/"
@@ -5769,31 +5787,31 @@
                 "website": "https://gist.github.com/se35710/43693e679701387d722206eff1e85f5f"
             },
             {
-                "version": "75.0",
+                "version": "76.0",
                 "pkg": "firefox",
                 "description": "Popular open source web browser.",
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "76.0b8",
+                "version": "77.0b1",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "76.0b8",
+                "version": "77.0b1",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "68.7.0",
+                "version": "68.8.0",
                 "pkg": "firefox-esr",
                 "description": "Extended Support Release of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "78.0a1.20200504205324",
+                "version": "78.0a1.20200505094621",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6039,7 +6057,7 @@
                 "website": "https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm"
             },
             {
-                "version": "290.0.1",
+                "version": "291.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -6333,7 +6351,7 @@
                 "website": "https://github.com/Xonlystar/hexo-blog-client"
             },
             {
-                "version": "1.3.4",
+                "version": "1.3.5",
                 "pkg": "hexo-client",
                 "description": "Cross-platform hexo client.",
                 "website": "https://github.com/gaoyoubo/hexo-client"
@@ -6687,7 +6705,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.0-869",
+                "version": "20.04.0-870",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7233,7 +7251,7 @@
                 "website": "https://sourceforge.net/projects/megui/"
             },
             {
-                "version": "5.91",
+                "version": "6.01",
                 "pkg": "meinplatz",
                 "description": "Hard disk scan and folder size tool",
                 "website": "http://www.softwareok.com/?seite=Freeware/MeinPlatz"
@@ -7479,7 +7497,7 @@
                 "website": "https://www.mumble.info/"
             },
             {
-                "version": "1.17.0-rc1",
+                "version": "1.17.0",
                 "pkg": "mupdf",
                 "description": "A lightweight PDF, XPS, and E-book viewer.",
                 "website": "https://mupdf.com/"
@@ -7827,7 +7845,7 @@
                 "website": "https://www.openhab.org/"
             },
             {
-                "version": "0.9.2",
+                "version": "0.9.3",
                 "pkg": "openhardwaremonitor",
                 "description": "Monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.",
                 "website": "https://openhardwaremonitor.org/"
@@ -8373,7 +8391,7 @@
                 "website": "https://www.qbittorrent.org"
             },
             {
-                "version": "0.9",
+                "version": "0.9.1",
                 "pkg": "qimgv",
                 "description": "Qt5 image viewer",
                 "website": "https://github.com/easymodo/qimgv"
@@ -9525,13 +9543,13 @@
                 "website": "https://www.techpowerup.com/download/techpowerup-throttlestop/"
             },
             {
-                "version": "68.7.0",
+                "version": "68.8.0",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "68.7.0",
+                "version": "68.8.0",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -9597,7 +9615,7 @@
                 "website": "https://tomcat.apache.org/"
             },
             {
-                "version": "9.0.9",
+                "version": "9.0.10",
                 "pkg": "tor-browser",
                 "description": "Web browser that connects to the internet via the Tor anonymity network",
                 "website": "https://www.torproject.org/"
@@ -9753,7 +9771,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-05-03",
+                "version": "2020-05-05",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10539,7 +10557,7 @@
                 "website": "https://github.com/Maxstupo/ydl-ui"
             },
             {
-                "version": "3.19.1.1",
+                "version": "3.20",
                 "pkg": "yed",
                 "description": "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.",
                 "website": "https://www.yworks.com/products/yed"
@@ -10780,7 +10798,7 @@
                 "website": "https://gitea.io/"
             },
             {
-                "version": "5.2.4",
+                "version": "5.3.0",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -10894,7 +10912,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-05-03-1422-master-877b596",
+                "version": "2020-05-04-1630-master-f579e6c",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11188,7 +11206,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-266-gf2b1fedc",
+                "version": "1.51.0-278-gef9e6794",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
