@@ -644,7 +644,7 @@
                 "website": "https://github.com/lukesampson/cowsay-psh"
             },
             {
-                "version": "1.90",
+                "version": "2.0",
                 "pkg": "cppcheck",
                 "description": "Static analysis tool for C/C++ code",
                 "website": "http://cppcheck.sourceforge.net/"
@@ -1382,7 +1382,7 @@
                 "website": "https://gitforwindows.org"
             },
             {
-                "version": "1.11.4",
+                "version": "1.11.5",
                 "pkg": "gitea",
                 "description": "A painless self-hosted Git service.",
                 "website": "https://gitea.io/"
@@ -1508,7 +1508,7 @@
                 "website": "https://github.com/hairyhenderson/gomplate"
             },
             {
-                "version": "1.9.0",
+                "version": "1.9.1",
                 "pkg": "gopass",
                 "description": "The slightly more awesome standard unix password manager for teams",
                 "website": "https://www.gopass.pw/"
@@ -2088,6 +2088,12 @@
                 "pkg": "ldc",
                 "description": "LDC is LLVM based D-language compiler",
                 "website": "https://dlang.org/"
+            },
+            {
+                "version": "1.2.0",
+                "pkg": "legit",
+                "description": "Complementary command-line interface for Git.",
+                "website": "https://frostming.github.io/legit/"
             },
             {
                 "version": "2.9.3",
@@ -3536,6 +3542,12 @@
                 "website": "https://www.speedtest.net/apps/cli"
             },
             {
+                "version": "4.0.2",
+                "pkg": "spotbugs",
+                "description": "Static analysis tool for Java",
+                "website": "https://spotbugs.github.io/"
+            },
+            {
                 "version": "3.31.1",
                 "pkg": "sqlite",
                 "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine.",
@@ -3680,7 +3692,7 @@
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.23.15",
+                "version": "0.23.16",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -3920,7 +3932,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0717",
+                "version": "8.2.0726",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -5823,7 +5835,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "78.0a1.20200509091423",
+                "version": "78.0a1.20200510092917",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -5913,7 +5925,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.49.0",
+                "version": "1.49.1",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -6027,7 +6039,7 @@
                 "website": "https://www.faststone.org/FSViewerDetail.htm"
             },
             {
-                "version": "3.6.12",
+                "version": "3.6.13",
                 "pkg": "fun",
                 "description": "Complete set of commands to define, develop, test serverless applications, and deploy them to the Alibaba Cloud.",
                 "website": "https://alibabacloud.com/help/doc-detail/64204.html?lang=en"
@@ -6717,7 +6729,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.0-874",
+                "version": "20.04.0-875",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -6825,7 +6837,7 @@
                 "website": "http://kicad-pcb.org/"
             },
             {
-                "version": "3.8.2",
+                "version": "3.8.3",
                 "pkg": "kid3",
                 "description": "Efficient ID3v1 and ID3v2 tag editor",
                 "website": "https://kid3.kde.org"
@@ -7179,7 +7191,7 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "1.22.3",
+                "version": "1.22.3.2",
                 "pkg": "markdown-monster",
                 "description": "Markdown editing and weblog publishing tool.",
                 "website": "https://markdownmonster.west-wind.com"
@@ -7437,7 +7449,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20200426",
+                "version": "20200510",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -7755,13 +7767,13 @@
                 "website": "https://github.com/Orbmu2k/nvidiaProfileInspector/"
             },
             {
-                "version": "0.45.5",
+                "version": "0.45.6",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
             },
             {
-                "version": "0.45.5",
+                "version": "0.45.6",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io/"
@@ -8187,7 +8199,7 @@
                 "website": "http://www.nattyware.com/pixie.php"
             },
             {
-                "version": "1.2020.8",
+                "version": "1.2020.9",
                 "pkg": "plantuml",
                 "description": "A tool to draw UML diagrams, using a simple and human readable text description.",
                 "website": "http://plantuml.com/"
@@ -8217,7 +8229,7 @@
                 "website": "https://cmusphinx.github.io/"
             },
             {
-                "version": "2.3.5890",
+                "version": "2.3.1",
                 "pkg": "poedit",
                 "description": "Gettext translations editor.",
                 "website": "https://poedit.net"
@@ -8391,7 +8403,7 @@
                 "website": "https://www.jetbrains.com/pycharm/"
             },
             {
-                "version": "8.15",
+                "version": "8.18",
                 "pkg": "q-dir",
                 "description": "A quad window file manager based on Windows File Explorer",
                 "website": "https://www.softwareok.com/?seite=Freeware/Q-Dir"
@@ -8841,7 +8853,7 @@
                 "website": "https://shadered.org"
             },
             {
-                "version": "4.1.9.2",
+                "version": "4.1.10.0",
                 "pkg": "shadowsocks",
                 "description": "A secure socks5 proxy, designed to protect your Internet traffic.",
                 "website": "https://github.com/shadowsocks/shadowsocks-windows"
@@ -9387,7 +9399,7 @@
                 "website": "https://github.com/White-Tiger/T-Clock"
             },
             {
-                "version": "3.4.0.122",
+                "version": "3.5.0.124",
                 "pkg": "tableplus",
                 "description": "Relational database explorer",
                 "website": "https://tableplus.com"
@@ -9795,7 +9807,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-05-09",
+                "version": "2020-05-10",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10461,7 +10473,7 @@
                 "website": "http://www.wxhexeditor.org/"
             },
             {
-                "version": "2020-04-29_23-40",
+                "version": "2020-05-09_22-52",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
@@ -10683,7 +10695,7 @@
                 "website": "https://zoom.us"
             },
             {
-                "version": "5.0.85",
+                "version": "5.0.86",
                 "pkg": "zotero",
                 "description": "Open-source reference management software to manage bibliographic data and related research materials.",
                 "website": "https://www.zotero.org/"
@@ -11242,7 +11254,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.51.0-293-gc80b6d96",
+                "version": "1.51.0-297-gbb65974e",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
