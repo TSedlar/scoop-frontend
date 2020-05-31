@@ -290,7 +290,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/bison.htm"
             },
             {
-                "version": "1.9.1",
+                "version": "1.10.0",
                 "pkg": "bitwarden-cli",
                 "description": "The powerful command-line tool (CLI) to write and execute scripts on your Bitwarden vault.",
                 "website": "https://bitwarden.com/"
@@ -368,7 +368,7 @@
                 "website": "https://www.bulkrenameutility.co.uk"
             },
             {
-                "version": "3445-g10e14d5eb",
+                "version": "3466-g53c09d0e1",
                 "pkg": "busybox",
                 "description": "BusyBox is a single binary that contains many common Unix tools",
                 "website": "https://frippery.org/busybox"
@@ -410,7 +410,7 @@
                 "website": "https://caddyserver.com"
             },
             {
-                "version": "0.37.0",
+                "version": "0.38.0",
                 "pkg": "cake",
                 "description": "Cake (C# Make) is a cross-platform build automation system with a C# DSL",
                 "website": "https://cakebuild.net/"
@@ -734,10 +734,10 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "1.0.2",
+                "version": "1.0.3",
                 "pkg": "deno",
-                "description": "A secure TypeScript runtime on V8",
-                "website": "https://github.com/denoland/deno"
+                "description": "A secure runtime for JavaScript and TypeScript",
+                "website": "https://deno.land"
             },
             {
                 "version": "0.5.4",
@@ -992,7 +992,7 @@
                 "website": "https://www.erlang.org"
             },
             {
-                "version": "0.6.0",
+                "version": "0.6.1",
                 "pkg": "espanso",
                 "description": "Text expander.",
                 "website": "https://espanso.org"
@@ -1106,7 +1106,7 @@
                 "website": "http://www.mingw.org/wiki/msys"
             },
             {
-                "version": "3.18",
+                "version": "3.20",
                 "pkg": "fio",
                 "description": "Flexible I/O Tester",
                 "website": "https://bsdio.com/fio/"
@@ -1412,7 +1412,7 @@
                 "website": "https://github.com/muesli/gitomatic"
             },
             {
-                "version": "5.3.3",
+                "version": "5.3.4",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -1802,7 +1802,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-14",
+                "version": "7.0.10-15",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -1964,7 +1964,7 @@
                 "website": "https://k6.io"
             },
             {
-                "version": "0.20.1",
+                "version": "0.20.2",
                 "pkg": "k9s",
                 "description": "Kubernetes Clusters manager",
                 "website": "https://github.com/derailed/k9s"
@@ -2024,13 +2024,19 @@
                 "website": "https://kubernetes.io/docs/user-guide/kubectl-overview/"
             },
             {
+                "version": "0.9.0",
+                "pkg": "kubectx",
+                "description": "Kubernetes contexts manager",
+                "website": "https://kubectx.dev"
+            },
+            {
                 "version": "0.1.1",
                 "pkg": "kubectxwin",
-                "description": "Kubernetes cluster switcher.",
+                "description": "Kubernetes clusters switcher",
                 "website": "https://github.com/thomasliddledba/kubectxwin"
             },
             {
-                "version": "1.13.2",
+                "version": "1.14.0",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development.",
                 "website": "https://github.com/txn2/kubefwd"
@@ -2040,6 +2046,12 @@
                 "pkg": "kubelet",
                 "description": "Kubernetes node agent",
                 "website": "https://kubernetes.io/docs/reference/command-line-tools-reference/kubelet/"
+            },
+            {
+                "version": "0.9.0",
+                "pkg": "kubens",
+                "description": "Kubernetes namespaces switcher",
+                "website": "https://kubectx.dev"
             },
             {
                 "version": "0.15.0",
@@ -2324,7 +2336,7 @@
                 "website": "https://git-for-windows.github.io/"
             },
             {
-                "version": "1.10.1",
+                "version": "1.11.0",
                 "pkg": "minikube",
                 "description": "Runs a single-node Kubernetes cluster inside a Virtual Machine to try out Kubernetes.",
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
@@ -3350,7 +3362,7 @@
                 "website": "http://www.sbcl.org/"
             },
             {
-                "version": "1.3.10",
+                "version": "1.3.11",
                 "pkg": "sbt",
                 "description": "A build tool for Scala, Java, and more",
                 "website": "https://www.scala-sbt.org"
@@ -3692,7 +3704,7 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "0.29.0",
+                "version": "1.7.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
@@ -3782,7 +3794,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.05.27",
+                "version": "2.24-20.05.30",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -3962,6 +3974,12 @@
                 "website": "https://github.com/dgiagio/warp"
             },
             {
+                "version": "0.16.0",
+                "pkg": "wasmtime",
+                "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
+                "website": "https://wasmtime.dev"
+            },
+            {
                 "version": "1.12.0",
                 "pkg": "watchexec",
                 "description": "Execute commands in response to file modifications",
@@ -4016,7 +4034,7 @@
                 "website": "https://github.com/lexxmark/winflexbison"
             },
             {
-                "version": "3.8.2.0",
+                "version": "3.8.3.0",
                 "pkg": "winpython",
                 "description": "Free, open-source and portable Python distribution for Windows",
                 "website": "https://winpython.github.io"
@@ -4671,7 +4689,7 @@
                 "website": "https://github.com/microsoft/BITS-Manager/"
             },
             {
-                "version": "1.17.2",
+                "version": "1.18.0",
                 "pkg": "bitwarden",
                 "description": "Open source password management solutions for individuals, teams, and business organizations.",
                 "website": "https://bitwarden.com/"
@@ -4745,7 +4763,7 @@
             {
                 "version": "4.16",
                 "pkg": "bulk-crap-uninstaller",
-                "description": "Bulk program uninstaller with advanced automation.",
+                "description": "Bulk program uninstaller with advanced automation",
                 "website": "https://www.bcuninstaller.com/"
             },
             {
@@ -4787,14 +4805,14 @@
             {
                 "version": "4.17.0",
                 "pkg": "calibre",
-                "description": "Powerful and easy to use e-book manager.",
-                "website": "https://calibre-ebook.com/"
+                "description": "Powerful and easy to use e-book manager",
+                "website": "https://calibre-ebook.com"
             },
             {
                 "version": "4.17.0",
                 "pkg": "calibre-normal",
-                "description": "Powerful and easy to use e-book manager.",
-                "website": "https://calibre-ebook.com/"
+                "description": "Powerful and easy to use e-book manager",
+                "website": "https://calibre-ebook.com"
             },
             {
                 "version": "4.0.0",
@@ -5853,7 +5871,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "78.0a1.20200529095426",
+                "version": "78.0a1.20200530094643",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6243,7 +6261,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "85.0.4159.0",
+                "version": "85.0.4160.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6753,7 +6771,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.1-894",
+                "version": "20.04.1-895",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7389,7 +7407,7 @@
                 "website": "https://github.com/FiloSottile/mkcert"
             },
             {
-                "version": "46.0.0",
+                "version": "47.0.0",
                 "pkg": "mkvtoolnix",
                 "description": "A set of tools to create, alter and inspect Matroska files.",
                 "website": "https://mkvtoolnix.download"
@@ -7593,7 +7611,7 @@
                 "website": "https://flavio.tordini.org/musique"
             },
             {
-                "version": "2.0.0",
+                "version": "2.0.1",
                 "pkg": "mypaint",
                 "description": "A simple drawing and painting program that works well with Wacom-style graphics tablets.",
                 "website": "http://mypaint.org"
@@ -7647,7 +7665,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "4.1.9",
+                "version": "4.2.4",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -8235,7 +8253,7 @@
                 "website": "http://www.nattyware.com/pixie.php"
             },
             {
-                "version": "1.2020.10",
+                "version": "1.2020.11",
                 "pkg": "plantuml",
                 "description": "A tool to draw UML diagrams, using a simple and human readable text description.",
                 "website": "http://plantuml.com/"
@@ -9855,7 +9873,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-05-27",
+                "version": "2020-05-30",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10005,7 +10023,7 @@
                 "website": "https://vcxsrv.sourceforge.io/"
             },
             {
-                "version": "1.0.11",
+                "version": "1.0.12",
                 "pkg": "ventoy",
                 "description": "Bootable USB drive creator",
                 "website": "https://www.ventoy.net/en/index.html"
@@ -11014,7 +11032,7 @@
                 "website": "https://www.mongodb.org"
             },
             {
-                "version": "2020-05-28-1327-master-6bb04be",
+                "version": "2020-05-29-1734-master-c947441",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11200,7 +11218,7 @@
                 "website": "https://windows.php.net"
             },
             {
-                "version": "2.9.5-7.1",
+                "version": "2.9.6-7.1",
                 "pkg": "php71-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -11212,7 +11230,7 @@
                 "website": "https://windows.php.net/"
             },
             {
-                "version": "2.9.5-7.2",
+                "version": "2.9.6-7.2",
                 "pkg": "php72-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -11224,7 +11242,7 @@
                 "website": "https://windows.php.net/"
             },
             {
-                "version": "2.9.5-7.3",
+                "version": "2.9.6-7.3",
                 "pkg": "php73-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -11236,7 +11254,7 @@
                 "website": "https://windows.php.net/"
             },
             {
-                "version": "2.9.5-7.4",
+                "version": "2.9.6-7.4",
                 "pkg": "php74-xdebug",
                 "description": null,
                 "website": "https://xdebug.org/"
@@ -11308,7 +11326,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.52.0-003-g764b90a5",
+                "version": "1.52.0-004-ge7bd392a",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
