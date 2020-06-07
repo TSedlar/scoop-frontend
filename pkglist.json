@@ -248,6 +248,12 @@
                 "website": "https://blake2.net"
             },
             {
+                "version": "0.3.4",
+                "pkg": "b3sum",
+                "description": "Command line utility prints the BLAKE3 hashes of files or of standard input",
+                "website": "https://github.com/BLAKE3-team/BLAKE3"
+            },
+            {
                 "version": "0.15.4",
                 "pkg": "bat",
                 "description": "A cat(1) clone with syntax highlighting and Git integration",
@@ -494,7 +500,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.7868",
+                "version": "0.1.7971",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -944,7 +950,7 @@
                 "website": "https://editorconfig.org/"
             },
             {
-                "version": "0.20.0",
+                "version": "0.21.0",
                 "pkg": "eksctl",
                 "description": "A simple CLI tool for creating clusters on EKS - Amazon\u2019s new managed Kubernetes service for EC2.",
                 "website": "https://eksctl.io"
@@ -1682,7 +1688,7 @@
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.118.5",
+                "version": "0.118.6",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1886,7 +1892,7 @@
                 "website": "https://github.com/kwart/jd-cmd/"
             },
             {
-                "version": "1.15.0",
+                "version": "1.16.0",
                 "pkg": "jdupes",
                 "description": "Powerful duplicate file finder (enhanced fork of fdupes)",
                 "website": "https://github.com/jbruchon/jdupes"
@@ -1946,7 +1952,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.1.58",
+                "version": "2.1.59",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -1964,7 +1970,7 @@
                 "website": "https://k6.io"
             },
             {
-                "version": "0.20.4",
+                "version": "0.20.5",
                 "pkg": "k9s",
                 "description": "Kubernetes Clusters manager",
                 "website": "https://github.com/derailed/k9s"
@@ -2282,10 +2288,10 @@
                 "website": "https://megatools.megous.com/"
             },
             {
-                "version": "1.5.22",
+                "version": "1.6.6",
                 "pkg": "memcached",
-                "description": "Distributed memory object caching system.",
-                "website": "https://memcached.org/"
+                "description": "Distributed memory object caching system",
+                "website": "https://memcached.org"
             },
             {
                 "version": "5.3.2",
@@ -2306,7 +2312,7 @@
                 "website": "https://micro-editor.github.io/"
             },
             {
-                "version": "1.3.5",
+                "version": "1.3.6",
                 "pkg": "micronaut",
                 "description": "Micronaut - A modern, JVM-based (Java, Groovy, Kotlin), full-stack framework for building modular and testable microservice and serverless applications",
                 "website": "https://micronaut.io"
@@ -2450,7 +2456,7 @@
                 "website": "https://gitlab.com/movie_thumbnailer/mtn/wikis/home"
             },
             {
-                "version": "0.11.4",
+                "version": "0.11.5",
                 "pkg": "mutagen",
                 "description": "Fast, cross-platform, continuous, multidirectional file synchronization for remote development",
                 "website": "https://mutagen.io/"
@@ -2762,7 +2768,7 @@
                 "website": "https://pandoc.org"
             },
             {
-                "version": "0.3.6.2",
+                "version": "0.3.6.3",
                 "pkg": "pandoc-crossref",
                 "description": "Pandoc filter for cross-references.",
                 "website": "https://hackage.haskell.org/package/pandoc-crossref"
@@ -3092,7 +3098,7 @@
                 "website": "https://claudiodangelis.com/qrcp/"
             },
             {
-                "version": "4.0.0",
+                "version": "4.0.1",
                 "pkg": "r",
                 "description": "A free software environment for statistical computing and graphics.",
                 "website": "https://www.r-project.org"
@@ -3290,6 +3296,12 @@
                 "website": "https://www.rust-lang.org"
             },
             {
+                "version": "2020-06-01",
+                "pkg": "rust-analyzer",
+                "description": "An experimental Rust compiler front-end for IDEs",
+                "website": "https://rust-analyzer.github.io/"
+            },
+            {
                 "version": "1.44.0",
                 "pkg": "rust-msvc",
                 "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
@@ -3380,6 +3392,12 @@
                 "website": "https://github.com/scaleway/scaleway-cli"
             },
             {
+                "version": "2.12.0",
+                "pkg": "scc",
+                "description": "Sloc, Cloc and Code (scc) is a very fast accurate code counter with complexity calculations and COCOMO estimates.",
+                "website": "https://github.com/boyter/scc"
+            },
+            {
                 "version": "0.2.12",
                 "pkg": "sccache",
                 "description": "Shared compilation cache used as a compiler wrapper to avoid compilation when possible, storing a cache in a remote storage.",
@@ -3462,6 +3480,12 @@
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
+            },
+            {
+                "version": "1.8.11",
+                "pkg": "shadowsocks-rust",
+                "description": "A fast tunnel proxy",
+                "website": "https://shadowsocks.org"
             },
             {
                 "version": "0.2020.01.26",
@@ -3566,7 +3590,7 @@
                 "website": "https://spotbugs.github.io/"
             },
             {
-                "version": "3.32.1",
+                "version": "3.32.2",
                 "pkg": "sqlite",
                 "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine.",
                 "website": "https://www.sqlite.org/"
@@ -3734,7 +3758,7 @@
                 "website": "https://texlab.netlify.com"
             },
             {
-                "version": "0.16.1",
+                "version": "0.16.2",
                 "pkg": "tflint",
                 "description": "A Terraform linter focused on possible errors, best practices, etc.",
                 "website": "https://github.com/terraform-linters/tflint"
@@ -3794,7 +3818,7 @@
                 "website": "https://transmissionbt.com/"
             },
             {
-                "version": "2.24-20.06.04",
+                "version": "2.24-20.06.06",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -3950,7 +3974,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.0905",
+                "version": "8.2.0910",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -3968,6 +3992,12 @@
                 "website": "https://github.com/VirusTotal/vt-cli"
             },
             {
+                "version": "1.2.141.0",
+                "pkg": "vulkan",
+                "description": "SDK for new generation graphics and compute API",
+                "website": "https://www.khronos.org/vulkan/"
+            },
+            {
                 "version": "0.3.0",
                 "pkg": "warp",
                 "description": "Create self-contained single binary applications",
@@ -3980,7 +4010,7 @@
                 "website": "https://wasmtime.dev"
             },
             {
-                "version": "1.13.0",
+                "version": "1.13.1",
                 "pkg": "watchexec",
                 "description": "Execute commands in response to file modifications",
                 "website": "https://github.com/watchexec/watchexec"
@@ -4166,7 +4196,7 @@
                 "website": "http://www.malsmith.net/yori/"
             },
             {
-                "version": "2020.05.29",
+                "version": "2020.06.06",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://ytdl-org.github.io/youtube-dl/"
@@ -4563,7 +4593,7 @@
                 "website": "http://iamfutureproof.com/tools/awareness/"
             },
             {
-                "version": "1.9.1.3-alpha",
+                "version": "1.9.1.4-alpha",
                 "pkg": "axiom",
                 "description": "GUI for FFmpeg",
                 "website": "https://axiomui.github.io/"
@@ -4917,7 +4947,7 @@
                 "website": "https://www.henrypp.org/product/chrlauncher"
             },
             {
-                "version": "83.0.4103.61",
+                "version": "83.0.4103.97",
                 "pkg": "chromium",
                 "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -5043,7 +5073,7 @@
                 "website": "https://conemu.github.io/"
             },
             {
-                "version": "ayu-theme",
+                "version": "v.june.2020.1",
                 "pkg": "conemu-color-themes",
                 "description": "Color themes for ConEmu.",
                 "website": "https://github.com/joonro/ConEmu-Color-Themes"
@@ -5133,7 +5163,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.102.0.0",
+                "version": "1.103.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5745,7 +5775,7 @@
                 "website": "http://www.ultrapico.com/Expresso.htm"
             },
             {
-                "version": "0.50.0",
+                "version": "0.51.0",
                 "pkg": "extraterm",
                 "description": "The swiss army chainsaw of terminal emulators",
                 "website": "https://extraterm.org"
@@ -5871,7 +5901,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "79.0a1.20200605043926",
+                "version": "79.0a1.20200606094603",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6261,13 +6291,13 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "85.0.4165.0",
+                "version": "85.0.4166.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "85.0.4158.1",
+                "version": "85.0.4164.4",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -6855,7 +6885,7 @@
                 "website": "https://keepassxc.org"
             },
             {
-                "version": "1.14.3",
+                "version": "1.15.0",
                 "pkg": "keeweb",
                 "description": "A password manager compatible with KeePass",
                 "website": "https://keeweb.info"
@@ -7449,7 +7479,7 @@
                 "website": "https://moonscript.org/"
             },
             {
-                "version": "1.5.10",
+                "version": "1.5.15",
                 "pkg": "motrix",
                 "description": "A full-featured download manager.",
                 "website": "https://motrix.app"
@@ -7485,7 +7515,7 @@
                 "website": "https://mpc-hc.org"
             },
             {
-                "version": "1.9.3",
+                "version": "1.9.4",
                 "pkg": "mpc-hc-fork",
                 "description": "An extremely light-weight, open source media player for Windows.",
                 "website": "https://github.com/clsid2/mpc-hc"
@@ -7671,7 +7701,7 @@
                 "website": "https://www.netlify.com/"
             },
             {
-                "version": "4.2.7",
+                "version": "4.2.8",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models.",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -8265,7 +8295,7 @@
                 "website": "http://www.nattyware.com/pixie.php"
             },
             {
-                "version": "1.2020.11",
+                "version": "1.2020.12",
                 "pkg": "plantuml",
                 "description": "A tool to draw UML diagrams, using a simple and human readable text description.",
                 "website": "http://plantuml.com/"
@@ -8325,7 +8355,7 @@
                 "website": "http://dahlbyk.github.io/posh-git/"
             },
             {
-                "version": "7.25.0",
+                "version": "7.25.3",
                 "pkg": "postman",
                 "description": "Complete API development environment.",
                 "website": "https://www.getpostman.com/"
@@ -8361,7 +8391,7 @@
                 "website": "https://www.ppsspp.org"
             },
             {
-                "version": "6.1.15",
+                "version": "6.1.16",
                 "pkg": "praat",
                 "description": "The scientific analysis of speech in phonetics",
                 "website": "http://www.fon.hum.uva.nl/praat/"
@@ -9405,7 +9435,7 @@
                 "website": "https://www.sumatrapdfreader.org"
             },
             {
-                "version": "5.10.18.457",
+                "version": "5.11.0.459",
                 "pkg": "sumo",
                 "description": "Software Update Monitor",
                 "website": "https://kcsoftwares.com/?sumo"
@@ -9567,7 +9597,7 @@
                 "website": "https://www.teamviewer.com"
             },
             {
-                "version": "2.1.6",
+                "version": "2.1.10",
                 "pkg": "telegram",
                 "description": "A messaging app with a focus on speed and security",
                 "website": "https://telegram.org"
@@ -11356,7 +11386,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.52.0-024-g973e3d6a",
+                "version": "1.52.0-030-gd7290045",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -11482,7 +11512,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "3.1.1929.13",
+                "version": "3.1.1929.19",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
