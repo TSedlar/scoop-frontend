@@ -746,7 +746,7 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.2.0",
+                "version": "0.3.0",
                 "pkg": "delta",
                 "description": "A syntax-highlighter for git and diff output",
                 "website": "https://github.com/dandavison/delta"
@@ -938,7 +938,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "1.1.8",
+                "version": "1.1.9",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1382,10 +1382,10 @@
                 "website": "https://git-tfs.com"
             },
             {
-                "version": "7.3.0",
+                "version": "7.4.0",
                 "pkg": "git-town",
-                "description": "An open-source Git plugin, that adds Git commands that make collaborative software development more efficient and safe.",
-                "website": "http://www.git-town.com/"
+                "description": "Git plugin, that adds Git commands that make collaborative software development more efficient and safe.",
+                "website": "https://www.git-town.com"
             },
             {
                 "version": "1.6.1",
@@ -2396,7 +2396,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2020-07-11T06-07-16Z",
+                "version": "2020-07-11T21-14-23Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io/"
@@ -2828,9 +2828,9 @@
                 "website": "https://pandoc.org"
             },
             {
-                "version": "0.3.6.3",
+                "version": "0.3.7.0",
                 "pkg": "pandoc-crossref",
-                "description": "Pandoc filter for cross-references.",
+                "description": "Pandoc filter for cross-references",
                 "website": "https://hackage.haskell.org/package/pandoc-crossref"
             },
             {
@@ -3392,7 +3392,7 @@
                 "website": "https://github.com/zquestz/s"
             },
             {
-                "version": "2.3.2",
+                "version": "2.3.5",
                 "pkg": "s3deploy",
                 "description": "Deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. 'Cache-Control')",
                 "website": "https://github.com/bep/s3deploy"
@@ -4056,6 +4056,12 @@
                 "pkg": "vimtutor",
                 "description": "The vimtutor that comes with Vim for Windows doesn't work with Scoop. This one does.",
                 "website": "https://github.com/lukesampson/psutils"
+            },
+            {
+                "version": "2.8.4",
+                "pkg": "vswhere",
+                "description": "Locate Visual Studio 2017 and newer installations",
+                "website": "https://github.com/microsoft/vswhere"
             },
             {
                 "version": "0.8.0",
@@ -5205,7 +5211,7 @@
                 "website": "https://www.coppeliarobotics.com"
             },
             {
-                "version": "3.11.1",
+                "version": "3.12.0",
                 "pkg": "copyq",
                 "description": "Clipboard manager",
                 "website": "https://hluk.github.io/CopyQ/"
@@ -5331,7 +5337,7 @@
                 "website": "https://www.dartlang.org/"
             },
             {
-                "version": "30.5.7488.2",
+                "version": "30.6.7498.1",
                 "pkg": "database.net",
                 "description": "Innovative, powerful and intuitive multiple database management tool",
                 "website": "https://fishcodelib.com/Database.htm"
@@ -6003,7 +6009,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "80.0a1.20200711092223",
+                "version": "80.0a1.20200712091716",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6399,7 +6405,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "86.0.4198.0",
+                "version": "86.0.4200.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6699,7 +6705,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "5.0.2.5153",
+                "version": "6.0.0.5836",
                 "pkg": "ilspy",
                 "description": ".NET assembly browser and decompiler",
                 "website": "http://ilspy.net"
@@ -6843,7 +6849,7 @@
                 "website": "https://jami.net/"
             },
             {
-                "version": "0.9.2",
+                "version": "0.9.3",
                 "pkg": "jasper",
                 "description": "Flexible and powerful issue reader for GitHub.",
                 "website": "https://jasperapp.io/"
@@ -6909,7 +6915,7 @@
                 "website": "https://joe-editor.sourceforge.io/"
             },
             {
-                "version": "1.0.226",
+                "version": "1.0.227",
                 "pkg": "joplin",
                 "description": "A note taking and to-do application with synchronization capabilities",
                 "website": "https://joplinapp.org"
@@ -6933,7 +6939,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.2-938",
+                "version": "20.04.2-940",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7155,7 +7161,7 @@
                 "website": "https://lazpaint.github.io/"
             },
             {
-                "version": "0.20.5",
+                "version": "0.20.6",
                 "pkg": "lazygit",
                 "description": "A simple terminal UI for git commands",
                 "website": "https://github.com/jesseduffield/lazygit"
@@ -7773,7 +7779,7 @@
                 "website": "https://getmusicbee.com"
             },
             {
-                "version": "0.92.1",
+                "version": "0.93.1",
                 "pkg": "musikcube",
                 "description": "Terminal-based music player, audio engine, metadata indexer, and server.",
                 "website": "https://musikcube.com"
@@ -8547,7 +8553,7 @@
                 "website": "https://github.com/microsoft/PowerToys"
             },
             {
-                "version": "1.10.2",
+                "version": "1.10.3",
                 "pkg": "ppsspp",
                 "description": "A Sony PlayStation Platform (PSP) emulator",
                 "website": "https://www.ppsspp.org"
@@ -9183,7 +9189,7 @@
                 "website": "https://shinjiru.me/"
             },
             {
-                "version": "20.06.28",
+                "version": "20.07.11",
                 "pkg": "shotcut",
                 "description": "Video editor",
                 "website": "https://www.shotcut.org"
@@ -9295,6 +9301,12 @@
                 "pkg": "snoop",
                 "description": "Spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and more.",
                 "website": "https://github.com/snoopwpf/snoopwpf"
+            },
+            {
+                "version": "0.4.1",
+                "pkg": "so",
+                "description": "A terminal interface for StackOverflow",
+                "website": "https://github.com/samtay/so"
             },
             {
                 "version": "5.5.0",
@@ -10035,7 +10047,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.43.1",
+                "version": "0.43.2",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -10065,7 +10077,7 @@
                 "website": "https://tweakstyle.com"
             },
             {
-                "version": "0.9.91",
+                "version": "0.9.92",
                 "pkg": "typora",
                 "description": "A decent markdown editor finally available on Windows",
                 "website": "https://typora.io"
@@ -10113,7 +10125,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-07-10",
+                "version": "2020-07-12",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10417,12 +10429,6 @@
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
-            },
-            {
-                "version": "2.8.4",
-                "pkg": "vswhere",
-                "description": "Locate Visual Studio 2017 and newer installations.",
-                "website": "https://github.com/Microsoft/vswhere"
             },
             {
                 "version": "4.9",
@@ -10791,7 +10797,7 @@
                 "website": "http://www.wxhexeditor.org/"
             },
             {
-                "version": "2020-07-11_14-55",
+                "version": "2020-07-11_21-00",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
