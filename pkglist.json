@@ -338,7 +338,7 @@
                 "website": "https://boxes.thomasjensen.com/"
             },
             {
-                "version": "0.19.2",
+                "version": "0.19.3",
                 "pkg": "broot",
                 "description": "A new way to see and navigate directory trees",
                 "website": "https://dystroy.org/broot/"
@@ -476,7 +476,7 @@
                 "website": "https://github.com/jpillora/chisel"
             },
             {
-                "version": "0.7.3",
+                "version": "0.8.0",
                 "pkg": "chroma",
                 "description": "A general purpose syntax highlighter in pure Go",
                 "website": "https://github.com/alecthomas/chroma"
@@ -620,7 +620,7 @@
                 "website": "https://www.consul.io"
             },
             {
-                "version": "8.11.2",
+                "version": "8.12.0",
                 "pkg": "coq",
                 "description": "A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
                 "website": "https://coq.inria.fr/"
@@ -836,7 +836,7 @@
                 "website": "https://dnscrypt.info"
             },
             {
-                "version": "2.56.1",
+                "version": "2.56.2",
                 "pkg": "docfx",
                 "description": "A documentation generation tool for API reference and Markdown files",
                 "website": "https://dotnet.github.io/docfx/"
@@ -938,7 +938,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "1.2.0",
+                "version": "1.2.1",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1040,7 +1040,7 @@
                 "website": "http://exercism.io/"
             },
             {
-                "version": "12.01",
+                "version": "12.02",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://exiftool.org"
@@ -1082,7 +1082,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "20200724-21442a8",
+                "version": "20200727-16c2ed4",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1346,7 +1346,7 @@
                 "website": "https://www.agwa.name/projects/git-crypt/"
             },
             {
-                "version": "2.27.1",
+                "version": "2.28.0",
                 "pkg": "git-filter-repo",
                 "description": "git filter-branch replacement",
                 "website": "https://github.com/newren/git-filter-repo"
@@ -1892,6 +1892,12 @@
                 "website": "https://iperf.fr/"
             },
             {
+                "version": "1.13.0",
+                "pkg": "ispc",
+                "description": "Intel\u00ae Implicit SPMD (Single Program Multiple Data) Compiler",
+                "website": "https://ispc.github.io/"
+            },
+            {
                 "version": "0.3.2",
                 "pkg": "isx",
                 "description": "InstallShield installer extractor",
@@ -2396,7 +2402,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2020-07-24T22-43-05Z",
+                "version": "2020-07-27T18-37-02Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io/"
@@ -2424,6 +2430,12 @@
                 "pkg": "mls-software-openssh",
                 "description": "A Windows installer package of Openssh for Windows that is actively maintained and current.",
                 "website": "https://www.mls-software.com/opensshd.html"
+            },
+            {
+                "version": "2.1.0",
+                "pkg": "mockery",
+                "description": "A mock code autogenerator for Golang",
+                "website": "https://github.com/vektra/mockery"
             },
             {
                 "version": "0.8",
@@ -2972,6 +2984,12 @@
                 "website": "https://www.postgresql.org"
             },
             {
+                "version": "7.0.1",
+                "pkg": "postgrest",
+                "description": "REST API for any Postgres database",
+                "website": "https://postgrest.org"
+            },
+            {
                 "version": "1.16",
                 "pkg": "potrace",
                 "description": "Transforming bitmaps into vector graphics.",
@@ -3092,7 +3110,7 @@
                 "website": "https://puppetlabs.com"
             },
             {
-                "version": "2.19.0",
+                "version": "2.20.0",
                 "pkg": "puppet-bolt",
                 "description": "Orchestration and agentless IT automation",
                 "website": "https://puppet.com/open-source/bolt"
@@ -3362,7 +3380,7 @@
                 "website": "https://www.rust-lang.org"
             },
             {
-                "version": "2020-07-20",
+                "version": "2020-07-27",
                 "pkg": "rust-analyzer",
                 "description": "An experimental Rust compiler front-end for IDEs",
                 "website": "https://rust-analyzer.github.io/"
@@ -3452,7 +3470,7 @@
                 "website": "https://www.scala-lang.org/"
             },
             {
-                "version": "1.20",
+                "version": "2.0.0",
                 "pkg": "scaleway-cli",
                 "description": "Manage BareMetal Servers from Command Line (as easily as with Docker).",
                 "website": "https://github.com/scaleway/scaleway-cli"
@@ -3524,7 +3542,7 @@
                 "website": "https://www.glob.com.au/sendmail/"
             },
             {
-                "version": "1.55.0",
+                "version": "1.55.1",
                 "pkg": "sentry-cli",
                 "description": "Connect to the Sentry API and manage projects related data.",
                 "website": "https://docs.sentry.io/cli/"
@@ -3542,7 +3560,7 @@
                 "website": "https://github.com/philippgille/serve"
             },
             {
-                "version": "1.76.1",
+                "version": "1.77.0",
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
@@ -3680,7 +3698,7 @@
                 "website": "https://github.com/VijayS1/Scripts/blob/master/ssh-copy-id/README.md"
             },
             {
-                "version": "1.11.11",
+                "version": "2.0.0",
                 "pkg": "sslscan",
                 "description": "Tests SSL/TLS enabled services to discover supported cipher suites",
                 "website": "https://github.com/rbsec/sslscan"
@@ -3932,7 +3950,7 @@
                 "website": "https://theunarchiver.com/command-line"
             },
             {
-                "version": "1.10.1",
+                "version": "1.11.0",
                 "pkg": "unbound",
                 "description": "A validating, recursive, caching DNS resolver",
                 "website": "https://nlnetlabs.nl/projects/unbound/about/"
@@ -4052,7 +4070,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1294",
+                "version": "8.2.1303",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4358,6 +4376,12 @@
                 "website": "https://zookeeper.apache.org/"
             },
             {
+                "version": "0.4.3",
+                "pkg": "zoxide",
+                "description": "A faster way to navigate your filesystem",
+                "website": "https://github.com/ajeetdsouza/zoxide"
+            },
+            {
                 "version": "1.4.5",
                 "pkg": "zstd",
                 "description": "High compression ratios compression algorithm",
@@ -4387,6 +4411,12 @@
                 "pkg": "MagicaVoxel",
                 "description": "A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.",
                 "website": "https://ephtracy.github.io/"
+            },
+            {
+                "version": "1.0.0",
+                "pkg": "abricotine",
+                "description": "Markdown editor with inline preview",
+                "website": "https://abricotine.brrd.fr"
             },
             {
                 "version": "0.6.3",
@@ -5565,6 +5595,12 @@
                 "website": "https://www.jetbrains.com/decompiler/"
             },
             {
+                "version": "1.3.11",
+                "pkg": "dottorrent-gui",
+                "description": "An advanced GUI torrent file creator with batch functionality",
+                "website": "https://github.com/kz26/dottorrent-gui"
+            },
+            {
                 "version": "0.9.9",
                 "pkg": "doublecmd",
                 "description": "Cross platform open source file manager with two panels side by side inspired by Total Commander.",
@@ -5781,7 +5817,7 @@
                 "website": "https://github.com/GitSquared/edex-ui"
             },
             {
-                "version": "7.8.0",
+                "version": "7.8.1",
                 "pkg": "elasticsearch",
                 "description": "Open Source, Distributed, RESTful Search Engine.",
                 "website": "https://www.elastic.co/products/elasticsearch"
@@ -5799,7 +5835,7 @@
                 "website": "https://www.electronics2000.co.uk/"
             },
             {
-                "version": "1.7.1",
+                "version": "1.7.2",
                 "pkg": "element",
                 "description": "A decentralised, encrypted chat & collaboration powered by matrix.org",
                 "website": "https://element.io"
@@ -5847,7 +5883,7 @@
                 "website": "https://github.com/GChristensen/enso-portable"
             },
             {
-                "version": "1.5.101",
+                "version": "1.5.102",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -6027,7 +6063,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "80.0a1.20200726095051",
+                "version": "80.0a1.20200727095125",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6061,6 +6097,12 @@
                 "pkg": "flat-assembler",
                 "description": "Open source assembly language compiler",
                 "website": "https://flatassembler.net/"
+            },
+            {
+                "version": "0.6.3-beta",
+                "pkg": "fluent-reader",
+                "description": "Modern desktop RSS reader",
+                "website": "https://hyliu.me/fluent-reader/"
             },
             {
                 "version": "1.17.5",
@@ -6429,7 +6471,7 @@
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "86.0.4209.2",
+                "version": "86.0.4209.3",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -6957,7 +6999,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.2-954",
+                "version": "20.04.2-955",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7059,7 +7101,7 @@
                 "website": "https://keystore-explorer.org/"
             },
             {
-                "version": "7.8.0",
+                "version": "7.8.1",
                 "pkg": "kibana",
                 "description": "An open source analytics and visualization platform designed to work with Elasticsearch.",
                 "website": "https://www.elastic.co/products/kibana"
@@ -7359,10 +7401,16 @@
                 "website": "https://logstalgia.io/"
             },
             {
-                "version": "7.8.0",
+                "version": "7.8.1",
                 "pkg": "logstash",
                 "description": "A data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite \"stash\".",
                 "website": "https://www.elastic.co/products/logstash"
+            },
+            {
+                "version": "2.5.1",
+                "pkg": "lokalise2",
+                "description": "Manipulate with any object or data in Lokalise workspace.",
+                "website": "https://github.com/lokalise/lokalise-cli-2-go"
             },
             {
                 "version": "3.23.8",
@@ -7375,6 +7423,12 @@
                 "pkg": "love",
                 "description": "A framework you can use to make 2D games in Lua.",
                 "website": "https://love2d.org/"
+            },
+            {
+                "version": "0.5.0",
+                "pkg": "ludusavi",
+                "description": "PC video game save data backup tool",
+                "website": "https://github.com/mtkennerly/ludusavi"
             },
             {
                 "version": "5.9.0",
@@ -7581,6 +7635,12 @@
                 "website": "https://mindforger.com"
             },
             {
+                "version": "2.25",
+                "pkg": "mini-sftp-server",
+                "description": "A simple mini sftp server with GUI controls",
+                "website": "http://www.coreftp.com/server/"
+            },
+            {
                 "version": "4.7.12.1",
                 "pkg": "miniconda3",
                 "description": "A cross-platform, Python-agnostic binary package manager.",
@@ -7725,7 +7785,7 @@
                 "website": "https://mremoteng.org/"
             },
             {
-                "version": "2.1.147",
+                "version": "2.1.174",
                 "pkg": "msbuild-structured-log-viewer",
                 "description": "A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.",
                 "website": "https://github.com/KirillOsenkov/MSBuildStructuredLog/"
@@ -7935,7 +7995,7 @@
                 "website": "https://github.com/lastmjs/node-compiler"
             },
             {
-                "version": "3.16.224",
+                "version": "3.16.1709",
                 "pkg": "nomacs",
                 "description": "Image viewer to view all common image formats including RAW and psd images",
                 "website": "https://nomacs.org"
@@ -8211,7 +8271,7 @@
                 "website": "https://openvpn.net"
             },
             {
-                "version": "69.0.3686.77",
+                "version": "69.0.3686.95",
                 "pkg": "opera",
                 "description": "Fast, secure, easy-to-use browser.",
                 "website": "https://www.opera.com/"
@@ -8359,6 +8419,12 @@
                 "pkg": "pdfsam",
                 "description": "A JavaFX desktop application to split, merge, rotate and perform other manipulations on PDF documents",
                 "website": "https://github.com/torakiki/pdfsam"
+            },
+            {
+                "version": "2.1.7",
+                "pkg": "pdfsam-visual",
+                "description": "A visual PDF tool to compose, combine, delete pages, crop and much more",
+                "website": "https://pdfsam.org/pdfsam-visual/"
             },
             {
                 "version": "3.10.0",
@@ -8685,7 +8751,7 @@
                 "website": "https://www.softwareok.com/?seite=Freeware/Q-Dir"
             },
             {
-                "version": "3.11.0",
+                "version": "3.12.0",
                 "pkg": "qalculate",
                 "description": "Multi-purpose calculator",
                 "website": "https://qalculate.github.io/"
@@ -8703,7 +8769,7 @@
                 "website": "https://www.qbittorrent.org"
             },
             {
-                "version": "4.0.9",
+                "version": "4.0.10",
                 "pkg": "qgroundcontrol",
                 "description": "Intuitive and Powerful Ground Control Station for the MAVLink protocol",
                 "website": "http://qgroundcontrol.com"
@@ -8857,6 +8923,12 @@
                 "pkg": "rbtray",
                 "description": "Background program making any application minimizable to the system tray by right-clicking its Minimize button",
                 "website": "http://rbtray.sourceforge.net/"
+            },
+            {
+                "version": "1.8.0",
+                "pkg": "rclone-browser",
+                "description": "A simple rclone GUI",
+                "website": "https://github.com/kapitainsky/RcloneBrowser"
             },
             {
                 "version": "6.13",
@@ -9159,7 +9231,7 @@
                 "website": "http://stahlworks.com/dev/swiss-file-knife.html"
             },
             {
-                "version": "1.3.5",
+                "version": "1.3.6",
                 "pkg": "shadered",
                 "description": "Lightweight, cross-platform & full-featured desktop IDE for HLSL and GLSL shaders",
                 "website": "https://shadered.org"
@@ -9573,7 +9645,7 @@
                 "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
             },
             {
-                "version": "1.0.2.62",
+                "version": "1.0.2.63",
                 "pkg": "streamlabs-chatbot",
                 "description": "Open Broadcaster Software for Gamers",
                 "website": "https://streamlabs.com/chatbot"
@@ -9681,7 +9753,7 @@
                 "website": "https://svc-cat.io/"
             },
             {
-                "version": "6.3",
+                "version": "6.4",
                 "pkg": "sweethome3d",
                 "description": "A free interior design application that helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.",
                 "website": "http://www.sweethome3d.com/"
@@ -10419,7 +10491,7 @@
                 "website": "https://github.com/Microsoft/VoTT"
             },
             {
-                "version": "1.47.2",
+                "version": "1.47.3",
                 "pkg": "vscode",
                 "description": "Visual Studio Code is a lightweight but powerful source code editor.",
                 "website": "https://code.visualstudio.com/"
@@ -10437,7 +10509,7 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.47.2",
+                "version": "1.47.3",
                 "pkg": "vscode-portable",
                 "description": "Visual Studio Code is a lightweight but powerful source code editor (Portable Edition).",
                 "website": "https://code.visualstudio.com/"
@@ -10515,7 +10587,7 @@
                 "website": "https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release"
             },
             {
-                "version": "2020.1.4",
+                "version": "2020.2",
                 "pkg": "webstorm",
                 "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
                 "website": "https://www.jetbrains.com/webstorm/"
@@ -11614,7 +11686,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.52.2-250-g4f9a80e2",
+                "version": "1.52.2-253-g71173605",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
