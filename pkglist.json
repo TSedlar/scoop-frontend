@@ -38,7 +38,7 @@
                 "website": "https://github.com/nektos/act/"
             },
             {
-                "version": "30.0.3",
+                "version": "30.0.4",
                 "pkg": "adb",
                 "description": "Android SDK platform-tools includes tools that interface with the Android platform, such as adb, fastboot, and systrace",
                 "website": "https://developer.android.com/studio/releases/platform-tools.html"
@@ -60,6 +60,12 @@
                 "pkg": "aks-engine",
                 "description": "Self-managed Kubernetes cluster provisioning on Azure",
                 "website": "https://github.com/Azure/aks-engine"
+            },
+            {
+                "version": "2.0.0",
+                "pkg": "alass",
+                "description": "Automatic Language-Agnostic Subtitle Synchronization",
+                "website": "https://github.com/kaegi/alass"
             },
             {
                 "version": "1.12.6",
@@ -176,6 +182,12 @@
                 "website": "http://atomicparsley.sourceforge.net/"
             },
             {
+                "version": "1.0.1",
+                "pkg": "austin",
+                "description": "Python frame stack sampler for CPython",
+                "website": "https://github.com/P403n1x87/austin"
+            },
+            {
                 "version": "3.3.14.5",
                 "pkg": "autoit",
                 "description": "Scripting language designed for automating the Windows GUI and general scripting",
@@ -254,7 +266,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "12.10.0",
+                "version": "12.10.1",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -338,7 +350,7 @@
                 "website": "https://boxes.thomasjensen.com/"
             },
             {
-                "version": "0.19.3",
+                "version": "0.19.4",
                 "pkg": "broot",
                 "description": "A new way to see and navigate directory trees",
                 "website": "https://dystroy.org/broot/"
@@ -590,7 +602,7 @@
                 "website": "https://getcomposer.org/"
             },
             {
-                "version": "1.27.1",
+                "version": "1.28.0",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager.",
                 "website": "https://conan.io/"
@@ -614,7 +626,7 @@
                 "website": "https://web.archive.org/web/20080516100455/http://www.meadowy.org/~gotoh/projects/connect"
             },
             {
-                "version": "1.8.0",
+                "version": "1.8.1",
                 "pkg": "consul",
                 "description": "Service Discovery and Configuration",
                 "website": "https://www.consul.io"
@@ -644,7 +656,7 @@
                 "website": "https://github.com/sharplispers/cormanlisp"
             },
             {
-                "version": "2.0.0-RC6-23",
+                "version": "2.0.0-RC6-24",
                 "pkg": "coursier",
                 "description": "Pure Scala Artifact Fetching",
                 "website": "https://github.com/coursier/coursier"
@@ -950,7 +962,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "86.0.593.0",
+                "version": "86.0.594.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1082,7 +1094,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "20200729-cbb6ba2",
+                "version": "20200730-134a48a",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1628,7 +1640,7 @@
                 "website": "https://github.com/bradleyjkemp/grpc-tools"
             },
             {
-                "version": "1.6.1",
+                "version": "1.7.0",
                 "pkg": "grpcurl",
                 "description": "cURL like utility for gRPC",
                 "website": "https://github.com/fullstorydev/grpcurl"
@@ -1892,6 +1904,12 @@
                 "website": "https://iperf.fr/"
             },
             {
+                "version": "3.13.2",
+                "pkg": "ipopt",
+                "description": "Software package for large-scale nonlinear optimization",
+                "website": "https://coin-or.github.io/Ipopt/"
+            },
+            {
                 "version": "1.13.0",
                 "pkg": "ispc",
                 "description": "Intel\u00ae Implicit SPMD (Single Program Multiple Data) Compiler",
@@ -1994,7 +2012,7 @@
                 "website": "https://github.com/casey/just"
             },
             {
-                "version": "2.1.118",
+                "version": "2.1.121",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2174,7 +2192,7 @@
                 "website": "https://leiningen.org/"
             },
             {
-                "version": "561.1",
+                "version": "562.0",
                 "pkg": "less",
                 "description": "A terminal pager program used to view (but not change) the contents of a text file one screen at a time, similar to the 'more' command.",
                 "website": "http://www.greenwoodsoftware.com/less/"
@@ -2402,7 +2420,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2020-07-27T18-37-02Z",
+                "version": "2020-07-31T03-39-05Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io/"
@@ -2606,7 +2624,7 @@
                 "website": "https://ngrok.com/"
             },
             {
-                "version": "1.2.4",
+                "version": "1.2.6",
                 "pkg": "nim",
                 "description": "A statically typed compiled systems programming language, which combines successful concepts from mature languages like Python, Ada and Modula.",
                 "website": "https://nim-lang.org/"
@@ -3006,6 +3024,12 @@
                 "pkg": "premake",
                 "description": "Automatically generate build configurations for multiple and widely used toolsets using one universal definition.",
                 "website": "https://premake.github.io/"
+            },
+            {
+                "version": "13.5",
+                "pkg": "prince",
+                "description": "Convert HTML to PDF with CSS",
+                "website": "https://www.princexml.com"
             },
             {
                 "version": "3.4.0",
@@ -3668,7 +3692,7 @@
                 "website": "https://www.speedtest.net/apps/cli"
             },
             {
-                "version": "4.1.0",
+                "version": "4.1.1",
                 "pkg": "spotbugs",
                 "description": "Static analysis tool for Java",
                 "website": "https://spotbugs.github.io/"
@@ -3818,7 +3842,7 @@
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.23.31",
+                "version": "0.23.32",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -4070,7 +4094,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1313",
+                "version": "8.2.1328",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4977,13 +5001,13 @@
                 "website": "https://www.zhornsoftware.co.uk/caffeine/index.htm"
             },
             {
-                "version": "4.21.0",
+                "version": "4.22.0",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
             },
             {
-                "version": "4.21.0",
+                "version": "4.22.0",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
@@ -5571,7 +5595,7 @@
                 "website": "https://www.sordum.org/dns-jumper/"
             },
             {
-                "version": "6.77",
+                "version": "6.81",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5607,7 +5631,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "13.5.1",
+                "version": "13.5.7",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -5823,7 +5847,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "4.0.15",
+                "version": "4.1.0",
                 "pkg": "electron-cash",
                 "description": "A Bitcoin Cash SPV Wallet",
                 "website": "https://electroncash.org"
@@ -6045,13 +6069,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "80.0b1",
+                "version": "80.0b2",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "80.0b1",
+                "version": "80.0b2",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6063,7 +6087,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "81.0a1.20200730093956",
+                "version": "81.0a1.20200731094606",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6159,7 +6183,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.52.1",
+                "version": "1.53.0",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -6399,6 +6423,12 @@
                 "website": "https://desktop.github.com/"
             },
             {
+                "version": "3.1.0",
+                "pkg": "gitify",
+                "description": "GitHub notifications on menu bar",
+                "website": "https://www.gitify.io"
+            },
+            {
                 "version": "7.1.0",
                 "pkg": "gitkraken",
                 "description": "A Git client which helps you track and manage changes to your code.",
@@ -6465,7 +6495,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "86.0.4217.2",
+                "version": "86.0.4218.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -6999,7 +7029,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.04.2-958",
+                "version": "20.04.2-959",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9909,7 +9939,7 @@
                 "website": "https://github.com/Terminals-Origin/Terminals"
             },
             {
-                "version": "1.0.114",
+                "version": "1.0.115",
                 "pkg": "terminus",
                 "description": "A terminal for a more modern age",
                 "website": "https://eugeny.github.io/terminus/"
@@ -9999,13 +10029,13 @@
                 "website": "https://www.techpowerup.com/download/techpowerup-throttlestop/"
             },
             {
-                "version": "78.0.1",
+                "version": "78.1.0",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "78.0.1",
+                "version": "78.1.0",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -10953,7 +10983,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "6.3.0",
+                "version": "6.3.1",
                 "pkg": "xmrig",
                 "description": "High performance RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
                 "website": "https://xmrig.com"
@@ -11392,7 +11422,7 @@
                 "website": "http://msys2.github.io"
             },
             {
-                "version": "2020-07-29-1345-master-dc24270",
+                "version": "2020-07-30-1500-master-b4fa40d",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -11686,7 +11716,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.52.2-274-g3daa63ca",
+                "version": "1.52.2-276-gc2f3949d",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -11734,7 +11764,7 @@
                 "website": "https://www.snipaste.com/"
             },
             {
-                "version": "4.0.6",
+                "version": "4.1.0",
                 "pkg": "spotbugs-beta",
                 "description": "Static analysis tool for Java",
                 "website": "https://spotbugs.github.io/"
