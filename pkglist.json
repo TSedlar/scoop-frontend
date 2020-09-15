@@ -218,7 +218,7 @@
                 "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
-                "version": "6.0.1",
+                "version": "6.1.0",
                 "pkg": "aws-vault",
                 "description": "A vault for securely storing and accessing AWS credentials in development environments",
                 "website": "https://github.com/99designs/aws-vault"
@@ -460,8 +460,8 @@
             {
                 "version": "3.7.11",
                 "pkg": "ccache",
-                "description": "Ccache (or \"ccache\") is a compiler cache. It speeds up recompilation by caching previous compilations and detecting when the same compilation is being done again.",
-                "website": "https://ccache.dev/"
+                "description": "Compiler cache to speed up recompilation by caching previous compilations and detecting when the same compilation is being done again.",
+                "website": "https://ccache.dev"
             },
             {
                 "version": "1.1.0",
@@ -530,7 +530,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.9527",
+                "version": "0.1.9578",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -776,7 +776,7 @@
                 "website": "https://github.com/dandavison/delta"
             },
             {
-                "version": "1.3.3",
+                "version": "1.4.0",
                 "pkg": "deno",
                 "description": "A secure runtime for JavaScript and TypeScript",
                 "website": "https://deno.land"
@@ -962,7 +962,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "1.6.6",
+                "version": "1.7.1",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -974,7 +974,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "87.0.637.0",
+                "version": "87.0.640.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1030,7 +1030,7 @@
             {
                 "version": "1.2.0",
                 "pkg": "envsubst",
-                "description": "Environment variables substitution.",
+                "description": "Environment variables substitution",
                 "website": "https://github.com/a8m/envsubst"
             },
             {
@@ -1628,7 +1628,7 @@
                 "website": "http://www.graphicsmagick.org/"
             },
             {
-                "version": "2.38",
+                "version": "2.44.1",
                 "pkg": "graphviz",
                 "description": "Open source graph visualization software.",
                 "website": "https://www.graphviz.org/"
@@ -1690,7 +1690,7 @@
             {
                 "version": "0.5.0",
                 "pkg": "gum",
-                "description": "Gum is a Gradle/Maven wrapper",
+                "description": "Gradle/Maven wrapper",
                 "website": "https://github.com/kordamp/gm"
             },
             {
@@ -1760,7 +1760,7 @@
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.129.1",
+                "version": "0.129.2",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -1820,13 +1820,13 @@
                 "website": "https://hub.github.com/"
             },
             {
-                "version": "0.74.3",
+                "version": "0.75.0",
                 "pkg": "hugo",
                 "description": "Speedy and flexible static site generator (without Sass/SCSS support)",
                 "website": "https://gohugo.io"
             },
             {
-                "version": "0.74.3",
+                "version": "0.75.0",
                 "pkg": "hugo-extended",
                 "description": "Speedy and flexible static site generator. (with Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -2099,7 +2099,7 @@
                 "version": "0.8.1",
                 "pkg": "kind",
                 "description": "kind is a tool for running local Kubernetes clusters using Docker container nodes.",
-                "website": "https://kind.sigs.k8s.io/docs/user/quick-start/"
+                "website": "https://kind.sigs.k8s.io/docs/user/quick-start"
             },
             {
                 "version": "1.21.0",
@@ -2650,7 +2650,7 @@
             {
                 "version": "1.8.3",
                 "pkg": "nextdns",
-                "description": "NextDNS CLI is a DNS53 to DNS-over-HTTPS (DoH) proxy with advanced capabilities to get the most out of the NextDNS service.",
+                "description": "DNS53 to DNS-over-HTTPS (DoH) proxy with advanced capabilities to get the most out of the NextDNS service.",
                 "website": "https://nextdns.io/cli"
             },
             {
@@ -2810,7 +2810,7 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "1.8.21",
+                "version": "1.8.22",
                 "pkg": "okteto",
                 "description": "Development platform for Kubernetes applications",
                 "website": "https://okteto.com"
@@ -3878,7 +3878,7 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "1.11.2",
+                "version": "1.12.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
@@ -3908,7 +3908,7 @@
                 "website": "https://texlab.netlify.com"
             },
             {
-                "version": "0.19.1",
+                "version": "0.20.1",
                 "pkg": "tflint",
                 "description": "A Terraform linter focused on possible errors, best practices, etc.",
                 "website": "https://github.com/terraform-linters/tflint"
@@ -3934,14 +3934,14 @@
             {
                 "version": "0.14.1",
                 "pkg": "tinygo",
-                "description": "A Go compiler for small places.",
-                "website": "https://tinygo.org/"
+                "description": "A Go compiler for small places",
+                "website": "https://tinygo.org"
             },
             {
                 "version": "0.6.1",
                 "pkg": "tldr",
                 "description": "Interactive tldr pages (simplified and community-driven man pages) client",
-                "website": "https://github.com/isacikgoz/tldr"
+                "website": "https://isacikgoz.me/tldr/"
             },
             {
                 "version": "12.0.4",
@@ -4304,7 +4304,7 @@
                 "website": "http://www.videlibri.de/xidel.html"
             },
             {
-                "version": "2.3.6",
+                "version": "2.3.7",
                 "pkg": "xmake",
                 "description": "A cross-platform build utility based on Lua",
                 "website": "https://xmake.io"
@@ -4376,7 +4376,7 @@
                 "website": "http://www.malsmith.net/yori/"
             },
             {
-                "version": "2020.09.06",
+                "version": "2020.09.14",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://ytdl-org.github.io/youtube-dl/"
@@ -4959,7 +4959,7 @@
                 "website": "https://bitwarden.com"
             },
             {
-                "version": "2.5",
+                "version": "2.5.1",
                 "pkg": "bizhawk",
                 "description": "Multi system emulator",
                 "website": "http://tasvideos.org/BizHawk.html"
@@ -5127,7 +5127,7 @@
                 "website": "http://rei.to/carotdav_en.html"
             },
             {
-                "version": "5.70.7909",
+                "version": "5.71.7971",
                 "pkg": "ccleaner",
                 "description": "Number-one tool for cleaning PC",
                 "website": "https://www.ccleaner.com/ccleaner"
@@ -5415,7 +5415,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.111.6.0",
+                "version": "1.112.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5439,13 +5439,13 @@
                 "website": "https://viewer.dadroit.com/"
             },
             {
-                "version": "2.4.4",
+                "version": "3.2.1",
                 "pkg": "darktable",
-                "description": "A virtual lighttable and darkroom for photographers",
+                "description": "Open source photography workflow application and raw developer. A virtual lighttable and darkroom for photographers.",
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.10.0-105.0.dev",
+                "version": "2.10.0-110.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5499,7 +5499,7 @@
                 "website": "http://members.quicknet.nl/blankendaalr/dbgl/"
             },
             {
-                "version": "11.0.4",
+                "version": "11.0.5",
                 "pkg": "dbvis",
                 "description": "A universal database tool for developers, DBAs and analysts.",
                 "website": "https://www.dbvis.com/"
@@ -5535,7 +5535,7 @@
                 "website": "https://www.syntevo.com/deepgit/"
             },
             {
-                "version": "1.12.2",
+                "version": "1.13.0",
                 "pkg": "deepl",
                 "description": "An online translator",
                 "website": "https://www.deepl.com/"
@@ -5643,7 +5643,7 @@
                 "website": "https://discordapp.com/"
             },
             {
-                "version": "0.0.276",
+                "version": "0.0.277",
                 "pkg": "discord-canary",
                 "description": "Free Voice and Text Chat",
                 "website": "https://discordapp.com/"
@@ -5751,7 +5751,7 @@
                 "website": "http://www.dropitproject.com/"
             },
             {
-                "version": "2.1.10",
+                "version": "2.1.12",
                 "pkg": "ds4windows",
                 "description": "Allows to get the best experience while using a DualShock 4 on PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -5973,7 +5973,7 @@
                 "website": "https://electrum.org"
             },
             {
-                "version": "1.7.5",
+                "version": "1.7.7",
                 "pkg": "element",
                 "description": "A decentralised, encrypted chat & collaboration powered by matrix.org",
                 "website": "https://element.io"
@@ -6213,7 +6213,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "82.0a1.20200913213803",
+                "version": "82.0a1.20200914095101",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6633,7 +6633,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "87.0.4262.0",
+                "version": "87.0.4263.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -7179,7 +7179,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.08.1-1006",
+                "version": "20.08.1-1007",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7221,7 +7221,7 @@
                 "website": "https://github.com/Kyrodan/KeeAnywhere"
             },
             {
-                "version": "2.0.10",
+                "version": "2.0.11",
                 "pkg": "keepass-plugin-keepassnatmsg",
                 "description": "A plugin for KeePass 2.x and provides a secure means of exposing KeePass credentials to a browser using Native Messaging. Successor of KeePassHttp / Works with KeePassXC-Browser",
                 "website": "https://github.com/smorks/keepassnatmsg"
@@ -8175,7 +8175,7 @@
                 "website": "https://nimbletext.com/"
             },
             {
-                "version": "1.23.30",
+                "version": "1.23.31",
                 "pkg": "nirlauncher",
                 "description": "Over 200 freeware utilities from nirsoft.net.",
                 "website": "https://launcher.nirsoft.net"
@@ -8259,7 +8259,7 @@
                 "website": "https://github.com/M2Team/NSudo"
             },
             {
-                "version": "13.7.1",
+                "version": "13.7.3",
                 "pkg": "nswagstudio",
                 "description": "The OpenAPI/Swagger API toolchain for .NET and TypeScript",
                 "website": "https://github.com/RicoSuter/NSwag"
@@ -9507,7 +9507,7 @@
                 "website": "https://github.com/rhysd/Shiba"
             },
             {
-                "version": "20.07.11",
+                "version": "20.09.13",
                 "pkg": "shotcut",
                 "description": "Video editor",
                 "website": "https://www.shotcut.org"
@@ -10101,6 +10101,12 @@
                 "website": "https://chrisandriessen.nl/web/taskbarx/"
             },
             {
+                "version": "3.0.02",
+                "pkg": "tcno-acc-switcher",
+                "description": "A super fast account switcher for Steam",
+                "website": "https://github.com/TcNobo/TcNo-Acc-Switcher"
+            },
+            {
                 "version": "4.1.1.29",
                 "pkg": "tcpipmanager",
                 "description": "Keep track of network configuration in different locations.",
@@ -10401,7 +10407,7 @@
                 "website": "https://tweakstyle.com"
             },
             {
-                "version": "0.9.95",
+                "version": "0.9.96",
                 "pkg": "typora",
                 "description": "A decent markdown editor finally available on Windows",
                 "website": "https://typora.io"
@@ -10455,7 +10461,7 @@
                 "website": "https://github.com/Bioruebe/UniExtract2"
             },
             {
-                "version": "2020-09-12",
+                "version": "2020-09-14",
                 "pkg": "universal-ctags",
                 "description": "Generates an index (or tag) file of language objects found in source files for many popular programming languages.",
                 "website": "https://ctags.io"
@@ -10761,6 +10767,12 @@
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
+                "version": "1.3.3",
+                "pkg": "vtfedit",
+                "description": "A VMT/VTF viewer, editor, and creation tool",
+                "website": "https://developer.valvesoftware.com/wiki/VTFEdit"
+            },
+            {
                 "version": "4.9",
                 "pkg": "vuplayer",
                 "description": "Audio player",
@@ -10841,8 +10853,8 @@
             {
                 "version": "5.1.0",
                 "pkg": "wexond",
-                "description": "A privacy-focused, extensible and beautiful web browser.",
-                "website": "https://wexond.net/"
+                "description": "A privacy-focused, extensible and beautiful web browser",
+                "website": "https://wexond.net"
             },
             {
                 "version": "20200909-002054-4c9af461",
@@ -11944,7 +11956,7 @@
                 "website": "https://rclone.org"
             },
             {
-                "version": "1.4.806",
+                "version": "1.4.809",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
