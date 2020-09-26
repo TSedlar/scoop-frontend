@@ -236,7 +236,7 @@
                 "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
-                "version": "6.1.0",
+                "version": "6.2.0",
                 "pkg": "aws-vault",
                 "description": "A vault for securely storing and accessing AWS credentials in development environments",
                 "website": "https://github.com/99designs/aws-vault"
@@ -290,7 +290,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "12.22.2",
+                "version": "12.23.0",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -458,7 +458,7 @@
                 "website": "https://curl.haxx.se/docs/caextract.html"
             },
             {
-                "version": "2.1.1",
+                "version": "2.2.0",
                 "pkg": "caddy",
                 "description": "HTTP/2 web server with automatic HTTPS",
                 "website": "https://caddyserver.com"
@@ -800,7 +800,7 @@
                 "website": "https://github.com/dandavison/delta"
             },
             {
-                "version": "1.4.1",
+                "version": "1.4.2",
                 "pkg": "deno",
                 "description": "A secure runtime for JavaScript and TypeScript",
                 "website": "https://deno.land"
@@ -866,7 +866,7 @@
                 "website": "http://djvu.sourceforge.net"
             },
             {
-                "version": "2.093.1",
+                "version": "2.094.0",
                 "pkg": "dmd",
                 "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax",
                 "website": "https://dlang.org/"
@@ -896,7 +896,7 @@
                 "website": "https://docker.com"
             },
             {
-                "version": "1.27.3",
+                "version": "1.27.4",
                 "pkg": "docker-compose",
                 "description": "Define and run multi-container applications with Docker",
                 "website": "https://github.com/docker/compose"
@@ -986,7 +986,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "1.7.4",
+                "version": "1.7.9",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -998,7 +998,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "87.0.650.0",
+                "version": "87.0.651.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1064,7 +1064,7 @@
                 "website": "https://www.erlang.org"
             },
             {
-                "version": "0.7.1",
+                "version": "0.7.2",
                 "pkg": "espanso",
                 "description": "Text expander.",
                 "website": "https://espanso.org"
@@ -1352,7 +1352,7 @@
                 "website": "https://cli.github.com"
             },
             {
-                "version": "9.53.1",
+                "version": "9.53.2",
                 "pkg": "ghostscript",
                 "description": "An interpreter for the PostScript language and for PDF",
                 "website": "https://www.ghostscript.com"
@@ -2408,7 +2408,7 @@
                 "website": "https://mediaarea.net/en/MediaInfo"
             },
             {
-                "version": "1.3.0",
+                "version": "1.4.0",
                 "pkg": "megacmd",
                 "description": "Manage MEGA.nz account and files from command line.",
                 "website": "https://mega.nz/cmd"
@@ -2510,7 +2510,7 @@
                 "website": "https://www.mls-software.com/opensshd.html"
             },
             {
-                "version": "2.2.1",
+                "version": "2.2.2",
                 "pkg": "mockery",
                 "description": "A mock code autogenerator for Golang",
                 "website": "https://github.com/vektra/mockery"
@@ -2912,7 +2912,7 @@
                 "website": "https://github.com/buildpacks/pack"
             },
             {
-                "version": "1.6.2",
+                "version": "1.6.3",
                 "pkg": "packer",
                 "description": "Automates the creation of any type of virtual machine image.",
                 "website": "https://www.packer.io"
@@ -3656,7 +3656,7 @@
                 "website": "https://github.com/philippgille/serve"
             },
             {
-                "version": "2.2.0",
+                "version": "2.3.0",
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
@@ -3824,7 +3824,7 @@
                 "website": "https://github.com/wercker/stern"
             },
             {
-                "version": "4.0.1",
+                "version": "4.1.0",
                 "pkg": "stoplight-prism",
                 "description": "OpenAPI file based API server for mocking, transformations, validations and more",
                 "website": "https://stoplight.io/open-source/prism"
@@ -3842,10 +3842,10 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "2.4",
+                "version": "2.5",
                 "pkg": "svtplay-dl",
-                "description": "svtplay-dl cli program for downloading media",
-                "website": "https://svtplay-dl.se/"
+                "description": "Video downloader from various sites",
+                "website": "https://svtplay-dl.se"
             },
             {
                 "version": "4.0.2",
@@ -3896,10 +3896,10 @@
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
             },
             {
-                "version": "4.3.5",
+                "version": "4.3.6",
                 "pkg": "teleport",
                 "description": "Privileged access management for cloud-native infrastructure.",
-                "website": "https://gravitational.com/teleport/"
+                "website": "https://gravitational.com/teleport"
             },
             {
                 "version": "msys-inetutils-1.7-1",
@@ -4178,7 +4178,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1736",
+                "version": "8.2.1738",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -5115,13 +5115,13 @@
                 "website": "https://www.zhornsoftware.co.uk/caffeine/index.htm"
             },
             {
-                "version": "4.23.0",
+                "version": "5.0.1",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
             },
             {
-                "version": "4.23.0",
+                "version": "5.0.1",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
@@ -5487,7 +5487,7 @@
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.10.0-110.0.dev",
+                "version": "2.11.0-161.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5685,7 +5685,7 @@
                 "website": "https://discordapp.com/"
             },
             {
-                "version": "0.0.281",
+                "version": "0.0.282",
                 "pkg": "discord-canary",
                 "description": "Free Voice and Text Chat",
                 "website": "https://discordapp.com/"
@@ -5733,7 +5733,7 @@
                 "website": "https://github.com/0xd4d/dnSpy"
             },
             {
-                "version": "7.13",
+                "version": "7.17",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5991,7 +5991,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.4.4",
+                "version": "1.5.0",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -6231,13 +6231,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "82.0b2",
+                "version": "82.0b3",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "82.0b2",
+                "version": "82.0b3",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6255,7 +6255,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "83.0a1.20200924093415",
+                "version": "83.0a1.20200925094208",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6339,7 +6339,7 @@
                 "website": "https://fontforge.github.io"
             },
             {
-                "version": "1.6",
+                "version": "1.6.1",
                 "pkg": "foobar2000",
                 "description": "An advanced freeware audio player for the Windows platform.",
                 "website": "https://www.foobar2000.org/"
@@ -6351,7 +6351,7 @@
                 "website": "https://www.foobar2000.org/encoderpack"
             },
             {
-                "version": "1.6",
+                "version": "1.6.1",
                 "pkg": "foobar2000-portable",
                 "description": "An advanced freeware audio player for the Windows platform.",
                 "website": "https://www.foobar2000.org/"
@@ -6981,7 +6981,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "6.1.0.5902",
+                "version": "6.2.0.6124",
                 "pkg": "ilspy",
                 "description": ".NET assembly browser and decompiler",
                 "website": "http://ilspy.net"
@@ -7161,7 +7161,7 @@
                 "website": "https://www.w3.org/Jigsaw"
             },
             {
-                "version": "2.3.1",
+                "version": "2.4.0",
                 "pkg": "jitsi-meet",
                 "description": "Secure, Simple and Scalable Video Conferences.",
                 "website": "https://jitsi.org/meet"
@@ -7221,7 +7221,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.08.1-1017",
+                "version": "20.08.1-1019",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7413,7 +7413,7 @@
                 "website": "http://lamexp.sourceforge.net"
             },
             {
-                "version": "5.0",
+                "version": "5.1",
                 "pkg": "languagetool",
                 "description": "Grammar, Style and Spell Checker for +25 languages",
                 "website": "https://languagetool.org/"
@@ -8031,7 +8031,7 @@
                 "website": "https://www.msi.com/page/afterburner"
             },
             {
-                "version": "4.1.6.0",
+                "version": "4.1.7.0",
                 "pkg": "msikombustor",
                 "description": "A standalone benchmark/stability test tool based on software from the maker of Furmark.",
                 "website": "https://geeks3d.com/furmark/kombustor/downloads/"
@@ -8367,19 +8367,19 @@
                 "website": "https://github.com/GPUOpen-Tools/OCAT"
             },
             {
-                "version": "3.9",
+                "version": "3.9.1",
                 "pkg": "ocenaudio",
                 "description": "Cross-platform, easy to use, fast and functional audio editor.",
                 "website": "https://www.ocenaudio.com/"
             },
             {
-                "version": "0.15.0",
+                "version": "0.16.0",
                 "pkg": "octant",
                 "description": "A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.",
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "2.0.476",
+                "version": "2.0.478",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theming engine for Powershell running in ConEmu.",
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh"
@@ -8463,7 +8463,7 @@
                 "website": "https://openhardwaremonitor.org/"
             },
             {
-                "version": "20.0.0.9",
+                "version": "20.0.0.10",
                 "pkg": "openliberty",
                 "description": "Server runtime available to JavaTM developers",
                 "website": "https://openliberty.io/"
@@ -8889,7 +8889,7 @@
                 "website": "https://www.ppsspp.org"
             },
             {
-                "version": "6.1.21",
+                "version": "6.1.22",
                 "pkg": "praat",
                 "description": "The scientific analysis of speech in phonetics",
                 "website": "http://www.fon.hum.uva.nl/praat/"
@@ -10281,13 +10281,13 @@
                 "website": "https://www.techpowerup.com/download/techpowerup-throttlestop/"
             },
             {
-                "version": "78.2.2",
+                "version": "78.3.0",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "78.2.2",
+                "version": "78.3.0",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -10425,7 +10425,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.43.4",
+                "version": "0.44.4",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -10719,7 +10719,7 @@
                 "website": "http://www.vieas.com/en/software/vieas.html"
             },
             {
-                "version": "0.10.1",
+                "version": "0.11",
                 "pkg": "vifm",
                 "description": "A file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems.",
                 "website": "https://vifm.info/"
@@ -10803,13 +10803,13 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.49.1",
+                "version": "1.49.2",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
-                "version": "1.49.1",
+                "version": "1.49.2",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -10911,7 +10911,7 @@
                 "website": "https://github.com/wez/wezterm"
             },
             {
-                "version": "2.2037.6",
+                "version": "2.2039.9",
                 "pkg": "whatsapp",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
@@ -11998,13 +11998,13 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.54.0-beta.4781.b14a58c9b",
+                "version": "1.54.0-beta.4784.433b73a5a",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
             },
             {
-                "version": "1.4.862",
+                "version": "1.4.869",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -12052,7 +12052,7 @@
                 "website": "https://www.snipaste.com/"
             },
             {
-                "version": "4.1.2",
+                "version": "4.1.3",
                 "pkg": "spotbugs-beta",
                 "description": "Static analysis tool for Java",
                 "website": "https://spotbugs.github.io/"
