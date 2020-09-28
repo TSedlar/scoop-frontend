@@ -122,12 +122,6 @@
                 "website": "https://www.apachelounge.com"
             },
             {
-                "version": "1.0.0-rc3",
-                "pkg": "apex",
-                "description": "Lets you build, deploy, and manage AWS Lambda functions.",
-                "website": "http://apex.run/"
-            },
-            {
                 "version": "0.3-gamma",
                 "pkg": "apimtemplate",
                 "description": "Azure API Management DevOps Resource Kit",
@@ -224,9 +218,9 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "1.18.44",
+                "version": "2.0.52",
                 "pkg": "aws",
-                "description": "The AWS Command Line Interface (CLI) is a unified tool to manage your AWS services. With just one tool to download and configure, you can control multiple AWS services from the command line and automate them through scripts.",
+                "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
             },
             {
@@ -386,7 +380,7 @@
                 "website": "https://dystroy.org/broot/"
             },
             {
-                "version": "1.0.8_3",
+                "version": "1.0.9_5",
                 "pkg": "brotli",
                 "description": "Lossless compression algorithm",
                 "website": "https://brotli.org/"
@@ -722,6 +716,12 @@
                 "website": "http://cscope.sourceforge.net/"
             },
             {
+                "version": "0.3.5",
+                "pkg": "csview",
+                "description": "A high performance csv viewer with cjk/emoji support",
+                "website": "https://github.com/wfxr/csview"
+            },
+            {
                 "version": "v0.1.1-alpha",
                 "pkg": "csvtosql",
                 "description": "Converts a comma delimitered CSV to a MSSQL script",
@@ -740,7 +740,7 @@
                 "website": "https://developer.nvidia.com/cuda-toolkit"
             },
             {
-                "version": "7.72.0_3",
+                "version": "7.72.0_5",
                 "pkg": "curl",
                 "description": "Command line tool and library for transferring data with URLs",
                 "website": "https://curl.haxx.se/"
@@ -812,7 +812,7 @@
                 "website": "https://github.com/golang/dep"
             },
             {
-                "version": "6.0.1",
+                "version": "6.0.2",
                 "pkg": "dependency-check",
                 "description": "Software composition analysis utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
                 "website": "https://www.owasp.org/index.php/OWASP_Dependency_Check"
@@ -974,7 +974,7 @@
                 "website": "https://drone.io/"
             },
             {
-                "version": "2.6.2",
+                "version": "2.7.0",
                 "pkg": "duplicacy",
                 "description": "A lock-free deduplication cloud backup tool",
                 "website": "https://duplicacy.com/"
@@ -1148,7 +1148,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "0.2.66",
+                "version": "0.2.67",
                 "pkg": "ffsend",
                 "description": "Easily and securely share files from the command line. A fully featured Firefox Send client.",
                 "website": "https://github.com/timvisee/ffsend"
@@ -1544,7 +1544,7 @@
                 "website": "https://www.gnupg.org/"
             },
             {
-                "version": "5.4.0",
+                "version": "5.2.8",
                 "pkg": "gnuplot",
                 "description": "Interactive function plotting utility",
                 "website": "http://www.gnuplot.info"
@@ -1886,7 +1886,7 @@
                 "website": "https://github.com/i2p-zero/i2p-zero"
             },
             {
-                "version": "1.2.2",
+                "version": "1.2.3",
                 "pkg": "ibmcloud-cli",
                 "description": "The command line client for IBM Cloud",
                 "website": "https://github.com/IBM-Cloud/ibm-cloud-cli-release"
@@ -1910,7 +1910,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-30",
+                "version": "7.0.10-31",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2450,7 +2450,7 @@
                 "website": "https://micronaut.io"
             },
             {
-                "version": "4.12.2",
+                "version": "4.13.0",
                 "pkg": "migrate",
                 "description": "Reads and applies migrations in correct order to a database.",
                 "website": "https://github.com/golang-migrate/migrate"
@@ -2492,7 +2492,7 @@
                 "website": "https://min.io/"
             },
             {
-                "version": "1.34.2",
+                "version": "1.34.3",
                 "pkg": "minishift",
                 "description": "Minishift is a tool that helps you run OpenShift locally by running a single-node OpenShift cluster inside a VM. You can try out OpenShift or develop with it, day-to-day, on your local host.",
                 "website": "https://www.openshift.org/minishift"
@@ -2672,7 +2672,7 @@
                 "website": "https://eternallybored.org/misc/netcat/"
             },
             {
-                "version": "1.8.3",
+                "version": "1.8.4",
                 "pkg": "nextdns",
                 "description": "DNS53 to DNS-over-HTTPS (DoH) proxy with advanced capabilities to get the most out of the NextDNS service.",
                 "website": "https://nextdns.io/cli"
@@ -2876,7 +2876,7 @@
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "1.1.1g_3",
+                "version": "1.1.1h_5",
                 "pkg": "openssl-mingw",
                 "description": "A robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.",
                 "website": "https://curl.haxx.se/windows/"
@@ -3056,10 +3056,10 @@
                 "website": "https://github.com/agersant/polaris"
             },
             {
-                "version": "0.68.0",
+                "version": "20.09.0-h5d62644_0",
                 "pkg": "poppler",
                 "description": "PDF rendering library",
-                "website": "http://blog.alivate.com.au/poppler-windows/"
+                "website": "https://anaconda.org/conda-forge/poppler"
             },
             {
                 "version": "1.23.2",
@@ -3114,12 +3114,6 @@
                 "pkg": "procs",
                 "description": "A modern replacement for ps(1)",
                 "website": "https://github.com/dalance/procs"
-            },
-            {
-                "version": "0.5.36",
-                "pkg": "procyon",
-                "description": "Java decompiler",
-                "website": "https://bitbucket.org/mstrobel/procyon/"
             },
             {
                 "version": "2.21.0",
@@ -3620,6 +3614,12 @@
                 "website": "http://scriptcs.net/"
             },
             {
+                "version": "0.7.5",
+                "pkg": "sd",
+                "description": "Intuitive find & replace CLI (sed alternative)",
+                "website": "https://github.com/chmln/sd"
+            },
+            {
                 "version": "4.2.1",
                 "pkg": "sed",
                 "description": "Stream editor.",
@@ -4022,7 +4022,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-20.09.23",
+                "version": "2.24-20.09.27",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -4178,7 +4178,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1743",
+                "version": "8.2.1751",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4478,7 +4478,7 @@
                 "website": "http://www.info-zip.org/"
             },
             {
-                "version": "0.12.0",
+                "version": "0.12.1",
                 "pkg": "zola",
                 "description": "A fast static site generator in a single binary with everything built-in",
                 "website": "https://www.getzola.org"
@@ -4737,7 +4737,7 @@
                 "website": "https://www.arduino.cc/"
             },
             {
-                "version": "3.1.0",
+                "version": "3.1.2",
                 "pkg": "aria-ng-gui",
                 "description": "An Aria2 GUI for Windows & Linux & MacOS.",
                 "website": "https://aria-ng.xmader.com/"
@@ -5139,7 +5139,7 @@
                 "website": "https://github.com/DevTechProfile/CapFrameX"
             },
             {
-                "version": "2.49.0",
+                "version": "2.50.0",
                 "pkg": "caprine",
                 "description": "Elegant Facebook Messenger desktop app",
                 "website": "https://sindresorhus.com/caprine/"
@@ -5475,6 +5475,12 @@
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
             },
             {
+                "version": "7.6.1.33485",
+                "pkg": "cyberduck",
+                "description": "Libre file transfer client supporting multiple protocols.",
+                "website": "https://cyberduck.io"
+            },
+            {
                 "version": "1.1.1645",
                 "pkg": "dadroitjsonviewer",
                 "description": "A JSON viewer that gives a new approach to process JSON Data files.",
@@ -5733,7 +5739,7 @@
                 "website": "https://github.com/0xd4d/dnSpy"
             },
             {
-                "version": "7.17",
+                "version": "7.21",
                 "pkg": "dont-sleep",
                 "description": "A small program to prevent system Shutdown, Stand By, Turn Off, Restart, Hibernate.",
                 "website": "https://www.softwareok.com/?Download=DontSleep"
@@ -5793,7 +5799,7 @@
                 "website": "http://www.dropitproject.com/"
             },
             {
-                "version": "2.1.13",
+                "version": "2.1.14",
                 "pkg": "ds4windows",
                 "description": "Allows to get the best experience while using a DualShock 4 on PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -5991,7 +5997,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.5.0",
+                "version": "1.5.4",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -6237,7 +6243,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "82.0b3",
+                "version": "82.0b4",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6255,7 +6261,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "83.0a1.20200926211645",
+                "version": "83.0a1.20200927215113",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6313,6 +6319,12 @@
                 "pkg": "flux",
                 "description": "Makes the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.",
                 "website": "https://justgetflux.com"
+            },
+            {
+                "version": "0.0.143",
+                "pkg": "flyctl",
+                "description": "Command line deployment/management client for fly.io services",
+                "website": "https://github.com/superfly/flyctl"
             },
             {
                 "version": "1.19",
@@ -6627,7 +6639,7 @@
                 "website": "https://sourceforge.net/projects/gmkvextractgui/"
             },
             {
-                "version": "4.1",
+                "version": "4.2",
                 "pkg": "gnucash",
                 "description": "Personal and small-business financial-accounting software",
                 "website": "https://www.gnucash.org/"
@@ -6945,7 +6957,7 @@
                 "website": "https://i2pd.website"
             },
             {
-                "version": "1.2.2",
+                "version": "1.2.3",
                 "pkg": "ibmcloud-cli",
                 "description": "The command line client for IBM Cloud",
                 "website": "https://github.com/IBM-Cloud/ibm-cloud-cli-release"
@@ -7221,7 +7233,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.08.1-1028",
+                "version": "20.08.1-1029",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7353,7 +7365,7 @@
                 "website": "https://github.com/docker/kitematic"
             },
             {
-                "version": "0.74.2.2",
+                "version": "0.74.2.3",
                 "pkg": "kitty",
                 "description": "A telnet / SSH client, which is a fork from version 0.73 of PuTTY.",
                 "website": "http://kitty.9bis.net"
@@ -8535,7 +8547,7 @@
                 "website": "https://docs.microsoft.com/en-us/windows/desktop/Msi/orca-exe"
             },
             {
-                "version": "1.10",
+                "version": "1.20",
                 "pkg": "oripa",
                 "description": "Drawing software dedicated to designing the crease patterns of origami",
                 "website": "http://mitani.cs.tsukuba.ac.jp/oripa/"
@@ -8640,7 +8652,7 @@
                 "version": "16",
                 "pkg": "pcem",
                 "description": "An IBM PC compatibles emulator for Windows and Linux that specializes in running old os and software",
-                "website": "https://pcem-emulator.co.uk/"
+                "website": "https://pcem-emulator.co.uk"
             },
             {
                 "version": "2.0-2017.07.01",
@@ -9549,7 +9561,7 @@
                 "website": "https://github.com/rhysd/Shiba"
             },
             {
-                "version": "20.09.13",
+                "version": "20.09.27",
                 "pkg": "shotcut",
                 "description": "Video editor",
                 "website": "https://www.shotcut.org"
@@ -9963,7 +9975,7 @@
                 "website": "https://www.strokesplus.com"
             },
             {
-                "version": "1.4.3",
+                "version": "1.4.4",
                 "pkg": "structurizr-cli",
                 "description": "A command line interface to push/pull workspaces to/from the Structurizr cloud service/on-premises installation, and export views to PlantUML, Mermaid, and WebSequenceDiagrams formats.",
                 "website": "https://github.com/structurizr/cli"
@@ -10045,6 +10057,12 @@
                 "pkg": "switchhosts",
                 "description": "App for hosts management & switching.",
                 "website": "https://oldj.github.io/SwitchHosts/"
+            },
+            {
+                "version": "2.6",
+                "pkg": "symphytum",
+                "description": "Personal database software to manage and organize data in an easy and intuitive way.",
+                "website": "https://github.com/giowck/symphytum"
             },
             {
                 "version": "9.4.2.10",
@@ -10329,7 +10347,7 @@
                 "website": "https://tixati.com"
             },
             {
-                "version": "8.0.5",
+                "version": "8.0.6.1",
                 "pkg": "todolist",
                 "description": "This free (for life) Windows desktop application offers an effective and flexible way to stay on top of your daily tasks.",
                 "website": "https://www.abstractspoon.com"
@@ -10659,7 +10677,7 @@
                 "website": "https://vcxsrv.sourceforge.io/"
             },
             {
-                "version": "1.0.21",
+                "version": "1.0.22",
                 "pkg": "ventoy",
                 "description": "Bootable USB drive creator",
                 "website": "https://www.ventoy.net/en/index.html"
@@ -11998,13 +12016,13 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.54.0-beta.4784.433b73a5a",
+                "version": "1.54.0-beta.4788.d8239e019",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
             },
             {
-                "version": "1.4.873",
+                "version": "1.4.874",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
