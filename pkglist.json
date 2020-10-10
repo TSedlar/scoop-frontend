@@ -56,7 +56,7 @@
                 "website": "http://ahoycli.com"
             },
             {
-                "version": "0.56.0",
+                "version": "0.57.0",
                 "pkg": "aks-engine",
                 "description": "Self-managed Kubernetes cluster provisioning on Azure",
                 "website": "https://github.com/Azure/aks-engine"
@@ -554,7 +554,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.10699",
+                "version": "0.1.10803",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -638,7 +638,7 @@
                 "website": "https://getcomposer.org/"
             },
             {
-                "version": "1.30.0",
+                "version": "1.30.1",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager.",
                 "website": "https://conan.io/"
@@ -692,7 +692,7 @@
                 "website": "https://github.com/sharplispers/cormanlisp"
             },
             {
-                "version": "2.0.0",
+                "version": "2.0.2",
                 "pkg": "coursier",
                 "description": "Pure Scala Artifact Fetching",
                 "website": "https://github.com/coursier/coursier"
@@ -920,7 +920,7 @@
                 "website": "https://master.dockerproject.org"
             },
             {
-                "version": "1.48.0",
+                "version": "1.48.1",
                 "pkg": "doctl",
                 "description": "A command line tool for DigitalOcean services",
                 "website": "https://github.com/digitalocean/doctl"
@@ -1004,7 +1004,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "87.0.664.0",
+                "version": "87.0.666.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1106,7 +1106,7 @@
                 "website": "https://exiftool.org"
             },
             {
-                "version": "0.12.13",
+                "version": "0.12.14",
                 "pkg": "faas-cli",
                 "description": "A framework for building serverless functions with Docker and Kubernetes which has first class support for metrics. (CLI)",
                 "website": "https://www.openfaas.com/"
@@ -1142,8 +1142,26 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "20200831-4a11a6f",
+                "version": "99502",
                 "pkg": "ffmpeg-nightly",
+                "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
+                "website": "https://ffmpeg.org"
+            },
+            {
+                "version": "99502",
+                "pkg": "ffmpeg-nightly-shared",
+                "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
+                "website": "https://ffmpeg.org"
+            },
+            {
+                "version": "99502",
+                "pkg": "ffmpeg-nightly-shared-vulkan",
+                "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
+                "website": "https://ffmpeg.org"
+            },
+            {
+                "version": "99502",
+                "pkg": "ffmpeg-nightly-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
@@ -1214,7 +1232,7 @@
                 "website": "https://github.com/fluxcd/flux"
             },
             {
-                "version": "7.0.1",
+                "version": "7.0.2",
                 "pkg": "flyway",
                 "description": "Database migration tool that favors simplicity and convention over configuration.",
                 "website": "https://flywaydb.org/"
@@ -1274,9 +1292,9 @@
                 "website": "https://github.com/antonmedv/fx"
             },
             {
-                "version": "0.22.0",
+                "version": "0.23.0",
                 "pkg": "fzf",
-                "description": "A general-purpose command-line fuzzy finder.",
+                "description": "A general-purpose command-line fuzzy finder",
                 "website": "https://github.com/junegunn/fzf"
             },
             {
@@ -1850,13 +1868,13 @@
                 "website": "https://hub.github.com/"
             },
             {
-                "version": "0.76.2",
+                "version": "0.76.3",
                 "pkg": "hugo",
                 "description": "Speedy and flexible static site generator (without Sass/SCSS support)",
                 "website": "https://gohugo.io"
             },
             {
-                "version": "0.76.2",
+                "version": "0.76.3",
                 "pkg": "hugo-extended",
                 "description": "Speedy and flexible static site generator. (with Sass/SCSS support)",
                 "website": "https://gohugo.io"
@@ -1916,7 +1934,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.0.10-33",
+                "version": "7.0.10-34",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2408,7 +2426,7 @@
                 "website": "https://github.com/rust-lang/mdBook"
             },
             {
-                "version": "20.08",
+                "version": "20.09",
                 "pkg": "mediainfo",
                 "description": "A convenient unified display of the most relevant technical and tag data for video and audio files.",
                 "website": "https://mediaarea.net/en/MediaInfo"
@@ -2846,13 +2864,13 @@
                 "website": "https://okteto.com"
             },
             {
-                "version": "1.37.1",
+                "version": "1.37.2",
                 "pkg": "omnisharp",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
             },
             {
-                "version": "1.37.1",
+                "version": "1.37.2",
                 "pkg": "omnisharp-http",
                 "description": "A .NET development platform based on roslyn workspaces",
                 "website": "http://www.omnisharp.net"
@@ -3662,7 +3680,7 @@
                 "website": "https://github.com/philippgille/serve"
             },
             {
-                "version": "2.5.0",
+                "version": "2.6.0",
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
@@ -3818,7 +3836,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "0.45.2",
+                "version": "0.46.0",
                 "pkg": "starship",
                 "description": "The minimal, blazing fast, and extremely customizable prompt for any shell!",
                 "website": "https://starship.rs"
@@ -3932,7 +3950,7 @@
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.25.2",
+                "version": "0.25.3",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -4034,7 +4052,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-20.10.07",
+                "version": "2.24-20.10.09",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -4190,7 +4208,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1812",
+                "version": "8.2.1815",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -5013,7 +5031,7 @@
                 "website": "https://bitwarden.com"
             },
             {
-                "version": "2.5.1",
+                "version": "2.5.2",
                 "pkg": "bizhawk",
                 "description": "Multi system emulator",
                 "website": "http://tasvideos.org/BizHawk.html"
@@ -5505,7 +5523,7 @@
                 "website": "https://www.darktable.org/"
             },
             {
-                "version": "2.11.0-189.0.dev",
+                "version": "2.11.0-190.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5787,7 +5805,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "13.7.3",
+                "version": "13.7.9",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -6249,13 +6267,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "82.0b8",
+                "version": "82.0b9",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "82.0b8",
+                "version": "82.0b9",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6273,7 +6291,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "83.0a1.20201008210150",
+                "version": "83.0a1.20201009041754",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6321,7 +6339,7 @@
                 "website": "https://hyliu.me/fluent-reader/"
             },
             {
-                "version": "1.22.0-12.4.pre",
+                "version": "1.22.1",
                 "pkg": "flutter",
                 "description": "Google\u2019s mobile app SDK for crafting high-quality native interfaces on iOS and Android",
                 "website": "https://flutter.dev"
@@ -7149,7 +7167,7 @@
                 "website": "https://www.willuhn.de/products/jameica/"
             },
             {
-                "version": "202008121023",
+                "version": "202010091612",
                 "pkg": "jami",
                 "description": "A free and universal communication platform which preserves the user's privacy and freedoms.",
                 "website": "https://jami.net/"
@@ -7221,7 +7239,7 @@
                 "website": "https://joe-editor.sourceforge.io/"
             },
             {
-                "version": "1.1.4",
+                "version": "1.2.6",
                 "pkg": "joplin",
                 "description": "A note taking and to-do application with synchronization capabilities",
                 "website": "https://joplinapp.org"
@@ -7251,7 +7269,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.08.1-1040",
+                "version": "20.08.1-1041",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7383,7 +7401,7 @@
                 "website": "https://github.com/docker/kitematic"
             },
             {
-                "version": "0.74.2.4",
+                "version": "0.74.2.5",
                 "pkg": "kitty",
                 "description": "A telnet / SSH client, which is a fork from version 0.73 of PuTTY.",
                 "website": "http://kitty.9bis.net"
@@ -7467,7 +7485,7 @@
                 "website": "https://www.lazarus-ide.org"
             },
             {
-                "version": "7.1.3",
+                "version": "7.1.4",
                 "pkg": "lazpaint",
                 "description": "Graphic editor with many tools and filters",
                 "website": "https://lazpaint.github.io/"
@@ -7743,7 +7761,7 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "1.24.9",
+                "version": "1.24.10.1",
                 "pkg": "markdown-monster",
                 "description": "Markdown editing and weblog publishing tool",
                 "website": "https://markdownmonster.west-wind.com"
@@ -7809,7 +7827,7 @@
                 "website": "https://www.microsoft.com/en-us/software-download/windows10"
             },
             {
-                "version": "20.08",
+                "version": "20.09",
                 "pkg": "mediainfo-gui",
                 "description": "MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files.",
                 "website": "https://mediaarea.net/en/MediaInfo"
@@ -9009,7 +9027,7 @@
                 "website": "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
             },
             {
-                "version": "3.53.0",
+                "version": "3.54.0",
                 "pkg": "pwsafe",
                 "description": "Safely and easily create a secured and encrypted user name/password list.",
                 "website": "https://pwsafe.org/"
@@ -9177,7 +9195,7 @@
                 "website": "https://www.rainmeter.net"
             },
             {
-                "version": "0.7.6",
+                "version": "0.7.7",
                 "pkg": "rambox",
                 "description": "Messaging and emailing app that combines common web applications into one.",
                 "website": "https://rambox.pro/"
@@ -9777,7 +9795,7 @@
                 "website": "http://www.almico.com/speedfan.php"
             },
             {
-                "version": "2.0.29",
+                "version": "2.0.30",
                 "pkg": "speedyfox",
                 "description": "Boosts Firefox, Skype, Chrome, Thunderbird in a single click.",
                 "website": "https://www.crystalidea.com/speedyfox"
@@ -9909,7 +9927,7 @@
                 "website": "https://github.com/RevoLand/Steam-Library-Manager"
             },
             {
-                "version": "1602134421",
+                "version": "1602261517",
                 "pkg": "steamcmd",
                 "description": "A command-line version of the Steam client",
                 "website": "https://developer.valvesoftware.com/wiki/SteamCMD"
@@ -10383,7 +10401,7 @@
                 "website": "https://benrhughes.github.io/todotxt.net/"
             },
             {
-                "version": "9.0.38",
+                "version": "9.0.39",
                 "pkg": "tomcat",
                 "description": "An open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies.",
                 "website": "https://tomcat.apache.org/"
@@ -10845,13 +10863,13 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.49.3",
+                "version": "1.50.0",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
-                "version": "1.49.3",
+                "version": "1.50.0",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -10953,7 +10971,7 @@
                 "website": "https://github.com/wez/wezterm"
             },
             {
-                "version": "2.2039.9",
+                "version": "2.2041.6",
                 "pkg": "whatsapp",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
@@ -11463,7 +11481,7 @@
                 "website": "https://zoom.us"
             },
             {
-                "version": "5.0.89",
+                "version": "5.0.91",
                 "pkg": "zotero",
                 "description": "Open-source reference management software to manage bibliographic data and related research materials.",
                 "website": "https://www.zotero.org/"
@@ -12040,13 +12058,13 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.54.0-beta.4813.75a722617",
+                "version": "1.54.0-beta.4814.664213ced",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
             },
             {
-                "version": "1.4.911",
+                "version": "1.4.915",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
