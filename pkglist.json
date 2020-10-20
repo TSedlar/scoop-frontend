@@ -488,7 +488,7 @@
                 "website": "https://github.com/casperjs/casperjs/"
             },
             {
-                "version": "3.7.12",
+                "version": "4.0",
                 "pkg": "ccache",
                 "description": "Compiler cache to speed up recompilation by caching previous compilations and detecting when the same compilation is being done again.",
                 "website": "https://ccache.dev"
@@ -524,7 +524,7 @@
                 "website": "https://www.benf.org/other/cfr"
             },
             {
-                "version": "1.7.1",
+                "version": "1.7.2",
                 "pkg": "chisel",
                 "description": "A fast TCP tunnel over HTTP",
                 "website": "https://github.com/jpillora/chisel"
@@ -1010,7 +1010,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "88.0.673.0",
+                "version": "88.0.676.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1148,25 +1148,25 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "99604",
+                "version": "99631",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "99604",
+                "version": "99631",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "99604",
+                "version": "99631",
                 "pkg": "ffmpeg-nightly-shared-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "99604",
+                "version": "99631",
                 "pkg": "ffmpeg-nightly-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1244,7 +1244,7 @@
                 "website": "https://flywaydb.org/"
             },
             {
-                "version": "0.5.100",
+                "version": "0.5.101",
                 "pkg": "fnproject",
                 "description": "A container-native serverless platform that can be run anywhere (any cloud or on-premise).",
                 "website": "https://fnproject.io/"
@@ -1436,7 +1436,7 @@
                 "website": "https://www.agwa.name/projects/git-crypt/"
             },
             {
-                "version": "2.28.0",
+                "version": "2.29.0",
                 "pkg": "git-filter-repo",
                 "description": "git filter-branch replacement",
                 "website": "https://github.com/newren/git-filter-repo"
@@ -1544,6 +1544,12 @@
                 "website": "http://www.gnu.org/software/global/"
             },
             {
+                "version": "1.0.2",
+                "pkg": "glow",
+                "description": "Markdown reader for the terminal with a TUI and encrypted cloud stash",
+                "website": "https://github.com/charmbracelet/glow"
+            },
+            {
                 "version": "8.13.3559",
                 "pkg": "glslang",
                 "description": "The official reference compiler front end for the OpenGL ES and OpenGL shading languages.",
@@ -1592,7 +1598,7 @@
                 "website": "https://ipfs.io/"
             },
             {
-                "version": "3.0.1",
+                "version": "3.1.0",
                 "pkg": "gobuster",
                 "description": "A tool to brute-force URIs, DNS subdomains or Virtual Host names",
                 "website": "https://github.com/OJ/gobuster"
@@ -1760,7 +1766,7 @@
                 "website": "http://www.mingw.org/wiki/msys"
             },
             {
-                "version": "1.18.1",
+                "version": "1.18.2",
                 "pkg": "hadolint",
                 "description": "Dockerfile linter",
                 "website": "https://github.com/hadolint/hadolint"
@@ -1814,7 +1820,7 @@
                 "website": "https://helm.sh"
             },
             {
-                "version": "0.131.0",
+                "version": "0.132.0",
                 "pkg": "helmfile",
                 "description": "Command line interface to deploy Kubernetes Helm Charts.",
                 "website": "https://github.com/roboll/helmfile/"
@@ -2108,7 +2114,7 @@
                 "website": "https://github.com/sl1pm4t/k2tf"
             },
             {
-                "version": "3.1.3",
+                "version": "3.1.4",
                 "pkg": "k3d",
                 "description": "Creates multi-node k3s cluster on a single machine using docker",
                 "website": "https://github.com/rancher/k3d"
@@ -2510,7 +2516,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2020-10-12T21-53-21Z",
+                "version": "2020-10-18T21-54-12Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io"
@@ -2636,13 +2642,13 @@
                 "website": "https://mutagen.io/"
             },
             {
-                "version": "8.0.21",
+                "version": "8.0.22",
                 "pkg": "mysql",
                 "description": "The world's most popular open-source database, supported by an active community.",
                 "website": "https://dev.mysql.com/downloads/mysql/"
             },
             {
-                "version": "8.0.21",
+                "version": "8.0.22",
                 "pkg": "mysql-workbench",
                 "description": "Integrated tools environment for database design, modeling, development, administration, and migration.",
                 "website": "https://dev.mysql.com/downloads/workbench/"
@@ -3230,7 +3236,7 @@
                 "website": "https://puppetlabs.com"
             },
             {
-                "version": "2.30.0",
+                "version": "2.31.0",
                 "pkg": "puppet-bolt",
                 "description": "Orchestration and agentless IT automation",
                 "website": "https://puppet.com/open-source/bolt"
@@ -3500,7 +3506,7 @@
                 "website": "https://www.rust-lang.org"
             },
             {
-                "version": "2020-10-12",
+                "version": "2020-10-19",
                 "pkg": "rust-analyzer",
                 "description": "An experimental Rust compiler front-end for IDEs",
                 "website": "https://rust-analyzer.github.io/"
@@ -4058,7 +4064,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-20.10.12",
+                "version": "2.24-20.10.19",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://mark0.net/soft-trid-e.html"
@@ -4220,7 +4226,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.1860",
+                "version": "8.2.1862",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4466,7 +4472,7 @@
                 "website": "https://ytdl-org.github.io/youtube-dl/"
             },
             {
-                "version": "3.4.0",
+                "version": "3.4.1",
                 "pkg": "yq",
                 "description": "A portable command-line YAML processor",
                 "website": "https://github.com/mikefarah/yq"
@@ -4581,7 +4587,7 @@
                 "website": "https://urenko.github.io/Accesser/"
             },
             {
-                "version": "3.87",
+                "version": "3.86",
                 "pkg": "advancedrenamer",
                 "description": "Batch file renaming utility for Windows.",
                 "website": "https://www.advancedrenamer.com"
@@ -5499,7 +5505,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.115.0.1",
+                "version": "1.116.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -5571,7 +5577,7 @@
                 "website": "https://www.dartlang.org/"
             },
             {
-                "version": "31.0.7578.1",
+                "version": "31.1.7596.2",
                 "pkg": "database.net",
                 "description": "Innovative, powerful and intuitive multiple database management tool",
                 "website": "https://fishcodelib.com/Database.htm"
@@ -6303,7 +6309,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "83.0a1.20201018211631",
+                "version": "84.0a1.20201019213835",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6531,7 +6537,7 @@
                 "website": "https://www.faststone.org/FSViewerDetail.htm"
             },
             {
-                "version": "3.6.17",
+                "version": "3.6.18",
                 "pkg": "fun",
                 "description": "Complete set of commands to define, develop, test serverless applications, and deploy them to the Alibaba Cloud.",
                 "website": "https://alibabacloud.com/help/doc-detail/64204.html?lang=en"
@@ -6597,7 +6603,7 @@
                 "website": "https://wiki.gnome.org/Apps/Gedit"
             },
             {
-                "version": "5.2.4",
+                "version": "5.2.5",
                 "pkg": "geekbench",
                 "description": "CPU/GPU benchmark software",
                 "website": "https://www.geekbench.com/"
@@ -7199,7 +7205,7 @@
             {
                 "version": "1.6.6",
                 "pkg": "jd-gui",
-                "description": "A standalone Java Decompiler GUI.",
+                "description": "A standalone Java Decompiler GUI",
                 "website": "https://github.com/java-decompiler/jd-gui"
             },
             {
@@ -7281,7 +7287,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.08.2-1051",
+                "version": "20.08.2-1052",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7497,7 +7503,7 @@
                 "website": "https://www.lazarus-ide.org"
             },
             {
-                "version": "7.1.4",
+                "version": "7.1.5",
                 "pkg": "lazpaint",
                 "description": "Graphic editor with many tools and filters",
                 "website": "https://lazpaint.github.io/"
@@ -8139,7 +8145,7 @@
                 "website": "https://museeks.io"
             },
             {
-                "version": "3.5.0.13199",
+                "version": "3.5.2.311459983",
                 "pkg": "musescore",
                 "description": "Music notation editor with easy to use WYSIWYG interface. Cross-platform and available in many languages.",
                 "website": "https://musescore.org/"
@@ -8427,7 +8433,7 @@
                 "website": "https://github.com/GPUOpen-Tools/OCAT"
             },
             {
-                "version": "3.9.3",
+                "version": "3.9.4",
                 "pkg": "ocenaudio",
                 "description": "Cross-platform, easy to use, fast and functional audio editor.",
                 "website": "https://www.ocenaudio.com/"
@@ -9051,7 +9057,7 @@
                 "website": "https://www.jetbrains.com/pycharm/"
             },
             {
-                "version": "8.96",
+                "version": "8.97",
                 "pkg": "q-dir",
                 "description": "A quad window file manager based on Windows File Explorer",
                 "website": "https://www.softwareok.com/?seite=Freeware/Q-Dir"
@@ -9573,7 +9579,7 @@
                 "website": "https://shadered.org"
             },
             {
-                "version": "4.2.1.0",
+                "version": "4.3.0.0",
                 "pkg": "shadowsocks",
                 "description": "A secure socks5 proxy, designed to protect your Internet traffic.",
                 "website": "https://github.com/shadowsocks/shadowsocks-windows"
@@ -10011,7 +10017,7 @@
                 "website": "https://streamlink.github.io/streamlink-twitch-gui/"
             },
             {
-                "version": "5.5.1.0.807",
+                "version": "5.5.1.0.808",
                 "pkg": "streamwriter",
                 "description": "Records music broadcasted by Internet radio stations.",
                 "website": "https://streamwriter.org/en/"
@@ -11315,11 +11321,11 @@
             {
                 "version": "3.8.5",
                 "pkg": "xmplay",
-                "description": "Win32 audio player with support for Winamp plugins.",
+                "description": "Win32 audio player with support for Winamp plugins",
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "6.3.5",
+                "version": "6.4.0",
                 "pkg": "xmrig",
                 "description": "High performance RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
                 "website": "https://xmrig.com"
@@ -11393,7 +11399,7 @@
             {
                 "version": "3.20.1",
                 "pkg": "yed",
-                "description": "yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.",
+                "description": "Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.",
                 "website": "https://www.yworks.com/products/yed"
             },
             {
@@ -12142,7 +12148,7 @@
                 "website": "https://spring.io/tools/sts"
             },
             {
-                "version": "5.57b7",
+                "version": "5.58b1",
                 "pkg": "stunnel-beta",
                 "description": "A multiplatform GNU/GPL-licensed proxy encrypting arbitrary TCP connections with SSL/TLS",
                 "website": "https://www.stunnel.org"
