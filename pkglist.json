@@ -650,7 +650,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "20.2.2",
+                "version": "20.2.3",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -824,7 +824,7 @@
                 "website": "http://www.chrysocome.net/dd"
             },
             {
-                "version": "1.16.2",
+                "version": "1.16.3",
                 "pkg": "ddev",
                 "description": "An open source tool that makes it simple to get local PHP development environments up and running in minutes",
                 "website": "https://ddev.readthedocs.io/en/latest/"
@@ -900,6 +900,12 @@
                 "pkg": "dirhash",
                 "description": "DirHash is a Windows console program that computes the hash of a given directory content or a single file",
                 "website": "https://idrassi.github.io/DirHash"
+            },
+            {
+                "version": "4.9.0",
+                "pkg": "diun",
+                "description": "A CLI application to receive notifications when a Docker image is updated on a Docker registry",
+                "website": "https://github.com/crazy-max/diun"
             },
             {
                 "version": "0.9.2",
@@ -1058,7 +1064,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "89.0.731.0",
+                "version": "89.0.734.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1196,25 +1202,25 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100405",
+                "version": "100410",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100405",
+                "version": "100410",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100405",
+                "version": "100410",
                 "pkg": "ffmpeg-nightly-shared-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100405",
+                "version": "100410",
                 "pkg": "ffmpeg-nightly-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -2216,6 +2222,12 @@
                 "website": "https://github.com/danielqsj/kafka_exporter"
             },
             {
+                "version": "0.3.1",
+                "pkg": "kalk",
+                "description": "Command line calculator app.",
+                "website": "https://kalk.dev/"
+            },
+            {
                 "version": "1.5.7",
                 "pkg": "kapacitor",
                 "description": "Open source framework for processing, monitoring, and alerting on time series data.",
@@ -2636,7 +2648,7 @@
                 "website": "https://corte.si/posts/modd/announce/index.html"
             },
             {
-                "version": "0.17.1.6",
+                "version": "0.17.1.7",
                 "pkg": "monero-cli",
                 "description": "The secure, private, untraceable cryptocurrency (CLI)",
                 "website": "https://getmonero.org/"
@@ -3146,7 +3158,7 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.21.0.3711-b509cc236",
+                "version": "1.21.1.3766-7e23ef53c",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -3506,7 +3518,7 @@
                 "website": "http://jonls.dk/redshift"
             },
             {
-                "version": "2020.2.4",
+                "version": "2020.3",
                 "pkg": "resharper-clt",
                 "description": "A standalone command line tools to run ReSharper inspections outside of Visual Studio.",
                 "website": "https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt"
@@ -3596,7 +3608,7 @@
                 "website": "https://www.rust-lang.org"
             },
             {
-                "version": "2020-12-07",
+                "version": "2020-12-14",
                 "pkg": "rust-analyzer",
                 "description": "An experimental Rust compiler front-end for IDEs",
                 "website": "https://rust-analyzer.github.io/"
@@ -4328,7 +4340,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.2135",
+                "version": "8.2.2143",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4352,7 +4364,7 @@
                 "website": "https://github.com/VirusTotal/vt-cli"
             },
             {
-                "version": "1.2.154.1",
+                "version": "1.2.162.0",
                 "pkg": "vulkan",
                 "description": "SDK for new generation graphics and compute API",
                 "website": "https://www.khronos.org/vulkan/"
@@ -4586,7 +4598,7 @@
                 "website": "http://www.clifford.at/yosys/about.html"
             },
             {
-                "version": "2020.12.12",
+                "version": "2020.12.14",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://yt-dl.org/"
@@ -4634,7 +4646,7 @@
                 "website": "https://github.com/iuchim/zenhan"
             },
             {
-                "version": "0.7.0",
+                "version": "0.7.1",
                 "pkg": "ziglang",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
@@ -4719,7 +4731,7 @@
                 "website": "https://age-encryption.org/"
             },
             {
-                "version": "6.30",
+                "version": "6.32",
                 "pkg": "aida64extreme",
                 "description": "AIDA64 is a system information, diagnostics, and auditing application.",
                 "website": "https://www.aida64.com"
@@ -5277,7 +5289,7 @@
                 "website": "https://cabal.chat/"
             },
             {
-                "version": "2.37.0",
+                "version": "2.38.1",
                 "pkg": "cacher",
                 "description": "Code snippet organizer for pro developers",
                 "website": "https://www.cacher.io/"
@@ -5697,7 +5709,7 @@
                 "website": "https://www.darktable.org"
             },
             {
-                "version": "2.12.0-114.0.dev",
+                "version": "2.12.0-133.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -5733,7 +5745,7 @@
                 "website": "https://dart.dev"
             },
             {
-                "version": "1.8.0",
+                "version": "1.9.0",
                 "pkg": "dasel",
                 "description": "DAta-SELector. Command line utility for querying and modifying data structures inside JSON, TOML, YAML, ...",
                 "website": "https://github.com/TomWright/dasel"
@@ -5967,7 +5979,7 @@
                 "website": "http://dosbox-x.com"
             },
             {
-                "version": "2020.2.4",
+                "version": "2020.3",
                 "pkg": "dotPeek",
                 "description": "Free .NET Decompiler and Assembly Browser",
                 "website": "https://www.jetbrains.com/decompiler/"
@@ -6219,7 +6231,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.10.9",
+                "version": "1.10.13",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -6489,7 +6501,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "85.0a1.20201213213752",
+                "version": "85.0a1.20201214091023",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6849,7 +6861,7 @@
                 "website": "https://gitextensions.github.io/"
             },
             {
-                "version": "2.6.0",
+                "version": "2.6.1",
                 "pkg": "github",
                 "description": "Extend your GitHub workflow beyond your browser.",
                 "website": "https://desktop.github.com/"
@@ -7485,7 +7497,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.12.0-1110",
+                "version": "20.12.0-1111",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -7659,7 +7671,7 @@
                 "website": "https://krita.org/"
             },
             {
-                "version": "1.7.3",
+                "version": "1.8.0",
                 "pkg": "ksnip",
                 "description": "Screenshot tool that provides many annotation features",
                 "website": "https://github.com/ksnip/ksnip"
@@ -8157,7 +8169,7 @@
                 "website": "https://github.com/ethereum/mist"
             },
             {
-                "version": "6.0.0",
+                "version": "6.0.1",
                 "pkg": "mitmproxy",
                 "description": "A free and open source interactive HTTPS proxy.",
                 "website": "https://mitmproxy.org/"
@@ -8223,7 +8235,7 @@
                 "website": "http://mozbackup.jasnapaka.com"
             },
             {
-                "version": "2.31",
+                "version": "2.32",
                 "pkg": "mp3directcut",
                 "description": "Lossless audio editor and recorder for MP3 files.",
                 "website": "http://mpesch3.de"
@@ -8463,7 +8475,7 @@
                 "website": "https://www.netresec.com/?page=NetworkMiner"
             },
             {
-                "version": "3.0.3",
+                "version": "3.1.0",
                 "pkg": "nextcloud",
                 "description": "Desktop sync client for Nextcloud, a self-hosted productivity platform that keeps you in control.",
                 "website": "https://nextcloud.com/"
@@ -8625,7 +8637,7 @@
                 "website": "https://nwjs.io"
             },
             {
-                "version": "26.0.2",
+                "version": "26.1",
                 "pkg": "obs-studio",
                 "description": "Video recording and live streaming software",
                 "website": "https://obsproject.com"
@@ -8637,7 +8649,7 @@
                 "website": "https://obsproject.com"
             },
             {
-                "version": "0.9.20",
+                "version": "0.9.22",
                 "pkg": "obsidian",
                 "description": "Powerful knowledge base that works on top of a local folder of plain text Markdown files.",
                 "website": "https://obsidian.md"
@@ -8709,7 +8721,7 @@
                 "website": "https://www.onlyoffice.com/apps.aspx"
             },
             {
-                "version": "1.4.1",
+                "version": "1.4.2",
                 "pkg": "open-log-viewer",
                 "description": "Multi-platform log viewer built with Electron and styled with Material Design.",
                 "website": "https://github.com/tmoreno/open-log-viewer"
@@ -8925,7 +8937,7 @@
                 "website": "https://archive.codeplex.com/?p=patheditor2"
             },
             {
-                "version": "6.0.0",
+                "version": "6.0.1",
                 "pkg": "pathod",
                 "description": "A pathological HTTP daemon designed to let you craft almost any conceivable HTTP response.",
                 "website": "https://mitmproxy.org/"
@@ -9915,7 +9927,7 @@
                 "website": "https://github.com/stbrenner/SilentCMD"
             },
             {
-                "version": "2.2.0",
+                "version": "2.3.0",
                 "pkg": "simplenote",
                 "description": "Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.",
                 "website": "https://simplenote.com"
@@ -9939,7 +9951,7 @@
                 "website": "https://www.skype.com/"
             },
             {
-                "version": "4.11.3",
+                "version": "4.12.0",
                 "pkg": "slack",
                 "description": "Collaboration software",
                 "website": "https://slack.com"
@@ -10047,7 +10059,7 @@
                 "website": "https://www.sourcetrail.com"
             },
             {
-                "version": "3.3.9",
+                "version": "3.4.0",
                 "pkg": "sourcetree",
                 "description": "Simple, powerful and beautiful Git GUI.",
                 "website": "https://www.sourcetreeapp.com/"
@@ -10251,7 +10263,7 @@
                 "website": "https://www.strawbs.org/"
             },
             {
-                "version": "4.9.0.13177",
+                "version": "4.9.2.13193",
                 "pkg": "streamdeck",
                 "description": "Stream Deck lets you take control of your content and focus on what's important: your audience.",
                 "website": "https://www.elgato.com/en/gaming/downloads#sd-win"
@@ -10773,7 +10785,7 @@
                 "website": "http://tremulous.net/"
             },
             {
-                "version": "7.6.0",
+                "version": "7.6.1",
                 "pkg": "tribler",
                 "description": "Privacy enhanced BitTorrent client with P2P content discovery",
                 "website": "https://www.tribler.org"
@@ -11571,7 +11583,7 @@
                 "website": "http://www.wxhexeditor.org"
             },
             {
-                "version": "2020-12-01_16-29",
+                "version": "2020-12-14_15-31",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
