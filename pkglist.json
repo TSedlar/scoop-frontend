@@ -98,6 +98,12 @@
                 "website": "http://ammonite.io"
             },
             {
+                "version": "1.21.10",
+                "pkg": "amulet",
+                "description": "lua game toolkit",
+                "website": "https://www.amulet.xyz"
+            },
+            {
                 "version": "6858069",
                 "pkg": "android-clt",
                 "description": "The official Android command line tools",
@@ -704,7 +710,7 @@
                 "website": "https://www.consul.io"
             },
             {
-                "version": "8.12.1",
+                "version": "8.12.2",
                 "pkg": "coq",
                 "description": "A formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
                 "website": "https://coq.inria.fr/"
@@ -902,7 +908,7 @@
                 "website": "https://idrassi.github.io/DirHash"
             },
             {
-                "version": "4.9.0",
+                "version": "4.10.0",
                 "pkg": "diun",
                 "description": "A CLI application to receive notifications when a Docker image is updated on a Docker registry",
                 "website": "https://github.com/crazy-max/diun"
@@ -1142,6 +1148,12 @@
                 "website": "https://etcd.io/"
             },
             {
+                "version": "1.0.0",
+                "pkg": "ethr",
+                "description": "Comprehensive Network Measurement Tool for TCP, UDP & ICMP",
+                "website": "https://github.com/Microsoft/ethr"
+            },
+            {
                 "version": "0.9.1",
                 "pkg": "evans",
                 "description": "More expressive gRPC client",
@@ -1202,25 +1214,25 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100466",
+                "version": "100470",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100466",
+                "version": "100470",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100466",
+                "version": "100470",
                 "pkg": "ffmpeg-nightly-shared-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "100466",
+                "version": "100470",
                 "pkg": "ffmpeg-nightly-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1592,6 +1604,12 @@
                 "website": "https://github.com/GitTools/GitVersion"
             },
             {
+                "version": "1.12.1",
+                "pkg": "glab",
+                "description": "GitLab CLI",
+                "website": "https://github.com/profclems/glab"
+            },
+            {
                 "version": "0.13.3",
                 "pkg": "glide",
                 "description": "A package manager for Go that is conceptually similar to package managers for other languages.",
@@ -1706,7 +1724,7 @@
                 "website": "https://gource.io/"
             },
             {
-                "version": "0.23.0",
+                "version": "0.24.0",
                 "pkg": "govc",
                 "description": "A vSphere CLI built on top of govmomi.",
                 "website": "https://github.com/vmware/govmomi"
@@ -2036,9 +2054,9 @@
                 "website": "https://constexpr.org/innoextract/"
             },
             {
-                "version": "0.49",
+                "version": "0.50",
                 "pkg": "innounp",
-                "description": "Inno Setup Unpacker.",
+                "description": "Inno Setup Unpacker",
                 "website": "http://innounp.sourceforge.net"
             },
             {
@@ -2072,7 +2090,7 @@
                 "website": "https://coin-or.github.io/Ipopt/"
             },
             {
-                "version": "1.14.1",
+                "version": "1.15.0",
                 "pkg": "ispc",
                 "description": "Intel\u00ae Implicit SPMD (Single Program Multiple Data) Compiler",
                 "website": "https://ispc.github.io/"
@@ -2130,6 +2148,12 @@
                 "pkg": "jhead",
                 "description": "JPEG Exif header manipulation tool",
                 "website": "http://www.sentex.net/~mwandel/jhead/"
+            },
+            {
+                "version": "0.7.6",
+                "pkg": "jid",
+                "description": "JSON Incremental Digger. Drill down JSON interactively by using filtering queries like jq",
+                "website": "https://github.com/simeji/jid"
             },
             {
                 "version": "1.0.27",
@@ -2606,7 +2630,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2020-12-23T02-24-12Z",
+                "version": "2020-12-26T01-35-54Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io"
@@ -2672,7 +2696,7 @@
                 "website": "https://www.mono-project.com/"
             },
             {
-                "version": "2.3.1",
+                "version": "2.4.0",
                 "pkg": "monolith",
                 "description": "Saves complete web pages as a single HTML file.",
                 "website": "https://github.com/Y2Z/monolith"
@@ -2766,6 +2790,12 @@
                 "pkg": "naiveproxy",
                 "description": "A proxy using Chrome's network stack to camouflage traffic with strong censorship resistence and low detectablility.",
                 "website": "https://github.com/klzgrad/naiveproxy"
+            },
+            {
+                "version": "0.2.2",
+                "pkg": "nali",
+                "description": "An offline tool for querying IP geographic information and CDN provider",
+                "website": "https://github.com/zu1k/nali"
             },
             {
                 "version": "5.4-9",
@@ -3202,7 +3232,7 @@
             {
                 "version": "1.23.2",
                 "pkg": "portainer",
-                "description": "Simple management solution for Docker.",
+                "description": "Simple management solution for Docker",
                 "website": "https://portainer.io/"
             },
             {
@@ -3878,6 +3908,12 @@
                 "website": "https://github.com/github/smimesign"
             },
             {
+                "version": "1.0",
+                "pkg": "sndcpy",
+                "description": "Android audio forwarding (scrcpy, but for audio)",
+                "website": "https://github.com/rom1v/sndcpy"
+            },
+            {
                 "version": "4.5.0.2216",
                 "pkg": "sonar-scanner",
                 "description": "Source code scanner for SonarQube analyzer.",
@@ -4346,7 +4382,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.2208",
+                "version": "8.2.2220",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4508,7 +4544,7 @@
                 "website": "https://www.videolan.org/developers/x264.html"
             },
             {
-                "version": "3.4+26-ga82c",
+                "version": "3.4+33-6062",
                 "pkg": "x265",
                 "description": "Encodes video or images into an H.265 / HEVC bitstream.",
                 "website": "http://x265.org/"
@@ -4604,16 +4640,16 @@
                 "website": "http://www.clifford.at/yosys/about.html"
             },
             {
-                "version": "2020.12.22",
+                "version": "2020.12.26",
                 "pkg": "youtube-dl",
                 "description": "Download videos from YouTube.com (and a few more sites) using command line.",
                 "website": "https://yt-dl.org/"
             },
             {
-                "version": "4.0.0",
+                "version": "4.1.0",
                 "pkg": "yq",
                 "description": "A portable command-line YAML processor",
-                "website": "https://github.com/mikefarah/yq"
+                "website": "https://mikefarah.gitbook.io/yq/"
             },
             {
                 "version": "0.6.4",
@@ -4833,7 +4869,7 @@
                 "website": "https://developer.android.com/studio/"
             },
             {
-                "version": "2.1.37",
+                "version": "2.1.38",
                 "pkg": "anki",
                 "description": "Powerful and intelligent flash cards",
                 "website": "https://apps.ankiweb.net"
@@ -5037,7 +5073,7 @@
                 "website": "http://iamfutureproof.com/tools/awareness/"
             },
             {
-                "version": "1.9.5.3-alpha",
+                "version": "1.9.5.4-alpha",
                 "pkg": "axiom",
                 "description": "GUI for FFmpeg",
                 "website": "https://axiomui.github.io/"
@@ -5049,7 +5085,7 @@
                 "website": "https://axis.apache.org/"
             },
             {
-                "version": "0.10.16",
+                "version": "0.13.2",
                 "pkg": "azure-iot-explorer",
                 "description": "Azure IoT devices manager",
                 "website": "https://github.com/Azure/azure-iot-explorer"
@@ -5079,7 +5115,7 @@
                 "website": "https://github.com/u8sand/Baka-MPlayer"
             },
             {
-                "version": "2.15.0.765",
+                "version": "2.15.0.766",
                 "pkg": "balabolka",
                 "description": "Text-To-Speech software based on SAPI",
                 "website": "http://balabolka.site/balabolka.htm"
@@ -5505,7 +5541,7 @@
                 "website": "https://www.clementine-player.org/"
             },
             {
-                "version": "5.4.0",
+                "version": "5.4.1",
                 "pkg": "clingo",
                 "description": "A grounder and solver for logic programs.",
                 "website": "https://potassco.org/clingo/"
@@ -5703,7 +5739,7 @@
                 "website": "https://cyberduck.io"
             },
             {
-                "version": "1.1.1522",
+                "version": "1.1.1648",
                 "pkg": "dadroitjsonviewer",
                 "description": "A JSON viewer that gives a new approach to process JSON Data files.",
                 "website": "https://viewer.dadroit.com/"
@@ -6027,7 +6063,7 @@
                 "website": "http://www.dropitproject.com"
             },
             {
-                "version": "2.1.22",
+                "version": "2.1.23",
                 "pkg": "ds4windows",
                 "description": "Allows to get the best experience while using a DualShock 4 on PC.",
                 "website": "https://ryochan7.github.io/ds4windows-site/"
@@ -6507,7 +6543,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "86.0a1.20201225095506",
+                "version": "86.0a1.20201226213351",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6549,7 +6585,7 @@
                 "website": "https://flatassembler.net/"
             },
             {
-                "version": "0.8.1-beta",
+                "version": "0.9.0-beta",
                 "pkg": "fluent-reader",
                 "description": "Modern desktop RSS reader",
                 "website": "https://hyliu.me/fluent-reader/"
@@ -7311,7 +7347,7 @@
                 "website": "https://www.kymoto.org/products/inno-script-studio"
             },
             {
-                "version": "6.0.5",
+                "version": "6.1.2",
                 "pkg": "inno-setup",
                 "description": "Installer for Windows programs",
                 "website": "http://www.jrsoftware.org/isinfo.php"
@@ -7503,7 +7539,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.12.0-1122",
+                "version": "20.12.0-1123",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8325,7 +8361,7 @@
                 "website": "https://www.msi.com/page/afterburner"
             },
             {
-                "version": "4.1.7.0",
+                "version": "4.1.10.0",
                 "pkg": "msikombustor",
                 "description": "A standalone benchmark/stability test tool based on software from the maker of Furmark.",
                 "website": "https://geeks3d.com/furmark/kombustor/downloads/"
@@ -8739,7 +8775,7 @@
                 "website": "https://www.openboard.ch/index.en.html"
             },
             {
-                "version": "1.77",
+                "version": "1.88",
                 "pkg": "openclosedriveeject",
                 "description": "Eject, open, or close any drive: USB, DVD/CD, SSD, etc.",
                 "website": "http://www.softwareok.com/?seite=Microsoft/OpenCloseDriveEject"
@@ -9669,7 +9705,7 @@
                 "website": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160891(v=msdn.10)"
             },
             {
-                "version": "3.1.0",
+                "version": "3.1.1",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
@@ -9831,7 +9867,7 @@
                 "website": "https://www.sejda.com/desktop"
             },
             {
-                "version": "4.1.112",
+                "version": "5.0.1",
                 "pkg": "servicebusexplorer",
                 "description": "Connect to a Service Bus namespace and efficiently administer messaging entities.",
                 "website": "https://github.com/paolosalvatori/ServiceBusExplorer"
@@ -9873,7 +9909,7 @@
                 "website": "https://sourceforge.net/projects/shareaza/"
             },
             {
-                "version": "13.3.0",
+                "version": "13.4.0",
                 "pkg": "sharex",
                 "description": "Screen capture, file sharing and productivity tool.",
                 "website": "https://getsharex.com/"
@@ -10035,7 +10071,7 @@
                 "website": "https://github.com/samtay/so"
             },
             {
-                "version": "5.5.0",
+                "version": "5.6.0",
                 "pkg": "soapui",
                 "description": "A functional testing solution for APIs and web services.",
                 "website": "https://www.soapui.org/"
@@ -10251,7 +10287,7 @@
                 "website": "https://crawl.develz.org"
             },
             {
-                "version": "2.1.0",
+                "version": "2.2.0-stable.5288.8bf0d2e",
                 "pkg": "stoplight-studio",
                 "description": "Desktop editor for API Design and Technical Writing",
                 "website": "https://stoplight.io/studio"
@@ -10263,7 +10299,7 @@
                 "website": "https://azure.microsoft.com/en-us/features/storage-explorer/"
             },
             {
-                "version": "0.8.4",
+                "version": "0.8.5",
                 "pkg": "strawberry",
                 "description": "A music player and music collection organizer",
                 "website": "https://www.strawbs.org/"
@@ -10287,7 +10323,7 @@
                 "website": "https://streamlabs.com/streamlabs-obs"
             },
             {
-                "version": "2.0.0",
+                "version": "1.7.0",
                 "pkg": "streamlink",
                 "description": "A command-line utility that pipes video streams from various services into a video player.",
                 "website": "https://streamlink.github.io/"
@@ -10365,7 +10401,7 @@
                 "website": "https://www.sumatrapdfreader.org"
             },
             {
-                "version": "5.12.0.472",
+                "version": "5.12.1.473",
                 "pkg": "sumo",
                 "description": "Software Update Monitor",
                 "website": "https://kcsoftwares.com/?sumo"
@@ -10503,7 +10539,7 @@
                 "website": "https://wiki.hydrogenaud.io/index.php?title=TAK"
             },
             {
-                "version": "3.0.0",
+                "version": "3.0.1",
                 "pkg": "task",
                 "description": "A task runner / build tool that aims to be simpler and easier to use",
                 "website": "https://taskfile.org"
@@ -10647,7 +10683,7 @@
                 "website": "https://thonny.org"
             },
             {
-                "version": "9.2.2",
+                "version": "9.2.9",
                 "pkg": "throttlestop",
                 "description": "Monitor and adjust CPU throttling on laptop computers.",
                 "website": "https://www.techpowerup.com/download/techpowerup-throttlestop/"
