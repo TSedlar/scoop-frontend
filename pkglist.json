@@ -62,7 +62,7 @@
                 "website": "http://ahoycli.com"
             },
             {
-                "version": "0.60.0",
+                "version": "0.60.1",
                 "pkg": "aks-engine",
                 "description": "Self-managed Kubernetes cluster provisioning on Azure",
                 "website": "https://github.com/Azure/aks-engine"
@@ -236,7 +236,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.1.25",
+                "version": "2.1.26",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
@@ -392,7 +392,7 @@
                 "website": "https://github.com/ClementTsang/bottom"
             },
             {
-                "version": "0.1.5",
+                "version": "0.1.6",
                 "pkg": "boundary",
                 "description": "Simple and secure remote access for any system from anywhere based on user identity",
                 "website": "https://www.boundaryproject.io"
@@ -416,7 +416,7 @@
                 "website": "https://dystroy.org/broot/"
             },
             {
-                "version": "1.0.9",
+                "version": "1.0.9_2",
                 "pkg": "brotli",
                 "description": "Lossless compression algorithm",
                 "website": "https://brotli.org/"
@@ -734,7 +734,7 @@
                 "website": "https://github.com/sharplispers/cormanlisp"
             },
             {
-                "version": "2.0.9",
+                "version": "2.0.10",
                 "pkg": "coursier",
                 "description": "Pure Scala Artifact Fetching",
                 "website": "https://github.com/coursier/coursier"
@@ -788,7 +788,7 @@
                 "website": "https://developer.nvidia.com/cuda-toolkit"
             },
             {
-                "version": "7.75.0",
+                "version": "7.75.0_2",
                 "pkg": "curl",
                 "description": "Command line tool and library for transferring data with URLs",
                 "website": "https://curl.haxx.se/"
@@ -1094,7 +1094,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "90.0.794.0",
+                "version": "90.0.796.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1238,25 +1238,25 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "101061",
+                "version": "101068",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "101061",
+                "version": "101068",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "101061",
+                "version": "101068",
                 "pkg": "ffmpeg-nightly-shared-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "101061",
+                "version": "101068",
                 "pkg": "ffmpeg-nightly-vulkan",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1736,7 +1736,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.155.1",
+                "version": "0.155.2",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -2282,7 +2282,7 @@
                 "website": "https://kalk.dev/"
             },
             {
-                "version": "1.5.8",
+                "version": "1.5.7",
                 "pkg": "kapacitor",
                 "description": "Open source framework for processing, monitoring, and alerting on time series data.",
                 "website": "https://www.influxdata.com/time-series-platform/kapacitor/"
@@ -3062,7 +3062,7 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "3.85.0",
+                "version": "3.86.0",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3116,7 +3116,7 @@
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "1.1.1i",
+                "version": "1.1.1i_2",
                 "pkg": "openssl-mingw",
                 "description": "A robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.",
                 "website": "https://curl.haxx.se/windows/"
@@ -3458,7 +3458,7 @@
                 "website": "http://purescript.org/"
             },
             {
-                "version": "7.1.1",
+                "version": "7.1.2",
                 "pkg": "pwsh",
                 "description": "Cross-platform automation and configuration tool/framework, known as Powershell Core, that works well with existing tools and is optimized for dealing with structured data.",
                 "website": "https://github.com/PowerShell/PowerShell"
@@ -4190,13 +4190,13 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "1.20.1",
+                "version": "1.21.0",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.28.3",
+                "version": "0.28.4",
                 "pkg": "terragrunt",
                 "description": "Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -4226,7 +4226,7 @@
                 "website": "https://github.com/terraform-linters/tflint"
             },
             {
-                "version": "0.13.0",
+                "version": "0.14.0",
                 "pkg": "thrift",
                 "description": "A software framework, for scalable cross-language services development.",
                 "website": "https://thrift.apache.org/"
@@ -4466,7 +4466,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.2497",
+                "version": "8.2.2501",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4983,7 +4983,7 @@
                 "website": "http://www.anyburn.com/"
             },
             {
-                "version": "6.1.5",
+                "version": "6.2.1",
                 "pkg": "anydesk",
                 "description": "A Remote Desktop Software That Actually Works",
                 "website": "https://anydesk.com/"
@@ -5433,13 +5433,13 @@
                 "website": "https://www.zhornsoftware.co.uk/caffeine/index.htm"
             },
             {
-                "version": "5.10.1",
+                "version": "5.11.0",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
             },
             {
-                "version": "5.10.1",
+                "version": "5.11.0",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
@@ -5559,7 +5559,7 @@
                 "website": "https://www.giuspen.com/cherrytree/"
             },
             {
-                "version": "2.12.0",
+                "version": "2.13.1",
                 "pkg": "chipmunk",
                 "description": "Fast logfile viewer with support for huge logfiles (>10 GB)",
                 "website": "https://github.com/esrlabs/chipmunk"
@@ -6531,7 +6531,7 @@
                 "website": "https://fastglacier.com"
             },
             {
-                "version": "0.75.0",
+                "version": "0.75.1",
                 "pkg": "fbflipper",
                 "description": "A desktop debugging platform for mobile developers",
                 "website": "https://fbflipper.com"
@@ -6603,13 +6603,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "86.0b8",
+                "version": "86.0b9",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "86.0b8",
+                "version": "86.0b9",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6627,7 +6627,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "87.0a1.20210211213143",
+                "version": "87.0a1.20210212215152",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6735,7 +6735,7 @@
                 "website": "https://www.foobar2000.org/"
             },
             {
-                "version": "1.58.0",
+                "version": "1.59.0",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
@@ -7653,7 +7653,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "20.12.2-1172",
+                "version": "20.12.2-1173",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8871,7 +8871,7 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh"
             },
             {
-                "version": "20.12.2-543",
+                "version": "20.12.2-544",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9195,7 +9195,7 @@
                 "website": "https://hshrzd.wordpress.com/pe-bear/"
             },
             {
-                "version": "7.7.0",
+                "version": "7.7.1",
                 "pkg": "peazip",
                 "description": "A free file archiver utility, based on Open Source technologies",
                 "website": "https://www.peazip.org"
@@ -9405,7 +9405,7 @@
                 "website": "https://github.com/microsoft/PowerToys"
             },
             {
-                "version": "1.11",
+                "version": "1.11.1",
                 "pkg": "ppsspp",
                 "description": "A Sony PlayStation Platform (PSP) emulator",
                 "website": "https://www.ppsspp.org"
@@ -9423,7 +9423,7 @@
                 "website": "https://www.mersenne.org/download/"
             },
             {
-                "version": "1.2.2685.61",
+                "version": "1.2.2709.72",
                 "pkg": "pritunl-client",
                 "description": "OpenVPN Client",
                 "website": "https://client.pritunl.com"
@@ -10167,7 +10167,7 @@
                 "website": "https://www.henrypp.org/product/simplewall"
             },
             {
-                "version": "1.19.0",
+                "version": "1.20.0",
                 "pkg": "skaffold",
                 "description": "A command line tool that facilitates continuous development for Kubernetes applications.",
                 "website": "https://skaffold.dev"
@@ -10287,7 +10287,7 @@
                 "website": "https://www.sourcetrail.com"
             },
             {
-                "version": "3.4.2",
+                "version": "3.4.3",
                 "pkg": "sourcetree",
                 "description": "Simple, powerful and beautiful Git GUI.",
                 "website": "https://www.sourcetreeapp.com/"
@@ -10473,7 +10473,7 @@
                 "website": "https://crawl.develz.org"
             },
             {
-                "version": "2.2.0-stable.5379.git-75c5189",
+                "version": "2.3.0-stable.5448.git-f63f57f",
                 "pkg": "stoplight-studio",
                 "description": "Desktop editor for API Design and Technical Writing",
                 "website": "https://stoplight.io/studio"
@@ -11031,7 +11031,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.45.9",
+                "version": "0.45.10",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -11421,13 +11421,13 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.53.1",
+                "version": "1.53.2",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
-                "version": "1.53.1",
+                "version": "1.53.2",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -11607,7 +11607,7 @@
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
             },
             {
-                "version": "1.5.10271.0",
+                "version": "1.5.10411.0",
                 "pkg": "windows-terminal",
                 "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
                 "website": "https://github.com/microsoft/terminal"
@@ -11877,7 +11877,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "6.8.1",
+                "version": "6.8.2",
                 "pkg": "xmrig",
                 "description": "High performance RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
                 "website": "https://xmrig.com"
@@ -12604,7 +12604,7 @@
                 "website": "http://blog.alivate.com.au/poppler-windows/"
             },
             {
-                "version": "10.15",
+                "version": "10.16",
                 "pkg": "postgresql10",
                 "description": null,
                 "website": "https://www.postgresql.org/"
@@ -12688,13 +12688,13 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.55.0-beta.5172.edfe183ba",
+                "version": "1.55.0-beta.5177.47b69d630",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
             },
             {
-                "version": "1.4.1565",
+                "version": "1.4.1566",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R, which includes a console, syntax-highlighting editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
