@@ -236,7 +236,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.2.36",
+                "version": "2.2.37",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
@@ -404,7 +404,7 @@
                 "website": "https://github.com/ClementTsang/bottom"
             },
             {
-                "version": "0.5.1",
+                "version": "0.6.0",
                 "pkg": "boundary",
                 "description": "Simple and secure remote access for any system from anywhere based on user identity",
                 "website": "https://www.boundaryproject.io"
@@ -428,7 +428,7 @@
                 "website": "https://dystroy.org/broot/"
             },
             {
-                "version": "1.0.9_5",
+                "version": "1.0.9_6",
                 "pkg": "brotli",
                 "description": "Lossless compression algorithm",
                 "website": "https://brotli.org/"
@@ -572,7 +572,7 @@
                 "website": "https://github.com/alecthomas/chroma"
             },
             {
-                "version": "92.0.4515.107",
+                "version": "93.0.4577.63",
                 "pkg": "chromedriver",
                 "description": "An open source tool for automated testing of webapps across many browsers",
                 "website": "https://chromedriver.chromium.org/"
@@ -608,7 +608,7 @@
                 "website": "https://github.com/Dreamacro/clash"
             },
             {
-                "version": "1.2.29",
+                "version": "1.2.30",
                 "pkg": "clink",
                 "description": "Powerful Bash-style command line editing for cmd.exe",
                 "website": "https://chrisant996.github.io/clink/"
@@ -710,6 +710,12 @@
                 "website": "https://concourse-ci.org/fly.html"
             },
             {
+                "version": "0.27.0",
+                "pkg": "conftest",
+                "description": "Test utility for structured configuration files",
+                "website": "https://www.conftest.dev"
+            },
+            {
                 "version": "1.100",
                 "pkg": "connect",
                 "description": "Simple relaying command to make network connection via SOCKS and https proxy.",
@@ -806,7 +812,7 @@
                 "website": "https://developer.nvidia.com/cuda-toolkit"
             },
             {
-                "version": "7.78.0_5",
+                "version": "7.78.0_6",
                 "pkg": "curl",
                 "description": "Command line tool and library for transferring data with URLs",
                 "website": "https://curl.haxx.se/"
@@ -1118,7 +1124,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "95.0.1009.0",
+                "version": "95.0.1010.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1166,7 +1172,7 @@
                 "website": "https://github.com/sindresorhus/empty-recycle-bin"
             },
             {
-                "version": "2.0.2",
+                "version": "2.1.0",
                 "pkg": "enomic",
                 "description": "Project and instances manager for Enomic XP.",
                 "website": "https://developer.enonic.com/docs/enonic-cli/master"
@@ -1256,19 +1262,19 @@
                 "website": "https://github.com/sharkdp/fd"
             },
             {
-                "version": "4.4-83",
+                "version": "4.4-150",
                 "pkg": "ffmpeg",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103553",
+                "version": "103585",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103553",
+                "version": "103585",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1286,7 +1292,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "4.4-83",
+                "version": "4.4-150",
                 "pkg": "ffmpeg-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1616,6 +1622,12 @@
                 "website": "https://gitforwindows.org"
             },
             {
+                "version": "0.0.11",
+                "pkg": "git-xargs",
+                "description": "A CLI tool for making updates across multiple Github repositories with a single command",
+                "website": "https://github.com/gruntwork-io/git-xargs"
+            },
+            {
                 "version": "1.15.2",
                 "pkg": "gitea",
                 "description": "A painless self-hosted Git service",
@@ -1724,7 +1736,7 @@
                 "website": "http://www.gnuplot.info"
             },
             {
-                "version": "1.17",
+                "version": "1.17.1",
                 "pkg": "go",
                 "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
                 "website": "https://golang.org"
@@ -1778,7 +1790,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.177.0",
+                "version": "0.178.0",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -2294,7 +2306,7 @@
                 "website": "https://just.systems"
             },
             {
-                "version": "3.2.188",
+                "version": "3.2.196",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2318,7 +2330,7 @@
                 "website": "https://github.com/rancher/k3d"
             },
             {
-                "version": "0.33.0",
+                "version": "0.34.0",
                 "pkg": "k6",
                 "description": "Load and performance regression testing tool for cloud native backend infrastructure",
                 "website": "https://k6.io"
@@ -2912,7 +2924,7 @@
                 "website": "https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md"
             },
             {
-                "version": "93.0.4577.63-1",
+                "version": "93.0.4577.63-2",
                 "pkg": "naiveproxy",
                 "description": "A proxy using Chrome's network stack to camouflage traffic with strong censorship resistence and low detectablility.",
                 "website": "https://github.com/klzgrad/naiveproxy"
@@ -2966,7 +2978,7 @@
                 "website": "https://eternallybored.org/misc/netcat/"
             },
             {
-                "version": "1.37.1",
+                "version": "1.37.2",
                 "pkg": "nextdns",
                 "description": "DNS53 to DNS-over-HTTPS (DoH) proxy with advanced capabilities to get the most out of the NextDNS service.",
                 "website": "https://nextdns.io/cli"
@@ -3158,6 +3170,12 @@
                 "website": "http://www.omnisharp.net"
             },
             {
+                "version": "0.32.0",
+                "pkg": "opa",
+                "description": "Policy-based control for cloud native environments",
+                "website": "https://www.openpolicyagent.org"
+            },
+            {
                 "version": "20201228",
                 "pkg": "openOCD",
                 "description": "OpenOCD is an open-source tool that allows debugging various ARM devices with GDB using a wide variety of JTAG programmers.",
@@ -3182,13 +3200,13 @@
                 "website": "https://www.openssh.com/"
             },
             {
-                "version": "1.1.1L",
+                "version": "3.0.0",
                 "pkg": "openssl",
                 "description": "TLS/SSL toolkit",
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "3.0.0_5",
+                "version": "3.0.0_6",
                 "pkg": "openssl-mingw",
                 "description": "A robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.",
                 "website": "https://curl.haxx.se/windows/"
@@ -3500,7 +3518,7 @@
                 "website": "https://github.com/dalance/ptags"
             },
             {
-                "version": "3.11.0",
+                "version": "3.12.0",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -3800,7 +3818,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "1.54.0",
+                "version": "1.55.0",
                 "pkg": "rust",
                 "description": "A language empowering everyone to build reliable and efficient software. (GNU toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -3812,7 +3830,7 @@
                 "website": "https://rust-analyzer.github.io/"
             },
             {
-                "version": "1.54.0",
+                "version": "1.55.0",
                 "pkg": "rust-msvc",
                 "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -4190,7 +4208,7 @@
                 "website": "https://github.com/stlink-org/stlink"
             },
             {
-                "version": "4.3.4",
+                "version": "4.4.0",
                 "pkg": "stoplight-prism",
                 "description": "OpenAPI file based API server for mocking, transformations, validations and more",
                 "website": "https://stoplight.io/open-source/prism"
@@ -4202,7 +4220,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "4.2",
+                "version": "4.3",
                 "pkg": "svtplay-dl",
                 "description": "Video downloader from various sites",
                 "website": "https://svtplay-dl.se"
@@ -4286,7 +4304,7 @@
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
             },
             {
-                "version": "0.31.8",
+                "version": "0.31.10",
                 "pkg": "terragrunt",
                 "description": "Thin wrapper for Terraform that provides extra tools for keeping Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.",
                 "website": "https://github.com/gruntwork-io/terragrunt"
@@ -4562,7 +4580,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3412",
+                "version": "8.2.3417",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4592,7 +4610,7 @@
                 "website": "https://github.com/VirusTotal/vt-cli"
             },
             {
-                "version": "1.2.189.0",
+                "version": "1.2.189.1",
                 "pkg": "vulkan",
                 "description": "SDK for new generation graphics and compute API",
                 "website": "https://www.vulkan.org"
@@ -4628,7 +4646,7 @@
                 "website": "http://www.wavpack.com"
             },
             {
-                "version": "0.5.1",
+                "version": "0.5.2",
                 "pkg": "waypoint",
                 "description": "Tool for defining application's build, deploy, and release lifecycle as code, reducing the time to deliver deployments through a consistent and repeatable workflow.",
                 "website": "https://www.waypointproject.io"
@@ -5589,7 +5607,7 @@
                 "website": "https://calibre-ebook.com"
             },
             {
-                "version": "4.9.0",
+                "version": "4.10.0",
                 "pkg": "camunda-modeler",
                 "description": "Made for developers, edit your BPMN process diagrams and DMN decision tables.",
                 "website": "https://camunda.org/download/modeler/"
@@ -6291,7 +6309,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "14.9.6",
+                "version": "15.1.3",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -6807,7 +6825,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "94.0a1.20210908213905",
+                "version": "94.0a1.20210909212746",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6873,7 +6891,7 @@
                 "website": "https://justgetflux.com"
             },
             {
-                "version": "0.0.236",
+                "version": "0.0.238",
                 "pkg": "flyctl",
                 "description": "Command line deployment/management client for fly.io services",
                 "website": "https://github.com/superfly/flyctl"
@@ -7827,19 +7845,19 @@
                 "website": "https://sourceforge.net/projects/jpegview/"
             },
             {
-                "version": "6.1.0",
+                "version": "6.1.1",
                 "pkg": "juce",
                 "description": "C++ audio application framework",
                 "website": "https://juce.com"
             },
             {
-                "version": "3.3.1.2870",
+                "version": "3.3.3.2911",
                 "pkg": "kakaotalk",
                 "description": "An easy, no-cost messenger that transcends standard chat.",
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1402",
+                "version": "21.08.1-1403",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8529,7 +8547,7 @@
                 "website": "https://github.com/Yamazaki93/MetroGit"
             },
             {
-                "version": "1.2.0",
+                "version": "1.2.2",
                 "pkg": "micmute",
                 "description": "Microphone controller using keyboard/mouse shortcuts",
                 "website": "https://github.com/SaifAqqad/AHK_MicMute"
@@ -9093,7 +9111,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-757",
+                "version": "21.08.1-758",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9657,7 +9675,7 @@
                 "website": "https://www.ppsspp.org"
             },
             {
-                "version": "6.1.52",
+                "version": "6.1.53",
                 "pkg": "praat",
                 "description": "The scientific analysis of speech in phonetics",
                 "website": "http://www.fon.hum.uva.nl/praat/"
@@ -10155,7 +10173,7 @@
                 "website": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160891(v=msdn.10)"
             },
             {
-                "version": "3.5.1",
+                "version": "3.5.2",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
@@ -10167,7 +10185,7 @@
                 "website": "https://github.com/vivainio/RoughGrep/"
             },
             {
-                "version": "4.0.1",
+                "version": "4.0.2",
                 "pkg": "rssguard",
                 "description": "A simple, light and easy-to-use RSS/ATOM feed aggregator",
                 "website": "https://github.com/martinrotter/rssguard"
@@ -10413,7 +10431,7 @@
                 "website": "https://sigil-ebook.com"
             },
             {
-                "version": "5.16.0",
+                "version": "5.17.0",
                 "pkg": "signal",
                 "description": "A cross-platform encrypted messaging service.",
                 "website": "https://signal.org"
@@ -10749,7 +10767,7 @@
                 "website": "https://stoplight.io/studio"
             },
             {
-                "version": "1.20.1",
+                "version": "1.21.0",
                 "pkg": "storageexplorer",
                 "description": "Easily manage the contents of Azure storage account.",
                 "website": "https://azure.microsoft.com/en-us/features/storage-explorer/"
@@ -10791,7 +10809,7 @@
                 "website": "https://streamlink.github.io/"
             },
             {
-                "version": "1.12.0",
+                "version": "1.13.0",
                 "pkg": "streamlink-twitch-gui",
                 "description": "A multi platform Twitch.tv browser for Streamlink",
                 "website": "https://streamlink.github.io/streamlink-twitch-gui/"
@@ -11607,7 +11625,7 @@
                 "website": "https://github.com/ozmartian/vidcutter"
             },
             {
-                "version": "16.0.0.0",
+                "version": "16.1.0.0",
                 "pkg": "video-thumbnails-maker",
                 "description": "Video thumbnails creator",
                 "website": "http://www.suu-design.com/projects_vtm.html"
@@ -11877,7 +11895,7 @@
                 "website": "https://winauth.github.io/winauth/"
             },
             {
-                "version": "3.29",
+                "version": "3.30",
                 "pkg": "winbox",
                 "description": "A small utility that allows administration of MikroTik RouterOS using a fast and simple GUI.",
                 "website": "https://mikrotik.com/"
@@ -12436,7 +12454,7 @@
                 "website": "https://atom.io/"
             },
             {
-                "version": "93.0.4577.15",
+                "version": "94.0.4606.41",
                 "pkg": "chromedriver-beta",
                 "description": "An open source tool for automated testing of webapps across many browsers",
                 "website": "https://chromedriver.chromium.org/"
@@ -12772,7 +12790,7 @@
                 "website": "https://www.nuget.org/"
             },
             {
-                "version": "1.1.1L",
+                "version": "3.0.0",
                 "pkg": "openssl-light",
                 "description": "TLS/SSL toolkit (Light)",
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
@@ -13000,7 +13018,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5654.2bc2546d5",
+                "version": "1.57.0-beta.5655.24de896df",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -13138,7 +13156,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "4.2.2406.4",
+                "version": "4.2.2406.21",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
