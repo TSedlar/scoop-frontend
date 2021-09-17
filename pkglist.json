@@ -236,7 +236,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.2.38",
+                "version": "2.2.39",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
@@ -842,7 +842,7 @@
                 "website": "https://github.com/qarmin/czkawka"
             },
             {
-                "version": "1.3.0",
+                "version": "1.4.0",
                 "pkg": "dapr-cli",
                 "description": "Command-line tools for Dapr",
                 "website": "https://github.com/dapr/cli"
@@ -854,7 +854,7 @@
                 "website": "https://wixtoolset.org/"
             },
             {
-                "version": "2.14.1",
+                "version": "2.14.2",
                 "pkg": "dart",
                 "description": "SDK for the Dart programming language",
                 "website": "https://www.dartlang.org/"
@@ -1124,7 +1124,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "95.0.1016.0",
+                "version": "95.0.1017.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1172,7 +1172,7 @@
                 "website": "https://github.com/sindresorhus/empty-recycle-bin"
             },
             {
-                "version": "2.1.0",
+                "version": "2.1.1",
                 "pkg": "enomic",
                 "description": "Project and instances manager for Enomic XP.",
                 "website": "https://developer.enonic.com/docs/enonic-cli/master"
@@ -1268,13 +1268,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103630",
+                "version": "103646",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103630",
+                "version": "103646",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1346,7 +1346,7 @@
                 "website": "https://google.github.io/flatbuffers/index.html"
             },
             {
-                "version": "0.159.0",
+                "version": "0.160.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code",
                 "website": "https://flowtype.org/"
@@ -1370,7 +1370,7 @@
                 "website": "https://flywaydb.org/"
             },
             {
-                "version": "1.26.0",
+                "version": "1.27.0",
                 "pkg": "fnm",
                 "description": "Cross-platform Node.js version switcher",
                 "website": "https://github.com/Schniz/fnm"
@@ -1490,7 +1490,7 @@
                 "website": "https://github.com/dundee/gdu"
             },
             {
-                "version": "0.29.1",
+                "version": "0.30.0",
                 "pkg": "geckodriver",
                 "description": "WebDriver for the Firefox web browser.",
                 "website": "https://github.com/mozilla/geckodriver"
@@ -1994,7 +1994,7 @@
                 "website": "https://github.com/hetznercloud/cli"
             },
             {
-                "version": "3.6.3",
+                "version": "3.7.0",
                 "pkg": "helm",
                 "description": "The package manager for Kubernetes",
                 "website": "https://helm.sh"
@@ -2330,7 +2330,7 @@
                 "website": "https://github.com/rancher/k3d"
             },
             {
-                "version": "0.34.0",
+                "version": "0.34.1",
                 "pkg": "k6",
                 "description": "Load and performance regression testing tool for cloud native backend infrastructure",
                 "website": "https://k6.io"
@@ -2354,7 +2354,7 @@
                 "website": "https://kafka.apache.org/"
             },
             {
-                "version": "1.4.1",
+                "version": "1.4.2",
                 "pkg": "kafka-exporter",
                 "description": "Kafka exporter for Prometheus",
                 "website": "https://github.com/danielqsj/kafka_exporter"
@@ -2432,7 +2432,7 @@
                 "website": "https://github.com/thomasliddledba/kubectxwin"
             },
             {
-                "version": "1.20.0",
+                "version": "1.21.0",
                 "pkg": "kubefwd",
                 "description": "Bulk port forwarding Kubernetes services for local development",
                 "website": "https://github.com/txn2/kubefwd"
@@ -2448,6 +2448,12 @@
                 "pkg": "kubens",
                 "description": "Kubernetes namespaces switcher",
                 "website": "https://kubectx.dev"
+            },
+            {
+                "version": "0.16.0",
+                "pkg": "kubeseal",
+                "description": "With kubeseal you can encrypt your Kubernetes Secret into a SealedSecret, which is safe to store - even to a public repository. The SealedSecret can be decrypted only by the controller running in the target cluster and nobody else (not even the original author) is able to obtain the original Secret from the SealedSecret.",
+                "website": "https://github.com/bitnami-labs/sealed-secrets"
             },
             {
                 "version": "0.16.1",
@@ -2480,7 +2486,7 @@
                 "website": "https://miktex.org"
             },
             {
-                "version": "3.11",
+                "version": "3.12",
                 "pkg": "latexindent",
                 "description": "Perl script to add indentation to LaTeX files",
                 "website": "https://github.com/cmhughes/latexindent.pl"
@@ -2816,7 +2822,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "5.0.3-rc0",
+                "version": "5.0.3-rc1",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -3248,7 +3254,7 @@
                 "website": "https://www.packer.io"
             },
             {
-                "version": "6.1.0",
+                "version": "6.1.2",
                 "pkg": "paket",
                 "description": "Dependency manager for .NET with support for NuGet and Git repositories",
                 "website": "https://fsprojects.github.io/Paket/"
@@ -3530,7 +3536,7 @@
                 "website": "https://github.com/ericchiang/pup"
             },
             {
-                "version": "7.10.0",
+                "version": "7.11.0",
                 "pkg": "puppet",
                 "description": "An open-core software configuration management tool.",
                 "website": "https://puppetlabs.com"
@@ -4100,6 +4106,12 @@
                 "website": "https://github.com/rom1v/sndcpy"
             },
             {
+                "version": "0.8.7",
+                "pkg": "solidity",
+                "description": "A statically typed, contract-oriented, high-level language for implementing smart contracts on the Ethereum platform.",
+                "website": "https://soliditylang.org"
+            },
+            {
                 "version": "4.6.2.2472",
                 "pkg": "sonar-scanner",
                 "description": "Source code scanner for SonarQube analyzer.",
@@ -4586,7 +4598,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3440",
+                "version": "8.2.3441",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -5373,7 +5385,7 @@
                 "website": "https://github.com/u8sand/Baka-MPlayer"
             },
             {
-                "version": "2.15.0.799",
+                "version": "2.15.0.800",
                 "pkg": "balabolka",
                 "description": "Text-To-Speech software based on SAPI",
                 "website": "http://balabolka.site/balabolka.htm"
@@ -6027,7 +6039,7 @@
                 "website": "https://www.darktable.org"
             },
             {
-                "version": "2.15.0-101.0.dev",
+                "version": "2.15.0-108.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -6735,7 +6747,7 @@
                 "website": "http://ridgecrop.co.uk"
             },
             {
-                "version": "0.108.0",
+                "version": "0.109.0",
                 "pkg": "fbflipper",
                 "description": "A desktop debugging platform for mobile developers",
                 "website": "https://fbflipper.com"
@@ -6747,7 +6759,7 @@
                 "website": "https://fbide.freebasic.net"
             },
             {
-                "version": "0.12.2",
+                "version": "0.15.0",
                 "pkg": "fclones",
                 "description": "Efficient duplicate file finder",
                 "website": "https://github.com/pkolaczk/fclones"
@@ -6813,7 +6825,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "93.0b5",
+                "version": "93.0b6",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6831,7 +6843,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "94.0a1.20210915152638",
+                "version": "94.0a1.20210916214506",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -6873,7 +6885,7 @@
                 "website": "https://get.adobe.com/flashplayer/"
             },
             {
-                "version": "1.73.27",
+                "version": "1.73.28",
                 "pkg": "flat-assembler",
                 "description": "Open source assembly language compiler",
                 "website": "https://flatassembler.net/"
@@ -7305,7 +7317,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "8.1.3",
+                "version": "8.1.4",
                 "pkg": "grafana",
                 "description": "Open platform for analytics and data monitoring",
                 "website": "https://grafana.com/"
@@ -7863,7 +7875,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1409",
+                "version": "21.08.1-1410",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8049,7 +8061,7 @@
                 "website": "https://krita.org/"
             },
             {
-                "version": "1.9.0",
+                "version": "1.9.1",
                 "pkg": "ksnip",
                 "description": "Screenshot tool that provides many annotation features",
                 "website": "https://github.com/ksnip/ksnip"
@@ -8145,7 +8157,7 @@
                 "website": "https://github.com/vidarkongsli/posh1337"
             },
             {
-                "version": "5.2.0-latest.20210908.1",
+                "version": "5.2.1-latest.20210916.2",
                 "pkg": "lens",
                 "description": "IDE for Kubernetes clusters",
                 "website": "https://k8slens.dev"
@@ -8163,7 +8175,7 @@
                 "website": "https://librecad.org/"
             },
             {
-                "version": "7.2.0.4",
+                "version": "7.2.1.2",
                 "pkg": "libreoffice-fresh",
                 "description": "Powerful office suite",
                 "website": "https://libreoffice.org/"
@@ -8607,7 +8619,7 @@
                 "website": "https://github.com/ethereum/mist"
             },
             {
-                "version": "7.0.2",
+                "version": "7.0.3",
                 "pkg": "mitmproxy",
                 "description": "A free and open source interactive HTTPS proxy",
                 "website": "https://mitmproxy.org/"
@@ -8805,7 +8817,7 @@
                 "website": "https://www.mumble.info/"
             },
             {
-                "version": "1.18.0",
+                "version": "1.19.0-rc2",
                 "pkg": "mupdf",
                 "description": "A lightweight PDF, XPS, and E-book viewer",
                 "website": "https://mupdf.com"
@@ -9123,7 +9135,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-764",
+                "version": "21.08.1-765",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10191,7 +10203,7 @@
                 "website": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160891(v=msdn.10)"
             },
             {
-                "version": "3.5.3",
+                "version": "3.5.4",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
@@ -10449,7 +10461,7 @@
                 "website": "https://sigil-ebook.com"
             },
             {
-                "version": "5.17.1",
+                "version": "5.17.2",
                 "pkg": "signal",
                 "description": "A cross-platform encrypted messaging service.",
                 "website": "https://signal.org"
@@ -10473,7 +10485,7 @@
                 "website": "https://www.henrypp.org/product/simplewall"
             },
             {
-                "version": "1.31.0",
+                "version": "1.32.0",
                 "pkg": "skaffold",
                 "description": "A command line tool that facilitates continuous development for Kubernetes applications.",
                 "website": "https://skaffold.dev"
@@ -10567,12 +10579,6 @@
                 "pkg": "soapui",
                 "description": "A functional testing solution for APIs and web services.",
                 "website": "https://www.soapui.org/"
-            },
-            {
-                "version": "0.7.2",
-                "pkg": "solidity",
-                "description": "An object-oriented, high-level language for implementing smart contracts.",
-                "website": "https://solidity.readthedocs.io"
             },
             {
                 "version": "2019-7-22",
@@ -11211,13 +11217,13 @@
                 "website": "https://www.techpowerup.com/download/techpowerup-throttlestop/"
             },
             {
-                "version": "91.1.0",
+                "version": "91.1.1",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "91.1.0",
+                "version": "91.1.1",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -11919,7 +11925,7 @@
                 "website": "https://winauth.github.io/winauth/"
             },
             {
-                "version": "3.30",
+                "version": "3.31",
                 "pkg": "winbox",
                 "description": "A small utility that allows administration of MikroTik RouterOS using a fast and simple GUI.",
                 "website": "https://mikrotik.com/"
@@ -12237,7 +12243,7 @@
                 "website": "https://www.xnview.com/en/xnresize/"
             },
             {
-                "version": "0.98.4",
+                "version": "0.99.0",
                 "pkg": "xnviewmp",
                 "description": "Photo viewer, image resizer & batch converter",
                 "website": "https://www.xnview.com/en/xnviewmp/"
