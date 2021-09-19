@@ -710,7 +710,7 @@
                 "website": "https://concourse-ci.org/fly.html"
             },
             {
-                "version": "0.27.0",
+                "version": "0.28.0",
                 "pkg": "conftest",
                 "description": "Test utility for structured configuration files",
                 "website": "https://www.conftest.dev"
@@ -986,7 +986,7 @@
                 "website": "http://vu1tur.eu.org/tools/"
             },
             {
-                "version": "2.0.45",
+                "version": "2.1.0",
                 "pkg": "dnscrypt-proxy",
                 "description": "A flexible DNS proxy, with support for encrypted DNS protocols",
                 "website": "https://dnscrypt.info"
@@ -1088,7 +1088,7 @@
                 "website": "https://drone.io/"
             },
             {
-                "version": "2.14.6",
+                "version": "2.14.7",
                 "pkg": "dua",
                 "description": "Disk Usage Analyzer",
                 "website": "https://github.com/Byron/dua-cli"
@@ -1268,13 +1268,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103655",
+                "version": "103679",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103655",
+                "version": "103679",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1506,6 +1506,12 @@
                 "pkg": "geoipupdate",
                 "description": "GeoIP Update program to perform automatic updates of GeoIP2 and GeoIP Legacy binary databases.",
                 "website": "https://dev.maxmind.com/geoip/geoipupdate/"
+            },
+            {
+                "version": "1.10.8",
+                "pkg": "geth",
+                "description": "Official Go implementation of the Ethereum protocol",
+                "website": "https://geth.ethereum.org"
             },
             {
                 "version": "0.21-v1.16",
@@ -2024,6 +2030,12 @@
                 "website": "https://github.com/samizzo/hexed"
             },
             {
+                "version": "0.9.0",
+                "pkg": "hexyl",
+                "description": "Hex viewer, which uses colored output to distinguish different categories of bytes.",
+                "website": "https://github.com/sharkdp/hexyl"
+            },
+            {
                 "version": "4.1",
                 "pkg": "highlight",
                 "description": "Converts source code to formatted text with syntax highlighting.",
@@ -2056,7 +2068,7 @@
             {
                 "version": "1.0.0",
                 "pkg": "httpstat",
-                "description": "curl(1) statistics visualizer.",
+                "description": "curl(1) statistics visualizer",
                 "website": "https://github.com/davecheney/httpstat"
             },
             {
@@ -2132,7 +2144,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.1.0-7",
+                "version": "7.1.0-8",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2231,7 +2243,7 @@
                 "version": "1.2.0",
                 "pkg": "jd-cli",
                 "description": "Command line Java Decompiler",
-                "website": "https://github.com/kwart/jd-cli"
+                "website": "https://github.com/intoolswetrust/jd-cli"
             },
             {
                 "version": "1.2.0",
@@ -2642,6 +2654,12 @@
                 "website": "https://github.com/riverar/mach2"
             },
             {
+                "version": "1.0.1",
+                "pkg": "mailhog",
+                "description": "Web and API based SMTP testing",
+                "website": "https://github.com/mailhog/MailHog"
+            },
+            {
                 "version": "1.19",
                 "pkg": "mailsend",
                 "description": "A program to send mail via SMTP from command line.",
@@ -2762,7 +2780,7 @@
                 "website": "https://git-for-windows.github.io/"
             },
             {
-                "version": "1.23.0",
+                "version": "1.23.1",
                 "pkg": "minikube",
                 "description": "Runs a single-node Kubernetes cluster inside a Virtual Machine to try out Kubernetes.",
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
@@ -2954,6 +2972,12 @@
                 "website": "https://www.nasm.us"
             },
             {
+                "version": "0.8.2",
+                "pkg": "ncspot",
+                "description": "ncurses Spotify client written in Rust",
+                "website": "https://github.com/hrkfdn/ncspot"
+            },
+            {
                 "version": "2.3.0",
                 "pkg": "neko",
                 "description": "A high-level dynamically typed programming language",
@@ -3092,7 +3116,7 @@
                 "website": "https://nunit.org/"
             },
             {
-                "version": "3.7.0",
+                "version": "3.7.1",
                 "pkg": "nunit-extension-nunit-project-loader",
                 "description": "NUnit Project Loader Extension",
                 "website": "https://nunit.org/"
@@ -3152,7 +3176,7 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "4.1.0",
+                "version": "5.1.2",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3242,7 +3266,7 @@
                 "website": "https://github.com/shssoichiro/oxipng"
             },
             {
-                "version": "0.21.0",
+                "version": "0.21.1",
                 "pkg": "pack",
                 "description": "Buildpack CLI",
                 "website": "https://github.com/buildpacks/pack"
@@ -3476,7 +3500,7 @@
                 "website": "https://grpc.io"
             },
             {
-                "version": "0.34.0",
+                "version": "0.34.1",
                 "pkg": "protolint",
                 "description": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions",
                 "website": "https://github.com/yoheimuta/protolint"
@@ -3486,6 +3510,12 @@
                 "pkg": "proxychains",
                 "description": "Windows port of proxychains, based on MinHook and DLL Injection",
                 "website": "https://github.com/shunf4/proxychains-windows"
+            },
+            {
+                "version": "0.3.2",
+                "pkg": "prs",
+                "description": "Secure, fast & convenient password manager CLI with GPG & git sync",
+                "website": "https://github.com/timvisee/prs"
             },
             {
                 "version": "4.9.0",
@@ -3776,7 +3806,7 @@
                 "website": "https://github.com/BurntSushi/ripgrep"
             },
             {
-                "version": "1.3.0",
+                "version": "1.3.1",
                 "pkg": "rke",
                 "description": "CNCF-certified Kubernetes distribution that runs entirely within Docker containers",
                 "website": "https://rancher.com/products/rke/"
@@ -4598,7 +4628,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3444",
+                "version": "8.2.3446",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4646,7 +4676,7 @@
                 "website": "https://wasmer.io/"
             },
             {
-                "version": "0.29.0",
+                "version": "0.30.0",
                 "pkg": "wasmtime",
                 "description": "Standalone JIT-style runtime for WebAssembly, using Cranelift",
                 "website": "https://wasmtime.dev"
@@ -6561,7 +6591,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.16.5",
+                "version": "1.16.11",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -6843,7 +6873,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "94.0a1.20210917215008",
+                "version": "94.0a1.20210918213140",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7047,7 +7077,7 @@
                 "website": "https://github.com/imDema/FreeMove"
             },
             {
-                "version": "1.9.7",
+                "version": "1.9.8",
                 "pkg": "freeplane",
                 "description": "Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps.",
                 "website": "https://www.freeplane.org"
@@ -7095,7 +7125,7 @@
                 "website": "https://www.carifred.com/fvie/"
             },
             {
-                "version": "0.3.433",
+                "version": "0.3.456",
                 "pkg": "fvim",
                 "description": "Neovim front-end UI",
                 "website": "https://github.com/yatli/fvim"
@@ -7875,7 +7905,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1411",
+                "version": "21.08.1-1412",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8157,7 +8187,7 @@
                 "website": "https://github.com/vidarkongsli/posh1337"
             },
             {
-                "version": "5.2.2-latest.20210917.1",
+                "version": "5.2.2-latest.20210918.1",
                 "pkg": "lens",
                 "description": "IDE for Kubernetes clusters",
                 "website": "https://k8slens.dev"
@@ -8919,7 +8949,7 @@
                 "website": "https://www.netlify.com"
             },
             {
-                "version": "5.2.1",
+                "version": "5.2.2",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -9135,7 +9165,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-766",
+                "version": "21.08.1-767",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9903,7 +9933,7 @@
                 "website": "https://moduleart.github.io/"
             },
             {
-                "version": "3.6.11",
+                "version": "3.7.0",
                 "pkg": "quicklook",
                 "description": "Bring macOS 'Quick Look' feature to Windows",
                 "website": "https://pooi.moe/QuickLook/"
@@ -10257,7 +10287,7 @@
                 "website": "https://sites.google.com/site/regexreplace/"
             },
             {
-                "version": "3.3.1",
+                "version": "3.4.0",
                 "pkg": "sabnzbd",
                 "description": "The automated Usenet download tool",
                 "website": "https://sabnzbd.org"
@@ -11013,7 +11043,7 @@
                 "website": "https://eugeny.github.io/tabby/"
             },
             {
-                "version": "4.2.12.176",
+                "version": "4.3.0.178",
                 "pkg": "tableplus",
                 "description": "Relational database explorer",
                 "website": "https://tableplus.com"
@@ -12297,7 +12327,7 @@
                 "website": "https://yat.qa/"
             },
             {
-                "version": "2.8.1.0",
+                "version": "2.9.0.0",
                 "pkg": "ydl-ui",
                 "description": "A UI for the command-line video downloader youtube-dl",
                 "website": "https://github.com/Maxstupo/ydl-ui"
@@ -13042,7 +13072,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5658.18f392918",
+                "version": "1.57.0-beta.5663.00c6642fa",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
