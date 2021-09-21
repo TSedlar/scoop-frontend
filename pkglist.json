@@ -50,10 +50,10 @@
                 "website": "https://developer.android.com/studio/releases/platform-tools.html"
             },
             {
-                "version": "2.2.0-58-g5a1c8d8",
+                "version": "2.2.4",
                 "pkg": "ag",
-                "description": "A tool for searching code",
-                "website": "https://geoff.greer.fm/ag/"
+                "description": "A tool for searching code. Fork of The Silver Searcher; dedicated to building a well behaved version for Windows.",
+                "website": "https://github.com/JFLarvoire/the_silver_searcher"
             },
             {
                 "version": "2.0.0",
@@ -428,7 +428,7 @@
                 "website": "https://dystroy.org/broot/"
             },
             {
-                "version": "1.0.9_1",
+                "version": "1.0.9_3",
                 "pkg": "brotli",
                 "description": "Lossless compression algorithm",
                 "website": "https://brotli.org/"
@@ -644,7 +644,7 @@
                 "website": "https://github.com/cloudflare/cloudflared"
             },
             {
-                "version": "3.21.2",
+                "version": "3.21.3",
                 "pkg": "cmake",
                 "description": "Family of tools designed to build, test and package software",
                 "website": "https://cmake.org"
@@ -668,7 +668,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "21.1.7",
+                "version": "21.1.9",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -812,7 +812,7 @@
                 "website": "https://developer.nvidia.com/cuda-toolkit"
             },
             {
-                "version": "7.79.0_1",
+                "version": "7.79.0_3",
                 "pkg": "curl",
                 "description": "Command line tool and library for transferring data with URLs",
                 "website": "https://curl.haxx.se/"
@@ -908,7 +908,7 @@
                 "website": "https://owasp.org/www-project-dependency-check/"
             },
             {
-                "version": "1.1.4-beta",
+                "version": "1.2.0-beta",
                 "pkg": "deta",
                 "description": "Command line interface for managing Deta micros and deployments",
                 "website": "https://deta.sh/"
@@ -1068,6 +1068,12 @@
                 "pkg": "dotnet-sdk",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
+            },
+            {
+                "version": "0.12.6",
+                "pkg": "dotter",
+                "description": "Dotfile manager and templater",
+                "website": "https://github.com/SuperCuber/dotter"
             },
             {
                 "version": "1.9.2",
@@ -1268,13 +1274,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103723",
+                "version": "103752",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103723",
+                "version": "103752",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1346,13 +1352,13 @@
                 "website": "https://google.github.io/flatbuffers/index.html"
             },
             {
-                "version": "0.160.0",
+                "version": "0.160.1",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code",
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "0.17.1",
+                "version": "0.17.2",
                 "pkg": "flux2",
                 "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
                 "website": "https://toolkit.fluxcd.io"
@@ -2360,7 +2366,7 @@
                 "website": "https://github.com/birdayz/kaf"
             },
             {
-                "version": "2.8.0",
+                "version": "2.8.1",
                 "pkg": "kafka",
                 "description": "Apache Kafka. A distributed streaming platform.",
                 "website": "https://kafka.apache.org/"
@@ -2408,13 +2414,13 @@
                 "website": "https://kops.sigs.k8s.io"
             },
             {
-                "version": "1.5.30",
+                "version": "1.5.31",
                 "pkg": "kotlin",
                 "description": "A cross-platform, statically typed, general-purpose programming language with type inference.",
                 "website": "https://kotlinlang.org/"
             },
             {
-                "version": "1.5.30",
+                "version": "1.5.31",
                 "pkg": "kotlin-native",
                 "description": "An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain for native binaries runnable without a virtual machine.",
                 "website": "https://kotlinlang.org"
@@ -2648,6 +2654,12 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/m4.htm"
             },
             {
+                "version": "1.1.6",
+                "pkg": "macchina",
+                "description": "A system information fetcher, with an emphasis on performance and minimalism.",
+                "website": "https://github.com/Macchina-CLI/macchina"
+            },
+            {
                 "version": "0.7.0.0",
                 "pkg": "mach2",
                 "description": "Feature Control Multi-tool for Windows 10",
@@ -2840,7 +2852,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "5.0.3-rc2",
+                "version": "5.0.3",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -3080,7 +3092,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "1.1.4",
+                "version": "1.1.5",
                 "pkg": "nomad",
                 "description": "Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.",
                 "website": "https://www.nomadproject.io"
@@ -3182,7 +3194,7 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "5.2.0",
+                "version": "5.2.1",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3206,7 +3218,7 @@
                 "website": "http://www.omnisharp.net"
             },
             {
-                "version": "0.32.0",
+                "version": "0.32.1",
                 "pkg": "opa",
                 "description": "Policy-based control for cloud native environments",
                 "website": "https://www.openpolicyagent.org"
@@ -3242,7 +3254,7 @@
                 "website": "https://slproweb.com/products/Win32OpenSSL.html"
             },
             {
-                "version": "3.0.0_1",
+                "version": "3.0.0_3",
                 "pkg": "openssl-mingw",
                 "description": "A robust, commercial-grade, and full-featured toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols.",
                 "website": "https://curl.haxx.se/windows/"
@@ -3392,7 +3404,7 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.24.2.4973-2b1b51db9",
+                "version": "1.24.3.5033-757abe6b4",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
@@ -3584,7 +3596,7 @@
                 "website": "https://puppetlabs.com"
             },
             {
-                "version": "3.17.0",
+                "version": "3.18.0",
                 "pkg": "puppet-bolt",
                 "description": "Orchestration and agentless IT automation",
                 "website": "https://puppet.com/open-source/bolt"
@@ -4340,7 +4352,7 @@
                 "website": "https://www.influxdata.com/time-series-platform/telegraf/"
             },
             {
-                "version": "7.1.2",
+                "version": "7.1.3",
                 "pkg": "teleport",
                 "description": "Privileged access management for cloud-native infrastructure",
                 "website": "https://gravitational.com/teleport"
@@ -4358,7 +4370,7 @@
                 "website": "https://www.terraform.io"
             },
             {
-                "version": "1.32.0",
+                "version": "1.32.1",
                 "pkg": "terraform-provider-ibm",
                 "description": "The IBM Cloud provider is used to manage provisioning and orchestration of IBM Cloud resources with the Terraform provisioning engine",
                 "website": "https://ibm-cloud.github.io/tf-ibm-docs/"
@@ -4460,7 +4472,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "2.5.2",
+                "version": "2.5.3",
                 "pkg": "traefik",
                 "description": "HTTP reverse proxy and load balancer",
                 "website": "https://traefik.io/"
@@ -4598,7 +4610,7 @@
                 "website": "https://github.com/uutils/coreutils"
             },
             {
-                "version": "4.41.1",
+                "version": "4.42.2",
                 "pkg": "v2ray",
                 "description": "A platform for building proxies to bypass network restrictions.",
                 "website": "https://www.v2fly.org/en_US/"
@@ -4646,7 +4658,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3448",
+                "version": "8.2.3450",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -4940,7 +4952,7 @@
                 "website": "https://yt-dl.org/"
             },
             {
-                "version": "4.13.0",
+                "version": "4.13.2",
                 "pkg": "yq",
                 "description": "A portable command-line YAML processor",
                 "website": "https://mikefarah.gitbook.io/yq/"
@@ -5487,7 +5499,7 @@
                 "website": "https://github.com/mvsoft74/BeatDrop"
             },
             {
-                "version": "2.1.1",
+                "version": "2.1.3",
                 "pkg": "beekeeper-studio",
                 "description": "SQL editor and database management",
                 "website": "https://www.beekeeperstudio.io"
@@ -6867,13 +6879,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "93.0b6",
+                "version": "93.0b7",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "93.0b6",
+                "version": "93.0b7",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6891,7 +6903,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "94.0a1.20210919212908",
+                "version": "94.0a1.20210920212918",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7911,7 +7923,7 @@
                 "website": "https://sourceforge.net/projects/jpegview/"
             },
             {
-                "version": "6.1.1",
+                "version": "6.1.2",
                 "pkg": "juce",
                 "description": "C++ audio application framework",
                 "website": "https://juce.com"
@@ -7923,7 +7935,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1413",
+                "version": "21.08.1-1414",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8955,7 +8967,7 @@
                 "website": "https://netbeans.org"
             },
             {
-                "version": "1.8.7",
+                "version": "1.8.9",
                 "pkg": "netch",
                 "description": "Game accelerator",
                 "website": "https://github.com/NetchX/Netch"
@@ -8967,7 +8979,7 @@
                 "website": "https://www.netlify.com"
             },
             {
-                "version": "5.2.2",
+                "version": "5.2.4",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -9183,7 +9195,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-768",
+                "version": "21.08.1-769",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10425,7 +10437,7 @@
                 "website": "https://github.com/paolosalvatori/ServiceBusExplorer"
             },
             {
-                "version": "1.7.1",
+                "version": "1.7.2",
                 "pkg": "session",
                 "description": "End-to-end encrypted messenger",
                 "website": "https://getsession.org"
@@ -10521,7 +10533,7 @@
                 "website": "https://github.com/stbrenner/SilentCMD"
             },
             {
-                "version": "2.18.0",
+                "version": "2.19.0",
                 "pkg": "simplenote",
                 "description": "Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.",
                 "website": "https://simplenote.com"
@@ -10545,7 +10557,7 @@
                 "website": "https://www.skype.com/"
             },
             {
-                "version": "4.19.3",
+                "version": "4.20.0",
                 "pkg": "slack",
                 "description": "Collaboration software",
                 "website": "https://slack.com"
@@ -10815,7 +10827,7 @@
                 "website": "https://github.com/RevoLand/Steam-Library-Manager"
             },
             {
-                "version": "1631572845",
+                "version": "1631912655",
                 "pkg": "steamcmd",
                 "description": "A command-line version of the Steam client",
                 "website": "https://developer.valvesoftware.com/wiki/SteamCMD"
@@ -10905,7 +10917,7 @@
                 "website": "https://www.strokesplus.com"
             },
             {
-                "version": "1.13.0",
+                "version": "1.14.0",
                 "pkg": "structurizr-cli",
                 "description": "A command line interface to push/pull workspaces to/from the Structurizr cloud service/on-premises installation, and export views to PlantUML, Mermaid, and WebSequenceDiagrams formats.",
                 "website": "https://github.com/structurizr/cli"
@@ -11061,7 +11073,7 @@
                 "website": "https://eugeny.github.io/tabby/"
             },
             {
-                "version": "4.3.0.178",
+                "version": "4.3.2.178",
                 "pkg": "tableplus",
                 "description": "Relational database explorer",
                 "website": "https://tableplus.com"
@@ -11151,7 +11163,7 @@
                 "website": "https://www.teamviewer.com"
             },
             {
-                "version": "3.0.1",
+                "version": "3.1.0",
                 "pkg": "telegram",
                 "description": "A messaging app with a focus on speed and security",
                 "website": "https://telegram.org"
@@ -11727,7 +11739,7 @@
                 "website": "http://www.vieas.com/en/software/vieas.html"
             },
             {
-                "version": "6.0.0",
+                "version": "6.1.0",
                 "pkg": "vieb",
                 "description": "Vim Inspired Electron Browser",
                 "website": "https://vieb.dev"
@@ -11859,7 +11871,7 @@
                 "website": "https://github.com/lltcggie/waifu2x-caffe"
             },
             {
-                "version": "2021.08.1",
+                "version": "2021.09",
                 "pkg": "waterfox",
                 "description": "The 100% fresh, free-range, ethical browser (classic branch)",
                 "website": "https://www.waterfox.net"
@@ -11883,7 +11895,7 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.93.11.2",
+                "version": "10.93.12.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -13090,7 +13102,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5663.00c6642fa",
+                "version": "1.57.0-beta.5664.1409b89f6",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
