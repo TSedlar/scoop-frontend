@@ -818,7 +818,7 @@
                 "website": "https://curl.haxx.se/"
             },
             {
-                "version": "2.0.2",
+                "version": "2.0.3",
                 "pkg": "cutter",
                 "description": "A Qt and C++ GUI for Rizin reverse engineering framework",
                 "website": "https://cutter.re"
@@ -1274,13 +1274,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103813",
+                "version": "103814",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "103813",
+                "version": "103814",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1772,6 +1772,12 @@
                 "website": "https://github.com/google/go-jsonnet"
             },
             {
+                "version": "0.1.0-alpha.5",
+                "pkg": "gobang",
+                "description": "TUI database management tool",
+                "website": "https://github.com/TaKO8Ki/gobang"
+            },
+            {
                 "version": "3.1.0",
                 "pkg": "gobuster",
                 "description": "A tool to brute-force URIs, DNS subdomains or Virtual Host names",
@@ -1808,7 +1814,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.179.0",
+                "version": "0.180.0",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -2126,7 +2132,7 @@
                 "website": "https://github.com/i2p-zero/i2p-zero"
             },
             {
-                "version": "2.1.0",
+                "version": "2.1.1",
                 "pkg": "ibmcloud-cli",
                 "description": "The command line client for IBM Cloud",
                 "website": "https://www.ibm.com/cloud/cli"
@@ -2162,8 +2168,14 @@
                 "website": "https://sourceforge.net/projects/inadyn-mt/files/inadyn-mt/"
             },
             {
-                "version": "1.8.4",
+                "version": "1.8.9",
                 "pkg": "influxdb",
+                "description": "Scalable datastore for metrics, events, and real-time analytics.",
+                "website": "https://www.influxdata.com/"
+            },
+            {
+                "version": "2.0.8",
+                "pkg": "influxdb2",
                 "description": "Scalable datastore for metrics, events, and real-time analytics.",
                 "website": "https://www.influxdata.com/"
             },
@@ -2312,7 +2324,7 @@
                 "website": "https://www.jruby.org/"
             },
             {
-                "version": "1.6.2",
+                "version": "1.6.3",
                 "pkg": "julia",
                 "description": "A programming language that is a fresh approach to technical computing.",
                 "website": "https://julialang.org"
@@ -2804,7 +2816,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2021-09-23T04-46-24Z",
+                "version": "2021-09-24T00-24-24Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io"
@@ -2966,7 +2978,7 @@
                 "website": "https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md"
             },
             {
-                "version": "93.0.4577.63-2",
+                "version": "94.0.4606.61-1",
                 "pkg": "naiveproxy",
                 "description": "A proxy using Chrome's network stack to camouflage traffic with strong censorship resistence and low detectablility.",
                 "website": "https://github.com/klzgrad/naiveproxy"
@@ -3017,7 +3029,7 @@
                 "version": "0.6.0-dev-331-gaba397991",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
-                "website": "https://neovim.io/"
+                "website": "https://neovim.io"
             },
             {
                 "version": "1.5.4.0",
@@ -3200,7 +3212,7 @@
                 "website": "https://www.gnu.org/software/octave/"
             },
             {
-                "version": "5.5.2",
+                "version": "5.6.0",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3446,7 +3458,7 @@
                 "website": "https://github.com/agersant/polaris"
             },
             {
-                "version": "21.09.0",
+                "version": "21.09.0-1",
                 "pkg": "poppler",
                 "description": "PDF rendering library",
                 "website": "https://github.com/oschwartz10612/poppler-windows"
@@ -3530,7 +3542,7 @@
                 "website": "https://grpc.io"
             },
             {
-                "version": "0.35.0",
+                "version": "0.35.1",
                 "pkg": "protolint",
                 "description": "A pluggable linter and fixer to enforce Protocol Buffer style and conventions",
                 "website": "https://github.com/yoheimuta/protolint"
@@ -4160,7 +4172,7 @@
                 "website": "https://www.smartmontools.org"
             },
             {
-                "version": "0.1.0",
+                "version": "0.1.1",
                 "pkg": "smimesign",
                 "description": "An S/MIME signing utility compatible with Git that allows developers to sign their commits and tags using X.509 certificates",
                 "website": "https://github.com/github/smimesign"
@@ -5187,7 +5199,7 @@
                 "website": "https://developer.android.com/studio/"
             },
             {
-                "version": "2.14.39",
+                "version": "2.14.40",
                 "pkg": "android-sms-backup-and-restore",
                 "description": "Backup & Restore Android SMS on computer with ease.",
                 "website": "https://www.backuptrans.com/android-sms-backup-restore.html"
@@ -5451,7 +5463,7 @@
                 "website": "https://github.com/u8sand/Baka-MPlayer"
             },
             {
-                "version": "2.15.0.800",
+                "version": "2.15.0.801",
                 "pkg": "balabolka",
                 "description": "Text-To-Speech software based on SAPI",
                 "website": "http://balabolka.site/balabolka.htm"
@@ -5589,7 +5601,7 @@
                 "website": "https://blink1.thingm.com/"
             },
             {
-                "version": "16.0.79.98",
+                "version": "16.1.94.111",
                 "pkg": "blisk",
                 "description": "First developer-oriented browser.",
                 "website": "https://blisk.io/"
@@ -6039,7 +6051,7 @@
                 "website": "https://www.cpuid.com/softwares/cpu-z.html"
             },
             {
-                "version": "2.8.5",
+                "version": "2.8.6",
                 "pkg": "crow-translate",
                 "description": "A simple and lightweight translator that allows to translate and speak text.",
                 "website": "https://crow-translate.github.io"
@@ -6909,7 +6921,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "94.0a1.20210924094613",
+                "version": "94.0a1.20210925213743",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7113,7 +7125,7 @@
                 "website": "https://github.com/imDema/FreeMove"
             },
             {
-                "version": "1.9.8",
+                "version": "1.9.9",
                 "pkg": "freeplane",
                 "description": "Freeplane is a free and open source software application that supports thinking, sharing information and getting things done at work, in school and at home. The software can be used for mind mapping and analyzing the information contained in mind maps.",
                 "website": "https://www.freeplane.org"
@@ -7161,7 +7173,7 @@
                 "website": "https://www.carifred.com/fvie/"
             },
             {
-                "version": "0.3.467",
+                "version": "0.3.468",
                 "pkg": "fvim",
                 "description": "Neovim front-end UI",
                 "website": "https://github.com/yatli/fvim"
@@ -7779,7 +7791,7 @@
                 "website": "https://github.com/ipfs-shipyard/ipfs-desktop"
             },
             {
-                "version": "2.14.39",
+                "version": "2.14.40",
                 "pkg": "iphone-sms-backup-and-restore",
                 "description": "Backup & Restore Iphone SMS on computer with ease.",
                 "website": "https://www.backuptrans.com/iphone-sms-backup-restore.html"
@@ -7941,7 +7953,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1418",
+                "version": "21.08.1-1419",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8667,7 +8679,7 @@
                 "website": "https://mindforger.com"
             },
             {
-                "version": "2.27",
+                "version": "2.28",
                 "pkg": "mini-sftp-server",
                 "description": "A simple mini sftp server with GUI controls",
                 "website": "http://www.coreftp.com/server/"
@@ -8763,7 +8775,7 @@
                 "website": "http://mpesch3.de"
             },
             {
-                "version": "3.09",
+                "version": "3.10",
                 "pkg": "mp3tag",
                 "description": "Powerful and easy-to-use tool to edit metadata of audio files.",
                 "website": "https://www.mp3tag.de"
@@ -8985,7 +8997,7 @@
                 "website": "https://www.netlify.com"
             },
             {
-                "version": "5.2.4",
+                "version": "5.2.5",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://github.com/lutzroeder/Netron"
@@ -9105,7 +9117,7 @@
                 "website": "https://zeit.co/now"
             },
             {
-                "version": "3.07",
+                "version": "3.08",
                 "pkg": "nsis",
                 "description": "A professional open source system to create Windows installers.",
                 "website": "https://nsis.sourceforge.io/Main_Page"
@@ -9201,7 +9213,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-773",
+                "version": "21.08.1-774",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10017,7 +10029,7 @@
                 "website": "https://interversehq.com/qview/"
             },
             {
-                "version": "3.9.5",
+                "version": "3.9.7",
                 "pkg": "rabbitmq",
                 "description": "Message-broker",
                 "website": "https://www.rabbitmq.com"
@@ -10857,7 +10869,7 @@
                 "website": "https://stoplight.io/studio"
             },
             {
-                "version": "1.21.0",
+                "version": "1.21.1",
                 "pkg": "storageexplorer",
                 "description": "Easily manage the contents of Azure storage account.",
                 "website": "https://azure.microsoft.com/en-us/features/storage-explorer/"
@@ -10965,7 +10977,7 @@
                 "website": "https://www.sumatrapdfreader.org/free-pdf-reader"
             },
             {
-                "version": "5.14.0.505",
+                "version": "5.14.1.508",
                 "pkg": "sumo",
                 "description": "Software Update Monitor",
                 "website": "https://kcsoftwares.com/?sumo"
@@ -11241,7 +11253,7 @@
                 "website": "https://www.xm1math.net/texmaker/"
             },
             {
-                "version": "3.1.2",
+                "version": "4.0.0",
                 "pkg": "texstudio",
                 "description": "An integrated writing environment for creating LaTeX documents.",
                 "website": "https://www.texstudio.org"
@@ -12177,9 +12189,9 @@
                 "website": "http://www.wox.one"
             },
             {
-                "version": "11.2.0.9396",
+                "version": "11.2.0.10296",
                 "pkg": "wpsoffice",
-                "description": "Complete office suite.",
+                "description": "Complete office suite",
                 "website": "https://www.wps.com"
             },
             {
