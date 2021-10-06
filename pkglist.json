@@ -2,7 +2,7 @@
     "main": {
         "packages": [
             {
-                "version": "1.12.1",
+                "version": "1.12.2",
                 "pkg": "1password-cli",
                 "description": "The 1Password command-line tool makes your 1Password account accessible entirely from the command line.",
                 "website": "https://support.1password.com/command-line/"
@@ -128,7 +128,7 @@
                 "website": "https://ant.apache.org/"
             },
             {
-                "version": "2.4.49",
+                "version": "2.4.50",
                 "pkg": "apache",
                 "description": "The Apache HTTP Server ('httpd')",
                 "website": "https://www.apachelounge.com"
@@ -236,7 +236,7 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.2.43",
+                "version": "2.2.44",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
@@ -308,7 +308,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "12.50.1",
+                "version": "12.50.2",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -632,7 +632,7 @@
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
             },
             {
-                "version": "1.25.0",
+                "version": "1.26.0",
                 "pkg": "cloud-sql-proxy",
                 "description": "Provides secure access to Cloud SQL Second Generation instances without having to add Authorized networks or configure SSL.",
                 "website": "https://cloud.google.com/sql/docs/mysql/sql-proxy"
@@ -686,13 +686,13 @@
                 "website": "https://github.com/Microsoft/Terminal/tree/main/src/tools/ColorTool"
             },
             {
-                "version": "2.1.8",
+                "version": "2.1.9",
                 "pkg": "composer",
                 "description": "Dependency Manager for PHP",
                 "website": "https://getcomposer.org/"
             },
             {
-                "version": "1.40.3",
+                "version": "1.40.4",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager",
                 "website": "https://conan.io"
@@ -1130,7 +1130,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "96.0.1035.0",
+                "version": "96.0.1037.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1190,7 +1190,7 @@
                 "website": "https://github.com/a8m/envsubst"
             },
             {
-                "version": "24.1.1",
+                "version": "24.1.2",
                 "pkg": "erlang",
                 "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
                 "website": "https://www.erlang.org"
@@ -1274,13 +1274,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104005",
+                "version": "104013",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104005",
+                "version": "104013",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1598,7 +1598,7 @@
                 "website": "https://gitrebasetool.mitmaro.ca"
             },
             {
-                "version": "0.3.40",
+                "version": "0.3.41",
                 "pkg": "git-istage",
                 "description": "A better git add -p",
                 "website": "https://github.com/terrajobst/git-istage"
@@ -2012,6 +2012,12 @@
                 "website": "https://github.com/hetznercloud/cli"
             },
             {
+                "version": "0.4.1",
+                "pkg": "helix",
+                "description": "A post-modern modal text editor",
+                "website": "https://helix-editor.com"
+            },
+            {
                 "version": "3.7.0",
                 "pkg": "helm",
                 "description": "The package manager for Kubernetes",
@@ -2348,13 +2354,13 @@
                 "website": "https://github.com/k0sproject/k0s"
             },
             {
-                "version": "0.5.0",
+                "version": "0.6.2",
                 "pkg": "k2tf",
                 "description": "Converts Kubernetes API Objects (in YAML format) into HashiCorp's Terraform configuration language.",
                 "website": "https://github.com/sl1pm4t/k2tf"
             },
             {
-                "version": "4.4.8",
+                "version": "5.0.0",
                 "pkg": "k3d",
                 "description": "Creates multi-node k3s cluster on a single machine using docker",
                 "website": "https://github.com/rancher/k3d"
@@ -3026,7 +3032,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-394-g8a9f29299",
+                "version": "0.6.0-dev-402-g655e489e9",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -3110,7 +3116,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "1.1.5",
+                "version": "1.1.6",
                 "pkg": "nomad",
                 "description": "Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.",
                 "website": "https://www.nomadproject.io"
@@ -4172,7 +4178,7 @@
                 "website": "https://www.smartmontools.org"
             },
             {
-                "version": "0.1.2",
+                "version": "0.2.0",
                 "pkg": "smimesign",
                 "description": "An S/MIME signing utility compatible with Git that allows developers to sign their commits and tags using X.509 certificates",
                 "website": "https://github.com/github/smimesign"
@@ -4334,7 +4340,7 @@
                 "website": "https://www.syncany.org/"
             },
             {
-                "version": "1.18.2",
+                "version": "1.18.3",
                 "pkg": "syncthing",
                 "description": "Open Source Continuous File Synchronization.",
                 "website": "https://syncthing.net/"
@@ -4488,6 +4494,12 @@
                 "pkg": "tor",
                 "description": "Enables anonymous communication over the onion network (expert mode).",
                 "website": "https://www.torproject.org"
+            },
+            {
+                "version": "1.0.0",
+                "pkg": "torpar",
+                "description": "TUI Client for Torrent Paradise",
+                "website": "https://github.com/varbhat/torpar"
             },
             {
                 "version": "0.2018.07.25",
@@ -4682,7 +4694,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3469",
+                "version": "8.2.3475",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -6093,7 +6105,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.146.0.0",
+                "version": "1.146.2.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -6129,7 +6141,7 @@
                 "website": "https://www.darktable.org"
             },
             {
-                "version": "2.15.0-164.0.dev",
+                "version": "2.15.0-168.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -6195,7 +6207,7 @@
                 "website": "https://github.com/ThePBone/DDCToolbox"
             },
             {
-                "version": "18.0.4.3",
+                "version": "18.0.4.4",
                 "pkg": "ddu",
                 "description": "Driver removal utility that can help you completely uninstall AMD/NVIDIA graphics card drivers and packages from your system, without leaving leftovers behind (including registry keys, folders and files, driver store)",
                 "website": "https://www.wagnardsoft.com/"
@@ -6903,7 +6915,7 @@
                 "website": "https://gist.github.com/se35710/43693e679701387d722206eff1e85f5f"
             },
             {
-                "version": "92.0.1",
+                "version": "93.0",
                 "pkg": "firefox",
                 "description": "Popular open source web browser.",
                 "website": "https://www.mozilla.org/firefox/"
@@ -6915,31 +6927,31 @@
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "93.0b9",
+                "version": "94.0b1",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "78.14.0",
+                "version": "78.15.0",
                 "pkg": "firefox-esr",
                 "description": "Extended Support Release of Firefox: the popular open source web browser",
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "78.14.0",
+                "version": "78.15.0",
                 "pkg": "firefox-esr-portable",
                 "description": "Extended Support Release of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "95.0a1.20211004215121",
+                "version": "95.0a1.20211005215418",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
             },
             {
-                "version": "92.0.1",
+                "version": "93.0",
                 "pkg": "firefox-portable",
                 "description": "Popular open source web browser",
                 "website": "https://www.mozilla.org/firefox/"
@@ -7221,7 +7233,7 @@
                 "website": "https://developer.valvesoftware.com/wiki/GCFScape"
             },
             {
-                "version": "359.0.0",
+                "version": "360.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -7407,7 +7419,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "8.1.5",
+                "version": "8.1.6",
                 "pkg": "grafana",
                 "description": "Open platform for analytics and data monitoring",
                 "website": "https://grafana.com/"
@@ -7965,7 +7977,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1429",
+                "version": "21.08.1-1430",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9231,7 +9243,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-784",
+                "version": "21.08.1-785",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9243,7 +9255,7 @@
                 "website": "https://olivevideoeditor.org"
             },
             {
-                "version": "5.5.0",
+                "version": "5.6.0",
                 "pkg": "omegat",
                 "description": "The free translation memory tool.",
                 "website": "https://omegat.org/"
@@ -9387,7 +9399,7 @@
                 "website": "https://github.com/stax76/OpenWithPlusPlus"
             },
             {
-                "version": "79.0.4143.72",
+                "version": "80.0.4170.16",
                 "pkg": "opera",
                 "description": "Fast, secure, easy-to-use browser.",
                 "website": "https://www.opera.com/"
@@ -9693,7 +9705,7 @@
                 "website": "http://www.nattyware.com/pixie.php"
             },
             {
-                "version": "1.2021.11",
+                "version": "1.2021.12",
                 "pkg": "plantuml",
                 "description": "A tool to draw UML diagrams, using a simple and human readable text description.",
                 "website": "http://plantuml.com/"
@@ -9807,7 +9819,7 @@
                 "website": "https://www.mersenne.org/download/"
             },
             {
-                "version": "1.2.2916.18",
+                "version": "1.2.2943.11",
                 "pkg": "pritunl-client",
                 "description": "OpenVPN Client",
                 "website": "https://client.pritunl.com"
@@ -10455,7 +10467,7 @@
                 "website": "https://www.seamonkey-project.org"
             },
             {
-                "version": "7.3.4",
+                "version": "7.3.6",
                 "pkg": "sejda-pdf",
                 "description": "PDF Editor",
                 "website": "https://www.sejda.com/desktop"
@@ -10551,7 +10563,7 @@
                 "website": "https://sigil-ebook.com"
             },
             {
-                "version": "5.18.1",
+                "version": "5.19.0",
                 "pkg": "signal",
                 "description": "A cross-platform encrypted messaging service.",
                 "website": "https://signal.org"
@@ -10563,7 +10575,7 @@
                 "website": "https://github.com/stbrenner/SilentCMD"
             },
             {
-                "version": "2.19.1",
+                "version": "2.20.0",
                 "pkg": "simplenote",
                 "description": "Simplenote is an easy way to keep notes, lists, ideas and more. Your notes stay in sync with all your devices for free.",
                 "website": "https://simplenote.com"
@@ -10815,7 +10827,7 @@
                 "website": "https://github.com/pmq20/squashfuse"
             },
             {
-                "version": "4.2.0",
+                "version": "4.3.0",
                 "pkg": "squirrel-sql",
                 "description": "Universal SQL client",
                 "website": "http://www.squirrelsql.org"
@@ -10905,7 +10917,7 @@
                 "website": "https://streamlabs.com/chatbot"
             },
             {
-                "version": "1.5.0",
+                "version": "1.5.1",
                 "pkg": "streamlabs-obs",
                 "description": "Open Broadcaster Software for Gamers",
                 "website": "https://streamlabs.com/streamlabs-obs"
@@ -11103,7 +11115,7 @@
                 "website": "https://eugeny.github.io/tabby/"
             },
             {
-                "version": "4.6.2.180",
+                "version": "4.6.4.180",
                 "pkg": "tableplus",
                 "description": "Relational database explorer",
                 "website": "https://tableplus.com"
@@ -11457,7 +11469,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.47.7",
+                "version": "0.47.8",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -11607,7 +11619,7 @@
                 "website": "https://github.com/absalomedia/vagrant-manager"
             },
             {
-                "version": "2.10.7",
+                "version": "2.11.0",
                 "pkg": "vale",
                 "description": "A syntax-aware linter for prose",
                 "website": "https://docs.errata.ai/vale/about"
@@ -12045,7 +12057,7 @@
                 "website": "https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool"
             },
             {
-                "version": "1.10.2383.0",
+                "version": "1.10.2714.0",
                 "pkg": "windows-terminal",
                 "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
                 "website": "https://github.com/microsoft/terminal"
@@ -12459,7 +12471,7 @@
                 "website": "https://github.com/zeebe-io/zeebe-modeler"
             },
             {
-                "version": "6.9.0",
+                "version": "6.10.0",
                 "pkg": "zeplin",
                 "description": "Collaborative tool for designs' and styleguides' handoff with specs, assets and code snippets",
                 "website": "https://zeplin.io"
@@ -12526,7 +12538,7 @@
                 "website": "https://www.7-zip.org/"
             },
             {
-                "version": "v21.03-v1.5.0-R1",
+                "version": "v21.03-v1.5.0-R2",
                 "pkg": "7zip-zstd",
                 "description": "Multi-format compression/decompression tool with brotli and other codecs (beta version)",
                 "website": "https://github.com/mcmilk/7-Zip-zstd/"
@@ -12574,7 +12586,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "1.10.22",
+                "version": "1.10.23",
                 "pkg": "composer1",
                 "description": "Dependency Manager for PHP (version 1)",
                 "website": "https://getcomposer.org/"
@@ -13132,7 +13144,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5687.a065fb23e",
+                "version": "1.57.0-beta.5689.15a981651",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -13270,7 +13282,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "4.3.2439.19",
+                "version": "4.3.2439.29",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
