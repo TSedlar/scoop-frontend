@@ -62,7 +62,7 @@
                 "website": "http://ahoycli.com"
             },
             {
-                "version": "0.66.1",
+                "version": "0.67.0",
                 "pkg": "aks-engine",
                 "description": "Self-managed Kubernetes cluster provisioning on Azure",
                 "website": "https://github.com/Azure/aks-engine"
@@ -548,7 +548,7 @@
                 "website": "https://sourceforge.net/projects/tumagcc/"
             },
             {
-                "version": "3.0.1",
+                "version": "3.0.2",
                 "pkg": "centrifugo",
                 "description": "Language-agnostic real-time messaging server. Centrifugo supports at moment: Websocket and SockJS",
                 "website": "https://centrifugal.github.io/centrifugo"
@@ -692,7 +692,7 @@
                 "website": "https://getcomposer.org/"
             },
             {
-                "version": "1.40.4",
+                "version": "1.41.0",
                 "pkg": "conan",
                 "description": "The open-source, decentralized C/C++ package manager",
                 "website": "https://conan.io"
@@ -758,7 +758,7 @@
                 "website": "https://github.com/sharplispers/cormanlisp"
             },
             {
-                "version": "2.0.16",
+                "version": "2.0.16-158-gbdc8669f9",
                 "pkg": "coursier",
                 "description": "Pure Scala Artifact Fetching",
                 "website": "https://github.com/coursier/coursier"
@@ -1022,7 +1022,7 @@
                 "website": "https://master.dockerproject.org"
             },
             {
-                "version": "1.64.0",
+                "version": "1.65.0",
                 "pkg": "doctl",
                 "description": "A command line tool for DigitalOcean services",
                 "website": "https://github.com/digitalocean/doctl"
@@ -1130,7 +1130,7 @@
                 "website": "https://forum.doom9.org/showthread.php?t=125966"
             },
             {
-                "version": "96.0.1037.0",
+                "version": "96.0.1038.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1274,13 +1274,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104013",
+                "version": "104236",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104013",
+                "version": "104236",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1598,7 +1598,7 @@
                 "website": "https://gitrebasetool.mitmaro.ca"
             },
             {
-                "version": "0.3.41",
+                "version": "0.3.44",
                 "pkg": "git-istage",
                 "description": "A better git add -p",
                 "website": "https://github.com/terrajobst/git-istage"
@@ -1640,7 +1640,7 @@
                 "website": "https://gitforwindows.org"
             },
             {
-                "version": "0.0.11",
+                "version": "0.0.12",
                 "pkg": "git-xargs",
                 "description": "A CLI tool for making updates across multiple Github repositories with a single command",
                 "website": "https://github.com/gruntwork-io/git-xargs"
@@ -1814,7 +1814,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.180.3",
+                "version": "0.181.1",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -2408,7 +2408,7 @@
                 "website": "https://www.influxdata.com/time-series-platform/kapacitor/"
             },
             {
-                "version": "0.41.0",
+                "version": "0.42.0",
                 "pkg": "kapp",
                 "description": "A simple deployment tool focused on the concept of Kubernetes application",
                 "website": "https://carvel.dev/kapp/"
@@ -2590,7 +2590,7 @@
             {
                 "version": "1.2.1",
                 "pkg": "libwebp",
-                "description": "Encodes and decodes new WebP image format files.",
+                "description": "Encodes and decodes WebP image files.",
                 "website": "https://developers.google.com/speed/webp"
             },
             {
@@ -2966,6 +2966,12 @@
                 "website": "https://mutagen.io/"
             },
             {
+                "version": "0.6.0",
+                "pkg": "mvndaemon",
+                "description": "The Maven (mvn) Daemon is based on GraalVM and allows for faster Maven builds.",
+                "website": "https://github.com/mvndaemon/mvnd"
+            },
+            {
                 "version": "8.0.26",
                 "pkg": "mysql",
                 "description": "The world's most popular open-source database, supported by an active community.",
@@ -3140,7 +3146,7 @@
                 "website": "https://github.com/Nuke928/NTop"
             },
             {
-                "version": "0.37.0",
+                "version": "0.38.0",
                 "pkg": "nu",
                 "description": "A modern shell written in Rust",
                 "website": "https://www.nushell.sh"
@@ -3216,6 +3222,12 @@
                 "pkg": "octave",
                 "description": "A high-level language primarily intended for numerical computations.",
                 "website": "https://www.gnu.org/software/octave/"
+            },
+            {
+                "version": "7.4.3459",
+                "pkg": "octopustools",
+                "description": "The Octopus CLI is a command line tool that builds on top of the Octopus Deploy REST API. With the Octopus CLI you can package your applications for deployment as either Zip or NuGet packages, and manage your environments, deployments, channels, projects, and workers.",
+                "website": "https://github.com/OctopusDeploy/OctopusCLI"
             },
             {
                 "version": "5.7.0",
@@ -3524,7 +3536,7 @@
                 "website": "https://github.com/dalance/procs"
             },
             {
-                "version": "2.30.2",
+                "version": "2.30.3",
                 "pkg": "prometheus",
                 "description": "Systems monitoring and alerting toolkit",
                 "website": "https://prometheus.io"
@@ -3602,7 +3614,7 @@
                 "website": "https://github.com/dalance/ptags"
             },
             {
-                "version": "3.13.2",
+                "version": "3.14.0",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -3968,7 +3980,7 @@
                 "website": "https://sampler.dev"
             },
             {
-                "version": "1.42.1",
+                "version": "1.43.1",
                 "pkg": "sass",
                 "description": "The primary implementation of Sass, written in Dart.",
                 "website": "https://sass-lang.com/dart-sass"
@@ -4658,7 +4670,7 @@
                 "website": "https://www.vagrantup.com/"
             },
             {
-                "version": "1.8.3",
+                "version": "1.8.4",
                 "pkg": "vault",
                 "description": "Secure, store, and tightly control access to tokens, passwords, certificates, API keys, and other secrets in modern computing.",
                 "website": "https://www.vaultproject.io"
@@ -4694,7 +4706,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3475",
+                "version": "8.2.3482",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -5487,7 +5499,7 @@
                 "website": "https://github.com/u8sand/Baka-MPlayer"
             },
             {
-                "version": "2.15.0.801",
+                "version": "2.15.0.802",
                 "pkg": "balabolka",
                 "description": "Text-To-Speech software based on SAPI",
                 "website": "http://balabolka.site/balabolka.htm"
@@ -5499,7 +5511,7 @@
                 "website": "https://chillicream.com/docs/bananacakepop"
             },
             {
-                "version": "7.19",
+                "version": "7.20",
                 "pkg": "bandizip",
                 "description": "Yet another typical ZIP archiver",
                 "website": "http://www.bandisoft.com/bandizip/"
@@ -6735,7 +6747,7 @@
                 "website": "https://www.enpass.io"
             },
             {
-                "version": "0.7.0",
+                "version": "0.8.0",
                 "pkg": "enso",
                 "description": "A feature-rich descendant of Enso Community Edition",
                 "website": "https://github.com/GChristensen/enso-portable"
@@ -6921,13 +6933,13 @@
                 "website": "https://www.mozilla.org/firefox/"
             },
             {
-                "version": "93.0b9",
+                "version": "94.0b2",
                 "pkg": "firefox-beta",
                 "description": "Beta builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "94.0b1",
+                "version": "94.0b2",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -6945,7 +6957,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "95.0a1.20211005215418",
+                "version": "95.0a1.20211006213819",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7305,7 +7317,7 @@
                 "website": "https://gitextensions.github.io/"
             },
             {
-                "version": "2.9.3",
+                "version": "2.9.4",
                 "pkg": "github",
                 "description": "Extend your GitHub workflow beyond your browser.",
                 "website": "https://desktop.github.com/"
@@ -7419,7 +7431,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "8.1.6",
+                "version": "8.1.7",
                 "pkg": "grafana",
                 "description": "Open platform for analytics and data monitoring",
                 "website": "https://grafana.com/"
@@ -7641,7 +7653,7 @@
                 "website": "http://hydrogen-music.org"
             },
             {
-                "version": "456",
+                "version": "457",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -7809,7 +7821,7 @@
                 "website": "https://www.sadrobot.co.nz/ipfilter/"
             },
             {
-                "version": "0.16.3",
+                "version": "0.17.0",
                 "pkg": "ipfs-desktop",
                 "description": "A desktop client for IPFS.",
                 "website": "https://github.com/ipfs-shipyard/ipfs-desktop"
@@ -7977,7 +7989,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.1-1430",
+                "version": "21.08.1-1431",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8925,7 +8937,7 @@
                 "website": "https://www.mumble.info/"
             },
             {
-                "version": "1.19.0-rc2",
+                "version": "1.19.0",
                 "pkg": "mupdf",
                 "description": "A lightweight PDF, XPS, and E-book viewer",
                 "website": "https://mupdf.com"
@@ -9243,7 +9255,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.1-785",
+                "version": "21.08.1-786",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9645,7 +9657,7 @@
                 "website": "https://www.phraseexpress.com"
             },
             {
-                "version": "2.6.3",
+                "version": "2.6.4",
                 "pkg": "picard",
                 "description": "Music tagger",
                 "website": "https://picard.musicbrainz.org"
@@ -9801,7 +9813,7 @@
                 "website": "https://github.com/microsoft/PowerToys"
             },
             {
-                "version": "1.11.3",
+                "version": "1.12",
                 "pkg": "ppsspp",
                 "description": "A Sony PlayStation Platform (PSP) emulator",
                 "website": "https://www.ppsspp.org"
@@ -9849,7 +9861,7 @@
                 "website": "https://processing.org/"
             },
             {
-                "version": "3.18.0",
+                "version": "3.18.1",
                 "pkg": "protobuf",
                 "description": "Protocol compiler used to compile .proto files.",
                 "website": "https://github.com/google/protobuf"
@@ -10305,7 +10317,7 @@
                 "website": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160891(v=msdn.10)"
             },
             {
-                "version": "3.5.6",
+                "version": "3.5.7",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
@@ -10581,7 +10593,7 @@
                 "website": "https://simplenote.com"
             },
             {
-                "version": "3.5",
+                "version": "3.5.1",
                 "pkg": "simplewall",
                 "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
                 "website": "https://www.henrypp.org/product/simplewall"
@@ -10869,7 +10881,7 @@
                 "website": "https://github.com/RevoLand/Steam-Library-Manager"
             },
             {
-                "version": "1631912655",
+                "version": "1633550195",
                 "pkg": "steamcmd",
                 "description": "A command-line version of the Steam client",
                 "website": "https://developer.valvesoftware.com/wiki/SteamCMD"
@@ -11073,7 +11085,7 @@
                 "website": "https://www.2brightsparks.com/syncback/sbpro.html"
             },
             {
-                "version": "1.1.10",
+                "version": "1.1.11",
                 "pkg": "syncthingtray",
                 "description": "Tray application for Syncthing",
                 "website": "https://github.com/Martchus/syncthingtray"
@@ -11115,7 +11127,7 @@
                 "website": "https://eugeny.github.io/tabby/"
             },
             {
-                "version": "4.6.4.180",
+                "version": "4.6.5.180",
                 "pkg": "tableplus",
                 "description": "Relational database explorer",
                 "website": "https://tableplus.com"
@@ -11127,7 +11139,7 @@
                 "website": "https://tabula.technology/"
             },
             {
-                "version": "3.5.0",
+                "version": "3.5.1",
                 "pkg": "tageditor",
                 "description": "A tag editor utility supporting MP4/M4A/AAC (iTunes), ID3, Vorbis, Opus, FLAC and Matroska.",
                 "website": "https://github.com/Martchus/tageditor"
@@ -11391,7 +11403,7 @@
                 "website": "https://tomcat.apache.org"
             },
             {
-                "version": "10.5.6",
+                "version": "10.5.8",
                 "pkg": "tor-browser",
                 "description": "Web browser that connects to the internet via the Tor anonymity network",
                 "website": "https://www.torproject.org/"
@@ -11931,7 +11943,7 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.94.17.2",
+                "version": "10.94.19.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -12165,7 +12177,7 @@
                 "website": "https://wire.com/"
             },
             {
-                "version": "3.4.8",
+                "version": "3.4.9",
                 "pkg": "wireshark",
                 "description": "A network protocol analyzer that lets you see what\u2019s happening on your network at a microscopic level.",
                 "website": "https://www.wireshark.org/"
@@ -12333,7 +12345,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "6.15.1",
+                "version": "6.15.2",
                 "pkg": "xmrig",
                 "description": "High performance RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
                 "website": "https://xmrig.com"
@@ -13270,7 +13282,7 @@
                 "website": "https://tomcat.apache.org/"
             },
             {
-                "version": "8.5.71",
+                "version": "8.5.72",
                 "pkg": "tomcat8",
                 "description": null,
                 "website": "https://tomcat.apache.org/"
@@ -13282,7 +13294,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "4.3.2439.29",
+                "version": "4.3.2439.37",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
