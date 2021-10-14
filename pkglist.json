@@ -254,6 +254,12 @@
                 "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
+                "version": "1.33.0",
+                "pkg": "aws-sam-cli",
+                "description": "The AWS Serverless Application Model (SAM) is an open-source framework for building serverless applications. It provides shorthand syntax to express functions, APIs, databases, and event source mappings. With just a few lines per resource, you can define the application you want and model it using YAML. During deployment, SAM transforms and expands the SAM syntax into AWS CloudFormation syntax, enabling you to build serverless applications faster.",
+                "website": "https://aws.amazon.com/serverless/sam/"
+            },
+            {
                 "version": "6.3.1",
                 "pkg": "aws-vault",
                 "description": "A vault for securely storing and accessing AWS credentials in development environments",
@@ -620,7 +626,7 @@
                 "website": "https://github.com/Dreamacro/clash"
             },
             {
-                "version": "1.2.36",
+                "version": "1.2.37",
                 "pkg": "clink",
                 "description": "Powerful Bash-style command line editing for cmd.exe",
                 "website": "https://chrisant996.github.io/clink/"
@@ -902,7 +908,7 @@
                 "website": "https://github.com/dandavison/delta"
             },
             {
-                "version": "1.15.0",
+                "version": "1.15.1",
                 "pkg": "deno",
                 "description": "A secure runtime for JavaScript and TypeScript",
                 "website": "https://deno.land"
@@ -1292,13 +1298,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104327",
+                "version": "104333",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104327",
+                "version": "104333",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1376,7 +1382,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "0.18.2",
+                "version": "0.18.3",
                 "pkg": "flux2",
                 "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
                 "website": "https://toolkit.fluxcd.io"
@@ -1580,7 +1586,7 @@
                 "website": "https://gif.ski"
             },
             {
-                "version": "2.33.0.windows.2",
+                "version": "2.33.1.windows.1",
                 "pkg": "git",
                 "description": "Distributed version control system",
                 "website": "https://gitforwindows.org"
@@ -1658,7 +1664,7 @@
                 "website": "https://github.com/msiemens/PyGitUp"
             },
             {
-                "version": "2.33.0.windows.2",
+                "version": "2.33.1.windows.1",
                 "pkg": "git-with-openssh",
                 "description": "Distributed version control system",
                 "website": "https://gitforwindows.org"
@@ -1760,7 +1766,7 @@
                 "website": "https://github.com/Genymobile/gnirehtet"
             },
             {
-                "version": "2.3.2",
+                "version": "2.3.3",
                 "pkg": "gnupg",
                 "description": "A complete and free implementation of the OpenPGP standard.",
                 "website": "https://www.gnupg.org/"
@@ -1844,7 +1850,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "0.181.1",
+                "version": "0.182.1",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -1874,7 +1880,7 @@
                 "website": "https://github.com/bmatzelle/gow"
             },
             {
-                "version": "2.3.2",
+                "version": "2.3.3",
                 "pkg": "gpg",
                 "description": "A complete and free implementation of the OpenPGP standard.",
                 "website": "https://www.gnupg.org/"
@@ -2858,7 +2864,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2021-10-10T16-53-30Z",
+                "version": "2021-10-13T00-23-17Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io"
@@ -2912,7 +2918,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "5.0.3",
+                "version": "5.1.0-rc0",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -3866,7 +3872,7 @@
                 "website": "http://jonls.dk/redshift"
             },
             {
-                "version": "2021.2.1",
+                "version": "2021.2.2",
                 "pkg": "resharper-clt",
                 "description": "A standalone command line tools to run ReSharper inspections outside of Visual Studio.",
                 "website": "https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt"
@@ -3986,7 +3992,7 @@
                 "website": "https://rustup.rs"
             },
             {
-                "version": "0.5.16",
+                "version": "0.6.0",
                 "pkg": "s",
                 "description": "Open a web search in your terminal.",
                 "website": "https://github.com/zquestz/s"
@@ -4148,7 +4154,7 @@
                 "website": "https://docs.sentry.io/cli/"
             },
             {
-                "version": "2021.2.464",
+                "version": "2021.3.510",
                 "pkg": "seqcli",
                 "description": "Seq command-line client",
                 "website": "https://github.com/datalust/seqcli"
@@ -4454,13 +4460,13 @@
                 "website": "http://www.mingw.org/wiki/msys"
             },
             {
-                "version": "0.6.1",
+                "version": "0.7.0",
                 "pkg": "termscp",
                 "description": "Terminal UI file explorer with SCP/SFTP/FTP support",
                 "website": "https://github.com/veeso/termscp"
             },
             {
-                "version": "1.0.8",
+                "version": "1.0.9",
                 "pkg": "terraform",
                 "description": "Create and manage infrastructure as code using simple declarative configuration files.",
                 "website": "https://www.terraform.io"
@@ -5205,7 +5211,7 @@
                 "website": "https://www.aida64.com"
             },
             {
-                "version": "4.70.2254",
+                "version": "5.00.2334",
                 "pkg": "aimp",
                 "description": "Audio player",
                 "website": "http://www.aimp.ru"
@@ -5229,7 +5235,7 @@
                 "website": "https://sourceforge.net/projects/album-art/"
             },
             {
-                "version": "4.4.56",
+                "version": "4.5.0",
                 "pkg": "alldup",
                 "description": "Duplicate file remover",
                 "website": "http://www.alldup.info"
@@ -5571,7 +5577,7 @@
                 "website": "https://chillicream.com/docs/bananacakepop"
             },
             {
-                "version": "7.20",
+                "version": "7.21",
                 "pkg": "bandizip",
                 "description": "Yet another typical ZIP archiver",
                 "website": "http://www.bandisoft.com/bandizip/"
@@ -6489,7 +6495,7 @@
                 "website": "https://dosbox-x.com"
             },
             {
-                "version": "2021.2.1",
+                "version": "2021.2.2",
                 "pkg": "dotPeek",
                 "description": "Free .NET Decompiler and Assembly Browser",
                 "website": "https://www.jetbrains.com/decompiler/"
@@ -7017,7 +7023,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "95.0a1.20211012214032",
+                "version": "95.0a1.20211013212517",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7713,7 +7719,7 @@
                 "website": "http://hydrogen-music.org"
             },
             {
-                "version": "457",
+                "version": "458",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -7755,7 +7761,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "213.4631.20",
+                "version": "213.4928.7",
                 "pkg": "idea-eap",
                 "description": "Early Access Program for IntelliJ IDEA Community Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -7767,7 +7773,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "213.4631.20",
+                "version": "213.4928.7",
                 "pkg": "idea-ultimate-eap",
                 "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -8049,7 +8055,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.2-1437",
+                "version": "21.08.2-1438",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9315,7 +9321,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.2-792",
+                "version": "21.08.2-793",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9477,7 +9483,7 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "79.0.4143.73",
+                "version": "80.0.4170.29",
                 "pkg": "opera-gx",
                 "description": "Gaming counterpart of Opera web browser",
                 "website": "https://www.opera.com/gx"
@@ -10407,7 +10413,7 @@
                 "website": "https://www.guru3d.com/files-details/rtss-rivatuner-statistics-server-download.html"
             },
             {
-                "version": "3.15",
+                "version": "3.16",
                 "pkg": "rufus",
                 "description": "A utility that helps format and create bootable USB flash drives.",
                 "website": "https://rufus.ie/"
@@ -10959,7 +10965,7 @@
                 "website": "https://crawl.develz.org"
             },
             {
-                "version": "2.3.0-stable.6425.git-0073b80",
+                "version": "2.3.0-stable.6547.git-2cf5b62",
                 "pkg": "stoplight-studio",
                 "description": "Desktop editor for API Design and Technical Writing",
                 "website": "https://stoplight.io/studio"
@@ -11979,7 +11985,7 @@
                 "website": "https://github.com/lltcggie/waifu2x-caffe"
             },
             {
-                "version": "2021.09",
+                "version": "2021.10",
                 "pkg": "waterfox",
                 "description": "The 100% fresh, free-range, ethical browser (classic branch)",
                 "website": "https://www.waterfox.net"
@@ -13216,7 +13222,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5712.1cb31e8cc",
+                "version": "1.57.0-beta.5717.16fb608be",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
