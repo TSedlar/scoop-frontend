@@ -2,7 +2,7 @@
     "main": {
         "packages": [
             {
-                "version": "1.12.2",
+                "version": "1.12.3",
                 "pkg": "1password-cli",
                 "description": "The 1Password command-line tool makes your 1Password account accessible entirely from the command line.",
                 "website": "https://support.1password.com/command-line/"
@@ -296,7 +296,7 @@
                 "website": "https://github.com/axel-download-accelerator/axel"
             },
             {
-                "version": "10.12.2",
+                "version": "10.13.0",
                 "pkg": "azcopy",
                 "description": "Command-line utility to download/upload blobs and files from Microsoft Azure storage accounts",
                 "website": "https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10"
@@ -386,7 +386,7 @@
                 "website": "https://github.com/WebAssembly/binaryen"
             },
             {
-                "version": "9.16.21",
+                "version": "9.16.22",
                 "pkg": "bind",
                 "description": "Versatile, classic, complete name server software.",
                 "website": "https://www.isc.org/bind/"
@@ -404,7 +404,7 @@
                 "website": "https://github.com/chriswalz/bit"
             },
             {
-                "version": "1.18.1",
+                "version": "1.19.0",
                 "pkg": "bitwarden-cli",
                 "description": "The powerful command-line tool (CLI) to write and execute scripts on your Bitwarden vault.",
                 "website": "https://bitwarden.com/"
@@ -668,7 +668,7 @@
                 "website": "https://github.com/cloudflare/cloudflared"
             },
             {
-                "version": "3.21.3",
+                "version": "3.21.4",
                 "pkg": "cmake",
                 "description": "Family of tools designed to build, test and package software",
                 "website": "https://cmake.org"
@@ -914,7 +914,7 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.8.3",
+                "version": "0.9.1",
                 "pkg": "delta",
                 "description": "A syntax-highlighter for git and diff output",
                 "website": "https://github.com/dandavison/delta"
@@ -1148,7 +1148,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "97.0.1057.0",
+                "version": "97.0.1058.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1214,7 +1214,7 @@
                 "website": "https://github.com/a8m/envsubst"
             },
             {
-                "version": "24.1.2",
+                "version": "24.1.3",
                 "pkg": "erlang",
                 "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
                 "website": "https://www.erlang.org"
@@ -1262,7 +1262,7 @@
                 "website": "http://exercism.io/"
             },
             {
-                "version": "12.33",
+                "version": "12.34",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://exiftool.org"
@@ -1316,13 +1316,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104429",
+                "version": "104431",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104429",
+                "version": "104431",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -2414,7 +2414,7 @@
                 "website": "https://just.systems"
             },
             {
-                "version": "3.2.209",
+                "version": "3.2.210",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2504,6 +2504,12 @@
                 "website": "https://kind.sigs.k8s.io/docs/user/quick-start"
             },
             {
+                "version": "0.26.0",
+                "pkg": "knative",
+                "description": "The Knative client kn is your door to the Knative world. It allows you to create Knative resources interactively from the command line or from within scripts.",
+                "website": "https://knative.dev"
+            },
+            {
                 "version": "1.25",
                 "pkg": "kompose",
                 "description": "Conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).",
@@ -2526,6 +2532,12 @@
                 "pkg": "kotlin-native",
                 "description": "An LLVM backend for the Kotlin compiler, runtime implementation, and native code generation facility using the LLVM toolchain for native binaries runnable without a virtual machine.",
                 "website": "https://kotlinlang.org"
+            },
+            {
+                "version": "4.0.0",
+                "pkg": "ktx-software",
+                "description": "A collection of tools for creating/validating/supercompressing/converting or information display of ktx files.",
+                "website": "https://github.com/KhronosGroup/KTX-Software"
             },
             {
                 "version": "1.22.2",
@@ -2564,7 +2576,7 @@
                 "website": "https://kubectx.dev"
             },
             {
-                "version": "1.0.126",
+                "version": "1.0.128",
                 "pkg": "kubescape",
                 "description": "Scans K8s clusters, YAML files, and HELM charts, and detect misconfigurations and software vulnerabilities at early stages of the CI/CD pipeline and provides a risk score instantly and risk trends over time.",
                 "website": "https://github.com/armosec/kubescape/"
@@ -2744,7 +2756,7 @@
                 "website": "https://github.com/lycheeverse/lychee"
             },
             {
-                "version": "2.9.0dev.9",
+                "version": "2.9.0dev.10",
                 "pkg": "lynx",
                 "description": "Text web browser.",
                 "website": "https://invisible-island.net/lynx/lynx.html"
@@ -2972,7 +2984,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "5.1.0-rc1",
+                "version": "5.1.0-rc2",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -3050,7 +3062,7 @@
                 "website": "http://msys2.github.io"
             },
             {
-                "version": "3.4",
+                "version": "3.4.1",
                 "pkg": "mtn",
                 "description": "Movie Thumbnailer - save thumbnails (screenshots) of movie or video files to image files.",
                 "website": "https://gitlab.com/movie_thumbnailer/mtn/wikis/home"
@@ -3248,7 +3260,7 @@
                 "website": "https://github.com/Nuke928/NTop"
             },
             {
-                "version": "0.38.0",
+                "version": "0.39.0",
                 "pkg": "nu",
                 "description": "A modern shell written in Rust",
                 "website": "https://www.nushell.sh"
@@ -3332,7 +3344,13 @@
                 "website": "https://octopus.com/docs/octopus-rest-api/octopus-cli"
             },
             {
-                "version": "5.14.0",
+                "version": "2.4.1",
+                "pkg": "odo",
+                "description": "Developer-focused CLI for OpenShift and Kubernetes.",
+                "website": "https://odo.dev"
+            },
+            {
+                "version": "5.14.1",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3434,7 +3452,7 @@
                 "website": "https://github.com/buildpacks/pack"
             },
             {
-                "version": "1.7.7",
+                "version": "1.7.8",
                 "pkg": "packer",
                 "description": "Automates the creation of any type of virtual machine image.",
                 "website": "https://www.packer.io"
@@ -3548,10 +3566,16 @@
                 "website": "https://www.freedesktop.org/wiki/Software/pkg-config/"
             },
             {
-                "version": "1.24.4.5081-e362dc1ee",
+                "version": "1.24.5.5173-8dcc73a59",
                 "pkg": "plex-server",
                 "description": "Plex Media Server. Stream content to all of devices, anywhere.",
                 "website": "https://www.plex.tv/"
+            },
+            {
+                "version": "5.1.0",
+                "pkg": "pluto",
+                "description": "Utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.",
+                "website": "https://github.com/FairwindsOps/pluto"
             },
             {
                 "version": "1.1",
@@ -4094,7 +4118,7 @@
                 "website": "https://sampler.dev"
             },
             {
-                "version": "1.43.3",
+                "version": "1.43.4",
                 "pkg": "sass",
                 "description": "The primary implementation of Sass, written in Dart.",
                 "website": "https://sass-lang.com/dart-sass"
@@ -4328,7 +4352,7 @@
                 "website": "https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/"
             },
             {
-                "version": "8.9.2.46101",
+                "version": "8.9.3.48735",
                 "pkg": "sonarqube",
                 "description": "Platform for continuous inspection of code quality and security using static analysis for 20+ programming languages.",
                 "website": "https://www.sonarqube.org"
@@ -4454,7 +4478,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "4.7",
+                "version": "4.8",
                 "pkg": "svtplay-dl",
                 "description": "Video downloader from various sites",
                 "website": "https://svtplay-dl.se"
@@ -4466,7 +4490,7 @@
                 "website": "http://www.swig.org"
             },
             {
-                "version": "4.26.7",
+                "version": "4.26.8",
                 "pkg": "symfony-cli",
                 "description": "Wrapper for managing and deploying Symfony applications",
                 "website": "https://github.com/symfony/cli"
@@ -5625,7 +5649,7 @@
                 "website": "https://github.com/Azure/azure-iot-explorer"
             },
             {
-                "version": "1.32.0",
+                "version": "1.33.0",
                 "pkg": "azuredatastudio",
                 "description": "Data management tool that enables work with SQL Server, Azure SQL DB and SQL DW.",
                 "website": "https://docs.microsoft.com/en-us/sql/azure-data-studio"
@@ -5733,6 +5757,12 @@
                 "website": "https://betaflight.com"
             },
             {
+                "version": "6.4b",
+                "pkg": "better-joy",
+                "description": "Allows to use the Nintendo Switch Pro Controller, Joycons and SNES controller in various emulators or as generic XInput",
+                "website": "https://github.com/Davidobot/BetterJoy"
+            },
+            {
                 "version": "4.4.0.25886",
                 "pkg": "beyondcompare",
                 "description": "Directory and file compare functions in one package",
@@ -5757,7 +5787,7 @@
                 "website": "https://github.com/microsoft/BITS-Manager/"
             },
             {
-                "version": "1.28.3",
+                "version": "1.29.0",
                 "pkg": "bitwarden",
                 "description": "Password management solutions for individuals, teams, and business organizations",
                 "website": "https://bitwarden.com"
@@ -6267,7 +6297,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.147.5.0",
+                "version": "1.148.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -6285,7 +6315,7 @@
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
             },
             {
-                "version": "7.10.2.35432",
+                "version": "8.0.0.36226",
                 "pkg": "cyberduck",
                 "description": "Libre file transfer client supporting multiple protocols.",
                 "website": "https://cyberduck.io"
@@ -7011,7 +7041,7 @@
                 "website": "http://ridgecrop.co.uk"
             },
             {
-                "version": "0.114.1",
+                "version": "0.117.0",
                 "pkg": "fbflipper",
                 "description": "A desktop debugging platform for mobile developers",
                 "website": "https://fbflipper.com"
@@ -7059,7 +7089,7 @@
                 "website": "https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer"
             },
             {
-                "version": "3.56.1",
+                "version": "3.56.2",
                 "pkg": "filezilla",
                 "description": "Fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",
                 "website": "https://filezilla-project.org/"
@@ -7107,7 +7137,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "95.0a1.20211026214417",
+                "version": "95.0a1.20211027214117",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7803,7 +7833,7 @@
                 "website": "http://hydrogen-music.org"
             },
             {
-                "version": "458",
+                "version": "459",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -8133,13 +8163,13 @@
                 "website": "https://juce.com"
             },
             {
-                "version": "3.3.4.2951",
+                "version": "3.3.4.2954",
                 "pkg": "kakaotalk",
                 "description": "An easy, no-cost messenger that transcends standard chat.",
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.2-1451",
+                "version": "21.08.2-1452",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8583,7 +8613,7 @@
                 "website": "https://pooi.moe/Locale-Emulator/"
             },
             {
-                "version": "3.4.2",
+                "version": "3.4.3",
                 "pkg": "lockhunter",
                 "description": "Delete files blocked by something you do not know.",
                 "website": "https://lockhunter.com/index.htm"
@@ -9405,7 +9435,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.2-806",
+                "version": "21.08.2-807",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9561,7 +9591,7 @@
                 "website": "https://github.com/stax76/OpenWithPlusPlus"
             },
             {
-                "version": "80.0.4170.63",
+                "version": "80.0.4170.72",
                 "pkg": "opera",
                 "description": "Fast, secure, easy-to-use browser.",
                 "website": "https://www.opera.com/"
@@ -9609,7 +9639,7 @@
                 "website": "https://github.com/Sigil-Ebook/PageEdit"
             },
             {
-                "version": "4.2.16",
+                "version": "4.3.2",
                 "pkg": "paint.net",
                 "description": "Image and photo editor",
                 "website": "https://www.getpaint.net"
@@ -11127,7 +11157,7 @@
                 "website": "https://github.com/structurizr/cli"
             },
             {
-                "version": "4.12.0",
+                "version": "4.12.1",
                 "pkg": "sts",
                 "description": "Spring Tools for Eclipse",
                 "website": "https://spring.io/tools/sts"
@@ -12099,7 +12129,7 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.94.24.2",
+                "version": "10.95.29.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -13312,7 +13342,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.57.0-beta.5803.00ceeef21",
+                "version": "1.57.0-beta.5804.a074a2b98",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -13384,7 +13414,7 @@
                 "website": "https://spring.io/tools/sts"
             },
             {
-                "version": "5.61b2",
+                "version": "5.61b3",
                 "pkg": "stunnel-beta",
                 "description": "A multiplatform GNU/GPL-licensed proxy encrypting arbitrary TCP connections with SSL/TLS",
                 "website": "https://www.stunnel.org"
@@ -13450,7 +13480,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "4.4.2457.3",
+                "version": "4.4.2465.3",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
