@@ -1334,19 +1334,19 @@
                 "website": "https://github.com/sharkdp/fd"
             },
             {
-                "version": "4.4-190",
+                "version": "4.4.1-2",
                 "pkg": "ffmpeg",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104467",
+                "version": "104473",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104467",
+                "version": "104473",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1364,7 +1364,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "4.4-190",
+                "version": "4.4.1-2",
                 "pkg": "ffmpeg-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -3176,7 +3176,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-558-g3ba800f15",
+                "version": "0.6.0-dev-560-g1fdbd29df",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -3884,13 +3884,13 @@
                 "website": "https://github.com/desbma/r128gain"
             },
             {
-                "version": "8.2",
+                "version": "8.3",
                 "pkg": "racket",
                 "description": "A general-purpose, feature-rich programming language developed from Scheme Lisp, also the family of the core language and its dialects. It includes an extensive macro system for creating and implementing language constructs and dialects; eventspaces and custodians for resource management; units, modules and classes for programming in the large; paritial continuation; the first contract system for higher-order functions, and more.",
                 "website": "https://racket-lang.org"
             },
             {
-                "version": "8.2",
+                "version": "8.3",
                 "pkg": "racket-minimal",
                 "description": "Minimal Racket installation, without DrRacket/docs",
                 "website": "https://racket-lang.org"
@@ -7173,7 +7173,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211105214712",
+                "version": "96.0a1.20211106212323",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -8145,7 +8145,7 @@
                 "website": "https://www.w3.org/Jigsaw"
             },
             {
-                "version": "2021.11.1",
+                "version": "2021.11.2",
                 "pkg": "jitsi-meet",
                 "description": "Secure, Simple and Scalable Video Conferences.",
                 "website": "https://jitsi.org/meet"
@@ -8205,7 +8205,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.2-1461",
+                "version": "21.08.2-1462",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8421,7 +8421,7 @@
                 "website": "https://github.com/int128/kubelogin"
             },
             {
-                "version": "1.8.0",
+                "version": "1.8.1",
                 "pkg": "lagrange",
                 "description": "A Beautiful Gemini Client",
                 "website": "https://gmi.skyjake.fi/lagrange"
@@ -9489,7 +9489,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.2-816",
+                "version": "21.08.2-817",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10173,7 +10173,7 @@
                 "website": "https://www.jetbrains.com/pycharm/"
             },
             {
-                "version": "9.95",
+                "version": "9.97",
                 "pkg": "q-dir",
                 "description": "A quad window file manager based on Windows File Explorer",
                 "website": "https://www.softwareok.com/?seite=Freeware/Q-Dir"
@@ -10189,12 +10189,6 @@
                 "pkg": "qbittorrent",
                 "description": "Free and reliable P2P Bittorent client.",
                 "website": "https://www.qbittorrent.org/"
-            },
-            {
-                "version": "4.3.9",
-                "pkg": "qbittorrent-portable",
-                "description": "Free and reliable P2P Bittorent client",
-                "website": "https://www.qbittorrent.org"
             },
             {
                 "version": "4.1.4",
@@ -10717,6 +10711,12 @@
                 "pkg": "sdl2",
                 "description": "Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.",
                 "website": "https://www.libsdl.org"
+            },
+            {
+                "version": "2.0.5",
+                "pkg": "sdl2-image",
+                "description": " SDL_image is an image loading library that is used with the SDL library, and almost as portable. It allows a programmer to use multiple image formats without having to code all the loading and conversion algorithms themselves.",
+                "website": "https://www.libsdl.org/projects/SDL_image/"
             },
             {
                 "version": "2.53.9.1",
@@ -11511,7 +11511,7 @@
                 "website": "https://eugeny.github.io/terminus/"
             },
             {
-                "version": "7.24.1",
+                "version": "7.25.0",
                 "pkg": "termius",
                 "description": "Modern SSH client",
                 "website": "https://www.termius.com"
@@ -11553,7 +11553,7 @@
                 "website": "https://www.xm1math.net/texmaker/"
             },
             {
-                "version": "4.0.3",
+                "version": "4.0.4",
                 "pkg": "texstudio",
                 "description": "An integrated writing environment for creating LaTeX documents.",
                 "website": "https://www.texstudio.org"
@@ -11793,7 +11793,7 @@
                 "website": "https://twinery.org"
             },
             {
-                "version": "0.11.13",
+                "version": "0.11.15",
                 "pkg": "typora",
                 "description": "A decent markdown editor finally available on Windows",
                 "website": "https://typora.io"
@@ -12922,7 +12922,7 @@
                 "website": "https://www.microsoft.com/net/"
             },
             {
-                "version": "6.0.100-preview.7.21379.14",
+                "version": "6.0.100-rc.2.21505.57",
                 "pkg": "dotnet-sdk-preview",
                 "description": ".NET is a free, cross-platform, open source developer platform for building many different types of applications.",
                 "website": "https://www.microsoft.com/net/"
@@ -13474,7 +13474,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.58.0-beta.5852.7bd853ce3",
+                "version": "1.58.0-beta.5855.97328e575",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
