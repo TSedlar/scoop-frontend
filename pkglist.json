@@ -236,13 +236,13 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.3.5",
+                "version": "2.3.6",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "6.3.1",
+                "version": "6.4.0",
                 "pkg": "aws-amplify",
                 "description": "A unified toolchain to create, integrate, and manage the AWS cloud services for your app.",
                 "website": "https://docs.amplify.aws/cli"
@@ -482,7 +482,7 @@
                 "website": "https://buck.build/"
             },
             {
-                "version": "0.17.5",
+                "version": "0.17.6",
                 "pkg": "buffalo",
                 "description": "A Go web development eco-system, designed to make the life of a Go web developer easier.",
                 "website": "https://gobuffalo.io/en"
@@ -496,6 +496,12 @@
             {
                 "version": "4487-gd239d2d52",
                 "pkg": "busybox",
+                "description": "BusyBox is a single binary that contains many common Unix tools",
+                "website": "https://frippery.org/busybox"
+            },
+            {
+                "version": "4487-gd239d2d52",
+                "pkg": "busybox-lean",
                 "description": "BusyBox is a single binary that contains many common Unix tools",
                 "website": "https://frippery.org/busybox"
             },
@@ -584,7 +590,7 @@
                 "website": "https://www.benf.org/other/cfr"
             },
             {
-                "version": "0.0.12",
+                "version": "0.0.13",
                 "pkg": "cfsec",
                 "description": "A static analysis security scanner for CloudFormation code",
                 "website": "https://cfsec.dev"
@@ -764,7 +770,7 @@
                 "website": "https://web.archive.org/web/20080516100455/http://www.meadowy.org/~gotoh/projects/connect"
             },
             {
-                "version": "1.10.3",
+                "version": "1.10.4",
                 "pkg": "consul",
                 "description": "Service Discovery and Configuration",
                 "website": "https://www.consul.io"
@@ -800,7 +806,7 @@
                 "website": "https://github.com/sharplispers/cormanlisp"
             },
             {
-                "version": "1.3.0",
+                "version": "1.3.1",
                 "pkg": "cosign",
                 "description": "Container Signing, Verification and Storage in an OCI registry.",
                 "website": "https://github.com/sigstore/cosign"
@@ -830,7 +836,7 @@
                 "website": "https://github.com/Dr-Noob/cpufetch"
             },
             {
-                "version": "1.34.0-4.9.0",
+                "version": "1.35.0-4.9.5",
                 "pkg": "crc",
                 "description": "Manages a local OpenShift 4.x cluster optimized for testing and development purposes.",
                 "website": "https://code-ready.github.io/crc/"
@@ -908,7 +914,7 @@
                 "website": "https://dafny-lang.github.io/dafny/"
             },
             {
-                "version": "1.4.0",
+                "version": "1.5.0",
                 "pkg": "dapr-cli",
                 "description": "Command-line tools for Dapr",
                 "website": "https://github.com/dapr/cli"
@@ -962,7 +968,7 @@
                 "website": "https://github.com/dandavison/delta"
             },
             {
-                "version": "1.16.0",
+                "version": "1.16.1",
                 "pkg": "deno",
                 "description": "A secure runtime for JavaScript and TypeScript",
                 "website": "https://deno.land"
@@ -1070,7 +1076,7 @@
                 "website": "https://docker.com"
             },
             {
-                "version": "2.1.0",
+                "version": "2.1.1",
                 "pkg": "docker-compose",
                 "description": "Define and run multi-container applications with Docker",
                 "website": "https://docs.docker.com/compose/"
@@ -1190,7 +1196,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "97.0.1071.0",
+                "version": "97.0.1072.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1256,7 +1262,7 @@
                 "website": "https://github.com/a8m/envsubst"
             },
             {
-                "version": "24.1.4",
+                "version": "24.1.5",
                 "pkg": "erlang",
                 "description": "A programming language used to build massively scalable soft real-time systems with requirements on high availability.",
                 "website": "https://www.erlang.org"
@@ -1304,7 +1310,7 @@
                 "website": "http://exercism.io/"
             },
             {
-                "version": "12.34",
+                "version": "12.35",
                 "pkg": "exiftool",
                 "description": "A command-line application for reading, writing and editing meta information in a wide variety of files.",
                 "website": "https://exiftool.org"
@@ -1352,13 +1358,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104495",
+                "version": "104496",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104495",
+                "version": "104496",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1442,7 +1448,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "0.22.0",
+                "version": "0.22.1",
                 "pkg": "flux2",
                 "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
                 "website": "https://toolkit.fluxcd.io"
@@ -1490,7 +1496,7 @@
                 "website": "https://github.com/ddollar/forego"
             },
             {
-                "version": "2.19.7",
+                "version": "2.19.9",
                 "pkg": "fossa",
                 "description": "Dependency analysis tool. Supports license & vulnerability scanning. Language-agnostic; integrates with 20+ build systems.",
                 "website": "https://github.com/fossas/spectrometer"
@@ -2090,7 +2096,7 @@
                 "website": "https://hashlink.haxe.org/"
             },
             {
-                "version": "9.0.1",
+                "version": "9.2.1",
                 "pkg": "haskell",
                 "description": "An advanced, purely functional programming language.",
                 "website": "https://www.haskell.org"
@@ -2252,7 +2258,7 @@
                 "website": "https://github.com/i2p-zero/i2p-zero"
             },
             {
-                "version": "2.1.1",
+                "version": "2.2.0",
                 "pkg": "ibmcloud-cli",
                 "description": "The command line client for IBM Cloud",
                 "website": "https://www.ibm.com/cloud/cli"
@@ -2768,7 +2774,7 @@
                 "website": "https://github.com/Peltoche/lsd"
             },
             {
-                "version": "5.4.3",
+                "version": "5.4.2",
                 "pkg": "lua",
                 "description": "A powerful, efficient, lightweight, embeddable scripting language",
                 "website": "http://www.lua.org"
@@ -2778,6 +2784,12 @@
                 "pkg": "lua-for-windows",
                 "description": "A 'batteries included environment' for the Lua scripting language on Windows.",
                 "website": "https://github.com/rjpcomputing/luaforwindows"
+            },
+            {
+                "version": "3.8.0",
+                "pkg": "luarocks",
+                "description": "The package manager for Lua modules",
+                "website": "https://luarocks.org"
             },
             {
                 "version": "0.4.5",
@@ -3188,7 +3200,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-569-g2ecf0a4c6",
+                "version": "0.6.0-dev-570-g14def4d22",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -4448,7 +4460,7 @@
                 "website": "https://www.speedtest.net/apps/cli"
             },
             {
-                "version": "4.4.2",
+                "version": "4.5.0",
                 "pkg": "spotbugs",
                 "description": "Static analysis tool for Java",
                 "website": "https://spotbugs.github.io/"
@@ -4496,7 +4508,7 @@
                 "website": "https://www.haskellstack.org"
             },
             {
-                "version": "0.58.0",
+                "version": "1.0.0",
                 "pkg": "starship",
                 "description": "The minimal, blazing fast, and extremely customizable prompt for any shell!",
                 "website": "https://starship.rs"
@@ -4778,7 +4790,7 @@
                 "website": "https://github.com/labstack/tunnel-client"
             },
             {
-                "version": "0.7.11-55",
+                "version": "0.7.11-56",
                 "pkg": "tup",
                 "description": "A file-based build system for Linux, OSX, and Windows.",
                 "website": "http://gittup.org"
@@ -5613,7 +5625,7 @@
                 "website": "https://audacious-media-player.org/"
             },
             {
-                "version": "3.1.0",
+                "version": "3.1.1",
                 "pkg": "audacity",
                 "description": "An easy-to-use, multi-track audio editor and recorder",
                 "website": "https://www.audacityteam.org"
@@ -6345,7 +6357,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.148.0.4",
+                "version": "1.148.5.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -6909,7 +6921,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.17.3",
+                "version": "1.17.15",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -7095,7 +7107,7 @@
                 "website": "http://ridgecrop.co.uk"
             },
             {
-                "version": "0.117.0",
+                "version": "0.119.0",
                 "pkg": "fbflipper",
                 "description": "A desktop debugging platform for mobile developers",
                 "website": "https://fbflipper.com"
@@ -7197,7 +7209,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211110092453",
+                "version": "96.0a1.20211111211702",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7413,7 +7425,7 @@
                 "website": "https://www.freeplane.org"
             },
             {
-                "version": "0.15.0-beta",
+                "version": "0.15.1-beta",
                 "pkg": "freetube",
                 "description": "The private YouTube client",
                 "website": "https://freetubeapp.io"
@@ -7857,7 +7869,7 @@
                 "website": "https://erickutcher.github.io/#HTTP_Downloader"
             },
             {
-                "version": "1.4.4",
+                "version": "1.5.0",
                 "pkg": "httptoolkit",
                 "description": "HTTP(S) debugging proxy, analyzer and client",
                 "website": "https://httptoolkit.tech"
@@ -7935,7 +7947,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "213.5605.12",
+                "version": "213.5744.18",
                 "pkg": "idea-eap",
                 "description": "Early Access Program for IntelliJ IDEA Community Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -7947,7 +7959,7 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "213.5605.12",
+                "version": "213.5744.18",
                 "pkg": "idea-ultimate-eap",
                 "description": "Early Access Program for IntelliJ IDEA Ultimate Edition",
                 "website": "https://www.jetbrains.com/idea/"
@@ -8235,7 +8247,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1466",
+                "version": "21.08.3-1467",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8619,7 +8631,7 @@
                 "website": "https://linphone.org/"
             },
             {
-                "version": "6.14.10",
+                "version": "6.15.12",
                 "pkg": "linqpad",
                 "description": "The .NET programmer\u2019s playground",
                 "website": "https://www.linqpad.net"
@@ -8653,6 +8665,18 @@
                 "pkg": "listenmoeclient",
                 "description": "Official, Simple and lightweight LISTEN.moe client",
                 "website": "https://github.com/LISTEN-moe/windows-app"
+            },
+            {
+                "version": "1.11",
+                "pkg": "lite",
+                "description": "A lightweight text editor written in Lua.",
+                "website": "https://github.com/rxi/lite"
+            },
+            {
+                "version": "2.0.3",
+                "pkg": "lite-xl",
+                "description": "A lightweight text editor written in Lua, adapted from lite.",
+                "website": "https://lite-xl.github.io"
             },
             {
                 "version": "37.4",
@@ -9465,7 +9489,7 @@
                 "website": "https://github.com/NuGetPackageExplorer/NuGetPackageExplorer"
             },
             {
-                "version": "1.11.0",
+                "version": "1.12.0",
                 "pkg": "nvcleanstall",
                 "description": "Extends customization of NVIDIA GeForce Driver packages; can also decouple automatic updates from NVIDIA's servers.",
                 "website": "https://www.techpowerup.com/nvcleanstall/"
@@ -9525,7 +9549,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.3-821",
+                "version": "21.08.3-822",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9741,13 +9765,13 @@
                 "website": "https://github.com/lptstr/painter"
             },
             {
-                "version": "29.4.2",
+                "version": "29.4.2.1",
                 "pkg": "palemoon",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
             },
             {
-                "version": "29.4.2",
+                "version": "29.4.2.1",
                 "pkg": "palemoon-portable",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
@@ -11229,7 +11253,7 @@
                 "website": "https://streamlabs.com/chatbot"
             },
             {
-                "version": "1.6.2",
+                "version": "1.6.3",
                 "pkg": "streamlabs-obs",
                 "description": "Open Broadcaster Software for Gamers",
                 "website": "https://streamlabs.com/streamlabs-obs"
@@ -12183,7 +12207,7 @@
                 "website": "https://vroid.com/en/studio"
             },
             {
-                "version": "1.62.1",
+                "version": "1.62.2",
                 "pkg": "vscode",
                 "description": "Lightweight but powerful source code editor",
                 "website": "https://code.visualstudio.com/"
@@ -12201,7 +12225,7 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.62.1",
+                "version": "1.62.2",
                 "pkg": "vscode-portable",
                 "description": "Lightweight but powerful source code editor (Portable Edition)",
                 "website": "https://code.visualstudio.com/"
@@ -13132,6 +13156,18 @@
                 "website": "https://love2d.org/"
             },
             {
+                "version": "5.4.3",
+                "pkg": "lua-joedf",
+                "description": "A powerful, efficient, lightweight, embeddable scripting language",
+                "website": "http://www.lua.org"
+            },
+            {
+                "version": "5.3.6",
+                "pkg": "lua53",
+                "description": "A powerful, efficient, lightweight, embeddable scripting language",
+                "website": "http://www.lua.org"
+            },
+            {
                 "version": "2.8.3",
                 "pkg": "lynx283",
                 "description": null,
@@ -13426,7 +13462,7 @@
                 "website": "http://blog.alivate.com.au/poppler-windows/"
             },
             {
-                "version": "10.18",
+                "version": "10.19",
                 "pkg": "postgresql10",
                 "description": null,
                 "website": "https://www.postgresql.org/"
@@ -13516,7 +13552,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.58.0-beta.5874.627ac1b2d",
+                "version": "1.58.0-beta.5884.f9e54f96c",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -13588,7 +13624,7 @@
                 "website": "https://www.snipaste.com/"
             },
             {
-                "version": "4.4.2",
+                "version": "4.5.0",
                 "pkg": "spotbugs-beta",
                 "description": "Static analysis tool for Java",
                 "website": "https://spotbugs.github.io/"
@@ -13690,7 +13726,7 @@
                 "website": "https://eternallybored.org/misc/wget/"
             },
             {
-                "version": "2.2144.2",
+                "version": "2.2145.2",
                 "pkg": "whatsapp-beta",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
