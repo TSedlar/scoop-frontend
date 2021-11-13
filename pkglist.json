@@ -638,13 +638,19 @@
                 "website": "https://circleci-public.github.io/circleci-cli/"
             },
             {
+                "version": "13.0.0",
+                "pkg": "clangd",
+                "description": "Language server for C/C++, by the LLVM project",
+                "website": "https://clangd.llvm.org/"
+            },
+            {
                 "version": "1.8.0",
                 "pkg": "clash",
                 "description": "A rule-based tunnel",
                 "website": "https://github.com/Dreamacro/clash"
             },
             {
-                "version": "1.2.43",
+                "version": "1.2.45",
                 "pkg": "clink",
                 "description": "Powerful Bash-style command line editing for cmd.exe",
                 "website": "https://chrisant996.github.io/clink/"
@@ -674,7 +680,7 @@
                 "website": "https://github.com/AlDanial/cloc"
             },
             {
-                "version": "0.5.2",
+                "version": "0.6.0",
                 "pkg": "cloud-nuke",
                 "description": "A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
@@ -950,7 +956,7 @@
                 "website": "https://ddev.readthedocs.io/en/latest/"
             },
             {
-                "version": "0.5.1",
+                "version": "0.5.2",
                 "pkg": "ddosify",
                 "description": "Load testing and DDOS attack simulation tool",
                 "website": "https://ddosify.com"
@@ -1196,7 +1202,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "97.0.1072.0",
+                "version": "98.0.1074.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1358,13 +1364,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104496",
+                "version": "104520",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104496",
+                "version": "104520",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1448,7 +1454,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "0.22.1",
+                "version": "0.23.0",
                 "pkg": "flux2",
                 "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
                 "website": "https://toolkit.fluxcd.io"
@@ -1796,7 +1802,7 @@
                 "website": "https://glide.sh/"
             },
             {
-                "version": "1.4.10",
+                "version": "1.5.1",
                 "pkg": "glitter",
                 "description": "Git tooling of the future",
                 "website": "https://github.com/Milo123459/glitter"
@@ -2636,7 +2642,7 @@
                 "website": "https://kubeval.instrumenta.dev"
             },
             {
-                "version": "4.1.3",
+                "version": "4.4.1",
                 "pkg": "kustomize",
                 "description": "Customize raw, template-free YAML files for multiple purposes, leaving the original YAML untouched and usable as is.",
                 "website": "https://github.com/kubernetes-sigs/kustomize"
@@ -2660,7 +2666,7 @@
                 "website": "https://miktex.org"
             },
             {
-                "version": "3.13",
+                "version": "3.13.1",
                 "pkg": "latexindent",
                 "description": "Perl script to add indentation to LaTeX files",
                 "website": "https://github.com/cmhughes/latexindent.pl"
@@ -3200,7 +3206,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-570-g14def4d22",
+                "version": "0.6.0-dev-575-g2ef9d2a66",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -5403,7 +5409,7 @@
                 "website": "https://sourceforge.net/projects/album-art/"
             },
             {
-                "version": "4.5.1",
+                "version": "4.5.3",
                 "pkg": "alldup",
                 "description": "Duplicate file remover",
                 "website": "http://www.alldup.info"
@@ -5973,13 +5979,13 @@
                 "website": "https://cairoshell.com"
             },
             {
-                "version": "5.31.1",
+                "version": "5.32.0",
                 "pkg": "calibre",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
             },
             {
-                "version": "5.31.1",
+                "version": "5.32.0",
                 "pkg": "calibre-normal",
                 "description": "Powerful and easy to use e-book manager",
                 "website": "https://calibre-ebook.com"
@@ -6393,7 +6399,7 @@
                 "website": "https://www.darktable.org"
             },
             {
-                "version": "2.15.0-268.0.dev",
+                "version": "2.16.0-6.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -6921,7 +6927,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.17.15",
+                "version": "1.17.16",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -7191,7 +7197,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/beta/"
             },
             {
-                "version": "95.0b5",
+                "version": "95.0b6",
                 "pkg": "firefox-developer",
                 "description": "Developer builds of Firefox: the popular open source web browser",
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
@@ -7209,7 +7215,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211111211702",
+                "version": "96.0a1.20211112092317",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -8247,7 +8253,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1467",
+                "version": "21.08.3-1468",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9117,7 +9123,7 @@
                 "website": "https://mpc-hc.org"
             },
             {
-                "version": "1.9.16",
+                "version": "1.9.17",
                 "pkg": "mpc-hc-fork",
                 "description": "An extremely light-weight, open source media player for Windows.",
                 "website": "https://github.com/clsid2/mpc-hc"
@@ -9549,7 +9555,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.3-822",
+                "version": "21.08.3-823",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10005,7 +10011,7 @@
                 "website": "http://www.nattyware.com/pixie.php"
             },
             {
-                "version": "1.2021.13",
+                "version": "1.2021.14",
                 "pkg": "plantuml",
                 "description": "A tool to draw UML diagrams, using a simple and human readable text description.",
                 "website": "http://plantuml.com/"
@@ -10365,7 +10371,7 @@
                 "website": "https://interversehq.com/qview/"
             },
             {
-                "version": "3.9.8",
+                "version": "3.9.9",
                 "pkg": "rabbitmq",
                 "description": "Message-broker",
                 "website": "https://www.rabbitmq.com"
@@ -10449,7 +10455,7 @@
                 "website": "https://github.com/miniant-git/REAL"
             },
             {
-                "version": "6.40",
+                "version": "6.41",
                 "pkg": "reaper",
                 "description": "Digital Audio Workstation",
                 "website": "https://www.reaper.fm"
@@ -12231,13 +12237,13 @@
                 "website": "https://code.visualstudio.com/"
             },
             {
-                "version": "1.62.0",
+                "version": "1.62.2",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
-                "version": "1.61.2",
+                "version": "1.62.2",
                 "pkg": "vscodium-portable",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
@@ -13552,7 +13558,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.58.0-beta.5884.f9e54f96c",
+                "version": "1.58.0-beta.5885.4c93378f0",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -13714,7 +13720,7 @@
                 "website": "https://traefik.io/"
             },
             {
-                "version": "4.4.2473.3",
+                "version": "4.4.2482.13",
                 "pkg": "vivaldi-beta",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera",
                 "website": "https://vivaldi.com/"
