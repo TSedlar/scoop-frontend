@@ -242,7 +242,7 @@
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "6.4.0",
+                "version": "7.3.1",
                 "pkg": "aws-amplify",
                 "description": "A unified toolchain to create, integrate, and manage the AWS cloud services for your app.",
                 "website": "https://docs.amplify.aws/cli"
@@ -357,7 +357,7 @@
             },
             {
                 "version": "0.43.0",
-                "pkg": "beeflang",
+                "pkg": "beef",
                 "description": "Performance-oriented compiled programming language which has been built hand-in-hand with its IDE environment.",
                 "website": "https://www.beeflang.org"
             },
@@ -722,7 +722,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "21.1.11",
+                "version": "21.1.12",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -1202,7 +1202,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "98.0.1074.0",
+                "version": "98.0.1077.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1364,13 +1364,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104544",
+                "version": "104553",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104544",
+                "version": "104553",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1502,10 +1502,10 @@
                 "website": "https://github.com/ddollar/forego"
             },
             {
-                "version": "2.19.9",
+                "version": "3.0.0",
                 "pkg": "fossa",
                 "description": "Dependency analysis tool. Supports license & vulnerability scanning. Language-agnostic; integrates with 20+ build systems.",
-                "website": "https://github.com/fossas/spectrometer"
+                "website": "https://github.com/fossas/fossa-cli"
             },
             {
                 "version": "2.17",
@@ -1664,7 +1664,7 @@
                 "website": "https://gif.ski"
             },
             {
-                "version": "2.33.1.windows.1",
+                "version": "2.34.0.windows.1",
                 "pkg": "git",
                 "description": "Distributed version control system",
                 "website": "https://gitforwindows.org"
@@ -1742,7 +1742,7 @@
                 "website": "https://github.com/msiemens/PyGitUp"
             },
             {
-                "version": "2.33.1.windows.1",
+                "version": "2.34.0.windows.1",
                 "pkg": "git-with-openssh",
                 "description": "Distributed version control system",
                 "website": "https://gitforwindows.org"
@@ -1790,7 +1790,7 @@
                 "website": "https://github.com/extrawurst/gitui"
             },
             {
-                "version": "5.7.0",
+                "version": "5.8.0",
                 "pkg": "gitversion",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -2672,7 +2672,7 @@
                 "website": "https://miktex.org"
             },
             {
-                "version": "3.13.1",
+                "version": "3.13.2",
                 "pkg": "latexindent",
                 "description": "Perl script to add indentation to LaTeX files",
                 "website": "https://github.com/cmhughes/latexindent.pl"
@@ -4010,7 +4010,7 @@
                 "website": "https://rancher.com/"
             },
             {
-                "version": "5.2.3",
+                "version": "5.2.4",
                 "pkg": "ravendb",
                 "description": "NoSQL database built on .NET Core",
                 "website": "https://ravendb.net"
@@ -4796,7 +4796,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-21.11.13",
+                "version": "2.24-21.11.15",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://www.mark0.net/soft-trid-e.html"
@@ -4914,6 +4914,12 @@
                 "pkg": "uutils-coreutils",
                 "description": "Rust implementation of GNU coreutils (binaries compiled with MSVC)",
                 "website": "https://github.com/uutils/coreutils"
+            },
+            {
+                "version": "0.2.4",
+                "pkg": "v",
+                "description": "The V programming language",
+                "website": "https://vlang.io"
             },
             {
                 "version": "4.43.0",
@@ -5325,7 +5331,7 @@
             },
             {
                 "version": "0.8.1",
-                "pkg": "ziglang",
+                "pkg": "zig",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
             },
@@ -5391,7 +5397,7 @@
                 "website": "https://urenko.github.io/Accesser/"
             },
             {
-                "version": "1.6.7",
+                "version": "1.6.8",
                 "pkg": "actionlint",
                 "description": "Static checker for GitHub Actions workflow files",
                 "website": "https://github.com/rhysd/actionlint"
@@ -5401,6 +5407,12 @@
                 "pkg": "advancedrenamer",
                 "description": "Batch file renaming utility for Windows",
                 "website": "https://www.advancedrenamer.com"
+            },
+            {
+                "version": "8.3.0",
+                "pkg": "adwcleaner",
+                "description": "Free Adware Cleaner & Removal tool",
+                "website": "https://www.malwarebytes.com/adwcleaner"
             },
             {
                 "version": "1.0.0",
@@ -5541,7 +5553,7 @@
                 "website": "http://www.anyburn.com/"
             },
             {
-                "version": "6.3.5",
+                "version": "7.0.0",
                 "pkg": "anydesk",
                 "description": "A Remote Desktop Software That Actually Works",
                 "website": "https://anydesk.com/"
@@ -6273,6 +6285,12 @@
                 "website": "https://www.guru3d.com/files-details/color-sustainer-download.html"
             },
             {
+                "version": "4.5.0.0",
+                "pkg": "colorcontrol",
+                "description": "Easily change NVIDIA display settings and/or control LG TV's",
+                "website": "https://github.com/Maassoft/ColorControl"
+            },
+            {
                 "version": "5.4.0",
                 "pkg": "commandbox",
                 "description": "A standalone, native tool for Windows, Mac, and Linux that will provide you with a Command Line Interface (CLI) for developer productivity, tool interaction, package management, embedded CFML server, application scaffolding, and some sweet ASCII art",
@@ -6387,7 +6405,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.148.5.0",
+                "version": "1.149.0.0",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -7173,7 +7191,7 @@
                 "website": "https://www.telerik.com/fiddler"
             },
             {
-                "version": "104.1.0",
+                "version": "105.2.0",
                 "pkg": "figma",
                 "description": "A vector graphics editor and prototyping tool focusing on use in user interface and user experience design, with an emphasis on real-time collaboration",
                 "website": "https://www.figma.com/"
@@ -7239,7 +7257,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211114211937",
+                "version": "96.0a1.20211115215316",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7725,7 +7743,7 @@
                 "website": "https://www.techpowerup.com/gpuz/"
             },
             {
-                "version": "8.2.3",
+                "version": "8.2.4",
                 "pkg": "grafana",
                 "description": "Open platform for analytics and data monitoring",
                 "website": "https://grafana.com/"
@@ -7875,7 +7893,7 @@
                 "website": "http://homebank.free.fr"
             },
             {
-                "version": "5.41",
+                "version": "5.42",
                 "pkg": "honeyview",
                 "description": "A fast image viewer",
                 "website": "https://www.bandisoft.com/honeyview/"
@@ -8283,7 +8301,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1470",
+                "version": "21.08.3-1471",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8341,6 +8359,12 @@
                 "pkg": "keepass-plugin-keetraytotp",
                 "description": "Fork of the Tray TOTP Plugin for KeePass2. This plugin is for those who already use Tray TOTP Plugin, but also want to use with Valve's Steam.",
                 "website": "https://github.com/victor-rds/KeeTrayTOTP"
+            },
+            {
+                "version": "2.4.1",
+                "pkg": "keepass-plugin-kpenhentryview",
+                "description": "Plugin for KeePass 2.x that provides an enhanced entry view",
+                "website": "https://sourceforge.net/projects/kpenhentryview/"
             },
             {
                 "version": "1.2.1",
@@ -9465,7 +9489,7 @@
                 "website": "https://www.rizonesoft.com/downloads/notepad3/"
             },
             {
-                "version": "8.1.9",
+                "version": "8.1.9.1",
                 "pkg": "notepadplusplus",
                 "description": "A free source code editor and Notepad replacement that supports several languages.",
                 "website": "https://notepad-plus-plus.org"
@@ -9585,7 +9609,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.3-825",
+                "version": "21.08.3-826",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10263,7 +10287,7 @@
                 "website": "https://www.jetbrains.com/pycharm/"
             },
             {
-                "version": "9.98",
+                "version": "9.99",
                 "pkg": "q-dir",
                 "description": "A quad window file manager based on Windows File Explorer",
                 "website": "https://www.softwareok.com/?seite=Freeware/Q-Dir"
@@ -11061,7 +11085,7 @@
                 "website": "https://www.sourcetrail.com"
             },
             {
-                "version": "3.4.6",
+                "version": "3.4.7",
                 "pkg": "sourcetree",
                 "description": "Simple and powerful Git GUI",
                 "website": "https://www.sourcetreeapp.com"
@@ -11613,7 +11637,7 @@
                 "website": "https://eugeny.github.io/terminus/"
             },
             {
-                "version": "7.25.0",
+                "version": "7.26.1",
                 "pkg": "termius",
                 "description": "Modern SSH client",
                 "website": "https://www.termius.com"
@@ -11703,13 +11727,13 @@
                 "website": "https://thonny.org"
             },
             {
-                "version": "91.3.0",
+                "version": "91.3.1",
                 "pkg": "thunderbird",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "91.3.0",
+                "version": "91.3.1",
                 "pkg": "thunderbird-portable",
                 "description": "A free email application that\u2019s easy to set up and customize.",
                 "website": "https://www.thunderbird.net"
@@ -11775,13 +11799,13 @@
                 "website": "https://benrhughes.github.io/todotxt.net/"
             },
             {
-                "version": "10.0.12",
+                "version": "10.0.13",
                 "pkg": "tomcat",
                 "description": "Implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies",
                 "website": "https://tomcat.apache.org"
             },
             {
-                "version": "10.5.10",
+                "version": "11.0.1",
                 "pkg": "tor-browser",
                 "description": "Web browser that connects to the internet via the Tor anonymity network",
                 "website": "https://www.torproject.org/"
@@ -12339,7 +12363,7 @@
                 "website": "https://wavebox.io/"
             },
             {
-                "version": "10.95.41.2",
+                "version": "10.96.12.2",
                 "pkg": "wavebox10-pro",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -12693,7 +12717,7 @@
                 "website": "http://www.wxhexeditor.org"
             },
             {
-                "version": "2021-10-31_10-53",
+                "version": "2021-11-03_11-01",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
@@ -12933,7 +12957,7 @@
                 "website": "https://github.com/vors/ZLocation"
             },
             {
-                "version": "8.1.0.42",
+                "version": "8.1.1.51",
                 "pkg": "zmc",
                 "description": "A build of JDK Mission Control, an open source Java runtime profiling and monitoring utility",
                 "website": "https://www.azul.com/products/components/zulu-mission-control/"
@@ -13108,7 +13132,7 @@
                 "website": "https://gitea.io/"
             },
             {
-                "version": "5.8.0",
+                "version": "5.8.1",
                 "pkg": "gitversion-beta",
                 "description": "Easy Semantic Versioning for projects using Git.",
                 "website": "https://github.com/GitTools/GitVersion"
@@ -13594,13 +13618,13 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "3.9.8",
+                "version": "3.9.9",
                 "pkg": "python39",
                 "description": null,
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.58.0-beta.5885.4c93378f0",
+                "version": "1.58.0-beta.5891.ba6730720",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
