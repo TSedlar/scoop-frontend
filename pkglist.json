@@ -38,7 +38,7 @@
                 "website": "https://github.com/ebekker/ACMESharp"
             },
             {
-                "version": "0.2.24",
+                "version": "0.2.25",
                 "pkg": "act",
                 "description": "Local Github actions runner.",
                 "website": "https://github.com/nektos/act/"
@@ -242,7 +242,7 @@
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "7.5.0",
+                "version": "7.5.1",
                 "pkg": "aws-amplify",
                 "description": "A unified toolchain to create, integrate, and manage the AWS cloud services for your app.",
                 "website": "https://docs.amplify.aws/cli"
@@ -266,7 +266,7 @@
                 "website": "https://github.com/kubernetes-sigs/aws-iam-authenticator"
             },
             {
-                "version": "1.35.0",
+                "version": "1.36.0",
                 "pkg": "aws-sam-cli",
                 "description": "Build, test, debug, and deploy Serverless applications from CLI",
                 "website": "https://aws.amazon.com/serverless/sam/"
@@ -332,7 +332,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "12.52.1",
+                "version": "12.52.2",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -632,7 +632,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.16277",
+                "version": "0.1.16422",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -890,7 +890,7 @@
                 "website": "https://curl.haxx.se/"
             },
             {
-                "version": "2.0.3",
+                "version": "2.0.4",
                 "pkg": "cutter",
                 "description": "A Qt and C++ GUI for Rizin reverse engineering framework",
                 "website": "https://cutter.re"
@@ -968,13 +968,13 @@
                 "website": "https://deepstream.io"
             },
             {
-                "version": "0.9.2",
+                "version": "0.10.0",
                 "pkg": "delta",
                 "description": "A syntax-highlighter for git and diff output",
                 "website": "https://github.com/dandavison/delta"
             },
             {
-                "version": "1.16.2",
+                "version": "1.16.3",
                 "pkg": "deno",
                 "description": "A secure runtime for JavaScript and TypeScript",
                 "website": "https://deno.land"
@@ -1202,7 +1202,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "98.0.1084.0",
+                "version": "98.0.1086.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1364,13 +1364,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104641",
+                "version": "104643",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104641",
+                "version": "104643",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1454,7 +1454,7 @@
                 "website": "https://flowtype.org/"
             },
             {
-                "version": "0.23.0",
+                "version": "0.24.0",
                 "pkg": "flux2",
                 "description": "A tool for keeping Kubernetes clusters in sync with sources of configuration",
                 "website": "https://toolkit.fluxcd.io"
@@ -1502,7 +1502,7 @@
                 "website": "https://github.com/ddollar/forego"
             },
             {
-                "version": "3.0.3",
+                "version": "3.0.4",
                 "pkg": "fossa",
                 "description": "Dependency analysis tool. Supports license & vulnerability scanning. Language-agnostic; integrates with 20+ build systems.",
                 "website": "https://github.com/fossas/fossa-cli"
@@ -2942,7 +2942,7 @@
                 "website": "https://memcached.org"
             },
             {
-                "version": "5.9.3",
+                "version": "6.0",
                 "pkg": "mercurial",
                 "description": "Fast, lightweight, distributed source control management system designed for easy and efficient handling of very large distributed projects.",
                 "website": "https://www.mercurial-scm.org/"
@@ -3236,7 +3236,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-622-gfd6df7481",
+                "version": "0.6.0-dev-624-ga2e5c2f7c",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -3320,7 +3320,7 @@
                 "website": "https://nodejs.org"
             },
             {
-                "version": "1.2.1",
+                "version": "1.2.2",
                 "pkg": "nomad",
                 "description": "Easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications.",
                 "website": "https://www.nomadproject.io"
@@ -3432,6 +3432,12 @@
                 "pkg": "odo",
                 "description": "Developer-focused CLI for OpenShift and Kubernetes.",
                 "website": "https://odo.dev"
+            },
+            {
+                "version": "2.6.2",
+                "pkg": "offlineinsiderenroll",
+                "description": "A script to enable access to the Windows Insider Program on machines not signed in with Microsoft Account",
+                "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
                 "version": "6.11.2",
@@ -4856,7 +4862,7 @@
                 "website": "https://github.com/labstack/tunnel-client"
             },
             {
-                "version": "0.7.11-61",
+                "version": "0.7.11-63",
                 "pkg": "tup",
                 "description": "A file-based build system for Linux, OSX, and Windows.",
                 "website": "http://gittup.org"
@@ -7311,7 +7317,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211123215113",
+                "version": "96.0a1.20211124155224",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7633,6 +7639,12 @@
                 "pkg": "geekuninstaller",
                 "description": "Basic uninstaller though powerful and lightning fast.",
                 "website": "https://geekuninstaller.com/"
+            },
+            {
+                "version": "6.0.676.0",
+                "pkg": "geogebra",
+                "description": "A dynamic mathematics software for education that brings together geometry, algebra, spreadsheets, graphing, statistics and calculus.",
+                "website": "https://www.geogebra.org/"
             },
             {
                 "version": "10.0.4-20210928",
@@ -7957,6 +7969,12 @@
                 "pkg": "honeyview",
                 "description": "A fast image viewer",
                 "website": "https://www.bandisoft.com/honeyview/"
+            },
+            {
+                "version": "0.2",
+                "pkg": "horcrux",
+                "description": "A tool that splits files into encrypted fragments.",
+                "website": "https://github.com/jesseduffield/horcrux"
             },
             {
                 "version": "1.2.0",
@@ -8361,7 +8379,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1479",
+                "version": "21.08.3-1480",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8841,7 +8859,7 @@
                 "website": "https://github.com/zarunbal/LogExpert"
             },
             {
-                "version": "0.4.9",
+                "version": "0.5.0",
                 "pkg": "logseq",
                 "description": "A privacy-first platform for knowledge sharing and management",
                 "website": "https://logseq.com"
@@ -9183,7 +9201,7 @@
                 "website": "https://www.mongodb.com/download-center?jmp=hero#compass"
             },
             {
-                "version": "1.1.2",
+                "version": "1.1.4",
                 "pkg": "mongosh",
                 "description": "JavaScript and Node.js 14.x REPL environment for interacting with MongoDB",
                 "website": "https://docs.mongodb.com/mongodb-shell"
@@ -9669,7 +9687,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.3-834",
+                "version": "21.08.3-835",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9963,7 +9981,7 @@
                 "website": "http://addgadgets.com/pc_meter/"
             },
             {
-                "version": "9.2.358.0",
+                "version": "9.2.359.0",
                 "pkg": "pdf-xchange-editor",
                 "description": "A small, fast, and feature-rich PDF viewer/editor.",
                 "website": "https://www.tracker-software.com/product/pdf-xchange-editor"
@@ -11967,7 +11985,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.48.3",
+                "version": "0.48.7",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -12339,7 +12357,7 @@
                 "website": "https://www.videolan.org/"
             },
             {
-                "version": "6.21.920",
+                "version": "6.21.1109",
                 "pkg": "vncviewer",
                 "description": "Control VNC enabled computers.",
                 "website": "https://www.realvnc.com/download/viewer"
@@ -12807,7 +12825,7 @@
                 "website": "http://www.wxhexeditor.org"
             },
             {
-                "version": "2021-11-21_22-32",
+                "version": "2021-11-24_01-25",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
@@ -13144,19 +13162,19 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.11222021",
+                "version": "0.43.2.11232021",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
             },
             {
-                "version": "1.33.87",
+                "version": "1.33.89",
                 "pkg": "brave-beta",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (beta release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.34.32",
+                "version": "1.34.35",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13234,13 +13252,13 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "104641",
+                "version": "104643",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104641",
+                "version": "104643",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13498,7 +13516,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "0.6.0-dev-622-gfd6df7481",
+                "version": "0.6.0-dev-624-ga2e5c2f7c",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -13750,7 +13768,7 @@
                 "website": "https://www.postgresql.org/"
             },
             {
-                "version": "8.10.0-canary210729-1340",
+                "version": "9.3.0-canary01",
                 "pkg": "postman-canary",
                 "description": "Complete API development environment.",
                 "website": "https://www.getpostman.com/"
@@ -13834,7 +13852,7 @@
                 "website": "https://www.python.org/"
             },
             {
-                "version": "1.58.0-beta.5909.d25281670",
+                "version": "1.58.0-beta.5910.b91c349cd",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -14014,13 +14032,13 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3657",
+                "version": "8.2.3668",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3651",
+                "version": "8.2.3659",
                 "pkg": "vim-tux",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
                 "website": "https://tuxproject.de/projects/vim"
