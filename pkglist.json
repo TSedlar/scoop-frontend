@@ -62,7 +62,7 @@
                 "website": "http://ahoycli.com"
             },
             {
-                "version": "0.60.2",
+                "version": "0.67.1",
                 "pkg": "aks-engine",
                 "description": "Self-managed Kubernetes cluster provisioning on Azure",
                 "website": "https://github.com/Azure/aks-engine"
@@ -152,7 +152,7 @@
                 "website": "https://github.com/apngasm/apngasm"
             },
             {
-                "version": "0.20.0",
+                "version": "0.20.1",
                 "pkg": "arduino-cli",
                 "description": "Arduino command line interface",
                 "website": "https://github.com/arduino/arduino-cli"
@@ -242,7 +242,7 @@
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "7.5.3",
+                "version": "7.5.4",
                 "pkg": "aws-amplify",
                 "description": "A unified toolchain to create, integrate, and manage the AWS cloud services for your app.",
                 "website": "https://docs.amplify.aws/cli"
@@ -332,7 +332,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "12.54.5",
+                "version": "12.55.0",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -590,7 +590,7 @@
                 "website": "https://www.benf.org/other/cfr"
             },
             {
-                "version": "0.1.0",
+                "version": "0.2.0",
                 "pkg": "cfsec",
                 "description": "A static analysis security scanner for CloudFormation code",
                 "website": "https://cfsec.dev"
@@ -722,7 +722,7 @@
                 "website": "https://cobalt-org.github.io/"
             },
             {
-                "version": "21.2.0",
+                "version": "21.2.1",
                 "pkg": "cockroachdb",
                 "description": "The SQL database for global cloud services",
                 "website": "https://www.cockroachlabs.com/"
@@ -1008,6 +1008,12 @@
                 "pkg": "dhall",
                 "description": "Command-line tooling for the Dhall configuration language",
                 "website": "https://dhall-lang.org"
+            },
+            {
+                "version": "0.6.7",
+                "pkg": "diffsitter",
+                "description": "A tree-sitter based AST difftool to get meaningful semantic diffs",
+                "website": "https://github.com/afnanenayet/diffsitter"
             },
             {
                 "version": "3.7",
@@ -1364,13 +1370,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104676",
+                "version": "104695",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104676",
+                "version": "104695",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1502,7 +1508,7 @@
                 "website": "https://github.com/ddollar/forego"
             },
             {
-                "version": "3.0.4",
+                "version": "3.0.5",
                 "pkg": "fossa",
                 "description": "Dependency analysis tool. Supports license & vulnerability scanning. Language-agnostic; integrates with 20+ build systems.",
                 "website": "https://github.com/fossas/fossa-cli"
@@ -3242,7 +3248,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.6.0-dev-642-g07223fae5",
+                "version": "0.6.0-dev-646-g6e70b7b31",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -4514,6 +4520,12 @@
                 "website": "https://github.com/mozilla/sops"
             },
             {
+                "version": "3.34.2",
+                "pkg": "sourcegraph-cli",
+                "description": "Command line interface to Sourcegraph",
+                "website": "https://github.com/sourcegraph/src-cli"
+            },
+            {
                 "version": "14.4.2",
                 "pkg": "sox",
                 "description": "Command line utility that can convert various formats of computer audio files in to other formats.",
@@ -4922,7 +4934,7 @@
                 "website": "https://www.cis.upenn.edu/~bcpierce/unison"
             },
             {
-                "version": "6.10",
+                "version": "6.02",
                 "pkg": "unrar",
                 "description": "Decompress RAR files.",
                 "website": "https://www.rarlab.com/"
@@ -6399,7 +6411,7 @@
                 "website": "https://github.com/cbucher/console"
             },
             {
-                "version": "10.1.7972",
+                "version": "10.2.8003",
                 "pkg": "convert.net",
                 "description": "An integrated, powerful, multi-purpose conversion and developer tool.",
                 "website": "https://fishcodelib.com/Convert.htm"
@@ -6471,7 +6483,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.150.0.0",
+                "version": "1.150.0.2",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -6645,6 +6657,12 @@
                 "website": "https://efotinis.neocities.org/deskpins/"
             },
             {
+                "version": "1.0.11",
+                "pkg": "deskreen",
+                "description": "Turn any device into a secondary screen for your computer.",
+                "website": "https://deskreen.com/"
+            },
+            {
                 "version": "0.7.2",
                 "pkg": "devdocs",
                 "description": "A full-featured desktop app for DevDocs.io",
@@ -6807,7 +6825,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "15.8.4",
+                "version": "15.8.7",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -7089,7 +7107,7 @@
                 "website": "https://www.emule-project.net/"
             },
             {
-                "version": "0.60c",
+                "version": "0.60d",
                 "pkg": "emule-community",
                 "description": "One of the biggest and most reliable peer-to-peer file sharing clients around the world.",
                 "website": "https://www.emule-project.net/"
@@ -7113,7 +7131,7 @@
                 "website": "https://github.com/GChristensen/enso-portable"
             },
             {
-                "version": "1.7.0",
+                "version": "1.7.1",
                 "pkg": "etcher",
                 "description": "Flash OS images to SD cards & USB drives, safely and easily.",
                 "website": "https://www.balena.io/etcher/"
@@ -7263,7 +7281,7 @@
                 "website": "https://www.telerik.com/fiddler"
             },
             {
-                "version": "106.0.0",
+                "version": "107.0.0",
                 "pkg": "figma",
                 "description": "A vector graphics editor and prototyping tool focusing on use in user interface and user experience design, with an emphasis on real-time collaboration",
                 "website": "https://www.figma.com/"
@@ -7329,7 +7347,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211128092809",
+                "version": "96.0a1.20211129094259",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -8391,7 +8409,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1484",
+                "version": "21.08.3-1485",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9705,7 +9723,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.08.3-839",
+                "version": "21.08.3-840",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -11265,7 +11283,7 @@
                 "website": "https://www.splashtop.com/business"
             },
             {
-                "version": "2.6.0",
+                "version": "2.6.1",
                 "pkg": "springboot",
                 "description": "Create stand-alone, production-grade Spring based Applications that you can \"just run\".",
                 "website": "https://spring.io/projects/spring-boot"
@@ -11541,6 +11559,12 @@
                 "website": "https://github.com/jimradford/superputty"
             },
             {
+                "version": "2.3.57.6",
+                "pkg": "superslicer",
+                "description": "G-code generator for 3D printers (Prusa, Voron, Creality, etc.)",
+                "website": "https://github.com/supermerill/SuperSlicer"
+            },
+            {
                 "version": "0.3.1",
                 "pkg": "svcat",
                 "description": "Service Catalog lets you provision cloud services directly from the comfort of native Kubernetes tooling.",
@@ -11751,7 +11775,7 @@
                 "website": "https://github.com/Terminals-Origin/Terminals"
             },
             {
-                "version": "7.26.2",
+                "version": "7.27.0",
                 "pkg": "termius",
                 "description": "Modern SSH client",
                 "website": "https://www.termius.com"
@@ -11985,7 +12009,7 @@
                 "website": "https://github.com/fcFn/traymond"
             },
             {
-                "version": "4.5.2",
+                "version": "4.5.3",
                 "pkg": "treesize-free",
                 "description": "Capture directory sizes and memory guzzlers.",
                 "website": "https://www.jam-software.com/treesize_free"
@@ -12045,9 +12069,9 @@
                 "website": "https://twinery.org"
             },
             {
-                "version": "0.11.18",
+                "version": "1.0.2",
                 "pkg": "typora",
-                "description": "A decent markdown editor finally available on Windows",
+                "description": "A truly minimal markdown editor",
                 "website": "https://typora.io"
             },
             {
@@ -12501,7 +12525,7 @@
                 "website": "https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release"
             },
             {
-                "version": "2021.2.3",
+                "version": "2021.3",
                 "pkg": "webstorm",
                 "description": "A lightweight and intelligent IDE for front-end development and server-side JavaScript.",
                 "website": "https://www.jetbrains.com/webstorm/"
@@ -13059,7 +13083,7 @@
                 "website": "https://github.com/zeebe-io/zeebe-modeler"
             },
             {
-                "version": "7.1.1",
+                "version": "7.2.0",
                 "pkg": "zeplin",
                 "description": "Collaborative tool for designs' and styleguides' handoff with specs, assets and code snippets",
                 "website": "https://zeplin.io"
@@ -13192,19 +13216,19 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.11272021",
+                "version": "0.43.2.11282021",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
             },
             {
-                "version": "1.33.92",
+                "version": "1.33.93",
                 "pkg": "brave-beta",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (beta release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.34.42",
+                "version": "1.34.45",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13282,13 +13306,13 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "104676",
+                "version": "104695",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104676",
+                "version": "104695",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13546,7 +13570,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "0.6.0-dev-642-g07223fae5",
+                "version": "0.6.0-dev-646-g6e70b7b31",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -14074,13 +14098,13 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3692",
+                "version": "8.2.3701",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3671",
+                "version": "8.2.3692",
                 "pkg": "vim-tux",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
                 "website": "https://tuxproject.de/projects/vim"
@@ -14128,7 +14152,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "0.9.0-dev.1798",
+                "version": "0.9.0-dev.1801",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
