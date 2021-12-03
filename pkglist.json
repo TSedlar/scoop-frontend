@@ -236,13 +236,13 @@
                 "website": "https://avro.apache.org/"
             },
             {
-                "version": "2.4.3",
+                "version": "2.4.4",
                 "pkg": "aws",
                 "description": "Unified tool to manage AWS services",
                 "website": "https://aws.amazon.com/cli/"
             },
             {
-                "version": "7.5.5",
+                "version": "7.6.1",
                 "pkg": "aws-amplify",
                 "description": "A unified toolchain to create, integrate, and manage the AWS cloud services for your app.",
                 "website": "https://docs.amplify.aws/cli"
@@ -452,7 +452,7 @@
                 "website": "https://github.com/shenwei356/brename"
             },
             {
-                "version": "1.7.3",
+                "version": "1.7.4",
                 "pkg": "broot",
                 "description": "A new way to see and navigate directory trees",
                 "website": "https://dystroy.org/broot/"
@@ -590,7 +590,7 @@
                 "website": "https://www.benf.org/other/cfr"
             },
             {
-                "version": "0.2.2",
+                "version": "0.3.1",
                 "pkg": "cfsec",
                 "description": "A static analysis security scanner for CloudFormation code",
                 "website": "https://cfsec.dev"
@@ -632,7 +632,7 @@
                 "website": "http://chuck.stanford.edu"
             },
             {
-                "version": "0.1.16508",
+                "version": "0.1.16535",
                 "pkg": "circleci-cli",
                 "description": "Set of CircleCI\u2019s advanced and powerful tools.",
                 "website": "https://circleci-public.github.io/circleci-cli/"
@@ -758,7 +758,7 @@
                 "website": "https://github.com/lukesampson/concfg"
             },
             {
-                "version": "7.4.2",
+                "version": "7.4.3",
                 "pkg": "concourse-fly",
                 "description": "Concourse CI/CD manager and controller",
                 "website": "https://concourse-ci.org/fly.html"
@@ -1208,7 +1208,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "98.0.1091.0",
+                "version": "98.0.1092.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1262,7 +1262,7 @@
                 "website": "https://github.com/sindresorhus/empty-recycle-bin"
             },
             {
-                "version": "2.1.1",
+                "version": "2.2.0",
                 "pkg": "enomic",
                 "description": "Project and instances manager for Enomic XP.",
                 "website": "https://developer.enonic.com/docs/enonic-cli/master"
@@ -1370,13 +1370,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104708",
+                "version": "104731",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104708",
+                "version": "104731",
                 "pkg": "ffmpeg-nightly-shared",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -1454,7 +1454,7 @@
                 "website": "https://google.github.io/flatbuffers/index.html"
             },
             {
-                "version": "0.165.1",
+                "version": "0.166.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code",
                 "website": "https://flowtype.org/"
@@ -1592,10 +1592,10 @@
                 "website": "https://www.mingw-w64.org"
             },
             {
-                "version": "9.1-3",
+                "version": "11.1",
                 "pkg": "gdb",
-                "description": "GNU Debugger (Mingw-w64 port from MSYS2 project)",
-                "website": "https://mingw-w64.org"
+                "description": "GNU Debugger",
+                "website": "https://www.gnu.org/software/gdb/"
             },
             {
                 "version": "2.1.1",
@@ -1880,7 +1880,7 @@
                 "website": "http://www.gnuplot.info"
             },
             {
-                "version": "1.17.3",
+                "version": "1.17.4",
                 "pkg": "go",
                 "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
                 "website": "https://golang.org"
@@ -2468,7 +2468,7 @@
                 "website": "https://stedolan.github.io/jq/"
             },
             {
-                "version": "9.3.1.0",
+                "version": "9.3.2.0",
                 "pkg": "jruby",
                 "description": "The Ruby Programming Language on the JVM.",
                 "website": "https://www.jruby.org/"
@@ -2582,7 +2582,7 @@
                 "website": "https://knative.dev"
             },
             {
-                "version": "1.25",
+                "version": "1.26.0",
                 "pkg": "kompose",
                 "description": "Conversion tool for Docker Compose to container orchestrators such as Kubernetes (or OpenShift).",
                 "website": "https://kompose.io/"
@@ -3002,6 +3002,12 @@
                 "website": "https://git-for-windows.github.io/"
             },
             {
+                "version": "18.0",
+                "pkg": "mingw-nuwen",
+                "description": "Nuwen's MinGW Distro with GCC, GDB, make, binutils, coreutils, 7zip and extra headers",
+                "website": "https://nuwen.net/mingw.html"
+            },
+            {
                 "version": "11.2.0-9.0.0-r3",
                 "pkg": "mingw-winlibs",
                 "description": "GNU Compiler Collection (WinLibs build)",
@@ -3248,7 +3254,7 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.7.0-dev-660-gd3585e0ec",
+                "version": "0.7.0-dev-662-g73b35ef10",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -3264,6 +3270,12 @@
                 "pkg": "netcat",
                 "description": "Read and write from/to network connections",
                 "website": "https://eternallybored.org/misc/netcat/"
+            },
+            {
+                "version": "2.0.0-859",
+                "pkg": "netcoredbg",
+                "description": "NetCoreDbg is a managed code debugger with MI interface for CoreCLR.",
+                "website": "https://github.com/Samsung/netcoredbg"
             },
             {
                 "version": "1.37.3",
@@ -3368,7 +3380,7 @@
                 "website": "https://www.nuget.org/"
             },
             {
-                "version": "3.12.0",
+                "version": "3.13.0",
                 "pkg": "nunit-console",
                 "description": "NUnit Console runner for NUnit, the most popular and widely used unit testing framework for .NET",
                 "website": "https://nunit.org/"
@@ -3752,7 +3764,7 @@
                 "website": "https://www.postgresql.org"
             },
             {
-                "version": "8.0.0",
+                "version": "9.0.0",
                 "pkg": "postgrest",
                 "description": "REST API for any Postgres database",
                 "website": "https://postgrest.org"
@@ -4202,7 +4214,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "1.56.1",
+                "version": "1.57.0",
                 "pkg": "rust",
                 "description": "A language empowering everyone to build reliable and efficient software. (GNU toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -4214,7 +4226,7 @@
                 "website": "https://rust-analyzer.github.io/"
             },
             {
-                "version": "1.56.1",
+                "version": "1.57.0",
                 "pkg": "rust-msvc",
                 "description": "A language empowering everyone to build reliable and efficient software. (MSVC toolchain)",
                 "website": "https://www.rust-lang.org"
@@ -5138,7 +5150,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/which.htm"
             },
             {
-                "version": "2.1.20.1185",
+                "version": "2.1.20.1",
                 "pkg": "win-acme",
                 "description": "A Simple ACME Client",
                 "website": "https://www.win-acme.com"
@@ -5360,7 +5372,7 @@
                 "website": "https://mikefarah.gitbook.io/yq/"
             },
             {
-                "version": "2021.11.10.1",
+                "version": "2021.12.01",
                 "pkg": "yt-dlp",
                 "description": "A youtube-dl fork with additional features and fixes.",
                 "website": "https://github.com/yt-dlp/yt-dlp"
@@ -6135,7 +6147,7 @@
                 "website": "https://github.com/CXWorld/CapFrameX"
             },
             {
-                "version": "2.55.0",
+                "version": "2.55.1",
                 "pkg": "caprine",
                 "description": "Elegant Facebook Messenger desktop app",
                 "website": "https://sindresorhus.com/caprine/"
@@ -6483,7 +6495,7 @@
                 "website": "https://www.monitortests.com/forum/Thread-Custom-Resolution-Utility-CRU"
             },
             {
-                "version": "1.6.3",
+                "version": "1.6.4",
                 "pkg": "cryptomator",
                 "description": "Multi-platform transparent client-side encryption of files in the cloud",
                 "website": "https://cryptomator.org"
@@ -6537,7 +6549,7 @@
                 "website": "https://www.darktable.org"
             },
             {
-                "version": "2.16.0-55.0.dev",
+                "version": "2.16.0-63.0.dev",
                 "pkg": "dart-dev",
                 "description": "The libraries and command-line tools that you need to develop Dart web, command-line, and server apps",
                 "website": "https://www.dartlang.org/"
@@ -7071,7 +7083,7 @@
                 "website": "https://www.elastic.co/products/elasticsearch"
             },
             {
-                "version": "1.17.16",
+                "version": "1.17.19",
                 "pkg": "electerm",
                 "description": "Terminal/ssh/serial port/sftp client",
                 "website": "https://electerm.github.io/electerm/"
@@ -7257,7 +7269,7 @@
                 "website": "http://ridgecrop.co.uk"
             },
             {
-                "version": "0.122.0",
+                "version": "0.123.0",
                 "pkg": "fbflipper",
                 "description": "A desktop debugging platform for mobile developers",
                 "website": "https://fbflipper.com"
@@ -7365,7 +7377,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "96.0a1.20211201050507",
+                "version": "96.0a1.20211202094249",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -7431,7 +7443,7 @@
                 "website": "https://justgetflux.com"
             },
             {
-                "version": "0.0.256",
+                "version": "0.0.259",
                 "pkg": "flyctl",
                 "description": "Command line deployment/management client for fly.io services",
                 "website": "https://github.com/superfly/flyctl"
@@ -7749,7 +7761,7 @@
                 "website": "https://gitextensions.github.io/"
             },
             {
-                "version": "2.9.4",
+                "version": "2.9.5",
                 "pkg": "github",
                 "description": "Extend your GitHub workflow beyond your browser.",
                 "website": "https://desktop.github.com/"
@@ -7815,19 +7827,19 @@
                 "website": "https://www.google.com/chrome/"
             },
             {
-                "version": "97.0.4692.20",
+                "version": "97.0.4692.36",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "98.0.4739.0",
+                "version": "98.0.4741.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "98.0.4710.4",
+                "version": "98.0.4736.0",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -8427,7 +8439,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.08.3-1486",
+                "version": "21.08.3-1488",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9195,6 +9207,12 @@
                 "website": "https://docs.microsoft.com/en-us/powerapps/developer/component-framework/overview"
             },
             {
+                "version": "1.0.217",
+                "pkg": "micswitch",
+                "description": "A tool which allows you to mute/unmute your microphone using a predefined hotkey",
+                "website": "https://github.com/iXab3r/MicSwitch"
+            },
+            {
                 "version": "1.9.1",
                 "pkg": "milton",
                 "description": "An infinite-canvas paint program",
@@ -9267,7 +9285,7 @@
                 "website": "https://www.mongodb.com/download-center?jmp=hero#compass"
             },
             {
-                "version": "1.1.5",
+                "version": "1.1.6",
                 "pkg": "mongosh",
                 "description": "JavaScript and Node.js 14.x REPL environment for interacting with MongoDB",
                 "website": "https://docs.mongodb.com/mongodb-shell"
@@ -9705,7 +9723,7 @@
                 "website": "https://github.com/Orbmu2k/nvidiaProfileInspector/"
             },
             {
-                "version": "0.58.0",
+                "version": "0.59.0",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io"
@@ -9903,7 +9921,7 @@
                 "website": "https://github.com/stax76/OpenWithPlusPlus"
             },
             {
-                "version": "81.0.4196.60",
+                "version": "82.0.4227.23",
                 "pkg": "opera",
                 "description": "Fast, secure, easy-to-use browser.",
                 "website": "https://www.opera.com/"
@@ -10281,7 +10299,7 @@
                 "website": "http://dahlbyk.github.io/posh-git/"
             },
             {
-                "version": "9.3.0",
+                "version": "9.3.1",
                 "pkg": "postman",
                 "description": "Complete API development environment.",
                 "website": "https://www.getpostman.com/"
@@ -10497,13 +10515,13 @@
                 "website": "https://doc.qt.io/qtcreator/index.html"
             },
             {
-                "version": "5.0.3",
+                "version": "6.0.0",
                 "pkg": "qt-creator-cdb-ext",
                 "description": "Qt Creator CDB Debugger Support",
                 "website": "https://doc.qt.io/qtcreator/index.html"
             },
             {
-                "version": "5.0.3",
+                "version": "6.0.0",
                 "pkg": "qt-creator-wininterrupt",
                 "description": "Qt Creator wininterupt",
                 "website": "https://doc.qt.io/qtcreator/index.html"
@@ -10533,7 +10551,7 @@
                 "website": "https://moduleart.github.io/"
             },
             {
-                "version": "3.7.0",
+                "version": "3.7.1",
                 "pkg": "quicklook",
                 "description": "Bring macOS 'Quick Look' feature to Windows",
                 "website": "https://pooi.moe/QuickLook/"
@@ -10581,7 +10599,7 @@
                 "website": "https://interversehq.com/qview/"
             },
             {
-                "version": "3.9.10",
+                "version": "3.9.11",
                 "pkg": "rabbitmq",
                 "description": "Message-broker",
                 "website": "https://www.rabbitmq.com"
@@ -10599,13 +10617,13 @@
                 "website": "https://github.com/eloraiby/ragel-windows"
             },
             {
-                "version": "4.5.5.3565",
+                "version": "4.5.6.3573",
                 "pkg": "rainmeter",
                 "description": "A desktop customization tool",
                 "website": "https://www.rainmeter.net"
             },
             {
-                "version": "4.5.5.3565",
+                "version": "4.5.6.3573",
                 "pkg": "rainmeter-portable",
                 "description": "A desktop customization tool",
                 "website": "https://www.rainmeter.net"
@@ -12423,7 +12441,7 @@
                 "website": "http://www.vanmiddlesworth.org/vitrite/"
             },
             {
-                "version": "4.3.2439.65",
+                "version": "5.0.2497.24",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -12987,7 +13005,7 @@
                 "website": "https://www.xnview.com/en/xnresize/"
             },
             {
-                "version": "0.99.1",
+                "version": "0.99.4",
                 "pkg": "xnviewmp",
                 "description": "Photo viewer, image resizer & batch converter",
                 "website": "https://www.xnview.com/en/xnviewmp/"
@@ -13694,6 +13712,12 @@
                 "pkg": "nuget3",
                 "description": null,
                 "website": "https://www.nuget.org/"
+            },
+            {
+                "version": "966",
+                "pkg": "okular-nightly",
+                "description": "Universal document viewer",
+                "website": "https://okular.kde.org"
             },
             {
                 "version": "nightly",
