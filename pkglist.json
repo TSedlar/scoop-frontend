@@ -434,7 +434,7 @@
                 "website": "http://bochs.sourceforge.net/"
             },
             {
-                "version": "0.6.4",
+                "version": "0.6.5",
                 "pkg": "bottom",
                 "description": "Graphical process/system monitor",
                 "website": "https://github.com/ClementTsang/bottom"
@@ -914,7 +914,7 @@
                 "website": "https://itefix.net/cwrsync"
             },
             {
-                "version": "2.910",
+                "version": "2.911",
                 "pkg": "cygwin",
                 "description": "A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows",
                 "website": "https://cygwin.com/"
@@ -998,7 +998,7 @@
                 "website": "https://github.com/golang/dep"
             },
             {
-                "version": "6.5.0",
+                "version": "6.5.1",
                 "pkg": "dependency-check",
                 "description": "Software composition analysis utility that identifies project dependencies and checks if there are any known, publicly disclosed, vulnerabilities.",
                 "website": "https://owasp.org/www-project-dependency-check/"
@@ -2000,7 +2000,7 @@
                 "website": "https://gradle.org"
             },
             {
-                "version": "5.1.0",
+                "version": "5.1.1",
                 "pkg": "grails",
                 "description": "A powerful Groovy-based web application framework for the JVM built on top of Spring Boot.",
                 "website": "https://grails.org"
@@ -2272,12 +2272,6 @@
             {
                 "version": "0.9.50",
                 "pkg": "i2p",
-                "description": "An anonymizing network.",
-                "website": "https://geti2p.net"
-            },
-            {
-                "version": "0.9.50",
-                "pkg": "i2p-portable",
                 "description": "An anonymizing network.",
                 "website": "https://geti2p.net"
             },
@@ -3176,7 +3170,7 @@
                 "website": "https://gitlab.com/movie_thumbnailer/mtn/wikis/home"
             },
             {
-                "version": "0.11.8",
+                "version": "0.12.0",
                 "pkg": "mutagen",
                 "description": "Fast, cross-platform, continuous, multidirectional file synchronization for remote development",
                 "website": "https://mutagen.io/"
@@ -3322,12 +3316,6 @@
             {
                 "version": "7.92",
                 "pkg": "nmap",
-                "description": "Network exploration and security auditing utility. (includes Npcap)",
-                "website": "https://nmap.org"
-            },
-            {
-                "version": "7.92",
-                "pkg": "nmap-portable",
                 "description": "Network exploration and security auditing utility.",
                 "website": "https://nmap.org"
             },
@@ -3570,6 +3558,12 @@
                 "pkg": "oracle-instant-client-sdk",
                 "description": "Additional header files and an example makefile for developing Oracle applications with Instant Client.",
                 "website": "https://www.oracle.com/database/technologies/instant-client.html"
+            },
+            {
+                "version": "5.0.1",
+                "pkg": "osquery",
+                "description": "SQL powered operating system instrumentation, monitoring, and analytics",
+                "website": "https://osquery.io/"
             },
             {
                 "version": "1.7.1-1",
@@ -4682,7 +4676,7 @@
                 "website": "https://github.com/lukesampson/psutils"
             },
             {
-                "version": "4.9",
+                "version": "4.10",
                 "pkg": "svtplay-dl",
                 "description": "Video downloader from various sites",
                 "website": "https://svtplay-dl.se"
@@ -4826,7 +4820,7 @@
                 "website": "https://thrift.apache.org/"
             },
             {
-                "version": "4.3.0",
+                "version": "4.4.1",
                 "pkg": "ticker",
                 "description": "Terminal stock watcher and stock position tracker",
                 "website": "https://github.com/achannarasappa/ticker"
@@ -5222,7 +5216,7 @@
                 "website": "https://wkhtmltopdf.org/"
             },
             {
-                "version": "1.0.5",
+                "version": "1.0.6",
                 "pkg": "wormhole-william",
                 "description": "End-to-end encrypted file transfer. A magic wormhole CLI and API in Go",
                 "website": "https://github.com/psanford/wormhole-william"
@@ -5809,6 +5803,12 @@
                 "pkg": "authy",
                 "description": "Two factor authentication client",
                 "website": "https://authy.com/"
+            },
+            {
+                "version": "1.7.19",
+                "pkg": "autohdr",
+                "description": "Create profiles for your displays and apps to automatically switch the resolution, refresh rate and HDR state according to the app you're using",
+                "website": "https://github.com/Codectory/AutoHDR"
             },
             {
                 "version": "1.1.33.10",
@@ -6525,7 +6525,7 @@
                 "website": "https://cryptomator.org"
             },
             {
-                "version": "8.13.1",
+                "version": "8.13.2",
                 "pkg": "crystaldiskinfo",
                 "description": "HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD",
                 "website": "https://osdn.net/projects/crystaldiskinfo/"
@@ -6537,7 +6537,7 @@
                 "website": "https://osdn.net/projects/crystaldiskmark/"
             },
             {
-                "version": "1.152.0.5",
+                "version": "1.152.0.6",
                 "pkg": "cudatext",
                 "description": "Text editor",
                 "website": "http://uvviewsoft.com/cudatext/"
@@ -7113,7 +7113,7 @@
                 "website": "https://github.com/GitSquared/edex-ui"
             },
             {
-                "version": "7.16.1",
+                "version": "7.16.2",
                 "pkg": "elasticsearch",
                 "description": "Distributed, RESTful Search Engine",
                 "website": "https://www.elastic.co/products/elasticsearch"
@@ -7383,7 +7383,7 @@
                 "website": "https://gist.github.com/se35710/43693e679701387d722206eff1e85f5f"
             },
             {
-                "version": "95.0.1",
+                "version": "95.0.2",
                 "pkg": "firefox",
                 "description": "Popular open source web browser.",
                 "website": "https://www.mozilla.org/firefox/"
@@ -7413,13 +7413,13 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "97.0a1.20211218094308",
+                "version": "97.0a1.20211219092930",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
             },
             {
-                "version": "95.0.1",
+                "version": "95.0.2",
                 "pkg": "firefox-portable",
                 "description": "Popular open source web browser",
                 "website": "https://www.mozilla.org/firefox/"
@@ -7833,7 +7833,7 @@
                 "website": "https://sourceforge.net/projects/gmkvextractgui/"
             },
             {
-                "version": "4.8",
+                "version": "4.9",
                 "pkg": "gnucash",
                 "description": "Personal and small-business financial-accounting software",
                 "website": "https://www.gnucash.org/"
@@ -7881,7 +7881,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "99.0.4772.0",
+                "version": "99.0.4774.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -8463,7 +8463,7 @@
                 "website": "https://joe-editor.sourceforge.io/"
             },
             {
-                "version": "2.6.9",
+                "version": "2.6.10",
                 "pkg": "joplin",
                 "description": "A note taking and to-do application with synchronization capabilities",
                 "website": "https://joplinapp.org"
@@ -8619,7 +8619,7 @@
                 "website": "https://keystore-explorer.org/"
             },
             {
-                "version": "7.16.1",
+                "version": "7.16.2",
                 "pkg": "kibana",
                 "description": "An open source analytics and visualization platform designed to work with Elasticsearch.",
                 "website": "https://www.elastic.co/products/kibana"
@@ -8997,7 +8997,7 @@
                 "website": "https://logstalgia.io/"
             },
             {
-                "version": "6.8.21",
+                "version": "6.8.22",
                 "pkg": "logstash",
                 "description": "A data processing pipeline that ingests data from a multitude of sources simultaneously, transforms it, and then sends it to your favorite \"stash\".",
                 "website": "https://www.elastic.co/products/logstash"
@@ -9423,7 +9423,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20211212",
+                "version": "20211219",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -9669,7 +9669,7 @@
                 "website": "http://ngspice.sourceforge.net"
             },
             {
-                "version": "3.1.1",
+                "version": "3.2.0",
                 "pkg": "nicotine-plus",
                 "description": "Graphical client for the Soulseek file sharing network",
                 "website": "https://nicotine-plus.github.io/nicotine-plus/"
@@ -9849,7 +9849,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.12.0-860",
+                "version": "21.12.0-861",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -9867,7 +9867,7 @@
                 "website": "https://omegat.org/"
             },
             {
-                "version": "3.4.4.0",
+                "version": "3.4.5.0",
                 "pkg": "onecommander",
                 "description": "A file manager with improved functionality, re-imagined user interface and experience of navigating filesystem and manipulating files.",
                 "website": "https://onecommander.com/"
@@ -10437,7 +10437,7 @@
                 "website": "https://www.mersenne.org/download/"
             },
             {
-                "version": "1.2.2943.11",
+                "version": "1.2.3019.52",
                 "pkg": "pritunl-client",
                 "description": "OpenVPN Client",
                 "website": "https://client.pritunl.com"
@@ -11325,7 +11325,7 @@
                 "website": "https://www.snipaste.com/"
             },
             {
-                "version": "3.0.1",
+                "version": "4.0.0",
                 "pkg": "snoop",
                 "description": "Spy/browse the visual tree of a running application (without the need for a debugger) and change properties, view triggers, set breakpoints on property changes and more.",
                 "website": "https://github.com/snoopwpf/snoopwpf"
@@ -13402,7 +13402,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.12172021",
+                "version": "0.43.2.12182021",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -13414,7 +13414,7 @@
                 "website": "https://brave.com"
             },
             {
-                "version": "1.35.44",
+                "version": "1.35.46",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13498,13 +13498,13 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "104925",
+                "version": "104939",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "104925",
+                "version": "104939",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13774,7 +13774,7 @@
                 "website": "https://apps.kde.org/neochat/"
             },
             {
-                "version": "0.7.0-dev-737-g818ae74ea",
+                "version": "0.7.0-dev-748-gabdf3a812",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -14206,7 +14206,7 @@
                 "website": "https://rubyinstaller.org"
             },
             {
-                "version": "2021-12-18",
+                "version": "2021-12-19",
                 "pkg": "ruffle-nightly",
                 "description": "A Flash Player emulator written in Rust",
                 "website": "https://ruffle.rs/"
@@ -14338,7 +14338,7 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3843",
+                "version": "8.2.3848",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -14392,7 +14392,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "0.9.0-dev.2010",
+                "version": "0.9.0-dev.2023",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
