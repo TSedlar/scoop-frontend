@@ -8,7 +8,7 @@
                 "website": "https://support.1password.com/command-line/"
             },
             {
-                "version": "21.06",
+                "version": "21.07",
                 "pkg": "7zip",
                 "description": "A multi-format file archiver with high compression ratios",
                 "website": "https://www.7-zip.org/"
@@ -1208,7 +1208,7 @@
                 "website": "https://drone.io/"
             },
             {
-                "version": "2.14.11",
+                "version": "2.15.0",
                 "pkg": "dua",
                 "description": "Disk Usage Analyzer",
                 "website": "https://github.com/Byron/dua-cli"
@@ -3488,7 +3488,7 @@
                 "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
-                "version": "6.41.0",
+                "version": "6.41.1",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3590,7 +3590,7 @@
                 "website": "https://www.oracle.com/database/technologies/instant-client.html"
             },
             {
-                "version": "5.0.1",
+                "version": "5.1.0",
                 "pkg": "osquery",
                 "description": "SQL powered operating system instrumentation, monitoring, and analytics",
                 "website": "https://osquery.io/"
@@ -4262,7 +4262,7 @@
                 "website": "https://www.rust-lang.org"
             },
             {
-                "version": "2021-12-20",
+                "version": "2021-12-27",
                 "pkg": "rust-analyzer",
                 "description": "An experimental Rust compiler front-end for IDEs",
                 "website": "https://rust-analyzer.github.io/"
@@ -4346,7 +4346,7 @@
                 "website": "http://www.sbcl.org/"
             },
             {
-                "version": "1.5.8",
+                "version": "1.6.0",
                 "pkg": "sbt",
                 "description": "A build tool for Scala, Java, and more",
                 "website": "https://www.scala-sbt.org"
@@ -4472,10 +4472,16 @@
                 "website": "https://github.com/philippgille/serve"
             },
             {
-                "version": "2.69.1",
+                "version": "2.70.0",
                 "pkg": "serverless",
                 "description": "Framework for building and operating serverless applications",
                 "website": "https://serverless.com"
+            },
+            {
+                "version": "2.2.0",
+                "pkg": "sftpgo",
+                "description": "Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support",
+                "website": "https://github.com/drakkan/sftpgo"
             },
             {
                 "version": "1.3.1",
@@ -5408,7 +5414,7 @@
                 "website": "https://mikefarah.gitbook.io/yq/"
             },
             {
-                "version": "2021.12.25",
+                "version": "2021.12.27",
                 "pkg": "yt-dlp",
                 "description": "A youtube-dl fork with additional features and fixes.",
                 "website": "https://github.com/yt-dlp/yt-dlp"
@@ -5881,6 +5887,12 @@
                 "pkg": "aws-nosql-workbench",
                 "description": "NoSQL database designer for Amazon DynamoDB and Amazon Keyspaces",
                 "website": "https://aws.amazon.com/dynamodb/nosql-workbench/"
+            },
+            {
+                "version": "1.2.279.0",
+                "pkg": "aws-session-manager-plugin",
+                "description": "This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances",
+                "website": "https://github.com/aws/session-manager-plugin"
             },
             {
                 "version": "1.9.6.1-alpha",
@@ -6429,7 +6441,7 @@
                 "website": "https://www.guru3d.com/files-details/color-sustainer-download.html"
             },
             {
-                "version": "4.5.0.0",
+                "version": "5.0.1.0",
                 "pkg": "colorcontrol",
                 "description": "Easily change NVIDIA display settings and/or control LG TV's",
                 "website": "https://github.com/Maassoft/ColorControl"
@@ -6561,16 +6573,28 @@
                 "website": "http://uvviewsoft.com/cudatext/"
             },
             {
-                "version": "2.1.6",
+                "version": "2.1.9",
                 "pkg": "cuetools",
                 "description": "A suite of tools for lossless audio/CUE sheet format conversion and verification.",
                 "website": "http://cue.tools/wiki/Main_Page"
+            },
+            {
+                "version": "1.39.0f1",
+                "pkg": "cupscale",
+                "description": "Image Upscaler",
+                "website": "https://github.com/n00mkrad/cupscale"
             },
             {
                 "version": "4.12.1",
                 "pkg": "cura",
                 "description": "Model editing tools for 3D printing",
                 "website": "https://ultimaker.com/en/products/ultimaker-cura-software"
+            },
+            {
+                "version": "1.5.0",
+                "pkg": "cv4pve-pepper",
+                "description": "Launching SPICE remote-viewer to access VM running on Proxmox VE.",
+                "website": "https://www.cv4pve-tools.com/"
             },
             {
                 "version": "8.2.0.36680",
@@ -7371,7 +7395,7 @@
                 "website": "https://www.filebot.net/"
             },
             {
-                "version": "15.10.2644",
+                "version": "15.20.2657",
                 "pkg": "fileoptimizer",
                 "description": "Lossless file size reduction utility",
                 "website": "https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer"
@@ -7689,7 +7713,7 @@
                 "website": "https://gatling.io"
             },
             {
-                "version": "1.2.1",
+                "version": "3.0.2",
                 "pkg": "gb-studio",
                 "description": "Free and easy to use retro adventure game creator for Game Boy.",
                 "website": "https://www.gbstudio.dev"
@@ -10983,6 +11007,12 @@
                 "website": "https://sites.google.com/site/regexreplace/"
             },
             {
+                "version": "2.5.4",
+                "pkg": "ryzen-controller",
+                "description": "Utility for tweaking AMD Ryzen laptops.",
+                "website": "https://ryzencontroller.com/"
+            },
+            {
                 "version": "3.4.2",
                 "pkg": "sabnzbd",
                 "description": "The automated Usenet download tool",
@@ -11743,6 +11773,12 @@
                 "pkg": "syncbackpro",
                 "description": "Backup up and synchronize files to several resources, including an internal or external drive, to different media (USB thumb drive, CD, DVD), to a remote server (NAS, FTP, Windows server) and to a cloud storage provider.",
                 "website": "https://www.2brightsparks.com/syncback/sbpro.html"
+            },
+            {
+                "version": "1.6.9",
+                "pkg": "syncplay",
+                "description": "Solution to synchronize video playback across multiple instances of mpv, VLC, MPC-HC, MPC-BE and mplayer2 over the Internet.",
+                "website": "https://syncplay.pl/"
             },
             {
                 "version": "1.1.13",
@@ -12999,6 +13035,12 @@
                 "website": "https://writeapp.co"
             },
             {
+                "version": "1.1.1",
+                "pkg": "wsa-pacman",
+                "description": "A GUI package manager and package installer for Windows Subsystem for Android (WSA)",
+                "website": "https://github.com/alesimula/wsa_pacman"
+            },
+            {
                 "version": "1.5.2",
                 "pkg": "wsl-ssh-agent",
                 "description": "Helper to interface with Windows ssh-agent.exe service from Windows Subsystem for Linux (WSL)",
@@ -13408,7 +13450,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.12252021",
+                "version": "0.43.2.12262021",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -13420,7 +13462,7 @@
                 "website": "https://brave.com"
             },
             {
-                "version": "1.35.59",
+                "version": "1.35.62",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13576,7 +13618,7 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "2021-12-23",
+                "version": "2021-12-27",
                 "pkg": "ffmpeg-gyan-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13606,7 +13648,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "97.0a1.20211226092042",
+                "version": "97.0a1.20211227095553",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -13708,7 +13750,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "99.0.4788.0",
+                "version": "99.0.4789.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -13912,7 +13954,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "355",
+                "version": "367",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -14020,7 +14062,7 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh2"
             },
             {
-                "version": "990",
+                "version": "991",
                 "pkg": "okular-nightly",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -14542,19 +14584,19 @@
                 "website": "https://uplay.ubisoft.com"
             },
             {
-                "version": "2021.51",
+                "version": "2021.52",
                 "pkg": "v-weekly",
                 "description": "The V programming language (weekly release channel)",
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3899",
+                "version": "8.2.3908",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
             },
             {
-                "version": "8.2.3875",
+                "version": "8.2.3908",
                 "pkg": "vim-tux",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
                 "website": "https://tuxproject.de/projects/vim"
@@ -14566,7 +14608,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20211226",
+                "version": "20211227",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
