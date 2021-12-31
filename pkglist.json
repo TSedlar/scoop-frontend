@@ -338,7 +338,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "13.1.0",
+                "version": "13.1.1",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -1133,7 +1133,7 @@
                 "version": "7.4.2",
                 "pkg": "dos2unix",
                 "description": "Convert text files with DOS or Mac line endings to Unix line endings and vice versa",
-                "website": "http://dos2unix.sourceforge.net/"
+                "website": "https://waterlan.home.xs4all.nl/dos2unix.html"
             },
             {
                 "version": "0.74-3",
@@ -1250,7 +1250,7 @@
                 "website": "https://github.com/fhanau/Efficient-Compression-Tool"
             },
             {
-                "version": "99.0.1119.0",
+                "version": "99.0.1120.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1574,7 +1574,7 @@
                 "website": "https://github.com/junegunn/fzf"
             },
             {
-                "version": "1.19.3",
+                "version": "1.20.0",
                 "pkg": "gallery-dl",
                 "description": "Command-line program to download image-galleries and -collections from several image hosting sites.",
                 "website": "https://github.com/mikf/gallery-dl"
@@ -1976,7 +1976,7 @@
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "1.2.3",
+                "version": "1.2.4",
                 "pkg": "goreleaser",
                 "description": "Release automation tool for Go projects.",
                 "website": "https://goreleaser.com"
@@ -3116,7 +3116,7 @@
                 "website": "https://getmonero.org/"
             },
             {
-                "version": "5.2.0-rc2",
+                "version": "5.2.0-rc3",
                 "pkg": "mongodb",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -3488,7 +3488,7 @@
                 "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
-                "version": "6.42.0",
+                "version": "6.42.3",
                 "pkg": "oh-my-posh3",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -3746,7 +3746,7 @@
                 "website": "https://www.plex.tv/"
             },
             {
-                "version": "5.2.2",
+                "version": "5.2.4",
                 "pkg": "pluto",
                 "description": "Utility to help users find deprecated Kubernetes apiVersions in their code repositories and their helm releases.",
                 "website": "https://github.com/FairwindsOps/pluto"
@@ -3938,7 +3938,7 @@
                 "website": "https://github.com/dalance/ptags"
             },
             {
-                "version": "3.20.0",
+                "version": "3.21.0",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -4634,7 +4634,7 @@
                 "website": "https://spotbugs.github.io/"
             },
             {
-                "version": "3.37.0",
+                "version": "3.37.1",
                 "pkg": "sqlite",
                 "description": "A small, fast, self-contained, high-reliability and full-featured SQL database engine",
                 "website": "https://www.sqlite.org/"
@@ -5288,7 +5288,7 @@
                 "website": "https://github.com/asciimoo/wuzz"
             },
             {
-                "version": "3079",
+                "version": "3081",
                 "pkg": "x264",
                 "description": "H.264/MPEG-4 AVC video encoder",
                 "website": "https://www.videolan.org/developers/x264.html"
@@ -5763,12 +5763,6 @@
                 "website": "https://www.arduino.cc"
             },
             {
-                "version": "1.8.19",
-                "pkg": "arduino-portable",
-                "description": "Arduino IDE",
-                "website": "https://www.arduino.cc"
-            },
-            {
                 "version": "2.3.0",
                 "pkg": "argyllcms",
                 "description": "Argyll Color Management System",
@@ -6145,6 +6139,12 @@
                 "pkg": "bt",
                 "description": "Opens required browser based on configuration",
                 "website": "https://www.aloneguid.uk/projects/bt/"
+            },
+            {
+                "version": "0.63.2",
+                "pkg": "buckets",
+                "description": "Private Family Budgeting App",
+                "website": "https://www.budgetwithbuckets.com"
             },
             {
                 "version": "9.0.2",
@@ -6945,7 +6945,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "16.0.2",
+                "version": "16.1.2",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.draw.io"
@@ -7455,18 +7455,6 @@
                 "website": "https://www.mozilla.org/en-US/firefox/organizations/"
             },
             {
-                "version": "91.4.1",
-                "pkg": "firefox-esr-portable",
-                "description": "Extended Support Release of Firefox: the popular open source web browser.",
-                "website": "https://www.mozilla.org/en-US/firefox/organizations/"
-            },
-            {
-                "version": "95.0.2",
-                "pkg": "firefox-portable",
-                "description": "Popular open source web browser",
-                "website": "https://www.mozilla.org/firefox/"
-            },
-            {
                 "version": "1.7",
                 "pkg": "firewallappblocker",
                 "description": "Use Windows Firewall to block or unblock certain applications.",
@@ -7521,7 +7509,7 @@
                 "website": "https://justgetflux.com"
             },
             {
-                "version": "0.0.271",
+                "version": "0.0.272",
                 "pkg": "flyctl",
                 "description": "Command line deployment/management client for fly.io services",
                 "website": "https://github.com/superfly/flyctl"
@@ -7537,6 +7525,12 @@
                 "pkg": "fnr",
                 "description": "Find and replace text in multiple files",
                 "website": "https://github.com/zzzprojects/findandreplace"
+            },
+            {
+                "version": "7.6.21",
+                "pkg": "folding-at-home",
+                "description": "Distributed computing project focused on disease research",
+                "website": "https://foldingathome.org"
             },
             {
                 "version": "2.16.9",
@@ -7561,12 +7555,6 @@
                 "pkg": "foobar2000-encoders",
                 "description": "This pack includes every natively supported free encoder binary for use with the Converter foobar2000 component.",
                 "website": "https://www.foobar2000.org/encoderpack"
-            },
-            {
-                "version": "1.6.8",
-                "pkg": "foobar2000-portable",
-                "description": "An advanced freeware audio player for the Windows platform.",
-                "website": "https://www.foobar2000.org/"
             },
             {
                 "version": "1.69.4",
@@ -7899,7 +7887,7 @@
                 "website": "https://github.com/Slashbunny/gog-galaxy-plugin-downloader"
             },
             {
-                "version": "2021.3.1-213.6461.23",
+                "version": "2021.3.2-213.6461.81",
                 "pkg": "goland",
                 "description": "Cross-Platform IDE for Go by JetBrains.",
                 "website": "https://www.jetbrains.com/goland/"
@@ -7929,12 +7917,6 @@
                 "website": "https://www.google.com/chrome/"
             },
             {
-                "version": "96.0.4664.110",
-                "pkg": "googlechrome-portable",
-                "description": "Fast, secure, and free web browser, built for the modern web.",
-                "website": "https://www.google.com/chrome/"
-            },
-            {
                 "version": "0.989",
                 "pkg": "gopher360",
                 "description": "App to turn a controller into a mouse and keyboard",
@@ -7943,12 +7925,6 @@
             {
                 "version": "4.0.0",
                 "pkg": "gpg4win",
-                "description": "GNU Privacy Guard for Windows is encryption software for files and emails.",
-                "website": "https://www.gpg4win.org"
-            },
-            {
-                "version": "4.0.0",
-                "pkg": "gpg4win-portable",
                 "description": "GNU Privacy Guard for Windows is encryption software for files and emails.",
                 "website": "https://www.gpg4win.org"
             },
@@ -8421,7 +8397,7 @@
                 "website": "https://jami.net/"
             },
             {
-                "version": "1.6.23.0",
+                "version": "2.2.5.0",
                 "pkg": "jamovi",
                 "description": "Statistical spreadsheet",
                 "website": "https://www.jamovi.org"
@@ -8525,7 +8501,7 @@
             {
                 "version": "1.0.37",
                 "pkg": "jpegview",
-                "description": "Fast and highly configurable viewer/editor for images with a minimal GUI.",
+                "description": "Fast and highly configurable image viewer/editor with a minimal GUI.",
                 "website": "https://sourceforge.net/projects/jpegview/"
             },
             {
@@ -8541,7 +8517,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.12.0-1514",
+                "version": "21.12.0-1517",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -9105,6 +9081,12 @@
                 "website": "https://github.com/felixrieseberg/macintosh.js"
             },
             {
+                "version": "5.3.2",
+                "pkg": "macrocreator",
+                "description": "Automation tool and script generator based on AutoHotkey language",
+                "website": "https://www.macrocreator.com"
+            },
+            {
                 "version": "0.92.17",
                 "pkg": "madvr",
                 "description": "High quality DirectShow video renderer",
@@ -9147,16 +9129,16 @@
                 "website": "https://www.manictime.com"
             },
             {
-                "version": "9.0.175",
+                "version": "9.0.176",
                 "pkg": "manifold",
                 "description": "Parallel GIS, ETL, data science and DBMS tool",
-                "website": "http://manifold.net/"
+                "website": "https://manifold.net/"
             },
             {
-                "version": "9.0.175",
+                "version": "9.0.176",
                 "pkg": "manifold-viewer",
                 "description": "File viewer for Manifold - a parallel GIS, ETL, data science and DBMS tool",
-                "website": "http://manifold.net/"
+                "website": "https://manifold.net/"
             },
             {
                 "version": "20211201",
@@ -9447,7 +9429,7 @@
                 "website": "https://www.mp3tag.de"
             },
             {
-                "version": "1.5.8.6302",
+                "version": "1.6.0.6767",
                 "pkg": "mpc-be",
                 "description": "Fork of Media Player Classic containing additional features and bug fixes.",
                 "website": "https://sourceforge.net/projects/mpcbe/"
@@ -9519,7 +9501,7 @@
                 "website": "https://mremoteng.org/"
             },
             {
-                "version": "2.1.561",
+                "version": "2.1.596",
                 "pkg": "msbuild-structured-log-viewer",
                 "description": "A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.",
                 "website": "https://github.com/KirillOsenkov/MSBuildStructuredLog/"
@@ -9603,7 +9585,7 @@
                 "website": "https://getmusicbee.com"
             },
             {
-                "version": "0.96.7",
+                "version": "0.96.10",
                 "pkg": "musikcube",
                 "description": "Terminal-based music player, audio engine, metadata indexer, and server.",
                 "website": "https://musikcube.com"
@@ -9627,7 +9609,7 @@
                 "website": "https://www.naps2.com/"
             },
             {
-                "version": "2.4.1",
+                "version": "2.4.2",
                 "pkg": "natron",
                 "description": "Compositing software for VFX and motion graphics",
                 "website": "https://natrongithub.github.io/"
@@ -9669,7 +9651,7 @@
                 "website": "https://github.com/equalsraf/neovim-qt"
             },
             {
-                "version": "12.5",
+                "version": "12.6",
                 "pkg": "netbeans",
                 "description": "Quickly and easily develop desktop, mobile, and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.",
                 "website": "https://netbeans.org"
@@ -9927,7 +9909,7 @@
                 "website": "https://omegat.org/"
             },
             {
-                "version": "3.4.11.0",
+                "version": "3.4.12.0",
                 "pkg": "onecommander",
                 "description": "A file manager with improved functionality, re-imagined user interface and experience of navigating filesystem and manipulating files.",
                 "website": "https://onecommander.com/"
@@ -10121,12 +10103,6 @@
             {
                 "version": "29.4.3",
                 "pkg": "palemoon",
-                "description": "Mozilla-derived web browser focusing on efficiency and customization",
-                "website": "https://www.palemoon.org"
-            },
-            {
-                "version": "29.4.3",
-                "pkg": "palemoon-portable",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
             },
@@ -10528,7 +10504,7 @@
             },
             {
                 "version": "4.07",
-                "pkg": "proxifier-portable",
+                "pkg": "proxifier",
                 "description": "Allows network applications that do not support working through proxy servers to operate through a SOCKS or HTTPS proxy and chains.",
                 "website": "https://www.proxifier.com"
             },
@@ -10683,16 +10659,16 @@
                 "website": "https://qtox.github.io/"
             },
             {
-                "version": "1.17.4",
-                "pkg": "qtox-portable",
-                "description": "Chat, voice, video, and file transfer IM client using the encrypted peer-to-peer Tox protocol.",
-                "website": "https://qtox.github.io"
-            },
-            {
                 "version": "6.9.0",
                 "pkg": "qtranslate",
                 "description": "Translator utility",
                 "website": "https://quest-app.appspot.com"
+            },
+            {
+                "version": "1.7.1",
+                "pkg": "qtscrcpy",
+                "description": "Display and control Android device via TCP/IP or USB.",
+                "website": "https://github.com/barry-ran/QtScrcpy"
             },
             {
                 "version": "3.1.4",
@@ -10769,12 +10745,6 @@
             {
                 "version": "4.5.7.3581",
                 "pkg": "rainmeter",
-                "description": "A desktop customization tool",
-                "website": "https://www.rainmeter.net"
-            },
-            {
-                "version": "4.5.7.3581",
-                "pkg": "rainmeter-portable",
                 "description": "A desktop customization tool",
                 "website": "https://www.rainmeter.net"
             },
@@ -10891,6 +10861,12 @@
                 "pkg": "rehex",
                 "description": "Hex editor for reverse engineering",
                 "website": "https://github.com/solemnwarning/rehex"
+            },
+            {
+                "version": "2.2",
+                "pkg": "remove-empty-directories",
+                "description": "Searches, displays and deletes empty directories recursively",
+                "website": "https://github.com/hxseven/Remove-Empty-Directories"
             },
             {
                 "version": "7.3",
@@ -11011,6 +10987,12 @@
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
+            },
+            {
+                "version": "15.1",
+                "pkg": "roslynpad",
+                "description": "A cross-platform C# editor based on Roslyn and AvalonEdit",
+                "website": "https://roslynpad.net"
             },
             {
                 "version": "3.0",
@@ -11227,6 +11209,12 @@
                 "pkg": "shadowsocks",
                 "description": "A secure socks5 proxy, designed to protect your Internet traffic.",
                 "website": "https://github.com/shadowsocks/shadowsocks-windows"
+            },
+            {
+                "version": "1.3.1",
+                "pkg": "shadowsocks-v2ray-plugin",
+                "description": "SIP003 plugin based on v2ray for shadowsocks",
+                "website": "https://github.com/shadowsocks/v2ray-plugin"
             },
             {
                 "version": "4.9.2",
@@ -11673,12 +11661,6 @@
                 "website": "https://streamlink.github.io/"
             },
             {
-                "version": "1.0.0",
-                "pkg": "streamlink-portable",
-                "description": "Command-line utility that pipes video streams from various services into a video player.",
-                "website": "https://streamlink.github.io/"
-            },
-            {
                 "version": "1.13.0",
                 "pkg": "streamlink-twitch-gui",
                 "description": "A multi platform Twitch.tv browser for Streamlink",
@@ -11698,7 +11680,7 @@
             },
             {
                 "version": "2.8.6.4",
-                "pkg": "strokesplus-portable",
+                "pkg": "strokesplus",
                 "description": "Mouse gesture recognition utility for Windows which allows you to create powerful mouse gestures that save you time.",
                 "website": "https://www.strokesplus.com"
             },
@@ -12123,12 +12105,6 @@
                 "website": "https://www.thunderbird.net"
             },
             {
-                "version": "91.4.1",
-                "pkg": "thunderbird-portable",
-                "description": "A free email application that\u2019s easy to set up and customize.",
-                "website": "https://www.thunderbird.net"
-            },
-            {
                 "version": "2.8.63",
                 "pkg": "tightvnc",
                 "description": "VNC-Compatible Remote Control / Remote Desktop",
@@ -12187,6 +12163,12 @@
                 "pkg": "todotxt-net",
                 "description": "Implementation of todo.txt for Windows using the .NET framework",
                 "website": "https://benrhughes.github.io/todotxt.net/"
+            },
+            {
+                "version": "7.5.363",
+                "pkg": "toggl",
+                "description": "Time tracking and reporting software",
+                "website": "https://www.toggl.com/"
             },
             {
                 "version": "10.0.14",
@@ -12291,6 +12273,12 @@
                 "website": "https://github.com/zadam/trilium"
             },
             {
+                "version": "6.5.0.18",
+                "pkg": "trillian",
+                "description": "Modern and secure instant messaging",
+                "website": "https://www.trillian.im"
+            },
+            {
                 "version": "2.4.6",
                 "pkg": "tumblthree",
                 "description": "A Tumblr Backup Application",
@@ -12333,6 +12321,12 @@
                 "website": "https://typora.io"
             },
             {
+                "version": "0.9.1-beta",
+                "pkg": "ubports-installer",
+                "description": "A friendly cross-platform Installer for Ubuntu Touch.",
+                "website": "https://ubuntu-touch.io//ubuntu-touch.io"
+            },
+            {
                 "version": "8.18.1",
                 "pkg": "ueli",
                 "description": "A keystroke launcher",
@@ -12341,12 +12335,6 @@
             {
                 "version": "2.2.2",
                 "pkg": "uget",
-                "description": "Open source download manager.",
-                "website": "https://ugetdm.com/"
-            },
-            {
-                "version": "2.2.2",
-                "pkg": "uget-portable",
                 "description": "Open source download manager.",
                 "website": "https://ugetdm.com/"
             },
@@ -12369,14 +12357,8 @@
                 "website": "https://unetbootin.github.io"
             },
             {
-                "version": "89.0.4389.114-1",
+                "version": "96.0.4664.93-r929512-1",
                 "pkg": "ungoogled-chromium",
-                "description": "Modifications to Google Chromium for removing Google integration and enhancing privacy, control, and transparency.",
-                "website": "https://github.com/Eloston/ungoogled-chromium"
-            },
-            {
-                "version": "95.0.4638.69-r920003-1",
-                "pkg": "ungoogled-chromium-portable",
                 "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
             },
@@ -12489,20 +12471,8 @@
                 "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
             {
-                "version": "11.0.61030",
-                "pkg": "vcredist2012-portable",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2012.",
-                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
-            },
-            {
                 "version": "12.0.40664",
                 "pkg": "vcredist2013",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2013.",
-                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
-            },
-            {
-                "version": "12.0.40664",
-                "pkg": "vcredist2013-portable",
                 "description": "Microsoft Visual C++ Redistributable for Visual Studio 2013.",
                 "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
@@ -12513,20 +12483,8 @@
                 "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
             },
             {
-                "version": "14.0.24215.1",
-                "pkg": "vcredist2015-portable",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2015.",
-                "website": "https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads"
-            },
-            {
                 "version": "14.16.27027.1",
                 "pkg": "vcredist2017",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2017.",
-                "website": "https://www.visualstudio.com/downloads/"
-            },
-            {
-                "version": "14.16.27027.1",
-                "pkg": "vcredist2017-portable",
                 "description": "Microsoft Visual C++ Redistributable for Visual Studio 2017.",
                 "website": "https://www.visualstudio.com/downloads/"
             },
@@ -12537,20 +12495,8 @@
                 "website": "https://www.visualstudio.com/downloads/"
             },
             {
-                "version": "14.28.29914.0",
-                "pkg": "vcredist2019-portable",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2019",
-                "website": "https://www.visualstudio.com/downloads/"
-            },
-            {
                 "version": "14.31.30919.0",
                 "pkg": "vcredist2022",
-                "description": "Microsoft Visual C++ Redistributable for Visual Studio 2022",
-                "website": "https://www.visualstudio.com/downloads/"
-            },
-            {
-                "version": "14.31.30919.0",
-                "pkg": "vcredist2022-portable",
                 "description": "Microsoft Visual C++ Redistributable for Visual Studio 2022",
                 "website": "https://www.visualstudio.com/downloads/"
             },
@@ -12706,20 +12652,8 @@
             },
             {
                 "version": "1.63.2",
-                "pkg": "vscode-portable",
-                "description": "Lightweight but powerful source code editor (Portable Edition)",
-                "website": "https://code.visualstudio.com/"
-            },
-            {
-                "version": "1.63.2",
                 "pkg": "vscodium",
                 "description": "Binary releases of VS Code without MS branding/telemetry/licensing.",
-                "website": "https://github.com/VSCodium/vscodium"
-            },
-            {
-                "version": "1.63.2",
-                "pkg": "vscodium-portable",
-                "description": "Binary releases of VS Code without MS branding/telemetry/licensing (Portable Edition).",
                 "website": "https://github.com/VSCodium/vscodium"
             },
             {
@@ -13185,6 +13119,12 @@
                 "website": "http://xdman.sourceforge.net/"
             },
             {
+                "version": "1.3.8",
+                "pkg": "xenu",
+                "description": "Xenu's Link Sleuth checks Web sites for broken links",
+                "website": "http://home.snafu.de/tilman/xenulink.html"
+            },
+            {
                 "version": "0.1.9",
                 "pkg": "xjoy",
                 "description": "Gamepad driver for Nintendo Switch Joy-Cons that merges them into one controller.",
@@ -13197,9 +13137,9 @@
                 "website": "https://www.xmedia-recode.de/en/"
             },
             {
-                "version": "3.7.9",
-                "pkg": "xmind8",
-                "description": "XMind is the most professional and popular mind mapping tool.",
+                "version": "11.1.2",
+                "pkg": "xmind",
+                "description": "A full-featured mind mapping and brainstorming tool",
                 "website": "https://www.xmind.net/"
             },
             {
@@ -13207,6 +13147,12 @@
                 "pkg": "xmllint",
                 "description": "The command line XML tool that parses one or more XML files and prints various types of output, depending upon the options selected.",
                 "website": "http://xmlsoft.org/"
+            },
+            {
+                "version": "2.8.0.52",
+                "pkg": "xmlnotepad",
+                "description": "Provides a simple intuitive User Interface for browsing and editing XML documents",
+                "website": "https://microsoft.github.io/XmlNotepad/"
             },
             {
                 "version": "2.19.2",
@@ -13259,7 +13205,7 @@
             {
                 "version": "17.40.0100",
                 "pkg": "xyplorer",
-                "description": "A file manager for Windows.",
+                "description": "File manager for Windows",
                 "website": "https://www.xyplorer.com/free.php"
             },
             {
@@ -13522,19 +13468,19 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.12282021",
+                "version": "0.43.2.12292021",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
             },
             {
-                "version": "1.35.66",
+                "version": "1.35.68",
                 "pkg": "brave-beta",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (beta release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.36.2",
+                "version": "1.36.5",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13690,7 +13636,7 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "1.5.0.1290a",
+                "version": "1.5.0.1292a",
                 "pkg": "everything-alpha",
                 "description": "Locate files and folders by name instantly.",
                 "website": "https://www.voidtools.com"
@@ -13702,7 +13648,7 @@
                 "website": "https://www.voidtools.com"
             },
             {
-                "version": "2021-12-27",
+                "version": "2021-12-30",
                 "pkg": "ffmpeg-gyan-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13732,7 +13678,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "97.0a1.20211229092739",
+                "version": "97.0a1.20211230095735",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -13840,13 +13786,13 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "99.0.4793.0",
+                "version": "99.0.4796.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "98.0.4758.10",
+                "version": "98.0.4758.9",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -13996,6 +13942,12 @@
                 "website": "https://megatools.megous.com/"
             },
             {
+                "version": "2.0.11-dev.38",
+                "pkg": "micro-nightly",
+                "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
+                "website": "https://micro-editor.github.io/"
+            },
+            {
                 "version": "4.8.3",
                 "pkg": "miniconda2",
                 "description": null,
@@ -14044,7 +13996,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "368",
+                "version": "370",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -14152,7 +14104,7 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh2"
             },
             {
-                "version": "993",
+                "version": "994",
                 "pkg": "okular-nightly",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -14400,55 +14352,73 @@
             {
                 "version": "3.11.0a3",
                 "pkg": "python-alpha",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
-                "version": "3.8.6rc1",
-                "pkg": "python-beta",
-                "description": null,
+                "version": "3.10.0rc2",
+                "pkg": "python-rc",
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "2.7.18",
                 "pkg": "python27",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "2.7.18rc1",
                 "pkg": "python27-beta",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+                "website": "https://www.python.org/"
+            },
+            {
+                "version": "3.10.1",
+                "pkg": "python310",
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "3.5.4",
                 "pkg": "python35",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "3.6.8",
                 "pkg": "python36",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "3.7.9",
                 "pkg": "python37",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "3.8.10",
                 "pkg": "python38",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+                "website": "https://www.python.org/"
+            },
+            {
+                "version": "3.8.8rc1",
+                "pkg": "python38-beta",
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
                 "version": "3.9.9",
                 "pkg": "python39",
-                "description": null,
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+                "website": "https://www.python.org/"
+            },
+            {
+                "version": "3.9.2rc1",
+                "pkg": "python39-beta",
+                "description": "A programming language that lets you work quickly and integrate systems more effectively.",
                 "website": "https://www.python.org/"
             },
             {
@@ -14458,7 +14428,7 @@
                 "website": "https://www.r-project.org"
             },
             {
-                "version": "1.58.0-beta.5919.4e2ca3330",
+                "version": "1.58.0-beta.5920.071a9e882",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -14518,7 +14488,7 @@
                 "website": "https://rubyinstaller.org"
             },
             {
-                "version": "2021-12-28",
+                "version": "2021-12-30",
                 "pkg": "ruffle-nightly",
                 "description": "A Flash Player emulator written in Rust",
                 "website": "https://ruffle.rs/"
@@ -14686,7 +14656,7 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3930",
+                "version": "8.2.3941",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -14704,7 +14674,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20211229",
+                "version": "20211230",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -14746,6 +14716,12 @@
                 "website": "http://www.wox.one"
             },
             {
+                "version": "3.7.9",
+                "pkg": "xmind8",
+                "description": "A popular and classic mind mapping tool",
+                "website": "https://www.xmind.net/xmind8-pro/"
+            },
+            {
                 "version": "3.8.5.26",
                 "pkg": "xmplay-stuff",
                 "description": "The latest (potentially unstable) build of XMPlay, a Win32 audio player.",
@@ -14758,7 +14734,7 @@
                 "website": "https://github.com/xournalpp/xournalpp"
             },
             {
-                "version": "0.10.0-dev.91",
+                "version": "0.10.0-dev.95",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
