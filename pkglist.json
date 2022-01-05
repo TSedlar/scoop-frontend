@@ -308,7 +308,7 @@
                 "website": "https://docs.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10"
             },
             {
-                "version": "2.31.0",
+                "version": "2.32.0",
                 "pkg": "azure-cli",
                 "description": "Microsoft Azure CLI 2.0",
                 "website": "https://aka.ms/cli"
@@ -320,7 +320,7 @@
                 "website": "https://github.com/Azure/azure-functions-core-tools"
             },
             {
-                "version": "7.0.0.35044",
+                "version": "7.1.0.35119",
                 "pkg": "azure-ps",
                 "description": "PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications.",
                 "website": "https://aka.ms/azpsdocs"
@@ -344,7 +344,7 @@
                 "website": "https://github.com/BLAKE3-team/BLAKE3"
             },
             {
-                "version": "13.1.3",
+                "version": "13.1.6",
                 "pkg": "balena-cli",
                 "description": "Official balena CLI for interacting with balenaCloud and balena API.",
                 "website": "https://github.com/balena-io/balena-cli"
@@ -704,7 +704,7 @@
                 "website": "https://github.com/AlDanial/cloc"
             },
             {
-                "version": "0.7.1",
+                "version": "0.7.3",
                 "pkg": "cloud-nuke",
                 "description": "A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
@@ -788,7 +788,7 @@
                 "website": "https://concourse-ci.org/fly.html"
             },
             {
-                "version": "0.28.3",
+                "version": "0.29.0",
                 "pkg": "conftest",
                 "description": "Test utility for structured configuration files",
                 "website": "https://www.conftest.dev"
@@ -1208,7 +1208,7 @@
                 "website": "https://github.com/Azure/draft"
             },
             {
-                "version": "1.4.0",
+                "version": "1.5.0",
                 "pkg": "drone",
                 "description": "A self-service Continuous Delivery platform for busy development teams.",
                 "website": "https://drone.io/"
@@ -2180,7 +2180,7 @@
                 "website": "https://github.com/hetznercloud/cli"
             },
             {
-                "version": "0.5.0",
+                "version": "0.6.0",
                 "pkg": "helix",
                 "description": "A post-modern modal text editor",
                 "website": "https://helix-editor.com"
@@ -2258,7 +2258,7 @@
                 "website": "https://github.com/guumaster/hostctl"
             },
             {
-                "version": "0.3.0",
+                "version": "0.4.0",
                 "pkg": "htmlq",
                 "description": "Like jq, but for HTML. (Uses CSS selectors to extract bits of content from HTML files)",
                 "website": "https://github.com/mgdm/htmlq"
@@ -2432,6 +2432,12 @@
                 "website": "https://github.com/shyiko/jabba"
             },
             {
+                "version": "1.19.2",
+                "pkg": "janet",
+                "description": "Lisp-like, embeddable, functional and imperative programming language and bytecode interpreter",
+                "website": "https://janet-lang.org"
+            },
+            {
                 "version": "0.0.38",
                 "pkg": "jcli",
                 "description": "Multiple Jenkins servers manager",
@@ -2450,7 +2456,7 @@
                 "website": "https://github.com/jbruchon/jdupes"
             },
             {
-                "version": "2.10.0",
+                "version": "2.10.1",
                 "pkg": "jfrog",
                 "description": "Command line interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -2510,7 +2516,7 @@
                 "website": "https://just.systems"
             },
             {
-                "version": "3.2.236",
+                "version": "3.2.241",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2678,7 +2684,7 @@
                 "website": "https://kubectx.dev"
             },
             {
-                "version": "1.0.136",
+                "version": "1.0.137",
                 "pkg": "kubescape",
                 "description": "Scans K8s clusters, YAML files, and HELM charts, and detect misconfigurations and software vulnerabilities at early stages of the CI/CD pipeline and provides a risk score instantly and risk trends over time.",
                 "website": "https://github.com/armosec/kubescape/"
@@ -2894,7 +2900,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/m4.htm"
             },
             {
-                "version": "6.0.3",
+                "version": "6.0.4",
                 "pkg": "macchina",
                 "description": "A system information fetcher, with an emphasis on performance and minimalism",
                 "website": "https://github.com/Macchina-CLI/macchina"
@@ -2954,7 +2960,7 @@
                 "website": "https://maven.apache.org/"
             },
             {
-                "version": "0.4.14",
+                "version": "0.4.15",
                 "pkg": "mdbook",
                 "description": "Create a book from markdown files.",
                 "website": "https://github.com/rust-lang/mdBook"
@@ -3008,7 +3014,7 @@
                 "website": "https://micro-editor.github.io/"
             },
             {
-                "version": "3.2.3",
+                "version": "3.2.4",
                 "pkg": "micronaut",
                 "description": "Micronaut - A modern, JVM-based (Java, Groovy, Kotlin), full-stack framework for building modular and testable microservice and serverless applications",
                 "website": "https://micronaut.io"
@@ -3062,7 +3068,7 @@
                 "website": "https://kubernetes.io/docs/getting-started-guides/minikube/"
             },
             {
-                "version": "2021-12-29T06-49-06Z",
+                "version": "2022-01-03T18-22-58Z",
                 "pkg": "minio",
                 "description": "A high performance, distributed object storage server, designed for large-scale data infrastructure. (server)",
                 "website": "https://min.io"
@@ -3156,6 +3162,12 @@
                 "pkg": "moonscript",
                 "description": "Compiler of MoonScript, a dynamic scripting language that compiles into Lua",
                 "website": "https://moonscript.org/"
+            },
+            {
+                "version": "1.3.2",
+                "pkg": "mosh-client",
+                "description": "Windows native port of Mobile Shell (mosh) client.",
+                "website": "https://github.com/jumptrading/mosh-windows-wrappers"
             },
             {
                 "version": "2.0.14",
@@ -3416,7 +3428,7 @@
                 "website": "https://www.nuget.org/"
             },
             {
-                "version": "3.13.0",
+                "version": "3.13.1",
                 "pkg": "nunit-console",
                 "description": "NUnit Console runner for NUnit, the most popular and widely used unit testing framework for .NET",
                 "website": "https://nunit.org/"
@@ -3524,7 +3536,7 @@
                 "website": "http://www.omnisharp.net"
             },
             {
-                "version": "0.35.0",
+                "version": "0.36.0",
                 "pkg": "opa",
                 "description": "Policy-based control for cloud native environments",
                 "website": "https://www.openpolicyagent.org"
@@ -4112,7 +4124,7 @@
                 "website": "https://rakudo.org/star"
             },
             {
-                "version": "2.6.0",
+                "version": "2.4.14",
                 "pkg": "rancher-cli",
                 "description": "Unified tool for interacting with Rancher Server",
                 "website": "https://github.com/rancher/cli"
@@ -4958,7 +4970,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-22.01.02",
+                "version": "2.24-22.01.04",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://www.mark0.net/soft-trid-e.html"
@@ -5288,7 +5300,7 @@
                 "website": "https://wp-cli.org"
             },
             {
-                "version": "1.19.6",
+                "version": "1.19.7",
                 "pkg": "wrangler",
                 "description": "Cloudflare Workers project manager",
                 "website": "https://developers.cloudflare.com/workers/tooling/wrangler"
@@ -5973,7 +5985,7 @@
                 "website": "https://chillicream.com/docs/bananacakepop"
             },
             {
-                "version": "7.22",
+                "version": "7.23",
                 "pkg": "bandizip",
                 "description": "Yet another typical ZIP archiver",
                 "website": "http://www.bandisoft.com/bandizip/"
@@ -6021,7 +6033,7 @@
                 "website": "https://github.com/mvsoft74/BeatDrop"
             },
             {
-                "version": "2.1.5",
+                "version": "3.0.3",
                 "pkg": "beekeeper-studio",
                 "description": "SQL editor and database management",
                 "website": "https://www.beekeeperstudio.io"
@@ -6261,6 +6273,12 @@
                 "website": "https://sindresorhus.com/caprine/"
             },
             {
+                "version": "3.1.0",
+                "pkg": "captfencoder",
+                "description": "A network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscellaneous tools.",
+                "website": "https://github.com/guyoung/CaptfEncoder"
+            },
+            {
                 "version": "8.0.0",
                 "pkg": "captura",
                 "description": "Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes.",
@@ -6381,7 +6399,7 @@
                 "website": "https://www.henrypp.org/product/chrlauncher"
             },
             {
-                "version": "95.0.4638.69-r920003-1",
+                "version": "96.0.4664.93-r929512",
                 "pkg": "chromium",
                 "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -6585,7 +6603,7 @@
                 "website": "https://leomoon.com/downloads/desktop-apps/leomoon-cpu-v/"
             },
             {
-                "version": "1.98",
+                "version": "1.99",
                 "pkg": "cpu-z",
                 "description": "System information software",
                 "website": "https://www.cpuid.com/softwares/cpu-z.html"
@@ -7563,7 +7581,7 @@
                 "website": "https://justgetflux.com"
             },
             {
-                "version": "0.0.276",
+                "version": "0.0.277",
                 "pkg": "flyctl",
                 "description": "Command line deployment/management client for fly.io services",
                 "website": "https://github.com/superfly/flyctl"
@@ -8079,6 +8097,12 @@
                 "website": "http://hainproject.github.io/hain/"
             },
             {
+                "version": "3.9.2",
+                "pkg": "hakchi2-ce",
+                "description": "A modification for Nintendo Classic and Sega Mini systems to add additional games and content.",
+                "website": "https://hakchi.net/"
+            },
+            {
                 "version": "6.1.7",
                 "pkg": "hakuneko",
                 "description": "Manga and anime downloader",
@@ -8589,7 +8613,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.12.0-1522",
+                "version": "21.12.0-1523",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8601,7 +8625,7 @@
                 "website": "https://github.com/ciromattia/kcc"
             },
             {
-                "version": "21.12.0-835",
+                "version": "21.12.0-836",
                 "pkg": "kdeconnect",
                 "description": "Communications and data transfer between devices over local networks",
                 "website": "https://kdeconnect.kde.org/"
@@ -8823,7 +8847,7 @@
                 "website": "https://github.com/int128/kubelogin"
             },
             {
-                "version": "1.9.3",
+                "version": "1.9.4",
                 "pkg": "lagrange",
                 "description": "A Beautiful Gemini Client",
                 "website": "https://gmi.skyjake.fi/lagrange"
@@ -9129,7 +9153,7 @@
                 "website": "https://github.com/mifi/lossless-cut"
             },
             {
-                "version": "11.3",
+                "version": "11.4",
                 "pkg": "love",
                 "description": "A framework you can use to make 2D games in Lua.",
                 "website": "https://love2d.org"
@@ -9981,7 +10005,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.12.0-877",
+                "version": "21.12.0-878",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -10179,7 +10203,7 @@
                 "website": "https://github.com/Sigil-Ebook/PageEdit"
             },
             {
-                "version": "4.3.4",
+                "version": "4.3.7",
                 "pkg": "paint.net",
                 "description": "Image and photo editor",
                 "website": "https://www.getpaint.net"
@@ -10737,7 +10761,7 @@
                 "website": "https://qnapi.github.io/"
             },
             {
-                "version": "22.1.2",
+                "version": "22.1.3",
                 "pkg": "qownnotes",
                 "description": "Plain-text notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration",
                 "website": "https://www.qownnotes.org/"
@@ -10965,7 +10989,7 @@
                 "website": "https://ericzimmerman.github.io"
             },
             {
-                "version": "0.4.0",
+                "version": "0.4.1",
                 "pkg": "rehex",
                 "description": "Hex editor for reverse engineering",
                 "website": "https://github.com/solemnwarning/rehex"
@@ -11091,7 +11115,7 @@
                 "website": "https://docs.microsoft.com/en-us/previous-versions/technet-magazine/cc160891(v=msdn.10)"
             },
             {
-                "version": "3.7.4",
+                "version": "3.7.5",
                 "pkg": "rocketchat-client",
                 "description": "Desktop application for Rocket.Chat using Electron",
                 "website": "https://rocket.chat"
@@ -11805,7 +11829,7 @@
                 "website": "https://www.strokesplus.com"
             },
             {
-                "version": "1.16.0",
+                "version": "1.17.0",
                 "pkg": "structurizr-cli",
                 "description": "A command line interface to push/pull workspaces to/from the Structurizr cloud service/on-premises installation, and export views to PlantUML, Mermaid, and WebSequenceDiagrams formats.",
                 "website": "https://github.com/structurizr/cli"
@@ -12099,7 +12123,7 @@
                 "website": "https://www.teamviewer.com"
             },
             {
-                "version": "3.4.2",
+                "version": "3.4.3",
                 "pkg": "telegram",
                 "description": "A messaging app with a focus on speed and security",
                 "website": "https://telegram.org"
@@ -12409,6 +12433,12 @@
                 "pkg": "trillian",
                 "description": "Modern and secure instant messaging",
                 "website": "https://www.trillian.im"
+            },
+            {
+                "version": "0.7",
+                "pkg": "trojita",
+                "description": "IMAP e-mail client with lightweight GUI",
+                "website": "http://trojita.flaska.net/"
             },
             {
                 "version": "2.4.6",
@@ -13221,7 +13251,7 @@
                 "website": "http://www.wxhexeditor.org"
             },
             {
-                "version": "2022-01-03_07-12",
+                "version": "2022-01-04_08-47",
                 "pkg": "x64dbg",
                 "description": "x64/x32 debugger",
                 "website": "https://x64dbg.com/"
@@ -13491,7 +13521,7 @@
                 "website": "https://github.com/vors/ZLocation"
             },
             {
-                "version": "8.1.0.42",
+                "version": "8.1.1.51",
                 "pkg": "zmc",
                 "description": "A build of JDK Mission Control, an open source Java runtime profiling and monitoring utility",
                 "website": "https://www.azul.com/products/components/zulu-mission-control/"
@@ -13606,13 +13636,13 @@
                 "website": "https://www.beeflang.org/"
             },
             {
-                "version": "1.35.70",
+                "version": "1.35.72",
                 "pkg": "brave-beta",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (beta release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.36.11",
+                "version": "1.36.14",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -13624,15 +13654,21 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "91.0.4467.0-r869045",
+                "version": "99.0.4808.0-r955197",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
             },
             {
-                "version": "86.0.4185.0-r769185",
+                "version": "99.0.4800.0-r954746",
                 "pkg": "chromium-dev-nosync",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
+                "website": "https://www.chromium.org"
+            },
+            {
+                "version": "96.0.4664.93-r929512",
+                "pkg": "chromium-nosync",
+                "description": "Browser aiming for safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
             },
             {
@@ -13786,13 +13822,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "105057",
+                "version": "105086",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "105057",
+                "version": "105086",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -13810,7 +13846,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "97.0a1.20220103092929",
+                "version": "97.0a1.20220104034109",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -13924,13 +13960,13 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "99.0.4801.0",
+                "version": "99.0.4806.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "98.0.4758.9",
+                "version": "98.0.4758.10",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -14134,7 +14170,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "374",
+                "version": "375",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -14146,7 +14182,19 @@
                 "website": "https://github.com/Kethku/neovide"
             },
             {
-                "version": "0.7.0-dev-812-g2f31e7b88",
+                "version": "0.6.1",
+                "pkg": "neovim-bare",
+                "description": "Vim-fork focused on extensibility and usability",
+                "website": "https://neovim.io/"
+            },
+            {
+                "version": "0.7.0-dev-823-g207307d0f",
+                "pkg": "neovim-bare-nightly",
+                "description": "Vim fork focused on extensibility and usability",
+                "website": "https://neovim.io"
+            },
+            {
+                "version": "0.7.0-dev-823-g207307d0f",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -14242,7 +14290,7 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh2"
             },
             {
-                "version": "998",
+                "version": "999",
                 "pkg": "okular-nightly",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -14572,7 +14620,7 @@
                 "website": "https://rclone.org"
             },
             {
-                "version": "2022.02.0-daily+339",
+                "version": "2022.02.0-daily+348",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -14626,7 +14674,7 @@
                 "website": "https://rubyinstaller.org"
             },
             {
-                "version": "2022-01-03",
+                "version": "2022-01-04",
                 "pkg": "ruffle-nightly",
                 "description": "A Flash Player emulator written in Rust",
                 "website": "https://ruffle.rs/"
@@ -14722,6 +14770,12 @@
                 "website": "https://www.stunnel.org"
             },
             {
+                "version": "10.3.0",
+                "pkg": "tdm-gcc",
+                "description": "GCC compiler, Windows-friendly",
+                "website": "https://jmeubank.github.io/tdm-gcc/"
+            },
+            {
                 "version": "0.11.15",
                 "pkg": "terraform011",
                 "description": "Write, Plan, and Create Infrastructure as Code.",
@@ -14800,7 +14854,7 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.3988",
+                "version": "8.2.3995",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -14818,7 +14872,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20220103",
+                "version": "20220104",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -14884,7 +14938,7 @@
                 "website": "https://github.com/blackjack4494/yt-dlc/"
             },
             {
-                "version": "0.10.0-dev.139",
+                "version": "0.10.0-dev.183",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
