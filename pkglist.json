@@ -650,6 +650,12 @@
                 "website": "https://github.com/jpillora/chisel"
             },
             {
+                "version": "2.14",
+                "pkg": "chkcpu",
+                "description": "Checks CPU Vendor, Model, Internal speed, and L1 cache mode settings.",
+                "website": "http://web.inter.nl.net/hcc/J.Steunebrink/chkcpu.htm"
+            },
+            {
                 "version": "0.10.0",
                 "pkg": "chroma",
                 "description": "A general purpose syntax highlighter in pure Go",
@@ -1070,7 +1076,7 @@
                 "website": "https://corte.si/posts/devd/intro/index.html"
             },
             {
-                "version": "1.40.1",
+                "version": "1.40.2",
                 "pkg": "dhall",
                 "description": "Command-line tooling for the Dhall configuration language",
                 "website": "https://dhall-lang.org"
@@ -1364,6 +1370,12 @@
                 "website": "https://github.com/sindresorhus/empty-recycle-bin"
             },
             {
+                "version": "3.1.1",
+                "pkg": "emscripten",
+                "description": "LLVM to WebAssembly compiler. Compiles C/C++ to WebAssembly that can be run on most web browsers.",
+                "website": "https://emscripten.org/"
+            },
+            {
                 "version": "2.2.0",
                 "pkg": "enomic",
                 "description": "Project and instances manager for Enomic XP.",
@@ -1646,7 +1658,7 @@
                 "website": "https://practical-scheme.net/gauche/"
             },
             {
-                "version": "1.4.2",
+                "version": "1.4.3",
                 "pkg": "gauge",
                 "description": "Test automation tool",
                 "website": "https://gauge.org"
@@ -1832,7 +1844,7 @@
                 "website": "https://git-tfs.com"
             },
             {
-                "version": "7.6.0",
+                "version": "7.7.0",
                 "pkg": "git-town",
                 "description": "Git plugin, that adds Git commands that make collaborative software development more efficient and safe.",
                 "website": "https://www.git-town.com"
@@ -2408,7 +2420,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.1.0-19",
+                "version": "7.1.0-20",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -2420,14 +2432,14 @@
                 "website": "https://sourceforge.net/projects/inadyn-mt/files/inadyn-mt/"
             },
             {
-                "version": "1.8.10",
-                "pkg": "influxdb",
-                "description": "Scalable datastore for metrics, events, and real-time analytics.",
+                "version": "2.2.1",
+                "pkg": "influx",
+                "description": "CLI for InfluxDB 2.1+",
                 "website": "https://www.influxdata.com/"
             },
             {
                 "version": "2.1.1",
-                "pkg": "influxdb2",
+                "pkg": "influxdb",
                 "description": "Scalable datastore for metrics, events, and real-time analytics.",
                 "website": "https://www.influxdata.com/"
             },
@@ -2810,7 +2822,7 @@
                 "website": "https://miktex.org"
             },
             {
-                "version": "3.14",
+                "version": "3.15",
                 "pkg": "latexindent",
                 "description": "Perl script to add indentation to LaTeX files",
                 "website": "https://github.com/cmhughes/latexindent.pl"
@@ -2868,6 +2880,12 @@
                 "pkg": "lftp",
                 "description": "File transfer program supporting a number of network protocols(ftp, http, sftp, fish, torrent), mirroring, scripting, queueing and other features",
                 "website": "https://nwgat.ninja/lftp-for-windows/"
+            },
+            {
+                "version": "0.9.0",
+                "pkg": "libavif",
+                "description": "Tools and library for encoding and decoding AV1 video streams (.avif)",
+                "website": "https://github.com/AOMediaCodec/libavif"
             },
             {
                 "version": "8.12.1",
@@ -4796,7 +4814,7 @@
                 "website": "https://www.gnu.org/software/coreutils"
             },
             {
-                "version": "3.36.0",
+                "version": "3.36.1",
                 "pkg": "sourcegraph-cli",
                 "description": "Command line interface to Sourcegraph",
                 "website": "https://github.com/sourcegraph/src-cli"
@@ -4922,7 +4940,7 @@
                 "website": "http://www.swig.org"
             },
             {
-                "version": "5.2.0",
+                "version": "5.2.1",
                 "pkg": "symfony-cli",
                 "description": "Helps Symfony developers manage projects, from local code to remote infrastructure",
                 "website": "https://symfony.com"
@@ -5552,7 +5570,7 @@
                 "website": "http://www.videlibri.de/xidel.html"
             },
             {
-                "version": "2.6.2",
+                "version": "2.6.3",
                 "pkg": "xmake",
                 "description": "A cross-platform build utility based on Lua",
                 "website": "https://xmake.io"
@@ -5660,7 +5678,7 @@
                 "website": "https://yt-dl.org/"
             },
             {
-                "version": "4.16.2",
+                "version": "4.17.2",
                 "pkg": "yq",
                 "description": "A portable command-line YAML processor",
                 "website": "https://mikefarah.gitbook.io/yq/"
@@ -8529,7 +8547,7 @@
                 "website": "http://hydrogen-music.org"
             },
             {
-                "version": "469",
+                "version": "470b",
                 "pkg": "hydrus-network",
                 "description": "A personal booru-style media tagger",
                 "website": "https://hydrusnetwork.github.io/hydrus/"
@@ -8577,7 +8595,7 @@
                 "website": "http://ilspy.net"
             },
             {
-                "version": "8.3.11.21",
+                "version": "8.5.1.22",
                 "pkg": "imageglass",
                 "description": "A lightweight, versatile image viewer",
                 "website": "https://imageglass.org"
@@ -8895,7 +8913,7 @@
                 "website": "https://www.kakaocorp.com/service/KakaoTalk"
             },
             {
-                "version": "21.12.1-1542",
+                "version": "21.12.1-1543",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -8907,7 +8925,7 @@
                 "website": "https://github.com/ciromattia/kcc"
             },
             {
-                "version": "21.12.1-854",
+                "version": "21.12.1-855",
                 "pkg": "kdeconnect",
                 "description": "Communications and data transfer between devices over local networks",
                 "website": "https://kdeconnect.kde.org/"
@@ -9057,7 +9075,7 @@
                 "website": "https://www.kicad.org"
             },
             {
-                "version": "3.8.7",
+                "version": "3.9.1",
                 "pkg": "kid3",
                 "description": "Efficient ID3v1 and ID3v2 tag editor",
                 "website": "https://kid3.kde.org"
@@ -9831,6 +9849,12 @@
                 "website": "https://docs.mongodb.com/mongodb-shell"
             },
             {
+                "version": "1.4.0",
+                "pkg": "monokle",
+                "description": "K8s tool for creating, validating, debugging and managing manifests.",
+                "website": "https://kubeshop.github.io/monokle"
+            },
+            {
                 "version": "0.5.0",
                 "pkg": "moonscript",
                 "description": "A dynamic scripting language that compiles into Lua.",
@@ -10113,7 +10137,7 @@
                 "website": "https://www.netlify.com"
             },
             {
-                "version": "5.5.3",
+                "version": "5.5.4",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://netron.app/"
@@ -10341,7 +10365,7 @@
                 "website": "https://github.com/vmware/octant"
             },
             {
-                "version": "21.12.1-896",
+                "version": "21.12.1-897",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -11871,6 +11895,12 @@
                 "website": "https://www.syntevo.com/smartsynchronize/"
             },
             {
+                "version": "2.19.0",
+                "pkg": "smartsystemmenu",
+                "description": "A tool extends system menu of all windows in the system.",
+                "website": "https://github.com/AlexanderPro/SmartSystemMenu"
+            },
+            {
                 "version": "1.1.9",
                 "pkg": "smarttaskbar",
                 "description": "Automatically switch the display state of the Windows Taskbar",
@@ -13143,7 +13173,7 @@
                 "website": "http://www.vanmiddlesworth.org/vitrite/"
             },
             {
-                "version": "5.0.2497.38",
+                "version": "5.0.2497.48",
                 "pkg": "vivaldi",
                 "description": "An innovatively designed web browser, based on Blink, for users in Vivaldi.net community that replaced departed My Opera.",
                 "website": "https://vivaldi.com/"
@@ -14008,7 +14038,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.01212022",
+                "version": "0.43.2.01222022",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -14020,7 +14050,7 @@
                 "website": "https://brave.com"
             },
             {
-                "version": "1.36.58",
+                "version": "1.36.59",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -14032,7 +14062,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "100.0.4845.0-r961972",
+                "version": "100.0.4847.0-r962266",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -14224,7 +14254,7 @@
                 "website": "https://www.emule-project.net"
             },
             {
-                "version": "1.5.0.1297a",
+                "version": "1.5.0.1298a",
                 "pkg": "everything-alpha",
                 "description": "Locate files and folders by name instantly.",
                 "website": "https://www.voidtools.com"
@@ -14266,7 +14296,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "98.0a1.20220121104506",
+                "version": "98.0a1.20220122095122",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -14398,13 +14428,13 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "99.0.4840.0",
+                "version": "99.0.4844.3",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
             },
             {
-                "version": "99.0.4818.2",
+                "version": "99.0.4840.0",
                 "pkg": "googlechrome-dev",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/dev"
@@ -14488,10 +14518,16 @@
                 "website": "https://www.jetbrains.com/idea/"
             },
             {
-                "version": "7.1.0-19",
+                "version": "7.1.0-20",
                 "pkg": "imagemagick-ffmpeg",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
+            },
+            {
+                "version": "1.8.10",
+                "pkg": "influxdb1",
+                "description": "Scalable datastore for metrics, events, and real-time analytics.",
+                "website": "https://www.influxdata.com/"
             },
             {
                 "version": "nightly",
@@ -14662,7 +14698,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "393",
+                "version": "394",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -14680,13 +14716,13 @@
                 "website": "https://neovim.io/"
             },
             {
-                "version": "0.7.0-dev-908-g431915fe6",
+                "version": "0.7.0-dev-913-ge07a4b97f",
                 "pkg": "neovim-bare-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
             },
             {
-                "version": "0.7.0-dev-908-g431915fe6",
+                "version": "0.7.0-dev-913-ge07a4b97f",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -15160,7 +15196,7 @@
                 "website": "https://www.jetbrains.com/rider/"
             },
             {
-                "version": "2022.06.0-daily+22",
+                "version": "2022.06.0-daily+25",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -15418,7 +15454,7 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.4148",
+                "version": "8.2.4174",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -15436,7 +15472,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20220121",
+                "version": "20220122",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -15466,7 +15502,7 @@
                 "website": "https://eternallybored.org/misc/wget/"
             },
             {
-                "version": "2.2201.2",
+                "version": "2.2202.5",
                 "pkg": "whatsapp-beta",
                 "description": "A cross-platform messaging and Voice over IP service.",
                 "website": "https://www.whatsapp.com"
