@@ -362,7 +362,7 @@
                 "website": "https://github.com/balena-io/balena-cli"
             },
             {
-                "version": "0.19.0",
+                "version": "0.20.0",
                 "pkg": "bat",
                 "description": "A cat(1) clone with syntax highlighting and Git integration",
                 "website": "https://github.com/sharkdp/bat"
@@ -614,7 +614,7 @@
                 "website": "https://github.com/CastXML/CastXML"
             },
             {
-                "version": "4.5.1",
+                "version": "4.6",
                 "pkg": "ccache",
                 "description": "Compiler cache to speed up recompilation by caching previous compilations and detecting when the same compilation is being done again.",
                 "website": "https://ccache.dev"
@@ -1760,7 +1760,7 @@
                 "website": "https://cli.github.com"
             },
             {
-                "version": "1.7.8",
+                "version": "1.7.9",
                 "pkg": "ghorg",
                 "description": "Quickly clone an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more",
                 "website": "https://github.com/gabrie30/ghorg"
@@ -2468,6 +2468,12 @@
                 "website": "https://imagemagick.org/"
             },
             {
+                "version": "7.1.0",
+                "pkg": "imagemagick-lean",
+                "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
+                "website": "https://imagemagick.org/"
+            },
+            {
                 "version": "02.28.10",
                 "pkg": "inadyn-mt",
                 "description": "Dynamic DNS client",
@@ -2870,12 +2876,6 @@
                 "website": "https://lame.sourceforge.io/"
             },
             {
-                "version": "21.12",
-                "pkg": "latex",
-                "description": "MikTeX, an up-to-date implementation of TeX/LaTeX and related programs.",
-                "website": "https://miktex.org"
-            },
-            {
                 "version": "3.15",
                 "pkg": "latexindent",
                 "description": "Perl script to add indentation to LaTeX files",
@@ -3206,6 +3206,12 @@
                 "website": "https://github.com/golang-migrate/migrate"
             },
             {
+                "version": "21.12",
+                "pkg": "miktex",
+                "description": "MikTeX, an up-to-date implementation of TeX/LaTeX and related programs.",
+                "website": "https://miktex.org"
+            },
+            {
                 "version": "0.10.0",
                 "pkg": "mill",
                 "description": "Build tool aiming for Java and Scala.",
@@ -3290,7 +3296,7 @@
                 "website": "https://www.mls-software.com/opensshd.html"
             },
             {
-                "version": "2.5.0",
+                "version": "2.6.0",
                 "pkg": "mob",
                 "description": "Smooth git handover with mob",
                 "website": "https://mob.sh"
@@ -3734,7 +3740,7 @@
                 "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
-                "version": "7.25.1",
+                "version": "7.27.0",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -4052,7 +4058,7 @@
                 "website": "https://pngquant.org/"
             },
             {
-                "version": "6.32.1",
+                "version": "6.32.2",
                 "pkg": "pnpm",
                 "description": "A fast and disk space efficient Node package manager.",
                 "website": "https://pnpm.io/"
@@ -5816,7 +5822,7 @@
                 "website": "https://yt-dl.org/"
             },
             {
-                "version": "4.20.2",
+                "version": "4.21.1",
                 "pkg": "yq",
                 "description": "A portable command-line YAML processor",
                 "website": "https://mikefarah.gitbook.io/yq/"
@@ -6963,7 +6969,7 @@
                 "website": "https://www.guru3d.com/files-details/color-sustainer-download.html"
             },
             {
-                "version": "5.5.0.0",
+                "version": "5.5.1.0",
                 "pkg": "colorcontrol",
                 "description": "Easily change NVIDIA display settings and/or control LG TV's",
                 "website": "https://github.com/Maassoft/ColorControl"
@@ -9297,7 +9303,7 @@
                 "website": "https://keeweb.info"
             },
             {
-                "version": "1.13",
+                "version": "1.14",
                 "pkg": "keyboard-chatter-blocker",
                 "description": "Utility for blocking keyboard chatter",
                 "website": "https://github.com/mcmonkeyprojects/KeyboardChatterBlocker"
@@ -9831,7 +9837,7 @@
                 "website": "http://www.makehumancommunity.org/"
             },
             {
-                "version": "1.16.5",
+                "version": "1.16.7",
                 "pkg": "makemkv",
                 "description": "One-click solution to convert video that you own into a set of MKV files.",
                 "website": "https://www.makemkv.com/"
@@ -9861,7 +9867,7 @@
                 "website": "https://manifold.net/"
             },
             {
-                "version": "20220225",
+                "version": "20220227",
                 "pkg": "manjarowsl",
                 "description": "Install Manjaro as a WSL Instance",
                 "website": "https://github.com/sileshn/ManjaroWSL"
@@ -9969,7 +9975,7 @@
                 "website": "https://mednafen.github.io/"
             },
             {
-                "version": "7.49",
+                "version": "7.50",
                 "pkg": "megabasterd",
                 "description": "Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.",
                 "website": "https://github.com/tonikelope/megabasterd"
@@ -10167,6 +10173,12 @@
                 "website": "https://kubeshop.github.io/monokle"
             },
             {
+                "version": "3.2.0",
+                "pkg": "moonlight",
+                "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+                "website": "https://moonlight-stream.org"
+            },
+            {
                 "version": "0.5.0",
                 "pkg": "moonscript",
                 "description": "A dynamic scripting language that compiles into Lua.",
@@ -10245,7 +10257,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20220213",
+                "version": "20220227",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -10485,7 +10497,7 @@
                 "website": "https://www.netresec.com/?page=NetworkMiner"
             },
             {
-                "version": "3.4.2",
+                "version": "3.4.3",
                 "pkg": "nextcloud",
                 "description": "Desktop sync client for Nextcloud, a self-hosted productivity platform",
                 "website": "https://nextcloud.com/"
@@ -10569,7 +10581,7 @@
                 "website": "https://www.rizonesoft.com/downloads/notepad3/"
             },
             {
-                "version": "8.3.1",
+                "version": "8.3.2",
                 "pkg": "notepadplusplus",
                 "description": "A free source code editor and Notepad replacement that supports several languages.",
                 "website": "https://notepad-plus-plus.org"
@@ -10701,7 +10713,7 @@
                 "website": "https://omegat.org/"
             },
             {
-                "version": "3.4.35.0",
+                "version": "3.4.38.0",
                 "pkg": "onecommander",
                 "description": "A modern dual-pane file manager with tabs, columns view, built-in preview, editable themes, and more.",
                 "website": "https://onecommander.com/"
@@ -11409,7 +11421,7 @@
                 "website": "https://pwsafe.org/"
             },
             {
-                "version": "3.4.0",
+                "version": "3.4.2",
                 "pkg": "pwtech",
                 "description": "Professional password generator and manager, formerly known as PWGen",
                 "website": "https://pwgen-win.sourceforge.io"
@@ -11481,7 +11493,7 @@
                 "website": "https://qnapi.github.io/"
             },
             {
-                "version": "22.2.9",
+                "version": "22.2.10",
                 "pkg": "qownnotes",
                 "description": "Plain-text notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration",
                 "website": "https://www.qownnotes.org/"
@@ -12663,7 +12675,7 @@
                 "website": "https://www.skytopia.com/software/sunsetscreen/"
             },
             {
-                "version": "0.12.0",
+                "version": "0.13.0",
                 "pkg": "sunshine",
                 "description": "A Gamestream host for Moonlight",
                 "website": "https://github.com/SunshineStream/Sunshine"
@@ -13371,7 +13383,7 @@
                 "website": "https://www.uwamp.com/en/"
             },
             {
-                "version": "4.32",
+                "version": "4.33",
                 "pkg": "v2rayn",
                 "description": "GUI client based on v2ray core",
                 "website": "https://github.com/2dust/v2rayN"
@@ -14229,7 +14241,7 @@
                 "website": "https://lukaszbanasiak.github.io/YAPA/"
             },
             {
-                "version": "3.9.8.3f",
+                "version": "3.9.9",
                 "pkg": "yatqa",
                 "description": "Manage TeamSpeak 3 servers and instances using a query interface",
                 "website": "https://yat.qa/"
@@ -14464,7 +14476,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.2.02252022",
+                "version": "0.43.2.02262022",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -14488,7 +14500,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "101.0.4913.0-r975486",
+                "version": "101.0.4915.0-r975577",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -14698,13 +14710,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "105774",
+                "version": "105780",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "105774",
+                "version": "105780",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -14722,7 +14734,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "99.0a1.20220226094610",
+                "version": "99.0a1.20220227094054",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -14980,13 +14992,13 @@
                 "website": "https://jdownloader.org"
             },
             {
-                "version": "2.7.13",
+                "version": "2.7.14",
                 "pkg": "joplin-pre",
                 "description": "A note taking and to-do application with synchronization capabilities",
                 "website": "https://joplinapp.org"
             },
             {
-                "version": "21.12.2-1578",
+                "version": "21.12.2-1579",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -14998,7 +15010,7 @@
                 "website": "https://kdeconnect.kde.org/"
             },
             {
-                "version": "20220224",
+                "version": "20220226",
                 "pkg": "kodi-dev",
                 "description": "Open source home theater/media center software and entertainment hub for digital media",
                 "website": "https://kodi.tv/"
@@ -15160,7 +15172,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "429",
+                "version": "430",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -15172,7 +15184,7 @@
                 "website": "https://github.com/Kethku/neovide"
             },
             {
-                "version": "0.7.0-dev-1136-g005a7aa16",
+                "version": "0.7.0-dev-1149-g8bf3a3e30",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -15268,13 +15280,13 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh2"
             },
             {
-                "version": "21.12.2-935",
+                "version": "21.12.2-936",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
             },
             {
-                "version": "1058",
+                "version": "1059",
                 "pkg": "okular-nightly",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -15916,7 +15928,7 @@
                 "website": "https://vlang.io"
             },
             {
-                "version": "8.2.4473",
+                "version": "8.2.4478",
                 "pkg": "vim-nightly",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text.",
                 "website": "https://www.vim.org"
@@ -15934,7 +15946,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20220226",
+                "version": "20220227",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -16048,7 +16060,7 @@
                 "website": "https://github.com/blackjack4494/yt-dlc/"
             },
             {
-                "version": "0.10.0-dev.980",
+                "version": "0.10.0-dev.1009",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
