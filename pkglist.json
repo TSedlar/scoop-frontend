@@ -20,12 +20,6 @@
                 "website": "https://www.7-zip.org/"
             },
             {
-                "version": "1.4.5",
-                "pkg": "PowerSession",
-                "description": "Terminal session recorder (Asciinema format)",
-                "website": "https://github.com/Watfaq/PowerSession"
-            },
-            {
                 "version": "1.0.0",
                 "pkg": "abc",
                 "description": "Command-line tool to interact with appbase.io",
@@ -80,7 +74,7 @@
                 "website": "https://github.com/kaegi/alass"
             },
             {
-                "version": "1.12.14",
+                "version": "1.13.0",
                 "pkg": "algernon",
                 "description": "Small self-contained pure-Go web server with Lua, Markdown, HTTP/2, QUIC, Redis and PostgreSQL support",
                 "website": "https://algernon.roboticoverlords.org"
@@ -1196,7 +1190,7 @@
                 "website": "http://djvu.sourceforge.net"
             },
             {
-                "version": "2.099.1",
+                "version": "2.100.0",
                 "pkg": "dmd",
                 "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax",
                 "website": "https://dlang.org/"
@@ -2540,7 +2534,7 @@
                 "website": "https://selenium.dev"
             },
             {
-                "version": "7.1.0-33",
+                "version": "7.1.0-34",
                 "pkg": "imagemagick",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -3590,7 +3584,7 @@
                 "website": "https://www.nasm.us"
             },
             {
-                "version": "2.19.0",
+                "version": "2.20.0",
                 "pkg": "navi",
                 "description": "An interactive cheatsheet tool for the command-line",
                 "website": "https://github.com/denisidoro/navi/"
@@ -3674,7 +3668,7 @@
                 "website": "https://nim-lang.org/"
             },
             {
-                "version": "1.10.2",
+                "version": "1.11.0",
                 "pkg": "ninja",
                 "description": "A small build system with a focus on speed.",
                 "website": "https://ninja-build.org/"
@@ -4242,6 +4236,12 @@
                 "pkg": "powerping",
                 "description": "Small improved command line ICMP ping program lovingly inspired by windows and linux.",
                 "website": "https://github.com/Killeroo/PowerPing"
+            },
+            {
+                "version": "1.4.5",
+                "pkg": "powersession",
+                "description": "Terminal session recorder (Asciinema format)",
+                "website": "https://github.com/Watfaq/PowerSession"
             },
             {
                 "version": "5.0.0-beta1",
@@ -5438,7 +5438,7 @@
                 "website": "https://github.com/XAMPPRocky/tokei"
             },
             {
-                "version": "8.3.1",
+                "version": "9.0.0",
                 "pkg": "topgrade",
                 "description": "Upgrade everything, keep your system up to date by detecting which tools you use and run their appropriate package managers.",
                 "website": "https://github.com/r-darwish/topgrade"
@@ -5480,7 +5480,7 @@
                 "website": "https://github.com/dduan/tre"
             },
             {
-                "version": "2.24-22.05.11",
+                "version": "2.24-22.05.15",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://www.mark0.net/soft-trid-e.html"
@@ -5798,7 +5798,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/which.htm"
             },
             {
-                "version": "2.1.22.1260",
+                "version": "2.1.22.1267",
                 "pkg": "win-acme",
                 "description": "A Simple ACME Client",
                 "website": "https://www.win-acme.com"
@@ -6122,6 +6122,12 @@
     },
     "extras": {
         "packages": [
+            {
+                "version": "1.85",
+                "pkg": "3d-fix-manager",
+                "description": "Tool for Installing Nvidia 3D Vision Fixes and changing 3D related settings such as 3D depth and convergence while gaming.",
+                "website": "http://helixmod.blogspot.com/2017/05/3d-fix-manager.html"
+            },
             {
                 "version": "2.9.2",
                 "pkg": "3rvx",
@@ -7803,7 +7809,7 @@
                 "website": "https://doublecmd.sourceforge.io/"
             },
             {
-                "version": "18.0.1",
+                "version": "18.0.4",
                 "pkg": "draw.io",
                 "description": "Professional diagramming",
                 "website": "https://www.diagrams.net"
@@ -10575,7 +10581,7 @@
                 "website": "https://github.com/ethereum/mist"
             },
             {
-                "version": "8.0.0",
+                "version": "8.1.0",
                 "pkg": "mitmproxy",
                 "description": "A free and open source interactive HTTPS proxy",
                 "website": "https://mitmproxy.org/"
@@ -10743,7 +10749,7 @@
                 "website": "https://mpv.io"
             },
             {
-                "version": "20220508",
+                "version": "20220515",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -10779,7 +10785,7 @@
                 "website": "https://mremoteng.org/"
             },
             {
-                "version": "2.1.627",
+                "version": "2.1.669",
                 "pkg": "msbuild-structured-log-viewer",
                 "description": "A logger for MSBuild that records a structured representation of executed targets, tasks, property and item values.",
                 "website": "https://github.com/KirillOsenkov/MSBuildStructuredLog/"
@@ -10965,7 +10971,7 @@
                 "website": "https://www.netlify.com"
             },
             {
-                "version": "5.7.9",
+                "version": "5.8.0",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://netron.app/"
@@ -11157,13 +11163,13 @@
                 "website": "https://github.com/rohit-px2/nvui"
             },
             {
-                "version": "0.64.0",
+                "version": "0.64.1",
                 "pkg": "nwjs",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io"
             },
             {
-                "version": "0.64.0",
+                "version": "0.64.1",
                 "pkg": "nwjs-sdk",
                 "description": "An app runtime based on Chromium and NodeJS",
                 "website": "https://nwjs.io"
@@ -11229,7 +11235,7 @@
                 "website": "https://omegat.org/"
             },
             {
-                "version": "3.5.6.0",
+                "version": "3.5.10.0",
                 "pkg": "onecommander",
                 "description": "A modern dual-pane file manager with tabs, columns view, built-in preview, editable themes, and more.",
                 "website": "https://onecommander.com/"
@@ -12033,7 +12039,7 @@
                 "website": "https://qnapi.github.io/"
             },
             {
-                "version": "22.5.0",
+                "version": "22.5.1",
                 "pkg": "qownnotes",
                 "description": "Plain-text notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration",
                 "website": "https://www.qownnotes.org/"
@@ -13623,7 +13629,7 @@
                 "website": "https://www.listary.com/text-editor-anywhere"
             },
             {
-                "version": "21.2.2",
+                "version": "21.2.3",
                 "pkg": "texteditorpro",
                 "description": "Powerful text editor with syntax highlighting for multiple languages and scripts. Formerly known as EditBone",
                 "website": "https://texteditor.pro/"
@@ -13965,6 +13971,12 @@
                 "website": "https://uvnc.com"
             },
             {
+                "version": "2.32.0",
+                "pkg": "umbrello",
+                "description": "UML (Unified Modelling Language) diagram program based on KDE Technology",
+                "website": "https://umbrello.kde.org/"
+            },
+            {
                 "version": "702",
                 "pkg": "unetbootin",
                 "description": "UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD.",
@@ -14145,7 +14157,7 @@
                 "website": "https://vibrancegui.com/"
             },
             {
-                "version": "7.14",
+                "version": "7.15",
                 "pkg": "vidcoder",
                 "description": "DVD/Blu-ray ripping and video transcoding tool that uses HandBrake as its encoding engine.",
                 "website": "https://vidcoder.net"
@@ -14673,7 +14685,7 @@
                 "website": "https://www.diskanalyzer.com"
             },
             {
-                "version": "2.1.3",
+                "version": "2.1.4",
                 "pkg": "wonderpen",
                 "description": "Professional writing app with a focused and fluid writing experience.",
                 "website": "https://www.tominlab.com/en/wonderpen"
@@ -15208,7 +15220,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.3.05132022",
+                "version": "0.43.3.05142022",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -15238,7 +15250,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "104.0.5063.0-r1003519",
+                "version": "104.0.5065.0-r1003532",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -15268,7 +15280,7 @@
                 "website": "https://www.jetbrains.com/cpp/"
             },
             {
-                "version": "3.23.20220513",
+                "version": "3.23.20220514",
                 "pkg": "cmake-nightly",
                 "description": "Family of tools designed to build, test and package software",
                 "website": "https://cmake.org"
@@ -15544,7 +15556,7 @@
                 "website": "https://www.voidtools.com"
             },
             {
-                "version": "6.0.0-nightly.34",
+                "version": "6.0.0-nightly.36",
                 "pkg": "ferdium-nightly",
                 "description": "All-in-one messaging apps for various services",
                 "website": "https://github.com/ferdium/ferdium-app"
@@ -15556,19 +15568,19 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "106927",
+                "version": "106928",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "106927",
+                "version": "106928",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "5.0.1-5-20220514",
+                "version": "5.0.1-5-20220515",
                 "pkg": "ffmpeg-yt-dlp",
                 "description": "FFMpeg builds of latest release branch with patches necessary for smooth integration with yt-dlp",
                 "website": "https://github.com/yt-dlp/FFmpeg-Builds"
@@ -15592,7 +15604,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "102.0a1.20220514065807",
+                "version": "102.0a1.20220515094927",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -15622,7 +15634,7 @@
                 "website": "http://fmedia.firmdev.com/"
             },
             {
-                "version": "28857",
+                "version": "28872",
                 "pkg": "freecad-weekly",
                 "description": "A free and open-source multi-platform parametric 3D modeler.",
                 "website": "https://www.freecadweb.org"
@@ -15742,7 +15754,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "103.0.5057.3",
+                "version": "104.0.5062.0",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -15850,7 +15862,7 @@
                 "website": "https://imageglass.org"
             },
             {
-                "version": "7.1.0-33",
+                "version": "7.1.0-34",
                 "pkg": "imagemagick-ffmpeg",
                 "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
                 "website": "https://imagemagick.org/"
@@ -15874,7 +15886,7 @@
                 "website": "https://joplinapp.org"
             },
             {
-                "version": "1124",
+                "version": "1127",
                 "pkg": "kdenlive-nightly",
                 "description": "Video editing software based on the MLT Framework, KDE and Qt",
                 "website": "https://kdenlive.org"
@@ -15886,19 +15898,19 @@
                 "website": "https://keepassxc.org"
             },
             {
-                "version": "r27600.61be5854d7.2022-05-14",
+                "version": "r27607.79a0ce9137.2022-05-15",
                 "pkg": "kicad-lite-nightly",
                 "description": "Electronics Design Automation Suite, nightly build without libraries",
                 "website": "https://kicad.org"
             },
             {
-                "version": "27600.61be5854d7",
+                "version": "27607.79a0ce9137",
                 "pkg": "kicad-nightly",
                 "description": "Nightly build of KiCAD, an electronics design automation (EDA) suite.",
                 "website": "https://kicad-pcb.org"
             },
             {
-                "version": "20220511",
+                "version": "20220515",
                 "pkg": "kodi-dev",
                 "description": "Open source home theater/media center software and entertainment hub for digital media",
                 "website": "https://kodi.tv/"
@@ -16048,13 +16060,13 @@
                 "website": "https://hp.vector.co.jp/authors/VA021385/"
             },
             {
-                "version": "202205140455",
+                "version": "202205150423",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
             },
             {
-                "version": "202205140448",
+                "version": "202205150417",
                 "pkg": "musescore3-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -16072,7 +16084,7 @@
                 "website": "https://dev.mysql.com/downloads/mysql/5.7.html"
             },
             {
-                "version": "508",
+                "version": "509",
                 "pkg": "neochat-nightly",
                 "description": "A client for Matrix, the decentralized communication protocol",
                 "website": "https://apps.kde.org/neochat/"
@@ -16084,7 +16096,7 @@
                 "website": "https://github.com/Kethku/neovide"
             },
             {
-                "version": "0.8.0-dev-203-g9e4286294",
+                "version": "0.8.0-dev-207-g0adc66171",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -16186,7 +16198,7 @@
                 "website": "https://github.com/JanDeDobbeleer/oh-my-posh2"
             },
             {
-                "version": "1135",
+                "version": "1140",
                 "pkg": "okular-nightly",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -16204,7 +16216,7 @@
                 "website": "https://openrgb.org"
             },
             {
-                "version": "2022.05.09",
+                "version": "2022.05.15",
                 "pkg": "openscad-dev",
                 "description": "The Programmers Solid 3D CAD Modeller",
                 "website": "https://www.openscad.org/"
@@ -16246,7 +16258,7 @@
                 "website": "https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx"
             },
             {
-                "version": "2022-05-14",
+                "version": "2022-05-15",
                 "pkg": "oss-cad-suite-nightly",
                 "description": "Open source digital design and verification tools. Includes tools for RTL synthesis, formal hardware verification, place & route, FPGA programming, and testing with support for HDLs like Verilog, Migen and Amaranth.",
                 "website": "https://github.com/YosysHQ/oss-cad-suite-build"
@@ -16588,7 +16600,7 @@
                 "website": "https://www.jetbrains.com/rider/"
             },
             {
-                "version": "2022.06.0-daily+403",
+                "version": "2022.06.0-daily+406",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -16876,7 +16888,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20220514",
+                "version": "20220515",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -16978,7 +16990,7 @@
                 "website": "https://www.un4seen.com/xmplay.html"
             },
             {
-                "version": "1.1.1-20220511",
+                "version": "1.1.1-20220515",
                 "pkg": "xournalpp-nightly",
                 "description": "A handwriting notetaking software with PDF annotation support",
                 "website": "https://github.com/xournalpp/xournalpp"
