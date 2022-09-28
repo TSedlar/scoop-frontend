@@ -296,7 +296,7 @@
                 "website": "https://docs.amplify.aws/cli"
             },
             {
-                "version": "1.21.1",
+                "version": "1.22.0",
                 "pkg": "aws-copilot",
                 "description": "A tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.",
                 "website": "https://aws.github.io/copilot-cli/"
@@ -536,7 +536,7 @@
                 "website": "https://github.com/ClementTsang/bottom"
             },
             {
-                "version": "0.10.5",
+                "version": "0.11.0",
                 "pkg": "boundary",
                 "description": "Simple and secure remote access for any system from anywhere based on user identity",
                 "website": "https://www.boundaryproject.io"
@@ -812,7 +812,7 @@
                 "website": "https://github.com/MetaCubeX/Clash.Meta"
             },
             {
-                "version": "1.3.43",
+                "version": "1.3.44",
                 "pkg": "clink",
                 "description": "Powerful Bash-style command line editing for cmd.exe",
                 "website": "https://chrisant996.github.io/clink/"
@@ -842,7 +842,7 @@
                 "website": "https://github.com/AlDanial/cloc"
             },
             {
-                "version": "0.19.0",
+                "version": "0.19.1",
                 "pkg": "cloud-nuke",
                 "description": "A tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
                 "website": "https://github.com/gruntwork-io/cloud-nuke"
@@ -902,7 +902,7 @@
                 "website": "https://github.com/github/codeql-cli-binaries"
             },
             {
-                "version": "0.9.0",
+                "version": "0.9.1",
                 "pkg": "coder",
                 "description": "Creates remote development machines so your team can develop from anywhere.",
                 "website": "https://coder.com/"
@@ -1112,7 +1112,7 @@
                 "website": "https://dafny-lang.github.io/dafny/"
             },
             {
-                "version": "0.2.34",
+                "version": "0.2.35",
                 "pkg": "dagger",
                 "description": "A portable devkit for CI/CD pipelines",
                 "website": "https://dagger.io/"
@@ -1322,7 +1322,7 @@
                 "website": "https://docs.docker.com/engine"
             },
             {
-                "version": "2.11.1",
+                "version": "2.11.2",
                 "pkg": "docker-compose",
                 "description": "Define and run multi-container applications with Docker",
                 "website": "https://docs.docker.com/compose/"
@@ -1334,7 +1334,7 @@
                 "website": "https://github.com/christian-korneck/docker-pushrm"
             },
             {
-                "version": "1.81.0",
+                "version": "1.82.0",
                 "pkg": "doctl",
                 "description": "A command line tool for DigitalOcean services",
                 "website": "https://github.com/digitalocean/doctl"
@@ -1358,7 +1358,7 @@
                 "website": "https://github.com/Kotlin/dokka/"
             },
             {
-                "version": "0.41.5",
+                "version": "0.41.6",
                 "pkg": "dolt",
                 "description": "Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository.",
                 "website": "https://github.com/dolthub/dolt"
@@ -1490,7 +1490,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "2.27.2",
+                "version": "2.28.0",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1514,7 +1514,7 @@
                 "website": "https://www.edgedb.com/"
             },
             {
-                "version": "107.0.1402.0",
+                "version": "107.0.1403.0",
                 "pkg": "edgedriver",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -1736,7 +1736,7 @@
                 "website": "https://bsdio.com/fio/"
             },
             {
-                "version": "11.10.0",
+                "version": "11.11.0",
                 "pkg": "firebase",
                 "description": "Test, manage, and deploy Firebase project from the command line",
                 "website": "https://github.com/firebase/firebase-tools"
@@ -1748,7 +1748,7 @@
                 "website": "https://xiph.org/flac/"
             },
             {
-                "version": "2.0.8",
+                "version": "22.9.24",
                 "pkg": "flatc",
                 "description": "An efficient serialization library for multiple languages",
                 "website": "https://google.github.io/flatbuffers/index.html"
@@ -1766,7 +1766,7 @@
                 "website": "https://fluxcd.io"
             },
             {
-                "version": "0.0.396",
+                "version": "0.0.398",
                 "pkg": "flyctl",
                 "description": "Command line deployment/management client for fly.io services",
                 "website": "https://github.com/superfly/flyctl"
@@ -1916,7 +1916,7 @@
                 "website": "https://github.com/prasmussen/gdrive"
             },
             {
-                "version": "5.18.1",
+                "version": "5.19.0",
                 "pkg": "gdu",
                 "description": "A Fast Console Disk Usage Analyzer",
                 "website": "https://github.com/dundee/gdu"
@@ -2006,7 +2006,7 @@
                 "website": "https://gitforwindows.org"
             },
             {
-                "version": "10.20220725",
+                "version": "10.20220927",
                 "pkg": "git-annex",
                 "description": "Manage files with git, without comitting them.",
                 "website": "https://git-annex.branchable.com/"
@@ -2112,6 +2112,12 @@
                 "pkg": "gitlab-runner",
                 "description": "Run your jobs and send the results back to GitLab",
                 "website": "https://docs.gitlab.com/runner/"
+            },
+            {
+                "version": "8.13.0",
+                "pkg": "gitleaks",
+                "description": "SAST tool for detecting and preventing hardcoded secrets like passwords, api keys, and tokens in git repos",
+                "website": "https://gitleaks.io"
             },
             {
                 "version": "0.2",
@@ -2264,13 +2270,13 @@
                 "website": "https://github.com/ValdikSS/GoodbyeDPI"
             },
             {
-                "version": "1.14.7",
+                "version": "1.14.8",
                 "pkg": "gopass",
                 "description": "The slightly more awesome standard unix password manager for teams",
                 "website": "https://www.gopass.pw/"
             },
             {
-                "version": "1.14.7",
+                "version": "1.14.8",
                 "pkg": "gopass-jsonapi",
                 "description": "Gopass Browser Bindings",
                 "website": "https://www.gopass.pw/"
@@ -2798,7 +2804,7 @@
                 "website": "https://github.com/intoolswetrust/jd-cli"
             },
             {
-                "version": "1.16.0-202209262038",
+                "version": "1.16.0-202209271915",
                 "pkg": "jdtls",
                 "description": "Java language server",
                 "website": "https://projects.eclipse.org/projects/eclipse.jdt.ls"
@@ -2810,7 +2816,7 @@
                 "website": "https://github.com/jbruchon/jdupes"
             },
             {
-                "version": "2.370",
+                "version": "2.371",
                 "pkg": "jenkins",
                 "description": "An automation server which enables developers around the world to reliably build, test, and deploy their software.",
                 "website": "https://www.jenkins.io"
@@ -2822,7 +2828,7 @@
                 "website": "https://www.jenkins.io"
             },
             {
-                "version": "2.26.1",
+                "version": "2.26.2",
                 "pkg": "jfrog",
                 "description": "Command line interface for Artifactory and Bintray",
                 "website": "https://jfrog.com/getcli/"
@@ -2894,7 +2900,7 @@
                 "website": "https://just.systems"
             },
             {
-                "version": "3.5.24",
+                "version": "3.5.28",
                 "pkg": "jx",
                 "description": "A command line tool for installing and using Jenkins X",
                 "website": "https://github.com/jenkins-x/jx"
@@ -2930,7 +2936,7 @@
                 "website": "https://k6.io"
             },
             {
-                "version": "0.26.5",
+                "version": "0.26.6",
                 "pkg": "k9s",
                 "description": "Kubernetes Clusters manager",
                 "website": "https://github.com/derailed/k9s"
@@ -3356,7 +3362,7 @@
                 "website": "http://gnuwin32.sourceforge.net/packages/m4.htm"
             },
             {
-                "version": "6.1.5",
+                "version": "6.1.6",
                 "pkg": "macchina",
                 "description": "A system information fetcher, with an emphasis on performance and minimalism",
                 "website": "https://github.com/Macchina-CLI/macchina"
@@ -3884,7 +3890,7 @@
                 "website": "https://ngrok.com/"
             },
             {
-                "version": "1.6.6",
+                "version": "1.6.8",
                 "pkg": "nim",
                 "description": "A statically typed compiled systems programming language, which combines successful concepts from mature languages like Python, Ada and Modula.",
                 "website": "https://nim-lang.org/"
@@ -3968,7 +3974,7 @@
                 "website": "https://github.com/maharmstone/ntfs2btrfs"
             },
             {
-                "version": "1.27.2",
+                "version": "1.28.0",
                 "pkg": "ntfy",
                 "description": "Send push notifications to your phone or desktop via PUT/POST",
                 "website": "https://ntfy.sh"
@@ -4082,7 +4088,7 @@
                 "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
-                "version": "11.0.1",
+                "version": "11.1.1",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -4640,7 +4646,7 @@
                 "website": "https://github.com/Nukesor/pueue"
             },
             {
-                "version": "3.40.1",
+                "version": "3.40.2",
                 "pkg": "pulumi",
                 "description": "Create, deploy, and manage infrastructure on any cloud using any language.",
                 "website": "https://www.pulumi.com"
@@ -5486,7 +5492,7 @@
                 "website": "https://starship.rs"
             },
             {
-                "version": "2.11.0",
+                "version": "2.12.0",
                 "pkg": "static-web-server",
                 "description": "A blazing fast and asynchronous web server for static files-serving",
                 "website": "https://sws.joseluisq.net/"
@@ -5504,7 +5510,7 @@
                 "website": "https://syncthing.net/"
             },
             {
-                "version": "1.21.0",
+                "version": "1.22.0",
                 "pkg": "stern",
                 "description": "Multi pod and container log tailing for Kubernetes",
                 "website": "https://github.com/stern/stern"
@@ -5816,7 +5822,7 @@
                 "website": "https://tree-sitter.github.io/tree-sitter/"
             },
             {
-                "version": "2.24-22.09.23",
+                "version": "2.24-22.09.27",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://www.mark0.net/soft-trid-e.html"
@@ -6843,7 +6849,7 @@
                 "website": "https://cloud.google.com/appengine/docs"
             },
             {
-                "version": "0.0.5.2",
+                "version": "0.0.5.3",
                 "pkg": "appflowy",
                 "description": "An open-source alternative to Notion. You are in charge of your data and customizations.",
                 "website": "https://www.appflowy.io/"
@@ -7347,7 +7353,7 @@
                 "website": "http://brackets.io/"
             },
             {
-                "version": "1.44.100",
+                "version": "1.44.101",
                 "pkg": "brave",
                 "description": "Secure, Fast & Private Web Browser with Adblocker",
                 "website": "https://brave.com"
@@ -7641,7 +7647,7 @@
                 "website": "https://www.chromium.org"
             },
             {
-                "version": "1.5.7",
+                "version": "1.5.6",
                 "pkg": "cider",
                 "description": "Cross-platform Apple Music client",
                 "website": "https://cider.sh"
@@ -8745,7 +8751,7 @@
                 "website": "https://markummitchell.github.io/engauge-digitizer/"
             },
             {
-                "version": "6.8.2.1085",
+                "version": "6.8.3.1155",
                 "pkg": "enpass",
                 "description": "A cross-platform password management app to securely store passwords and other credentials in a virtual vault locked with a master password.",
                 "website": "https://www.enpass.io"
@@ -8973,7 +8979,7 @@
                 "website": "https://www.figma.com/"
             },
             {
-                "version": "20220923-1417",
+                "version": "20220927-1717",
                 "pkg": "fiji",
                 "description": "ImageJ distribution with many plugins which facilitating scientific image analysis.",
                 "website": "https://fiji.sc/"
@@ -9393,7 +9399,7 @@
                 "website": "https://developer.valvesoftware.com/wiki/GCFScape"
             },
             {
-                "version": "403.0.0",
+                "version": "404.0.0",
                 "pkg": "gcloud",
                 "description": "Command-line interface for Google Cloud Platform products and services.",
                 "website": "https://cloud.google.com/sdk/"
@@ -10107,7 +10113,7 @@
                 "website": "http://www.jrsoftware.org/isinfo.php"
             },
             {
-                "version": "2022.5.1",
+                "version": "2022.6.0",
                 "pkg": "insomnia",
                 "description": "HTTP and GraphQL client",
                 "website": "https://insomnia.rest"
@@ -10209,7 +10215,7 @@
                 "website": "https://www.jabref.org"
             },
             {
-                "version": "0.20.2004",
+                "version": "0.20.2013",
                 "pkg": "jackett",
                 "description": "API Support for your favorite torrent trackers",
                 "website": "https://github.com/Jackett/Jackett"
@@ -10503,7 +10509,7 @@
                 "website": "https://github.com/victor-rds/KeeTrayTOTP"
             },
             {
-                "version": "2.4.2",
+                "version": "2.4.3",
                 "pkg": "keepass-plugin-kpenhentryview",
                 "description": "Plugin for KeePass 2.x that provides an enhanced entry view",
                 "website": "https://sourceforge.net/projects/kpenhentryview/"
@@ -10947,7 +10953,7 @@
                 "website": "https://github.com/linqpadless/LinqPadless"
             },
             {
-                "version": "2.1.1",
+                "version": "2.1.2",
                 "pkg": "liquidsoap",
                 "description": "Icecast-compatible streamer for streaming audio and video",
                 "website": "https://www.liquidsoap.info"
@@ -11079,7 +11085,7 @@
                 "website": "https://github.com/mtkennerly/ludusavi"
             },
             {
-                "version": "8.6.2",
+                "version": "8.7.0",
                 "pkg": "lunacy",
                 "description": "Free Graphic Design Software",
                 "website": "https://icons8.com/lunacy"
@@ -11709,7 +11715,7 @@
                 "website": "https://github.com/KirillOsenkov/MSBuildStructuredLog/"
             },
             {
-                "version": "0.7.0.1",
+                "version": "0.7.0.2",
                 "pkg": "msedgeredirect",
                 "description": "A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser",
                 "website": "https://github.com/rcmaehl/MSEdgeRedirect"
@@ -12333,7 +12339,7 @@
                 "website": "https://github.com/MuhammedKalkan/OpenLens"
             },
             {
-                "version": "22.0.0.9",
+                "version": "22.0.0.10",
                 "pkg": "openliberty",
                 "description": "Server runtime available to JavaTM developers",
                 "website": "https://openliberty.io/"
@@ -12417,13 +12423,13 @@
                 "website": "https://www.opera.com/"
             },
             {
-                "version": "90.0.4480.86",
+                "version": "91.0.4516.32",
                 "pkg": "opera-gx",
                 "description": "Gaming counterpart of Opera web browser",
                 "website": "https://www.opera.com/gx"
             },
             {
-                "version": "0.14.1",
+                "version": "0.15.0",
                 "pkg": "oras",
                 "description": "OCI Registry As Storage (ORAS) is the de facto tool for working with OCI Artifacts that are stored in an OCI Registry",
                 "website": "https://oras.land/cli/"
@@ -12489,7 +12495,7 @@
                 "website": "https://github.com/lptstr/painter"
             },
             {
-                "version": "31.2.0.1",
+                "version": "31.3.0",
                 "pkg": "palemoon",
                 "description": "Mozilla-derived web browser focusing on efficiency and customization",
                 "website": "https://www.palemoon.org"
@@ -12657,7 +12663,7 @@
                 "website": "https://pentaho.sourceforge.io/"
             },
             {
-                "version": "3.0.4",
+                "version": "3.0.5",
                 "pkg": "perfview",
                 "description": "PerfView is a CPU and memory performance-analysis tool",
                 "website": "https://github.com/Microsoft/perfview"
@@ -12831,7 +12837,7 @@
                 "website": "http://plantuml.com/"
             },
             {
-                "version": "10.2",
+                "version": "10.3",
                 "pkg": "playnite",
                 "description": "Video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net, ...",
                 "website": "https://playnite.link"
@@ -13197,7 +13203,7 @@
                 "website": "https://qnapi.github.io/"
             },
             {
-                "version": "22.9.1",
+                "version": "22.9.2",
                 "pkg": "qownnotes",
                 "description": "Plain-text notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration",
                 "website": "https://www.qownnotes.org/"
@@ -14091,7 +14097,7 @@
                 "website": "https://mhogomchungu.github.io/sirikali/"
             },
             {
-                "version": "2.2.1",
+                "version": "2.2.2",
                 "pkg": "siyuan-note",
                 "description": "SiYuan is a Markdown Block-Reference and Bidirectional-Link note-taking application",
                 "website": "https://b3log.org/siyuan"
@@ -14427,7 +14433,7 @@
                 "website": "https://github.com/rupor-github/ssh-agent-wsl"
             },
             {
-                "version": "3.23.157",
+                "version": "3.23.164",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -14727,7 +14733,7 @@
                 "website": "https://www.synfig.org"
             },
             {
-                "version": "2.0.1-2304",
+                "version": "2.0.2-2406",
                 "pkg": "synology-surveillance-station",
                 "description": "Desktop client for Synology Surveillance Station",
                 "website": "https://www.synology.com/en-global/surveillance"
@@ -14871,13 +14877,13 @@
                 "website": "https://www.teamspeak.com/"
             },
             {
-                "version": "15.33.7",
+                "version": "15.34.4",
                 "pkg": "teamviewer",
                 "description": "Remote control, desktop sharing, online meetings, web conferencing and file transfer between computers",
                 "website": "https://www.teamviewer.com"
             },
             {
-                "version": "15.33.7",
+                "version": "15.34.4",
                 "pkg": "teamviewer-qs",
                 "description": "A light version of Teamviewer, which enables a support technician to remotely access, remotely control, and remotely view your computer or mobile device for fast troubleshooting.",
                 "website": "https://www.teamviewer.com"
@@ -15831,7 +15837,7 @@
                 "website": "https://classic.waterfox.net"
             },
             {
-                "version": "10.105.26.2",
+                "version": "10.105.31.2",
                 "pkg": "wavebox",
                 "description": "Wavebox 10. A distraction-free browser for fast and focused working across all web apps.",
                 "website": "https://wavebox.io/"
@@ -16774,19 +16780,19 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.5.09252022",
+                "version": "0.43.5.09262022",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
             },
             {
-                "version": "1.45.70",
+                "version": "1.45.75",
                 "pkg": "brave-beta",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (beta release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.46.8",
+                "version": "1.46.14",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
@@ -16816,7 +16822,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "108.0.5325.0-r1051287",
+                "version": "108.0.5326.0-r1051716",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -17230,7 +17236,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "107.0a1.20220926093803",
+                "version": "107.0a1.20220927093822",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -17362,13 +17368,13 @@
                 "website": "https://www.jetbrains.com/goland/"
             },
             {
-                "version": "nightly-20220921",
+                "version": "nightly-20220927",
                 "pkg": "goneovim-nightly",
                 "description": "Neovim GUI which uses a Golang Qt backend",
                 "website": "https://github.com/akiyosi/goneovim"
             },
             {
-                "version": "106.0.5249.55",
+                "version": "106.0.5249.61",
                 "pkg": "googlechrome-beta",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/beta"
@@ -17560,7 +17566,7 @@
                 "website": "https://kicad-pcb.org"
             },
             {
-                "version": "20220925",
+                "version": "20220927",
                 "pkg": "kodi-dev",
                 "description": "Open source home theater/media center software and entertainment hub for digital media",
                 "website": "https://kodi.tv/"
@@ -17746,13 +17752,13 @@
                 "website": "https://hp.vector.co.jp/authors/VA021385/"
             },
             {
-                "version": "202209260509",
+                "version": "202209270452",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
             },
             {
-                "version": "202209260452",
+                "version": "202209270447",
                 "pkg": "musescore3-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
