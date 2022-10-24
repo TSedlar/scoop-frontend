@@ -182,7 +182,7 @@
                 "website": "https://github.com/arduino/arduino-cli"
             },
             {
-                "version": "3.4.1",
+                "version": "3.4.2",
                 "pkg": "argo",
                 "description": "Workflow engine for orchestrating parallel jobs on Kubernetes",
                 "website": "https://github.com/argoproj/argo-workflows"
@@ -2408,7 +2408,7 @@
                 "website": "http://www.graphicsmagick.org/"
             },
             {
-                "version": "6.0.2",
+                "version": "7.0.0",
                 "pkg": "graphviz",
                 "description": "Open source graph visualization software.",
                 "website": "https://www.graphviz.org/"
@@ -3380,7 +3380,7 @@
                 "website": "https://github.com/timdp/lwc"
             },
             {
-                "version": "5.6",
+                "version": "5.7",
                 "pkg": "lxc",
                 "description": "LXD client",
                 "website": "https://linuxcontainers.org/lxd"
@@ -4148,7 +4148,7 @@
                 "website": "https://github.com/abbodi1406/offlineinsiderenroll"
             },
             {
-                "version": "12.6.7",
+                "version": "12.6.8",
                 "pkg": "oh-my-posh",
                 "description": "A prompt theme engine for any shell",
                 "website": "https://ohmyposh.dev"
@@ -5324,7 +5324,7 @@
                 "website": "https://serverless.com"
             },
             {
-                "version": "2.3.6",
+                "version": "2.4.0",
                 "pkg": "sftpgo",
                 "description": "Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support",
                 "website": "https://github.com/drakkan/sftpgo"
@@ -5508,6 +5508,12 @@
                 "pkg": "sqlcl",
                 "description": "Oracle SQL Developer Command Line (SQLcl)",
                 "website": "https://www.oracle.com/database/sqldeveloper/technologies/sqlcl"
+            },
+            {
+                "version": "0.13.17",
+                "pkg": "sqldef",
+                "description": "Idempotent schema management for MySQL, Microsoft SQL Server, and SQLite.",
+                "website": "https://github.com/k0kubun/sqldef"
             },
             {
                 "version": "3.39.4",
@@ -5792,7 +5798,7 @@
                 "website": "https://texlab.netlify.com"
             },
             {
-                "version": "0.41.0",
+                "version": "0.42.0",
                 "pkg": "tflint",
                 "description": "A Terraform linter focused on possible errors, best practices, etc.",
                 "website": "https://github.com/terraform-linters/tflint"
@@ -5900,7 +5906,7 @@
                 "website": "https://tree-sitter.github.io/tree-sitter/"
             },
             {
-                "version": "2.24-22.10.19",
+                "version": "2.24-22.10.23",
                 "pkg": "trid",
                 "description": "A utility designed to identify file types from their binary signatures.",
                 "website": "https://www.mark0.net/soft-trid-e.html"
@@ -7695,7 +7701,7 @@
                 "website": "https://www.chef.io"
             },
             {
-                "version": "0.99.50.0",
+                "version": "0.99.51.0",
                 "pkg": "cherrytree",
                 "description": "Hierarchical note taking application, featuring rich text and syntax highlighting.",
                 "website": "https://www.giuspen.com/cherrytree/"
@@ -8157,7 +8163,7 @@
                 "website": "https://www.jetbrains.com/dataspell/"
             },
             {
-                "version": "22.2.2",
+                "version": "22.2.3",
                 "pkg": "dbeaver",
                 "description": "Database tool for developers, SQL programmers, database administrators and analysts",
                 "website": "https://dbeaver.io"
@@ -10071,7 +10077,7 @@
                 "website": "https://hyper.is"
             },
             {
-                "version": "1.2.1",
+                "version": "1.2.2",
                 "pkg": "hysteria",
                 "description": "Network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",
                 "website": "https://github.com/HyNetwork/hysteria"
@@ -10539,7 +10545,7 @@
                 "website": "https://kate-editor.org"
             },
             {
-                "version": "0.5.6",
+                "version": "0.6.0",
                 "pkg": "kavita",
                 "description": "Kavita is a fast, feature rich, cross platform reading server. Built with a focus for manga and the goal of being a full solution for all your reading needs.",
                 "website": "https://github.com/Kareadita/Kavita/"
@@ -10665,7 +10671,7 @@
                 "website": "https://github.com/navossoc/KeePass-Yet-Another-Favicon-Downloader"
             },
             {
-                "version": "2.7.1",
+                "version": "2.7.3",
                 "pkg": "keepassxc",
                 "description": "Community fork of KeePass",
                 "website": "https://keepassxc.org"
@@ -11295,7 +11301,7 @@
                 "website": "https://github.com/princejwesley/Mancy"
             },
             {
-                "version": "3.12.0",
+                "version": "3.14.0",
                 "pkg": "mangal",
                 "description": "The ultimate CLI manga downloader",
                 "website": "https://github.com/metafates/mangal"
@@ -11799,7 +11805,7 @@
                 "website": "http://www.rjno1.com/mpv-easy-player/"
             },
             {
-                "version": "20221016",
+                "version": "20221023",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -12399,7 +12405,7 @@
                 "website": "https://onecommander.com/"
             },
             {
-                "version": "2.13.0",
+                "version": "2.13.1",
                 "pkg": "onefetch",
                 "description": "Git repository summary on terminal",
                 "website": "https://github.com/o2sh/onefetch"
@@ -14175,7 +14181,7 @@
                 "website": "https://github.com/rhysd/Shiba"
             },
             {
-                "version": "22.09.23",
+                "version": "22.10.22",
                 "pkg": "shotcut",
                 "description": "Video editor",
                 "website": "https://www.shotcut.org"
@@ -14277,7 +14283,7 @@
                 "website": "https://mhogomchungu.github.io/sirikali/"
             },
             {
-                "version": "2.4.4",
+                "version": "2.4.5",
                 "pkg": "siyuan-note",
                 "description": "SiYuan is a Markdown Block-Reference and Bidirectional-Link note-taking application",
                 "website": "https://b3log.org/siyuan"
@@ -14559,7 +14565,7 @@
                 "website": "https://jwallet.github.io/spy-spotify/overview.html"
             },
             {
-                "version": "128",
+                "version": "129",
                 "pkg": "sql-workbench",
                 "description": "DBMS-independent SQL query tool",
                 "website": "https://www.sql-workbench.eu"
@@ -14619,7 +14625,7 @@
                 "website": "https://github.com/rupor-github/ssh-agent-wsl"
             },
             {
-                "version": "3.23.238",
+                "version": "3.23.241",
                 "pkg": "standardnotes",
                 "description": "A safe place for your notes, thoughts, and life's work.",
                 "website": "https://standardnotes.org/"
@@ -15417,7 +15423,7 @@
                 "website": "https://www.tribler.org"
             },
             {
-                "version": "0.55.1",
+                "version": "0.56.1",
                 "pkg": "trilium",
                 "description": "Build your personal knowledge base with Trilium Notes",
                 "website": "https://github.com/zadam/trilium"
@@ -16599,7 +16605,7 @@
                 "website": "https://www.un4seen.com"
             },
             {
-                "version": "6.18.0",
+                "version": "6.18.1",
                 "pkg": "xmrig",
                 "description": "High performance RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
                 "website": "https://xmrig.com"
@@ -16960,7 +16966,7 @@
                 "website": "https://www.audacityteam.org"
             },
             {
-                "version": "221015",
+                "version": "221023",
                 "pkg": "avidemux-nightly",
                 "description": "Video editor designed for simple cutting, filtering and encoding tasks",
                 "website": "http://fixounet.free.fr/avidemux/"
@@ -16978,7 +16984,7 @@
                 "website": "https://www.bandisoft.com/bandizip/old/6/"
             },
             {
-                "version": "0.43.5.10212022",
+                "version": "0.43.5.10222022",
                 "pkg": "beef-nightly",
                 "description": "Beef programming language compiler. (nightly version)",
                 "website": "https://www.beeflang.org/"
@@ -17026,7 +17032,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "109.0.5374.0-r1062422",
+                "version": "109.0.5378.0-r1062604",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -17050,7 +17056,7 @@
                 "website": "https://www.jetbrains.com/cpp/"
             },
             {
-                "version": "3.25.20221021",
+                "version": "3.25.20221022",
                 "pkg": "cmake-nightly",
                 "description": "Family of tools designed to build, test and package software",
                 "website": "https://cmake.org"
@@ -17410,13 +17416,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "5.1.2-4-20221020",
+                "version": "5.1.2-4-20221023",
                 "pkg": "ffmpeg-yt-dlp",
                 "description": "FFMpeg builds of latest release branch with patches necessary for smooth integration with yt-dlp",
                 "website": "https://github.com/yt-dlp/FFmpeg-Builds"
             },
             {
-                "version": "1287",
+                "version": "1293",
                 "pkg": "filelight-nightly",
                 "description": "Disk usage visualizer",
                 "website": "https://apps.kde.org/filelight"
@@ -17440,7 +17446,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "108.0a1.20221022091949",
+                "version": "108.0a1.20221023100414",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -17584,7 +17590,7 @@
                 "website": "https://www.jetbrains.com/goland/"
             },
             {
-                "version": "nightly-20221022",
+                "version": "20221023",
                 "pkg": "goneovim-nightly",
                 "description": "Neovim GUI which uses a Golang Qt backend",
                 "website": "https://github.com/akiyosi/goneovim"
@@ -17728,10 +17734,16 @@
                 "website": "https://www.influxdata.com/"
             },
             {
-                "version": "1.3-dev_2022-10-21",
+                "version": "1.3-dev_2022-10-23",
                 "pkg": "inkscape-dev",
                 "description": "Professional vector graphics editor",
                 "website": "https://inkscape.org"
+            },
+            {
+                "version": "2022-07-30",
+                "pkg": "ipfilter-nightly",
+                "description": "Protects privacy and security when using Bit Torrent by blocking a list of potentially malicious peers.",
+                "website": "https://www.ipfilter.app/"
             },
             {
                 "version": "nightly",
@@ -17740,7 +17752,7 @@
                 "website": "https://jdownloader.org"
             },
             {
-                "version": "2.9.4",
+                "version": "2.9.11",
                 "pkg": "joplin-pre",
                 "description": "A note taking and to-do application with synchronization capabilities",
                 "website": "https://joplinapp.org"
@@ -17794,7 +17806,7 @@
                 "website": "https://kicad-pcb.org"
             },
             {
-                "version": "20221020",
+                "version": "20221022",
                 "pkg": "kodi-dev",
                 "description": "Open source home theater/media center software and entertainment hub for digital media",
                 "website": "https://kodi.tv/"
@@ -17914,7 +17926,7 @@
                 "website": "https://github.com/minusium/MicaForEveryone"
             },
             {
-                "version": "2.0.12-dev.11-2022-10-20",
+                "version": "2.0.12-dev.11-2022-10-23",
                 "pkg": "micro-nightly",
                 "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
                 "website": "https://micro-editor.github.io/"
@@ -18022,7 +18034,7 @@
                 "website": "https://github.com/Kethku/neovide"
             },
             {
-                "version": "0.9.0-dev-98-g1c478391c",
+                "version": "0.9.0-dev-152-g1887d8d7d",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
