@@ -44,7 +44,7 @@
                 "website": "https://github.com/ebekker/ACMESharp"
             },
             {
-                "version": "0.9.2",
+                "version": "0.10.0",
                 "pkg": "acorn",
                 "description": "A simple application deployment framework for Kubernetes.",
                 "website": "https://acorn.io"
@@ -194,7 +194,7 @@
                 "website": "https://github.com/Azure/azure-api-management-devops-resource-kit"
             },
             {
-                "version": "2.9.2",
+                "version": "2.9.3",
                 "pkg": "apktool",
                 "description": "A tool for reverse engineering Android apk files",
                 "website": "https://ibotpeaches.github.io/Apktool/"
@@ -1718,7 +1718,7 @@
                 "website": "https://github.com/bootandy/dust"
             },
             {
-                "version": "3.39.0",
+                "version": "3.40.1",
                 "pkg": "dvc",
                 "description": "Data & models versioning for ML projects, make them shareable and reproducible",
                 "website": "https://dvc.org/"
@@ -1730,7 +1730,7 @@
                 "website": "https://github.com/microsoft/DirectXShaderCompiler"
             },
             {
-                "version": "10.0.19734",
+                "version": "10.0.19741",
                 "pkg": "dynamorio",
                 "description": "DynamoRIO is a runtime code manipulation system that supports code transformations on any part of a program, while it executes.",
                 "website": "https://dynamorio.org"
@@ -1898,7 +1898,7 @@
                 "website": "https://exiftool.org"
             },
             {
-                "version": "0.17.1",
+                "version": "0.17.2",
                 "pkg": "eza",
                 "description": "A modern, maintained replacement for ls, built on exa.",
                 "website": "https://github.com/eza-community/eza"
@@ -1928,7 +1928,7 @@
                 "website": "https://farmanager.com/"
             },
             {
-                "version": "2.6.0",
+                "version": "2.6.1",
                 "pkg": "fastfetch",
                 "description": "A neofetch-like tool for fetching system information and displaying them in a pretty way",
                 "website": "https://github.com/fastfetch-cli/fastfetch"
@@ -2039,7 +2039,7 @@
                 "version": "0.227.0",
                 "pkg": "flow",
                 "description": "A static type checker for JavaScript code",
-                "website": "https://flowtype.org/"
+                "website": "https://flow.org/"
             },
             {
                 "version": "2.2.2",
@@ -3908,7 +3908,7 @@
                 "website": "https://luau-lang.org/"
             },
             {
-                "version": "1.27.0",
+                "version": "1.27.1",
                 "pkg": "luau-lsp",
                 "description": "Language Server Implementation for Luau",
                 "website": "https://github.com/JohnnyMorganz/luau-lsp"
@@ -5942,7 +5942,7 @@
                 "website": "https://rustup.rs"
             },
             {
-                "version": "0.17.0",
+                "version": "0.18.0",
                 "pkg": "rye",
                 "description": "An experimental package management solution for Python",
                 "website": "https://rye-up.com/"
@@ -6500,7 +6500,7 @@
                 "website": "https://stoplight.io/open-source/prism"
             },
             {
-                "version": "0.19.1",
+                "version": "0.20.0",
                 "pkg": "stylua",
                 "description": "An opinionated Lua code formatter",
                 "website": "https://github.com/JohnnyMorganz/StyLua"
@@ -6746,7 +6746,7 @@
                 "website": "https://github.com/tesseract-ocr/tessdata_fast"
             },
             {
-                "version": "5.12.1",
+                "version": "5.12.2",
                 "pkg": "texlab",
                 "description": "Language Server Protocol for LaTeX",
                 "website": "https://texlab.netlify.com"
@@ -7448,7 +7448,7 @@
                 "website": "https://developers.cloudflare.com/workers/tooling/wrangler"
             },
             {
-                "version": "9.1.0",
+                "version": "9.2.0",
                 "pkg": "wstunnel",
                 "description": "Tunneling over websocket protocol",
                 "website": "https://github.com/erebe/wstunnel"
@@ -7803,7 +7803,7 @@
                 "website": "https://abricotine.brrd.fr"
             },
             {
-                "version": "0.9.0",
+                "version": "0.9.1",
                 "pkg": "accesser",
                 "description": "A tool which can help you bypass SNI RST",
                 "website": "https://urenko.github.io/Accesser/"
@@ -7969,6 +7969,12 @@
                 "pkg": "amazon-workspaces",
                 "description": "Client for Amazon workspaces service",
                 "website": "https://clients.amazonworkspaces.com"
+            },
+            {
+                "version": "0.6.0",
+                "pkg": "amber",
+                "description": "Recursively searches/replaces directories for a regex pattern.",
+                "website": "https://github.com/dalance/amber"
             },
             {
                 "version": "1.9.2",
@@ -8607,7 +8613,7 @@
                 "website": "https://textbrowser.github.io/biblioteq/"
             },
             {
-                "version": "1.16.14",
+                "version": "1.17.0",
                 "pkg": "bifrost",
                 "description": "Samsung Firmware Downloader",
                 "website": "https://github.com/zacharee/SamloaderKotlin/"
@@ -9081,7 +9087,7 @@
                 "website": "https://www.giuspen.com/cherrytree/"
             },
             {
-                "version": "2.26.3",
+                "version": "3.10.3",
                 "pkg": "chipmunk",
                 "description": "Fast logfile viewer with support for huge logfiles (>10 GB)",
                 "website": "https://github.com/esrlabs/chipmunk"
@@ -9235,6 +9241,12 @@
                 "pkg": "cmdow",
                 "description": "Win32 console application for manipulating program windows.",
                 "website": "https://ritchielawrence.github.io/cmdow/"
+            },
+            {
+                "version": "1.0.0",
+                "pkg": "cnping",
+                "description": "Minimal Graphical IPV4 Ping/HTTP Ping Tool.",
+                "website": "https://github.com/cntools/cnping"
             },
             {
                 "version": "0.6.4",
@@ -9915,7 +9927,7 @@
                 "website": "https://github.com/matt9ucci/DockerCompletion"
             },
             {
-                "version": "23.08.4-2155",
+                "version": "23.08.4-2156",
                 "pkg": "dolphin",
                 "description": "A file manager developed by KDE that lets you navigate and browse the contents of your hard drives, USB sticks, SD cards, and more.",
                 "website": "https://apps.kde.org/dolphin/"
@@ -10311,7 +10323,7 @@
                 "website": "https://github.com/vladimiry/ElectronMail"
             },
             {
-                "version": "4.5.0",
+                "version": "4.5.2",
                 "pkg": "electrum",
                 "description": "A Bitcoin SPV Wallet",
                 "website": "https://electrum.org"
@@ -10323,7 +10335,7 @@
                 "website": "https://element.io"
             },
             {
-                "version": "23.08.4-1749",
+                "version": "23.08.4-1750",
                 "pkg": "elisa",
                 "description": "Simple and easy-to-use music player",
                 "website": "https://apps.kde.org/elisa"
@@ -10629,7 +10641,7 @@
                 "website": "https://github.com/eibol/ffmpeg_batch"
             },
             {
-                "version": "1.7.64",
+                "version": "1.7.65",
                 "pkg": "ffqueue",
                 "description": "(Yet another) graphical user interface for FFMpeg with comprehensive support for both the basic features but also the more advanced features like filtergraphs.",
                 "website": "https://ffqueue.bruchhaus.dk/"
@@ -10659,7 +10671,7 @@
                 "website": "https://www.filebot.net/"
             },
             {
-                "version": "23.08.4-1597",
+                "version": "23.08.4-1598",
                 "pkg": "filelight",
                 "description": "Disk usage visualizer",
                 "website": "https://apps.kde.org/filelight"
@@ -10881,13 +10893,13 @@
                 "website": "https://www.foobar2000.org/encoderpack"
             },
             {
-                "version": "1.93.1",
+                "version": "1.93.2",
                 "pkg": "fork",
                 "description": "A fast and friendly git client for Mac and Windows",
                 "website": "https://git-fork.com/"
             },
             {
-                "version": "4.14.7",
+                "version": "4.14.9",
                 "pkg": "forkgram",
                 "description": "Fork of Telegram Desktop messaging app.",
                 "website": "http://t.me/forkgram"
@@ -11415,7 +11427,7 @@
                 "website": "https://gpodder.org/"
             },
             {
-                "version": "2.56.0",
+                "version": "2.57.0",
                 "pkg": "gpu-z",
                 "description": "Lightweight system utility designed to provide vital information about your video card and graphics processor.",
                 "website": "https://www.techpowerup.com/gpuz/"
@@ -12303,7 +12315,7 @@
                 "website": "https://gottcode.org/kapow/"
             },
             {
-                "version": "23.08.4-2283",
+                "version": "23.08.4-2284",
                 "pkg": "kate",
                 "description": "Multi-document editor",
                 "website": "https://kate-editor.org"
@@ -12399,7 +12411,7 @@
                 "website": "https://www.kee.pm/"
             },
             {
-                "version": "0.10.4",
+                "version": "0.10.5",
                 "pkg": "keepass-plugin-keetheme",
                 "description": "A plugin for KeePass 2.x that changes the appearance to make it look better at night",
                 "website": "https://github.com/xatupal/KeeTheme"
@@ -12573,7 +12585,7 @@
                 "website": "https://github.com/Snd-R/komf"
             },
             {
-                "version": "1.6.4",
+                "version": "1.10.1",
                 "pkg": "komga",
                 "description": "Media server for comics/mangas/BDs with API and OPDS support",
                 "website": "https://komga.org/"
@@ -12891,7 +12903,7 @@
                 "website": "https://linphone.org/"
             },
             {
-                "version": "8.0.18",
+                "version": "8.1.6",
                 "pkg": "linqpad",
                 "description": "The .NET programmer\u2019s playground",
                 "website": "https://www.linqpad.net"
@@ -13149,7 +13161,7 @@
                 "website": "http://www.makehumancommunity.org/"
             },
             {
-                "version": "1.17.5",
+                "version": "1.17.6",
                 "pkg": "makemkv",
                 "description": "One-click solution to convert video that you own into a set of MKV files.",
                 "website": "https://www.makemkv.com/"
@@ -13257,7 +13269,7 @@
                 "website": "https://github.com/42wim/matterbridge"
             },
             {
-                "version": "0.27.1",
+                "version": "0.28.0",
                 "pkg": "matterircd",
                 "description": "Connects to mattermost or slack using IRC-client.",
                 "website": "https://github.com/42wim/matterircd"
@@ -13467,7 +13479,7 @@
                 "website": "https://github.com/serge-rgb/milton"
             },
             {
-                "version": "1.31.0",
+                "version": "1.31.1",
                 "pkg": "min",
                 "description": "A fast, minimal browser that protects your privacy",
                 "website": "https://minbrowser.org/"
@@ -13491,7 +13503,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "4.5.9",
+                "version": "4.5.10",
                 "pkg": "miru",
                 "description": "Stream anime torrents, real-time with no waiting for downloads",
                 "website": "https://github.com/ThaUnknown/miru"
@@ -13713,7 +13725,7 @@
                 "website": "http://www.rjno1.com/mpv-easy-player/"
             },
             {
-                "version": "20240114",
+                "version": "20240121",
                 "pkg": "mpv-git",
                 "description": "Video player based on MPlayer/mplayer2 (builds by shinchiro)",
                 "website": "https://mpv.io"
@@ -14013,7 +14025,7 @@
                 "website": "https://www.ophthalmostar.de/freeware/#netradio"
             },
             {
-                "version": "7.3.8",
+                "version": "7.3.9",
                 "pkg": "netron",
                 "description": "Visualizer for deep learning and machine learning models",
                 "website": "https://netron.app/"
@@ -14361,7 +14373,7 @@
                 "website": "https://otp.landian.vip/"
             },
             {
-                "version": "23.08.4-1645",
+                "version": "23.08.4-1646",
                 "pkg": "okular",
                 "description": "Universal document viewer",
                 "website": "https://okular.kde.org"
@@ -14385,7 +14397,7 @@
                 "website": "https://omegat.org/"
             },
             {
-                "version": "3.64.3.0",
+                "version": "3.66.1.0",
                 "pkg": "onecommander",
                 "description": "A modern dual-pane file manager with tabs, columns view, built-in preview, editable themes, and more.",
                 "website": "https://onecommander.com/"
@@ -14787,7 +14799,7 @@
                 "website": "http://www.acaclone.com/"
             },
             {
-                "version": "0.6.7",
+                "version": "0.6.7.3",
                 "pkg": "pe-bear",
                 "description": "Reversing tool for PE files",
                 "website": "https://hshrzd.wordpress.com/pe-bear/"
@@ -15315,7 +15327,7 @@
                 "website": "https://www.chiark.greenend.org.uk/~sgtatham/putty/"
             },
             {
-                "version": "3.64.1",
+                "version": "3.65.0",
                 "pkg": "pwsafe",
                 "description": "Safely and easily create a secured and encrypted user name/password list.",
                 "website": "https://pwsafe.org/"
@@ -16815,7 +16827,7 @@
                 "website": "https://github.com/sqlitebrowser/sqlitebrowser"
             },
             {
-                "version": "1.9.20",
+                "version": "1.9.21",
                 "pkg": "sqlitespy",
                 "description": "A compact GUI database manager for SQLite",
                 "website": "https://www.yunqa.de/delphi/apps/sqlitespy/index"
@@ -16881,7 +16893,7 @@
                 "website": "https://stashapp.cc"
             },
             {
-                "version": "2.2.1",
+                "version": "2.7.2",
                 "pkg": "station",
                 "description": "Open-source smart browser for busy people. A single place for all of your web applications.",
                 "website": "https://getstation.com/"
@@ -18159,7 +18171,7 @@
                 "website": "https://github.com/ozmartian/vidcutter"
             },
             {
-                "version": "0.3.6",
+                "version": "0.4.0",
                 "pkg": "viddy",
                 "description": "A modern watch command. Time machine and pager etc.",
                 "website": "https://github.com/sachaos/viddy"
@@ -19516,13 +19528,13 @@
                 "website": "https://brave.com"
             },
             {
-                "version": "1.64.6",
+                "version": "1.64.7",
                 "pkg": "brave-nightly",
                 "description": "Secure, Fast & Private Web Browser with Adblocker (nightly release)",
                 "website": "https://brave.com"
             },
             {
-                "version": "1.0.23-canary.25+751ff6826",
+                "version": "1.0.24-canary.2+b433beb01",
                 "pkg": "bun-canary",
                 "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager - all in one.",
                 "website": "https://bun.sh/"
@@ -19552,7 +19564,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "122.0.6258.0",
+                "version": "122.0.6259.0",
                 "pkg": "chromedriver-canary",
                 "description": "An open source tool for automated testing of webapps across many browsers",
                 "website": "https://chromedriver.chromium.org/"
@@ -19564,7 +19576,7 @@
                 "website": "https://chromedriver.chromium.org/"
             },
             {
-                "version": "122.0.6259.0-r1249385",
+                "version": "122.0.6260.0-r1249841",
                 "pkg": "chromium-dev",
                 "description": "An open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.",
                 "website": "https://www.chromium.org"
@@ -19594,7 +19606,7 @@
                 "website": "https://cloudcompare.org/"
             },
             {
-                "version": "3.28.20240118",
+                "version": "3.28.20240119",
                 "pkg": "cmake-nightly",
                 "description": "Family of tools designed to build, test and package software",
                 "website": "https://cmake.org"
@@ -19894,13 +19906,13 @@
                 "website": "https://www.duplicati.com/"
             },
             {
-                "version": "122.0.2350.0",
+                "version": "122.0.2352.0",
                 "pkg": "edgedriver-canary",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
             },
             {
-                "version": "122.0.2325.0",
+                "version": "122.0.2348.0",
                 "pkg": "edgedriver-dev",
                 "description": "Close the loop on your developer cycle by automating testing of your website in Microsoft Edge (Chromium).",
                 "website": "https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver"
@@ -19966,7 +19978,7 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "1705670756",
+                "version": "1705757393",
                 "pkg": "ffmpeg-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
@@ -19978,13 +19990,13 @@
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "113348",
+                "version": "113384",
                 "pkg": "ffmpeg-shared-nightly",
                 "description": "A complete, cross-platform solution to record, convert and stream audio and video.",
                 "website": "https://ffmpeg.org"
             },
             {
-                "version": "6.1.1-1-20240119",
+                "version": "6.1.1-1-20240120",
                 "pkg": "ffmpeg-yt-dlp",
                 "description": "FFMpeg builds of latest release branch with patches necessary for smooth integration with yt-dlp",
                 "website": "https://github.com/yt-dlp/FFmpeg-Builds"
@@ -20014,7 +20026,7 @@
                 "website": "https://www.mozilla.org/en-US/firefox/developer/"
             },
             {
-                "version": "123.0a1.20240119093321",
+                "version": "123.0a1.20240120093931",
                 "pkg": "firefox-nightly",
                 "description": "Nightly builds of Firefox: the popular open source web browser.",
                 "website": "https://www.mozilla.org/en-US/firefox/nightly/"
@@ -20200,7 +20212,7 @@
                 "website": "https://www.google.com/chrome/beta"
             },
             {
-                "version": "122.0.6256.2",
+                "version": "122.0.6258.4",
                 "pkg": "googlechrome-canary",
                 "description": "Fast, secure, and free web browser, built for the modern web.",
                 "website": "https://www.google.com/chrome/canary"
@@ -20344,7 +20356,7 @@
                 "website": "https://inkscape.org"
             },
             {
-                "version": "1705640822",
+                "version": "1705727190",
                 "pkg": "ipfilter-nightly",
                 "description": "Protects privacy and security when using Bit Torrent by blocking a list of potentially malicious peers.",
                 "website": "https://www.ipfilter.app/"
@@ -20416,7 +20428,7 @@
                 "website": "https://kodi.tv/"
             },
             {
-                "version": "20240110",
+                "version": "20240119",
                 "pkg": "kodi-nightly",
                 "description": "Open source home theater/media center software and entertainment hub for digital media",
                 "website": "https://kodi.tv/"
@@ -20446,7 +20458,7 @@
                 "website": "https://kotatogram.github.io"
             },
             {
-                "version": "1743",
+                "version": "1744",
                 "pkg": "labplot-nightly",
                 "description": "A free, open source, and cross-platform Data Visualization and Analysis software accessible to everyone.",
                 "website": "https://labplot.kde.org/"
@@ -20566,7 +20578,7 @@
                 "website": "https://github.com/minusium/MicaForEveryone"
             },
             {
-                "version": "2.0.13-2024-01-19",
+                "version": "2.0.13-2024-01-20",
                 "pkg": "micro-nightly",
                 "description": "A terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.",
                 "website": "https://micro-editor.github.io/"
@@ -20614,7 +20626,7 @@
                 "website": "https://conda.io/miniconda.html"
             },
             {
-                "version": "7.2.0",
+                "version": "7.2.1-rc0",
                 "pkg": "mongodb-rc",
                 "description": "A document database with the scalability and flexibility.",
                 "website": "https://www.mongodb.org"
@@ -20656,7 +20668,7 @@
                 "website": "https://hp.vector.co.jp/authors/VA021385/"
             },
             {
-                "version": "240190304",
+                "version": "240200304",
                 "pkg": "musescore-nightly",
                 "description": "Music notation editor with an easy-to-use WYSIWYG interface.",
                 "website": "https://musescore.org/"
@@ -20692,7 +20704,7 @@
                 "website": "https://github.com/Kethku/neovide"
             },
             {
-                "version": "0.10.0-2129",
+                "version": "0.10.0-2135",
                 "pkg": "neovim-nightly",
                 "description": "Vim fork focused on extensibility and usability",
                 "website": "https://neovim.io"
@@ -20830,7 +20842,7 @@
                 "website": "https://odin-lang.org/"
             },
             {
-                "version": "2024-01-19",
+                "version": "2024-01-20",
                 "pkg": "odin-nightly",
                 "description": "General-purpose programming language with distinct typing, built for high performance, modern systems, and built-in data-oriented data types.",
                 "website": "https://odin-lang.org/"
@@ -20944,7 +20956,7 @@
                 "website": "https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx"
             },
             {
-                "version": "2024-01-19",
+                "version": "2024-01-20",
                 "pkg": "oss-cad-suite-nightly",
                 "description": "Open source digital design and verification tools. Includes tools for RTL synthesis, formal hardware verification, place & route, FPGA programming, and testing with support for HDLs like Verilog, Migen and Amaranth.",
                 "website": "https://github.com/YosysHQ/oss-cad-suite-build"
@@ -21382,7 +21394,7 @@
                 "website": "https://rambox.pro/"
             },
             {
-                "version": "1.66.0-beta.7626.b06935a12",
+                "version": "1.66.0-beta.7652.57624629d",
                 "pkg": "rclone-beta",
                 "description": "rsync for cloud storage",
                 "website": "https://rclone.org"
@@ -21394,7 +21406,7 @@
                 "website": "https://www.jetbrains.com/rider/"
             },
             {
-                "version": "2024.04.0-daily-243",
+                "version": "2024.04.0-daily-263",
                 "pkg": "rstudio-daily",
                 "description": "An IDE for R with console, syntax-highlighting, editor that supports direct code execution, as well as tools for plotting, history, debugging and workspace management.",
                 "website": "https://www.rstudio.com/"
@@ -21472,7 +21484,7 @@
                 "website": "https://www.jetbrains.com/ruby/"
             },
             {
-                "version": "2024-01-19",
+                "version": "2024-01-20",
                 "pkg": "ruffle-nightly",
                 "description": "A Flash Player emulator written in Rust",
                 "website": "https://ruffle.rs/"
@@ -21592,7 +21604,7 @@
                 "website": "https://www.sql-workbench.eu/"
             },
             {
-                "version": "2024-01-19",
+                "version": "2024-01-20",
                 "pkg": "sqlitebrowser-nightly",
                 "description": "DB Browser for SQLite (DB4S) project (nightly build)",
                 "website": "https://github.com/sqlitebrowser/sqlitebrowser"
@@ -21790,7 +21802,7 @@
                 "website": "https://www.vim.org"
             },
             {
-                "version": "9.1.0035_20240117",
+                "version": "9.1.0041_20240120",
                 "pkg": "vim-tux",
                 "description": "A highly configurable text editor for efficiently creating and changing any kind of text. (tux build)",
                 "website": "https://tuxproject.de/projects/vim"
@@ -21802,7 +21814,7 @@
                 "website": "https://vivaldi.com/"
             },
             {
-                "version": "20240119",
+                "version": "20240120",
                 "pkg": "vlc-nightly",
                 "description": "A free and open source multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.",
                 "website": "https://www.videolan.org/"
@@ -21976,7 +21988,7 @@
                 "website": "https://camunda.com/products/cloud/workflow-engine/"
             },
             {
-                "version": "0.12.0-dev.2278",
+                "version": "0.12.0-dev.2296",
                 "pkg": "zig-dev",
                 "description": "General-purpose programming language designed for robustness, optimality, and maintainability.",
                 "website": "https://ziglang.org/"
